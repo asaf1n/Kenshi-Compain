@@ -18,7 +18,7 @@
 
 ## Прохождения
 
-Каждое прохождение лежит в своей подпапке [Campaign/](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign): документы канона, журналы, инструкции блокнотов и ссылка на полную историю сессий описаны в `README.md` подпапки. Общие файлы репозитория от конкретного прохождения не зависят.
+Каждое прохождение лежит в своей подпапке [Campaign/](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign). Указатель с ссылками на README прохождений: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/README.md. Общие файлы репозитория от конкретного прохождения не зависят.
 
 ## Режимы диалога
 
@@ -44,4 +44,4 @@
 | Проект в чат-интерфейсе (ChatGPT и другие) | [prompts/project-instructions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/project-instructions.md) |
 | Блокнот (Google Notebook) | [prompts/notebook-instructions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-instructions.md) |
 
-Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники; их список для прохождения указан в `README.md` его подпапки.
+Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники, поэтому инструкция блокнота поручает ему самому собирать и обновлять источники по спискам из README прохождения.
