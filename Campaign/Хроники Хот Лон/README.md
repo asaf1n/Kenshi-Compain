@@ -15,9 +15,14 @@
 
 ## Источники блокнотов
 
-Инструкция для обоих блокнотов: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/prompts/notebook-instructions.md. Модель блокнота сама добавляет источники по спискам ниже: группа «обновлять» переустанавливается в начале каждой сессии, группа «постоянные» добавляется один раз.
+Каждый блокнот работает по своей инструкции и сам добавляет источники по спискам ниже: группа «обновлять» переустанавливается в начале каждой сессии, группа «постоянные» добавляется один раз.
 
-### Блокнот «Сессии»
+| Блокнот | Инструкция |
+|---|---|
+| Ведение игры | https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/prompts/notebook-sessions.md |
+| Хроника (отдельные файлы) | https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/prompts/notebook-chronicle.md |
+
+### Источники: ведение игры
 
 Обновлять:
 
@@ -41,7 +46,7 @@ https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-discussion.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-reconciliation.md
 
-### Блокнот «Хроника»
+### Источники: хроника
 
 Обновлять:
 
