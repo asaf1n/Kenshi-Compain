@@ -11,7 +11,7 @@
 | [Библия](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md) | персонажи, голоса, фракции, мир |
 | [Хроника, дни 1–131](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md) | историческая хроника |
 
-Полная история сессий (подробные журналы и художественные описания): [архив сессий](https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR).
+Полная история сессий (подробные журналы и повествования) хранится в блокноте хроники; в Канве у каждой сессии краткая заметка и идентификатор `S-...`.
 
 ## Источники блокнотов
 
