@@ -45,6 +45,12 @@ https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-expedition.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-discussion.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-reconciliation.md
+https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chronicle.md
+
+По запросу (добавлять только когда нужны подробности, не заранее):
+
+https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md
+https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md
 
 ### Источники: хроника
 
