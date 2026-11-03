@@ -64,7 +64,7 @@
 
 ### 2.3. Адаптация существующих шаблонов в `templates/`
 - `templates/template-reconciliation.md`: сверка по watermark и подтвержденным журналам (`confirmed`); проверка смены ветки; сохранение принципа отсутствия хэшей в игровом тексте.
-- `templates/template-chronicle.md`: источники — `archive/Kenshi_Библия.md` и журналы эпизода по ID из канвы; сохранение «Примечание летописца»; утвержденный текст сохраняется в `archive/narrative/`.
+- `templates/template-chronicle.md`: источники — `archive/Kenshi_Библия.md` и журналы эпизода по ID из канвы; сохранение «Примечание хрониста»; утвержденный текст сохраняется в `archive/narrative/`.
 - `templates/template-turn.md`: источник текущего состояния — `published/` и секция «Передача» из арки; обработка пустого `timeline.jsonl`.
 - `templates/template-chapter.md`: компрессия этапов закрытой главы в `Kenshi_Канва.md` до одного результирующего абзаца.
 
