@@ -15,7 +15,12 @@
 
 ## Источники блокнотов
 
-Каждый блокнот работает по своей инструкции и сам добавляет источники по спискам ниже: группа «обновлять» переустанавливается в начале каждой сессии, группа «постоянные» добавляется один раз.
+Каждый блокнот работает по своей инструкции и сам добавляет источники по спискам ниже:
+- «выгрузка» — состояние игры от конвертера; переустанавливается в начале каждой сессии;
+- «канон» — документы прохождения; между выгрузками в Git их рабочие версии ведутся в источниках блокнотов, с GitHub они переустанавливаются по команде «обнови источники» после выгрузки в Git;
+- «постоянные» — руководства и шаблоны; добавляются один раз.
+
+Между выгрузками в Git Текущей аркой и Отрядом владеет блокнот ведения игры, Канвой, журналами сессий и файлами хроники — блокнот хроники. Поток данных и выгрузка в Git: [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md).
 
 | Блокнот | Инструкция |
 |---|---|
@@ -24,12 +29,15 @@
 
 ### Источники: ведение игры
 
-Обновлять:
+Выгрузка:
 
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/manifest.json
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json
+
+Канон:
+
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B0%D1%80%D0%BA%D0%B0.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9E%D1%82%D1%80%D1%8F%D0%B4.md
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md
@@ -54,7 +62,7 @@ https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%
 
 ### Источники: хроника
 
-Обновлять:
+Канон:
 
 https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md
 
