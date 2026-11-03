@@ -1,125 +1,48 @@
-# Kenshi Compain — Игровой компаньон и хроника
+# Kenshi Compain — игровой компаньон и хроника кампании
 
-Интерактивная среда сопровождения кампаний в Kenshi: сессионный архив и хроника, тактическое планирование экспедиций, аналитика прогресса боевой колонны, исследование территорий, внешние зеркала Google Drive и интеграция с блокнотами Gemini.
+Материалы для чат-моделей (ChatGPT, Claude, Gemini): актуальное состояние игры, канон кампании «Хроники Хот Лон», режимы диалога и шаблоны ответов. Репозиторий читается по ссылкам GitHub: [https://github.com/asaf1n/Kenshi-Compain](https://github.com/asaf1n/Kenshi-Compain).
 
----
+## Состояние игры (обновляется после каждой выгрузки)
 
-## Архитектура двух репозиториев и внешних зеркал
-
-Для устранения смешивания контекста LLM между инженерной разработкой и игровым процессом архитектура разделена на два специализированных независимых репозитория, а оперативный доступ организуется через нативное зеркало Google Drive:
-
-```text
-┌──────────────────────────────────────────────┐
-│        kenshi-campaign-tech                  │
-│  (Технический конвертер данных)              │
-│  • tools/, tests/, contracts/, raw/          │
-│  • Парсинг сейвов, OCR скриншотов, валидация │
-│  • Выпуск релиз-бандла published/            │
-└──────────────────────┬───────────────────────┘
-                       │
-                       │ Автоматическая односторонняя доставка
-                       ▼
-┌──────────────────────────────────────────────┐       Синхронизация Google Docs
-│        Kenshi-Compain (SSOT)                 ├───────────────────────────────────────┐
-│  • prompts/, templates/ (режимы диалога)     │                                       ▼
-│  • Campaign/ (горячий набор и архив сессий)  │                     ┌───────────────────────────────────┐
-│  • published/ (проверенный срез состояния)   │                     │ Google Drive: Kenshi — Хот Лон/   │
-│  • mirror/ (карта и шлюз внешних зеркал)     │                     │ • Сессия/ (для блокнота сессий)   │
-└──────────────────────────────────────────────┘                     │ • Хроника/ (для блокнота хроники) │
-                                                                     │ • Входящие/ (шлюз для импорта)    │
-                                                                     └───────────────────────────────────┘
-```
-
----
-
-## Структура каталогов
-
-```text
-Kenshi Compain/
-├── AGENTS.md                  # Always-on контракт для AI-моделей
-├── CLAUDE.md / GEMINI.md      # Ссылки на AGENTS.md
-├── README.md                  # Данное руководство
-├── docs/                      # Нормативные стандарты
-│   └── CHRONOLOGY.md          # Стандарт сессионного архива, горячего набора и зеркал
-├── prompts/                   # Системные руководства и инструкции блокнотов
-│   ├── 01-COMPANION-SYSTEM.md # Руководство компаньона (ChatGPT / Claude / Gemini)
-│   ├── 02-CHRONICLER-GUIDE.md # Руководство хрониста и сценариста
-│   ├── notebook-sessions.md   # Инструкция для Gemini Notebook «Сессии»
-│   └── notebook-chronicle.md  # Инструкция для Gemini Notebook «Хроника»
-├── templates/                 # Канонические шаблоны форматов ответов по режимам (SSOT)
-│   ├── template-session.md        # [итог] — фиксация сессии и экспорт маркеров
-│   ├── template-chronicle.md      # [хроника]
-│   ├── template-progress.md       # [прогресс]
-│   ├── template-expedition.md     # [экспедиция] / [этап]
-│   ├── template-turn.md           # [ход]
-│   ├── template-discussion.md     # [обсуждение]
-│   ├── template-reconciliation.md # [сверка]
-│   └── template-chapter.md        # [глава]
-├── mirror/                    # Внешнее зеркало Google Drive
-│   ├── drive-map.json         # Карта связывания: git path -> Google Doc ID
-│   ├── export_mirror.py       # Подготовка текстов для Google Docs
-│   └── import_inbox.py        # Парсинг входящих документов по маркерам
-├── Campaign/                  # Авторские материалы прохождений
-│   └── Хроники Хот Лон/
-│       ├── Kenshi_Текущая_арка.md     # Watermark, диспозиция, действующие решения (≤ 12k)
-│       ├── Kenshi_Отряд.md            # Ростер, группы, целевые билды и роли (≤ 15k)
-│       ├── Kenshi_Канва.md            # Сквозной указатель этапов и сессий (≤ 10k)
-│       ├── Kenshi_Режимы_и_методика.md # Методика оценки и правила тренировки
-│       └── archive/                   # Неизменяемый сессионный архив
-│           ├── sessions/              # Журналы сессий (S-YYYYMMDD-n.md)
-│           ├── narrative/             # Художественная проза по битам сессий
-│           ├── Kenshi_Библия.md       # Канон персонажей, голоса, фракции, мир
-│           └── legacy/                # Историческая хроника (дни 1–131) и точки арки
-└── published/                 # Доставляемые артефакты конвертера (read-only)
-    ├── manifest.json          # Метаданные контрольной точки и статус валидации
-    ├── current.json           # Полный снимок отряда и мира
-    ├── brief.md / squad.md    # Человекочитаемые сводки состояния и ростера
-    ├── changes.json           # Изменения с предыдущего сохранения
-    ├── locations.json         # Разрешенные координаты и поселения
-    ├── world_reference.json   # Справочник мира, фракций и зон
-    ├── timeline.jsonl         # Подтвержденные события
-    └── screenshots/           # Ключевые кадры и визуальный контекст
-```
-
----
-
-## Режимы взаимодействия
-
-В диалоге с моделью используются короткие метки режимов. Каждая метка запускает структурированный шаблон из `templates/`:
-
-1. **`[итог]`** (`templates/template-session.md`):
-   Завершение сессии: структурированный журнал фактов, решений и сюжетных битов (YAML + 9 разделов), художественное повествование и правки горячего набора с маркерами автоматического импорта.
-2. **`[хроника]`** (`templates/template-chronicle.md`):
-   Приключенческая прикладная проза по реальным событиям сессии с опорой на Библию мира и руководство хрониста (`prompts/02-CHRONICLER-GUIDE.md`).
-3. **`[прогресс]`** (`templates/template-progress.md`):
-   Геймплейный тактический анализ боевой колонны, проверка соответствия целевым билдам из `Kenshi_Отряд.md`, учет намеренной тренировки бойцов с перегрузом до 70–80 уровней.
-4. **`[экспедиция]` / `[этап]`** (`templates/template-expedition.md`):
-   Глубокое исследование регионов, климатические опасности (кислота, газ, лазеры), биомы, руины, противники, World States и логистика.
-5. **`[ход]`** (`templates/template-turn.md`):
-   Оперативный разбор недавней сессии: что произошло, кто кого несет на плече (`carrying`), чем заняты ремесленники на базах.
-6. **`[обсуждение]`** (`templates/template-discussion.md`):
-   Мозговой штурм по механикам Kenshi, взаимодействию модов, лору и альтернативным сценариям развития.
-7. **`[сверка]`** (`templates/template-reconciliation.md`):
-   Догоняющая синхронизация документов `Campaign/` по новым снимкам с проверкой ветки и продвижением watermark.
-8. **`[глава]`** (`templates/template-chapter.md`):
-   Закрытие сюжетной арки: компрессия этапов в канве до одного абзаца и открытие новой арки.
-
----
-
-## Роли интерфейсов и путь выгрузки в новой сессии
-
-| Интерфейс | Роль | Источник инструкций / данных |
+| Что | Ссылка | Содержание |
 |---|---|---|
-| Antigravity | Агент: запись в git (`Campaign/`, `archive/`), импорт `Входящие/`, сборка зеркала, запуск конвейера `kenshi-campaign-tech` | `AGENTS.md` |
-| Gemini Desktop | Руководство компаньона: игровые режимы `[прогресс]`, `[экспедиция]`, `[ход]`, `[обсуждение]`, `[итог]` | `prompts/01-COMPANION-SYSTEM.md` |
-| Gemini Notebook + Drive | Документы и Библия: блокноты «Хот Лон — Сессии» и «Хот Лон — Хроника» читают папки `Сессия/` и `Хроника/` | `mirror/drive-map.json` |
+| Манифест | [published/manifest.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/manifest.json) | игровое время, ветка, время выгрузки |
+| Сводка | [published/brief.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md) | краткое положение дел для быстрого старта |
+| Состав отряда | [published/squad.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md) | бойцы, снаряжение, характеристики |
+| Изменения | [published/changes.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json) | что изменилось с предыдущего сохранения |
+| Полный снимок | [published/current.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/current.json) | отряд и мир целиком; крупный файл, читать выборочно |
+| Локации | [published/locations.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/locations.json) | координаты и поселения |
+| События | [published/timeline.jsonl](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/timeline.jsonl) | подтверждённые события |
+| Справочник мира | [published/world_reference.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/world_reference.json) | география, фракции, зоны |
 
-Порядок в новой сессии: `kenshi-campaign-tech` (`scripts/Initialize-Pipeline.ps1 -Run`) формирует `published/` → доставка в этот репозиторий → процедура `[сверка]` по времени и watermark → документы Drive обновляются на месте (ID не меняются) → игра в Gemini → `[итог]` возвращается через `Входящие/`.
+## Кампания «Хроники Хот Лон»
 
-## Интеграция с Google Drive и Gemini Notebooks
+| Документ | Ссылка | Назначение |
+|---|---|---|
+| Текущая арка | [Campaign/Хроники Хот Лон/Kenshi_Текущая_арка.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B0%D1%80%D0%BA%D0%B0.md) | положение отряда, действующие решения, передача следующей сессии |
+| Отряд | [Campaign/Хроники Хот Лон/Kenshi_Отряд.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9E%D1%82%D1%80%D1%8F%D0%B4.md) | роли, целевые билды, принятые решения |
+| Канва | [Campaign/Хроники Хот Лон/Kenshi_Канва.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md) | сквозной указатель глав и этапов |
+| Методика | [Campaign/Хроники Хот Лон/Kenshi_Режимы_и_методика.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%D1%8B_%D0%B8_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0.md) | оценка боеспособности и правила тренировки |
+| Библия | [Campaign/Хроники Хот Лон/archive/Kenshi_Библия.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md) | персонажи, голоса, фракции, мир |
+| Хроника, дни 1–131 | [Campaign/Хроники Хот Лон/archive/legacy/Kenshi_Хроника_дни_1-131.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md) | историческая хроника кампании |
 
-- Корневая папка Google Drive: [`Kenshi Compain. Docs`](https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR).
-- Поддерживаются специализированные блокноты:
-  - **«Хот Лон — Сессии»**: подключены документы папки `Сессия/` (горячий набор и руководство компаньона).
-  - **«Хот Лон — Хроника»**: подключены документы папки `Хроника/` (архивы, Библия, Канва, руководство хроники).
-- Импорт результатов: документы из папки `Входящие/` разбираются утилитой `mirror/import_inbox.py` по стандартизированным маркерам вывода `=== ЖУРНАЛ ===`, `=== ПОВЕСТВОВАНИЕ ===`, `=== ПРАВКИ ===`. Правки применяются к репозиторию только после подтверждения игроком.
+Журналы сессий и художественные тексты хранятся в каталогах [archive/sessions](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/sessions) и [archive/narrative](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/narrative).
+
+## Режимы диалога
+
+Метка в начале запроса включает режим; структура ответа задана шаблоном. Общие правила компаньона: [prompts/01-COMPANION-SYSTEM.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/01-COMPANION-SYSTEM.md).
+
+| Метка | Шаблон | Суть |
+|---|---|---|
+| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: журнал, повествование, правки документов |
+| `[хроника]` | [template-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chronicle.md) | художественные сцены по реальным событиям сессии |
+| `[прогресс]` | [template-progress.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-progress.md) | боеспособность колонны и билды |
+| `[экспедиция]` / `[этап]` | [template-expedition.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-expedition.md) | регион, угрозы, логистика, маршруты |
+| `[ход]` | [template-turn.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-turn.md) | разбор последней сессии и диспозиция |
+| `[обсуждение]` | [template-discussion.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-discussion.md) | механики, моды, лор, стратегия |
+| `[сверка]` | [template-reconciliation.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-reconciliation.md) | актуализация документов кампании по новой выгрузке |
+| `[глава]` | [template-chapter.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chapter.md) | закрытие сюжетной главы и открытие новой |
+
+## Блокноты Gemini
+
+Инструкции для полей блокнотов: [notebook-sessions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md) («Хот Лон — Сессии») и [notebook-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md) («Хот Лон — Хроника»). Документы из таблиц выше добавляются в блокноты как источники по ссылкам GitHub; руководство хрониста: [02-CHRONICLER-GUIDE.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/02-CHRONICLER-GUIDE.md).

@@ -9,9 +9,10 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Протокольные файлы локальных сессий оркестратора (планы в plans/ сохраняются)
-orchestrate_workflow/*.md
-!orchestrate_workflow/method.md
-
-# Выгрузка зеркала Google Drive
-mirror/out/
+# Техническое описание и инструкции агентов: только локально, в GitHub и контекст LLM не попадают
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+docs/
+orchestrate_workflow/
+mirror/

@@ -8,7 +8,7 @@
 2. **Использование расширенных данных выгрузки**:
    - Работы (`jobs`): проверять поле `target_name`, связывающее задачу со станком или складом (например, `OPERATE_STORAGE [Контейнер конопли]`).
    - Переноска (`carrying`): кто несет раненого соратника или пленника (`carried_by_name`, `target_name`).
-   - События таймлайна (`published/timeline.jsonl`), дельты `published/changes.json` и раздел «Передача следующей сессии» в арке.
+   - События таймлайна ([`published/timeline.jsonl`](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/timeline.jsonl)), дельты [`published/changes.json`](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json) и раздел «Передача следующей сессии» в арке.
 3. **Обработка пустого таймлайна**: если `timeline.jsonl` пуст, события восстанавливаются по `changes.json`, кадрам и разделу «Передача» актуальной арки.
 4. **Не открывать новую главу автоматически**: переход к новой сюжетной арке выполняется строго по режиму `[глава]`.
 
