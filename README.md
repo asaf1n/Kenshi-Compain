@@ -10,7 +10,8 @@
 | Сводка | [published/brief.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md) | краткое положение дел для быстрого старта |
 | Состав отряда | [published/squad.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md) | бойцы, снаряжение, характеристики |
 | Изменения | [published/changes.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json) | что изменилось с предыдущего сохранения |
-| Полный снимок | [published/current.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/current.json) | отряд и мир целиком; крупный файл, читать выборочно |
+| Индекс шардов | [published/current/index.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/current/index.json) | бойцы, постройки, обзор мира: по одному файлу на вопрос |
+| Расширенный снимок | [published/extended/current.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/extended/current.json) | полный очищенный срез; крупный файл, читать только выборочно |
 | Локации | [published/locations.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/locations.json) | координаты и поселения |
 | События | [published/timeline.jsonl](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/timeline.jsonl) | подтверждённые события |
 | Справочник мира | [published/world_reference.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/world_reference.json) | география, фракции, зоны |
@@ -21,7 +22,7 @@
 
 ## Режимы диалога
 
-Метка в начале запроса включает режим; структура ответа задана шаблоном. Общие правила компаньона: [prompts/01-COMPANION-SYSTEM.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/01-COMPANION-SYSTEM.md).
+Метка в начале запроса включает режим; структура ответа задана шаблоном. Общие правила компаньона: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md).
 
 | Метка | Шаблон | Суть |
 |---|---|---|
@@ -36,12 +37,11 @@
 
 ## Инструкции для LLM
 
-Для работы достаточно LLM с доступом к этому репозиторию и методологических инструкций:
+Для работы достаточно LLM с доступом к этому репозиторию и одной из инструкций:
 
 | Где применяется | Инструкция |
 |---|---|
-| Профиль или проект | [00-PROFILE-INSTRUCTIONS.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/00-PROFILE-INSTRUCTIONS.md) |
-| Полные правила | [01-COMPANION-SYSTEM.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/01-COMPANION-SYSTEM.md), [02-CHRONICLER-GUIDE.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/02-CHRONICLER-GUIDE.md) |
-| Блокноты | инструкции в подпапке прохождения |
+| Проект в чат-интерфейсе (ChatGPT и другие) | [prompts/project-instructions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/project-instructions.md) |
+| Блокнот (Google Notebook) | [prompts/notebook-instructions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-instructions.md) |
 
-Документы, на которые ссылаются таблицы, добавляются в блокнот или проект как источники по ссылкам GitHub.
+Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники; их список для прохождения указан в `README.md` его подпапки.
