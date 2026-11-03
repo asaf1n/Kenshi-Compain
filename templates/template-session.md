@@ -13,7 +13,7 @@
 === ЖУРНАЛ S-YYYYMMDD-n ===
 ```yaml
 session_id: S-YYYYMMDD-n
-campaign: Хроники Хот Лон
+campaign: <название прохождения>
 branch_id: <идентификатор ветки>
 branch_note: <примечание о ветке или развилке>
 chapter: <номер главы>
