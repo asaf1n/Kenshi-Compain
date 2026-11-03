@@ -108,7 +108,7 @@ Kenshi Compain/
 
 ## Интеграция с Google Drive и Gemini Notebooks
 
-- Корневая папка Google Drive: [`Kenshi — Хот Лон`](https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR).
+- Корневая папка Google Drive: [`Kenshi Compain. Docs`](https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR).
 - Поддерживаются специализированные блокноты:
   - **«Хот Лон — Сессии»**: подключены документы папки `Сессия/` (горячий набор и руководство компаньона).
   - **«Хот Лон — Хроника»**: подключены документы папки `Хроника/` (архивы, Библия, Канва, руководство хроники).

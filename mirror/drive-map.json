@@ -1,6 +1,6 @@
 {
   "root_folder": {
-    "name": "Kenshi — Хот Лон",
+    "name": "Kenshi Compain. Docs",
     "id": "1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR",
     "url": "https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR"
   },
@@ -9,22 +9,22 @@
     "session": {
       "name": "Сессия",
       "path": "Сессия",
-      "id": null
+      "id": "1GQP4phoJ4YI3y7owOlv633i-C4qqsRVY"
     },
     "chronicle": {
       "name": "Хроника",
       "path": "Хроника",
-      "id": null
+      "id": "16uoapV5kk1SogQi7HKFITm8gvrI0qtPi"
     },
     "inbox": {
       "name": "Входящие",
       "path": "Входящие",
-      "id": null
+      "id": "1mHJGvZ0ZjJGh6HD4ZHN06HSGeFIyIBMP"
     },
     "processed": {
       "name": "Обработано",
       "path": "Входящие/Обработано",
-      "id": null
+      "id": "18gQKO6t4jMuKaVSsozeGf4RFsECmd62J"
     }
   },
   "documents": [
