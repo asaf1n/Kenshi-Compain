@@ -1,6 +1,6 @@
 # Kenshi Compain — игровой компаньон и хроника кампании
 
-Материалы для чат-моделей (ChatGPT, Claude, Gemini): актуальное состояние игры, канон кампании «Хроники Хот Лон», режимы диалога и шаблоны ответов. Репозиторий читается по ссылкам GitHub: [https://github.com/asaf1n/Kenshi-Compain](https://github.com/asaf1n/Kenshi-Compain).
+Материалы для LLM: актуальное состояние игры, канон кампании «Хроники Хот Лон», режимы диалога и шаблоны ответов. Репозиторий читается по ссылкам GitHub: [https://github.com/asaf1n/Kenshi-Compain](https://github.com/asaf1n/Kenshi-Compain).
 
 ## Состояние игры (обновляется после каждой выгрузки)
 
@@ -26,7 +26,7 @@
 | Библия | [Campaign/Хроники Хот Лон/archive/Kenshi_Библия.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md) | персонажи, голоса, фракции, мир |
 | Хроника, дни 1–131 | [Campaign/Хроники Хот Лон/archive/legacy/Kenshi_Хроника_дни_1-131.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md) | историческая хроника кампании |
 
-Журналы сессий и художественные тексты хранятся в каталогах [archive/sessions](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/sessions) и [archive/narrative](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/narrative).
+Полная история сессий (подробные журналы и художественные описания): [архив сессий](https://drive.google.com/drive/folders/1-hPpOQbzZ7EX8UsFUWVs-5PSbmFCVDkR); ссылки на документы записаны в Канве.
 
 ## Режимы диалога
 
@@ -43,6 +43,15 @@
 | `[сверка]` | [template-reconciliation.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-reconciliation.md) | актуализация документов кампании по новой выгрузке |
 | `[глава]` | [template-chapter.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chapter.md) | закрытие сюжетной главы и открытие новой |
 
-## Блокноты Gemini
+## Инструкции для LLM
 
-Инструкции для полей блокнотов: [notebook-sessions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md) («Хот Лон — Сессии») и [notebook-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md) («Хот Лон — Хроника»). Документы из таблиц выше добавляются в блокноты как источники по ссылкам GitHub; руководство хрониста: [02-CHRONICLER-GUIDE.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/02-CHRONICLER-GUIDE.md).
+Для работы достаточно LLM с доступом к этому репозиторию и методологических инструкций:
+
+| Где применяется | Инструкция |
+|---|---|
+| Профиль или проект | [00-PROFILE-INSTRUCTIONS.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/00-PROFILE-INSTRUCTIONS.md) |
+| Блокнот «Сессии» | [notebook-sessions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md) |
+| Блокнот «Хроника» | [notebook-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md) |
+| Полные правила | [01-COMPANION-SYSTEM.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/01-COMPANION-SYSTEM.md), [02-CHRONICLER-GUIDE.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/02-CHRONICLER-GUIDE.md) |
+
+Документы из таблиц выше добавляются в блокнот или проект как источники по ссылкам GitHub.

@@ -28,7 +28,7 @@ real_date: YYYY-MM-DD
 game_from: Day N HH:MM
 game_to: Day N HH:MM
 status: draft
-narrative: archive/narrative/S-YYYYMMDD-n.md
+narrative: <ссылка на документ повествования в архиве сессий>
 
 ## 1. Сводка
 <3-5 предложений>
