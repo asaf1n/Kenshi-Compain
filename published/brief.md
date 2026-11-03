@@ -1,8 +1,8 @@
-# Краткая сводка: День 131, 15:06
+# Краткая сводка: День 132, 06:03
 
 ## Игровой мир
-- **Время:** День 131, время 15:06
-- **Баланс:** 36 516 кат.
+- **Время:** День 132, время 06:03
+- **Баланс:** 61 953 кат.
 
 ## Состав отряда
 - **Всего персонажей:** 30 (гуманоидов: 27, животных: 3)
@@ -52,10 +52,10 @@
 ## Геополитика и фракции
 - **Союзники:** Королевство шеков, Воры шиноби
 - **Враги (26):** Южный улей, Каменные крысы, Груда костей, Избранный Крала, Голодные бандиты...
-- **Сводка:** 2 союзников, 5 дружественных, 59 нейтральных, 26 враждебных
+- **Сводка:** 2 союзников, 4 дружественных, 59 нейтральных, 26 враждебных
 
 ## Состояние мира (World States)
-- **Уникальные NPC:** Финка (active_world), Мрачный Нил (active_world), Гриффин (active_world), Бритва (active_world), Ридли (active_world), Хозяин рынка (active_world), Дуга (active_world), Туз Злюка (unaffected), Святой Лорд Феникс (dead_or_captured (player involved)), Бип (active_world), Финч (active_world), Йо (active_world), Соман (active_world), Ожог (active_world), Кан (active_world), Рэй (active_world), Туз Клык (active_world), Летящий Бык (unaffected), Они (active_world), Гигант Ранэ (active_world), Раб Гаррета (active_world), Стабс момусо (unaffected), Инквизитор Сэта (active_world), Туз Серый (unaffected), Живоглотья башка (active_world), Пон (dead_or_captured (player involved)), Бузан (unaffected), Бард (active_world), Димак (unaffected), Дина (active_world), hire engineer wall man (active_world), Королева (active_world), Рева (active_world), Хамут (active_world), Леди Суги (active_world), Доктор Чон (active_world), Бесстрашная Тора (dead_or_captured (player involved)), Конь (active_world), Великий шаман (dead_or_captured (player involved)), Главарь (unaffected), Крошка Джон (active_world), Зелёный палец (active_world), Чад (active_world), Мью (active_world), Гаррет (active_world), Сэто (active_world), Король (dead_or_captured (player involved)), Горрилло (dead_or_captured (player involved)), Рука (active_world), Туз Темнобров (unaffected), Изуми (active_world), Skeleton recruit 2500 swamp 2 (active_world), Хоббс (active_world), Большой белый горилло (unaffected), Седая тень (active_world), Лорд Инаба (active_world), Шрайк (active_world), Вечный Суньвынь (active_world), Пиа (active_world), Синеглазка (active_world), Орон (active_world), Sword for hire 10 (Empire) (active_world), Sword for hire revenge (active_world), Баян (active_world), Тень (dead_or_captured (player involved)), Ложный крикун (dead_or_captured (player involved)), Мани (active_world), Territorial Thug (unaffected), Король Доспехов (active_world), Зелёный (active_world), Молл (active_world), Самоцвет (active_world), Призрак (active_world), Лорд Широ (active_world), Каменный Голем Эсата (active_world), Инквизитор Валтэна (active_world), Вынос мозга (active_world), Кот (active_world), Ану (active_world)
+- **Уникальные NPC:** Вынос мозга (active_world), Инквизитор Валтэна (active_world), Лорд Широ (active_world), Призрак (active_world), Молл (active_world), Мани (active_world), Баян (active_world), Sword for hire 10 (Empire) (active_world), Орон (active_world), Синеглазка (active_world), Вечный Суньвынь (active_world), Шрайк (active_world), Седая тень (active_world), Хоббс (active_world), Изуми (active_world), Пиа (active_world), Туз Темнобров (unaffected), Гаррет (active_world), Мью (active_world), Чад (active_world), Горрилло (dead_or_captured (player involved)), Крошка Джон (active_world), Главарь (unaffected), Король Доспехов (active_world), Конь (active_world), Бесстрашная Тора (dead_or_captured (player involved)), Sword for hire revenge (active_world), Леди Суги (active_world), Сэто (active_world), Хамут (active_world), Димак (unaffected), Королева (active_world), Король (dead_or_captured (player involved)), Бард (active_world), Самоцвет (active_world), Стабс момусо (unaffected), Рука (active_world), Territorial Thug (unaffected), Раб Гаррета (active_world), hire engineer wall man (active_world), Летящий Бык (unaffected), Тень (dead_or_captured (player involved)), Ожог (active_world), Доктор Чон (active_world), Кан (active_world), Йо (active_world), Рева (active_world), Рэй (active_world), Туз Злюка (unaffected), Зелёный (active_world), Ридли (active_world), Великий шаман (dead_or_captured (player involved)), Гриффин (active_world), Финка (active_world), Они (active_world), Живоглотья башка (active_world), Лорд Инаба (active_world), Дуга (active_world), Каменный Голем Эсата (active_world), Бип (active_world), Зелёный палец (active_world), Бритва (active_world), Пон (dead_or_captured (player involved)), Финч (active_world), Skeleton recruit 2500 swamp 2 (active_world), Дина (active_world), Ложный крикун (dead_or_captured (player involved)), Гигант Ранэ (active_world), Туз Клык (active_world), Мрачный Нил (active_world), Большой белый горилло (unaffected), Соман (active_world), Кот (active_world), Инквизитор Сэта (active_world), Ану (active_world), Туз Серый (unaffected), Хозяин рынка (active_world), Святой Лорд Феникс (dead_or_captured (player involved)), Бузан (unaffected)
 - **Переопределённые города:** Акула (41162-Dialogue.mod), Бугристый Холм (1083-gamedata.base), Гниль (51331-rebirth.mod), Деревня Серодёров (41162-Dialogue.mod), Кулак Окрана (1083-gamedata.base), Новая Кралия (51357-rebirth.mod), Плохие Зубы (1083-gamedata.base), Святая военная база (18893-rebirth.mod), Святая военная база (18893-rebirth.mod)
 
 ## Складской баланс по базам и поселениям
@@ -63,15 +63,15 @@
 - **16.37** (5 зданий, 6 ед. хранения): 42334-changes_otto.mod: 6 шт.
 - **17.31** (2 зданий, 0 ед. хранения): склады пусты
 - **18.34** (1 зданий, 0 ед. хранения): склады пусты
-- **18.35** (77 зданий, 425 ед. хранения): 42164-gamedata.base: 60 шт., 42159-gamedata.base: 53 шт., 43395-changes_otto.mod: 26 шт., 42158-gamedata.base: 22 шт., 2288-gamedata.base: 19 шт. (ещё 78 поз.)
+- **18.35** (77 зданий, 431 ед. хранения): 42164-gamedata.base: 60 шт., 42159-gamedata.base: 53 шт., 43395-changes_otto.mod: 26 шт., 42158-gamedata.base: 22 шт., 2288-gamedata.base: 19 шт. (ещё 79 поз.)
 - **19.35** (1 зданий, 0 ед. хранения): склады пусты
 - **20.13** (1 зданий, 0 ед. хранения): склады пусты
 - **20.32** (12 зданий, 13 ед. хранения): 96014-rebirth.mod: 3 шт., 42334-changes_otto.mod: 1 шт., 43959-rebirth.mod: 1 шт., 43957-rebirth.mod: 1 шт., 1359-gamedata.base: 1 шт. (ещё 6 поз.)
 - **21.31** (6 зданий, 10 ед. хранения): 42334-changes_otto.mod: 9 шт., 42243-rebirth.mod: 1 шт.
 - **24.13** (2 зданий, 0 ед. хранения): склады пусты
-- **24.40** (22 зданий, 681 ед. хранения): 1965-gamedata.base: 468 шт., 42307-changes_otto.mod: 169 шт., 515-gamedata.base: 8 шт., 43957-rebirth.mod: 6 шт., 42158-gamedata.base: 6 шт. (ещё 12 поз.)
+- **24.40** (25 зданий, 698 ед. хранения): 1965-gamedata.base: 484 шт., 42307-changes_otto.mod: 169 шт., 515-gamedata.base: 8 шт., 43957-rebirth.mod: 6 шт., 42158-gamedata.base: 6 шт. (ещё 11 поз.)
 - **25.49** (9 зданий, 0 ед. хранения): склады пусты
-- **35.42** (11 зданий, 120 ед. хранения): 1965-gamedata.base: 72 шт., 43959-rebirth.mod: 9 шт., 1914-gamedata.base: 8 шт., 42334-changes_otto.mod: 4 шт., 42159-gamedata.base: 4 шт. (ещё 9 поз.)
+- **35.42** (11 зданий, 225 ед. хранения): 1965-gamedata.base: 182 шт., 1914-gamedata.base: 8 шт., 43959-rebirth.mod: 5 шт., 42334-changes_otto.mod: 4 шт., 42159-gamedata.base: 4 шт. (ещё 9 поз.)
 - **Деревня Серодёров** (3 зданий, 0 ед. хранения): склады пусты
 - **Затерянная библиотека** (6 зданий, 0 ед. хранения): склады пусты
 - **Ровная лагуна** (1 зданий, 0 ед. хранения): склады пусты
@@ -81,9 +81,8 @@
 ## Доступные местоположения
 ### Расположение групп отряда
 - **Скуин** (`in_location`): 25 участников [fx (`ps:-843917568`), Ану (`ps:1359130880`), Бип (`ps:-1572677376`), Вечный Суньвынь (`ps:398315424`), Вынос мозга (`ps:1464721664`), Вьючный бык (`ps:35522460`), Гигант Ранэ (`ps:1671874944`), Гриффин (`ps:145629888`), Доктор Чон (`ps:175903328`), Зелёный (`ps:1758056704`), Кан (`ps:-1346969344`), Кот (`ps:1006225600`), Крошка Джон (`ps:-383834368`), Мрачный Нил (`ps:-456466432`), Ожог (`ps:1441040000`), Пиа (`ps:-2041915648`), Ридли (`ps:1665649408`), Рука (`ps:-1715743744`), Сэто (`ps:-474044416`), Флик (`ps:1106567424`), Хамут (`ps:1223510784`), Хоббс (`ps:-1002242560`), Хот Лон (`ps:827270528`), Чад (`ps:2077026304`), Шрайк (`ps:-476241664`)]
-- **Окрестности Деревня Серодёров** (`near_location`): 3 участников [Вик (`ps:-941451776`), Зелёный палец (`ps:621948224`), Седая тень (`ps:706176768`)]
-- **Окрестности Ровная лагуна** (`near_location`): 1 участников [Вьючный бык (`ps:1856201216`)]
-- **Регион Болото** (`in_region`): 1 участников [Мью (`ps:2093017600`)]
+- **Окрестности Деревня Серодёров** (`near_location`): 4 участников [Вик (`ps:-941451776`), Вьючный бык (`ps:1856201216`), Мью (`ps:2093017600`), Седая тень (`ps:706176768`)]
+- **Регион Болото** (`in_region`): 1 участников [Зелёный палец (`ps:621948224`)]
 
 ### Собственность и базы
 - `14.2:7405-zone14.2-INGAME`: регион **Берег левиафанов** (`in_region`)
@@ -134,10 +133,64 @@
 - `35.42:46-Newwworld-INGAME`: город **Ровная лагуна** (`in_location`, d = 916.7 м)
 
 ### Перемещения между снимками
-- Все участники оставались на прежних позициях.
+- **fx** (`ps:-843917568`): Squin -> Squin (прямолинейное смещение: 4.8 м)
+- **Бип** (`ps:-1572677376`): Squin -> Squin (прямолинейное смещение: 149.0 м)
+- **Вечный Суньвынь** (`ps:398315424`): Squin -> Squin (прямолинейное смещение: 23.6 м)
+- **Вик** (`ps:-941451776`): The Swamp -> The Swamp (прямолинейное смещение: 400.9 м)
+- **Вынос мозга** (`ps:1464721664`): Squin -> Squin (прямолинейное смещение: 53.3 м)
+- **Вьючный бык** (`ps:1856201216`): Flats Lagoon -> The Swamp (прямолинейное смещение: 54223.3 м)
+- **Вьючный бык** (`ps:35522460`): Squin -> Squin (прямолинейное смещение: 0.3 м)
+- **Гигант Ранэ** (`ps:1671874944`): Squin -> Squin (прямолинейное смещение: 132.8 м)
+- **Гриффин** (`ps:145629888`): Squin -> Squin (прямолинейное смещение: 10.2 м)
+- **Доктор Чон** (`ps:175903328`): Squin -> Squin (прямолинейное смещение: 59.7 м)
+- **Зелёный** (`ps:1758056704`): Squin -> Squin (прямолинейное смещение: 63.2 м)
+- **Зелёный палец** (`ps:621948224`): The Swamp -> The Swamp (прямолинейное смещение: 340.7 м)
+- **Кан** (`ps:-1346969344`): Squin -> Squin (прямолинейное смещение: 3.2 м)
+- **Кот** (`ps:1006225600`): Squin -> Squin (прямолинейное смещение: 23.6 м)
+- **Крошка Джон** (`ps:-383834368`): Squin -> Squin (прямолинейное смещение: 18.0 м)
+- **Мрачный Нил** (`ps:-456466432`): Squin -> Squin (прямолинейное смещение: 6.6 м)
+- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 334.3 м)
+- **Ожог** (`ps:1441040000`): Squin -> Squin (прямолинейное смещение: 230.1 м)
+- **Пиа** (`ps:-2041915648`): Squin -> Squin (прямолинейное смещение: 220.4 м)
+- **Ридли** (`ps:1665649408`): Squin -> Squin (прямолинейное смещение: 0.5 м)
+- **Рука** (`ps:-1715743744`): Squin -> Squin (прямолинейное смещение: 80.0 м)
+- **Седая тень** (`ps:706176768`): The Swamp -> The Swamp (прямолинейное смещение: 356.6 м)
+- **Сэто** (`ps:-474044416`): Squin -> Squin (прямолинейное смещение: 58.2 м)
+- **Флик** (`ps:1106567424`): Squin -> Squin (прямолинейное смещение: 159.3 м)
+- **Хамут** (`ps:1223510784`): Squin -> Squin (прямолинейное смещение: 54.4 м)
+- **Хоббс** (`ps:-1002242560`): Squin -> Squin (прямолинейное смещение: 236.1 м)
+- **Хот Лон** (`ps:827270528`): Squin -> Squin (прямолинейное смещение: 83.4 м)
+- **Чад** (`ps:2077026304`): Squin -> Squin (прямолинейное смещение: 122.7 м)
+- **Шрайк** (`ps:-476241664`): Squin -> Squin (прямолинейное смещение: 169.2 м)
 
 ## Ключевые изменения
-- Изменений в отслеживаемых категориях не зафиксировано.
+- **Смена статуса (5):** Вик (`ps:-941451776`: unconscious=False), Зелёный палец (`ps:621948224`: unconscious=False), Мью (`ps:2093017600`: unconscious=False), Седая тень (`ps:706176768`: coma=False), Седая тень (`ps:706176768`: unconscious=False)
+- **Изменения навыков:** у 9 участников
+  - Вик (`ps:-941451776`): Athletics: 67.15 -> 67.25, Dexterity: 19.87 -> 20.84, Dodge: 26.69 -> 27.2, Engineering: 44.23 -> 44.41, Farming: 4.38 -> 5.96, Field Medic: 15.92 -> 17.18, Labouring: 21.57 -> 21.95, Melee Attack: 32.76 -> 33.8, Melee Defence: 43.56 -> 44.29, Perception: 18.63 -> 19.11, Polearms: 27.69 -> 29.34, Precision Shooting: 9.99 -> 12.62, Robotics: 41.65 -> 43.65, Strength: 31.87 -> 31.91, Toughness: 45.82 -> 46.94, Turrets: 17.24 -> 17.95, mass combat: 28.79 -> 29.09
+  - Вынос мозга (`ps:1464721664`): Strength: 12.98 -> 12.99
+  - Вьючный бык (`ps:1856201216`): Athletics: 59.39 -> 60.51, Melee Defence: 34.08 -> 34.33, Swimming: 18.13 -> 18.48, Toughness: 30.05 -> 30.52
+  - Гигант Ранэ (`ps:1671874944`): Athletics: 72.93 -> 72.95, Strength: 48.41 -> 48.47
+  - Зелёный палец (`ps:621948224`): Athletics: 29.13 -> 29.29
+  - Мью (`ps:2093017600`): Athletics: 33.25 -> 33.36, Dexterity: 20.03 -> 20.14, Field Medic: 14.01 -> 14.88, Labouring: 41.74 -> 42.2, Melee Attack: 25.77 -> 25.88, Melee Defence: 37.96 -> 38.02, Polearms: 21.28 -> 21.43, Strength: 10.43 -> 10.47, Toughness: 35.92 -> 36.13
+  - Пиа (`ps:-2041915648`): Athletics: 81.12 -> 81.13
+  - Рука (`ps:-1715743744`): Athletics: 82.5 -> 82.51
+  - Седая тень (`ps:706176768`): Athletics: 48.43 -> 48.52, Dexterity: 12.58 -> 13.42, Farming: 9.65 -> 10.4, Field Medic: 4.94 -> 4.95, Perception: 12.0 -> 12.67, Strength: 12.41 -> 12.43, Turrets: 1.0 -> 3.01
+- **Смена экипировки:** у 5 участников
+- **Изменения здоровья:** у 27 участников
+- **Изменения отношений с фракциями (1):**
+  - `Болотники`: отношение: 2.31 -> -0.19 (-2.5), статус: friendly -> unfriendly
+- **Изменения очереди работ:** у 4 участников
+  - `Вик`: обновлены назначенные работы
+  - `Вьючный бык`: обновлены назначенные работы
+  - `Зелёный палец`: обновлены назначенные работы
+  - `Мью`: обновлены назначенные работы
+- **Изменения складских запасов на базах:** 18 позиций
+  - `Оружейный шкаф`: Шипастая дубина -1
+  - `Оружейный шкаф`: Катана -1
+  - `Оружейный шкаф`: Зубочистка +1
+  - `Хранение: доспехи`: Брюки карго [хитрая кольчуга] +1
+  - `Хранение: доспехи`: Ножные латы самурая -1
+  - ... и ещё 13 складских изменений
 
 ## Несравниваемые категории
 - position: географические координаты подключаются профильным артефактом в задаче 02
@@ -146,7 +199,7 @@
 
 ## Хроника событий
 
-Подтверждённые события отсутствуют.
+- [observed] Казна: 36516 -&gt; 61953 (+25437) (день 132; ID: auto-447fd171e4d323da-01). Источники: diff: changes.json
 
 ## Связанные артефакты
 - [Индекс шардов состояния: бойцы, поселения, мир (current/index.json)](current/index.json)
