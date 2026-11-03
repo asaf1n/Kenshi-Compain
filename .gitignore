@@ -12,3 +12,6 @@ Desktop.ini
 # Протокольные файлы локальных сессий оркестратора (планы в plans/ сохраняются)
 orchestrate_workflow/*.md
 !orchestrate_workflow/method.md
+
+# Выгрузка зеркала Google Drive
+mirror/out/
