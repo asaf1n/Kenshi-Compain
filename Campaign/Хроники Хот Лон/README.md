@@ -30,6 +30,8 @@
 
 * Изменения: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json
 
+* Скриншоты: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/index.json — индекс `url_raw`/`sha256`; для визуального анализа открываются сами изображения.
+
 ## Рабочие документы
 
 Текущее положение и действующие решения, целевая модель архетипов, билдов и ростеров, методика оценки:
