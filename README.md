@@ -1,48 +1,69 @@
-# Kenshi Compain — игровой компаньон и хроника кампании
+# Kenshi-Compain
 
-Материалы для LLM: актуальное состояние игры, канон отдельных прохождений, режимы диалога и шаблоны ответов. Репозиторий читается по ссылкам GitHub: [https://github.com/asaf1n/Kenshi-Compain](https://github.com/asaf1n/Kenshi-Compain).
+Материалы для работы с LLM в роли игрового компаньона и автора летописи кампании по Kenshi: актуальное состояние игры, канон прохождений, режимы диалога и шаблоны ответов.
 
-## Состояние игры (обновляется после каждой выгрузки)
+## Архитектура проектов
 
-| Что | Ссылка | Содержание |
-|---|---|---|
-| Манифест | [published/manifest.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/manifest.json) | игровое время, ветка, время выгрузки |
-| Сводка | [published/brief.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md) | краткое положение дел для быстрого старта |
-| Состав отряда | [published/squad.md](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md) | бойцы, снаряжение, характеристики |
-| Изменения | [published/changes.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json) | что изменилось с предыдущего сохранения |
-| Индекс шардов | [published/current/index.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/current/index.json) | бойцы, постройки, обзор мира: по одному файлу на вопрос |
-| Расширенный снимок | [published/extended/current.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/extended/current.json) | полный очищенный срез; крупный файл, читать только выборочно |
-| Локации | [published/locations.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/locations.json) | координаты и поселения |
-| События | [published/timeline.jsonl](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/timeline.jsonl) | подтверждённые события |
-| Справочник мира | [published/world_reference.json](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/world_reference.json) | география, фракции, зоны |
+**ChatGPT:** на каждое прохождение создаются два отдельных проекта: **игровая сессия** (`prompts/project-instructions.md`) и **летопись / Расширенная повесть** (`prompts/project-chronicle.md`). Одна игровая сессия проходит в одном чате до `[итог]`. Закрытые артефакты передаются между проектами через сохранённые файлы. Для Gemini аналогичные функции распределены между перечисленными ниже блокнотами; общая база знаний остаётся отдельной.
 
-## Прохождения
+1. **`Kenshi Compain. <Campaign Name>`** — блокнот отдельного прохождения (`prompts/notebook-sessions.md`): интерактивное ведение игровой сессии, тактика, планирование глав и этапов, короткие художественные вставки (1–3 абзаца) по ходу событий и выпуск готового артефакта сессии в режиме `[итог]`.
 
-Каждое прохождение лежит в своей подпапке [Campaign/](https://github.com/asaf1n/Kenshi-Compain/tree/main/Campaign). Указатель с ссылками на README прохождений: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/README.md. Общие файлы репозитория от конкретного прохождения не зависят.
+2. **`Kenshi Compain. Летопись <Campaign Name>`** — блокнот летописи прохождения (`prompts/notebook-chronicle.md`): хранение выгрузок сессий (`S-YYYYMMDD-n`) и Канвы, написание и поэтапное расширение полнообъёмной повести (`archive/povest/`), рассказов и сценариев, экспорт в Google Drive или внешние хранилища по задаче.
 
-## Режимы диалога
+3. **`Kenshi. Bible`** — общая база знаний по игре Kenshi (Vanilla): официальные источники, данные FCS, механики прокачки и боя, карты, фракции, World States, лор мира и структура файлов сохранений.
 
-Метка в начале запроса включает режим; структура ответа задана шаблоном. Общие правила компаньона: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md).
+## Поток данных
 
-| Метка | Шаблон | Суть |
-|---|---|---|
-| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: выгрузка сессии (основа хроники), строка хронологии, правки документов |
-| `[хроника]` | [template-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chronicle.md) | хроника сессии по её выгрузке |
-| `[прогресс]` | [template-progress.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-progress.md) | боеспособность колонны и билды |
-| `[экспедиция]` / `[этап]` | [template-expedition.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-expedition.md) | регион, угрозы, логистика, маршруты |
-| `[ход]` | [template-turn.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-turn.md) | вставка нового события (сцена и игровое событие); сводка хода и диспозиция |
-| `[обсуждение]` | [template-discussion.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-discussion.md) | механики, моды, лор, стратегия |
-| `[сверка]` | [template-reconciliation.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-reconciliation.md) | актуализация документов кампании по новой выгрузке |
-| `[глава]` | [template-chapter.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chapter.md) | закрытие сюжетной главы и открытие новой |
+1. **Игра → конвертер → `published/` в GitHub → LLM / Google Notebook → Google Drive / Notion / внешние хранилища.**
 
-## Инструкции для LLM
+2. Между выгрузками в Git в Gemini рабочие документы могут храниться в источниках блокнотов, а в ChatGPT текущая сессия ведётся в одном чате с видимыми контрольными точками. Память чата не гарантирует сохранение оригиналов; используйте `docs/session-protocol.md` и внешнее сохранение.
 
-Для работы достаточно LLM с доступом к этому репозиторию и одной из инструкций:
+3. По команде «выгрузка для Git» формируется пакет обновлённых файлов для сохранения в `inbox/` локального репозитория и синхронизации с веткой `main`.
 
-| Где применяется | Инструкция |
-|---|---|
-| Проект в чат-интерфейсе (ChatGPT и другие) | [prompts/project-instructions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/project-instructions.md) |
-| Блокнот ведения игры (Google Notebook) | [prompts/notebook-sessions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md) |
-| Блокнот хроники (Google Notebook) | [prompts/notebook-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md) |
+## Состояние игры (`published/`)
 
-Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники, поэтому инструкция блокнота поручает ему самому собирать и обновлять источники по категориям из README прохождения. Конфигурация проекта — какие категории подключены, кто владеет документами и как сохраняются результаты — задаётся только инструкцией; руководства `docs/` и шаблоны `templates/` описывают роли и форматы и от проекта не зависят.
+Выгрузка конвертера сохранений (только чтение):
+
+* `manifest.json` — игровое время (`game_time`), активная ветка (`branch_id`), метаданные выгрузки.
+
+* `brief.md` — оперативная сводка состояния отряда, казны, баз, исследований и мировых статусов.
+
+* `squad.md` — полный ростер участников, характеристики, навыки, здоровье, протезы, экипировка и нагрузка.
+
+* `changes.json` — дельта изменений относительно предыдущего сохранения.
+
+* `current/index.json` — индекс шардов текущего состояния (бойцы, постройки, обзор мира).
+
+* `extended/current.json` — расширенный снимок мира для выборочного чтения.
+
+* `locations.json` — координаты и статус поселений.
+
+* `timeline.jsonl` — хронологическая лента подтверждённых событий.
+
+* `world_reference.json` — географический и фракционный справочник.
+
+## Режимы работы
+
+| Метка | Шаблон | Назначение | 
+| ----- | ----- | ----- | 
+| `[глава]` | `templates/template-chapter.md` | Макро-планирование маршрута из нескольких этапов по 1–2 большим территориям: лор-вступление (2–3 абзаца), возможности прокачки, боссы, уникальные предметы, маршрут и сжатие прошлой главы в Канве | 
+| `[этап]` / `[экспедиция]` | `templates/template-expedition.md` | Геймплейный план и гайд по целевой локации/сектору: лор местности (1–2 абзаца), опасности среды, цели интереса, тренировочный потенциал и варианты маршрута | 
+| `[ход]` | `templates/template-turn.md` | Оперативная работа в сессии: вставка события (сцена 2–3 абзаца + блок игрового события) или сводка хода; тактическая развилка до действия | 
+| `[прогресс]` | `templates/template-progress.md` | Оценка боеспособности колонны, выполнение целевых билдов и динамика прокачки; текстовые рекомендации визуализации | 
+| `[обсуждение]` | `templates/template-discussion.md` | Разбор механик игры, модов, лора и стратегических компромиссов | 
+| `[сверка]` | `templates/template-reconciliation.md` | Догоняющая актуализация рабочих документов прохождения по новым снимкам игры | 
+| `[итог]` | `templates/template-session.md` | Завершение сессии: выпуск готового артефакта сессии (`S-YYYYMMDD-n` из дословных вставок и разбора решений `D-nnnn`), строки для Канвы и правок рабочих документов | 
+
+## Инструкции ChatGPT и план веб-приложения
+
+- [Игровой проект](prompts/project-instructions.md) и [отдельный проект летописи](prompts/project-chronicle.md).
+- [Проверяемая фиксация сессии](docs/session-protocol.md).
+- [Единый план будущих инструментов P2–P3](sites/ROADMAP.md) (без реализации).
+
+## Инструкции и прохождения
+
+* Указатель прохождений: [Campaign/README.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/README.md)
+
+* Конфигурации проектов: [`prompts/notebook-sessions.md`](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md), [`prompts/notebook-chronicle.md`](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md), [`prompts/project-instructions.md`](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/project-instructions.md)
+
+* Руководства ролей: [`docs/companion-guide.md`](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md), [`docs/chronicler-guide.md`](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md)
