@@ -1,14 +1,14 @@
-# Краткая сводка: День 132, 11:15
+# Краткая сводка: День 132, 23:02
 
-- **snapshot_id:** `sha256-d20e4f80df3ef29e4c37eb949b3f11ad0e3a3752786e26f00672e58913592a68`
-- **previous_snapshot_id:** `sha256-b598bf852613e87bf83511832b70a549da5145a11c75de1deff2d44c74ab3383`
+- **snapshot_id:** `sha256-fcbf8aa46af056816753fd5f955bd40534061d0226c97bc147cf2c7251e95b1a`
+- **previous_snapshot_id:** `sha256-d20e4f80df3ef29e4c37eb949b3f11ad0e3a3752786e26f00672e58913592a68`
 - **branch_id:** `hot-lon-chapter-x-final`
-- **game_time:** `Day 132, 11:15`
-- **generated_at:** `2026-11-04T12:38:45Z`
+- **game_time:** `Day 132, 23:02`
+- **generated_at:** `2026-11-04T16:58:11Z`
 
 ## Игровой мир
-- **Время:** День 132, время 11:15
-- **Баланс:** 58 866 кат.
+- **Время:** День 132, время 23:02
+- **Баланс:** 40 426 кат.
 
 ## Состав отряда
 - **Всего персонажей:** 30 (гуманоидов: 27, животных: 3)
@@ -61,7 +61,7 @@
 - **Сводка:** 2 союзников, 4 дружественных, 59 нейтральных, 26 враждебных
 
 ## Состояние мира (World States)
-- **Уникальные NPC:** Святой Лорд Феникс (dead_or_captured (player involved)), Туз Серый (unaffected), Хозяин рынка (active_world), Соман (active_world), Дина (active_world), Финч (active_world), Пон (dead_or_captured (player involved)), Бритва (active_world), Бузан (unaffected), Зелёный палец (active_world), Дуга (active_world), Лорд Инаба (active_world), Они (active_world), Финка (active_world), Великий шаман (dead_or_captured (player involved)), Йо (active_world), Ожог (active_world), Зелёный (active_world), Летящий Бык (unaffected), Territorial Thug (unaffected), Тень (dead_or_captured (player involved)), Доктор Чон (active_world), Ридли (active_world), Стабс момусо (unaffected), Самоцвет (active_world), Королева (active_world), Skeleton recruit 2500 swamp 2 (active_world), Димак (unaffected), Сэто (active_world), Леди Суги (active_world), Sword for hire revenge (active_world), Крошка Джон (active_world), Ложный крикун (dead_or_captured (player involved)), Чад (active_world), hire engineer wall man (active_world), Живоглотья башка (active_world), Мью (active_world), Большой белый горилло (unaffected), Пиа (active_world), Горрилло (dead_or_captured (player involved)), Туз Клык (active_world), Каменный Голем Эсата (active_world), Изуми (active_world), Седая тень (active_world), Синеглазка (active_world), Вечный Суньвынь (active_world), Баян (active_world), Конь (active_world), Хоббс (active_world), Мани (active_world), Молл (active_world), Гриффин (active_world), Призрак (active_world), Шрайк (active_world), Хамут (active_world), Король (dead_or_captured (player involved)), Sword for hire 10 (Empire) (active_world), Рука (active_world), Вынос мозга (active_world), Туз Злюка (unaffected), Лорд Широ (active_world), Бард (active_world), Инквизитор Сэта (active_world), Гигант Ранэ (active_world), Бип (active_world), Кан (active_world), Рева (active_world), Главарь (unaffected), Раб Гаррета (active_world), Король Доспехов (active_world), Орон (active_world), Мрачный Нил (active_world), Бесстрашная Тора (dead_or_captured (player involved)), Кот (active_world), Инквизитор Валтэна (active_world), Рэй (active_world), Гаррет (active_world), Туз Темнобров (unaffected), Ану (active_world)
+- **Уникальные NPC:** Туз Темнобров (unaffected), Рэй (active_world), Инквизитор Валтэна (active_world), Бесстрашная Тора (dead_or_captured (player involved)), Король Доспехов (active_world), Главарь (unaffected), Кан (active_world), Гигант Ранэ (active_world), Вынос мозга (active_world), Рука (active_world), Sword for hire 10 (Empire) (active_world), Король (dead_or_captured (player involved)), Гриффин (active_world), Молл (active_world), Хоббс (active_world), Баян (active_world), Гаррет (active_world), Седая тень (active_world), Конь (active_world), Раб Гаррета (active_world), Каменный Голем Эсата (active_world), Горрилло (dead_or_captured (player involved)), Пиа (active_world), Большой белый горилло (unaffected), Бип (active_world), Мью (active_world), Мани (active_world), Живоглотья башка (active_world), hire engineer wall man (active_world), Призрак (active_world), Чад (active_world), Ложный крикун (dead_or_captured (player involved)), Крошка Джон (active_world), Sword for hire revenge (active_world), Сэто (active_world), Skeleton recruit 2500 swamp 2 (active_world), Рева (active_world), Королева (active_world), Шрайк (active_world), Бард (active_world), Самоцвет (active_world), Стабс момусо (unaffected), Ридли (active_world), Финка (active_world), Они (active_world), Лорд Инаба (active_world), Вечный Суньвынь (active_world), Мрачный Нил (active_world), Дуга (active_world), Зелёный палец (active_world), Territorial Thug (unaffected), Димак (unaffected), Йо (active_world), Бритва (active_world), Пон (dead_or_captured (player involved)), Туз Злюка (unaffected), Изуми (active_world), Хозяин рынка (active_world), Летящий Бык (unaffected), Лорд Широ (active_world), Леди Суги (active_world), Святой Лорд Феникс (dead_or_captured (player involved)), Финч (active_world), Доктор Чон (active_world), Ожог (active_world), Орон (active_world), Хамут (active_world), Тень (dead_or_captured (player involved)), Бузан (unaffected), Синеглазка (active_world), Дина (active_world), Инквизитор Сэта (active_world), Зелёный (active_world), Великий шаман (dead_or_captured (player involved)), Туз Серый (unaffected), Туз Клык (active_world), Кот (active_world), Ану (active_world), Соман (active_world)
 - **Переопределённые города:** Акула (41162-Dialogue.mod), Бугристый Холм (1083-gamedata.base), Гниль (51331-rebirth.mod), Деревня Серодёров (41162-Dialogue.mod), Кулак Окрана (1083-gamedata.base), Новая Кралия (51357-rebirth.mod), Плохие Зубы (1083-gamedata.base), Святая военная база (18893-rebirth.mod), Святая военная база (18893-rebirth.mod)
 
 ## Складской баланс по базам и поселениям
@@ -69,15 +69,15 @@
 - **16.37** (5 зданий, 6 ед. хранения): 42334-changes_otto.mod: 6 шт.
 - **17.31** (2 зданий, 0 ед. хранения): склады пусты
 - **18.34** (1 зданий, 0 ед. хранения): склады пусты
-- **18.35** (77 зданий, 429 ед. хранения): 42164-gamedata.base: 60 шт., 42159-gamedata.base: 53 шт., 43395-changes_otto.mod: 26 шт., 42158-gamedata.base: 22 шт., 2288-gamedata.base: 19 шт. (ещё 79 поз.)
+- **18.35** (77 зданий, 422 ед. хранения): 42164-gamedata.base: 60 шт., 42159-gamedata.base: 53 шт., 43395-changes_otto.mod: 26 шт., 42158-gamedata.base: 22 шт., 2288-gamedata.base: 19 шт. (ещё 77 поз.)
 - **19.35** (1 зданий, 0 ед. хранения): склады пусты
 - **20.13** (1 зданий, 0 ед. хранения): склады пусты
 - **20.32** (12 зданий, 13 ед. хранения): 96014-rebirth.mod: 3 шт., 42334-changes_otto.mod: 1 шт., 43959-rebirth.mod: 1 шт., 43957-rebirth.mod: 1 шт., 1359-gamedata.base: 1 шт. (ещё 6 поз.)
 - **21.31** (6 зданий, 10 ед. хранения): 42334-changes_otto.mod: 9 шт., 42243-rebirth.mod: 1 шт.
 - **24.13** (2 зданий, 0 ед. хранения): склады пусты
-- **24.40** (25 зданий, 563 ед. хранения): 1965-gamedata.base: 406 шт., 42307-changes_otto.mod: 110 шт., 515-gamedata.base: 8 шт., 43957-rebirth.mod: 6 шт., 42158-gamedata.base: 6 шт. (ещё 12 поз.)
+- **24.40** (25 зданий, 475 ед. хранения): 1965-gamedata.base: 406 шт., 42307-changes_otto.mod: 15 шт., 1016-gamedata.base: 14 шт., 515-gamedata.base: 8 шт., 43957-rebirth.mod: 6 шт. (ещё 11 поз.)
 - **25.49** (9 зданий, 0 ед. хранения): склады пусты
-- **35.42** (11 зданий, 225 ед. хранения): 1965-gamedata.base: 182 шт., 1914-gamedata.base: 8 шт., 43959-rebirth.mod: 5 шт., 42334-changes_otto.mod: 4 шт., 42159-gamedata.base: 4 шт. (ещё 9 поз.)
+- **35.42** (11 зданий, 225 ед. хранения): 1965-gamedata.base: 182 шт., 1914-gamedata.base: 8 шт., 43959-rebirth.mod: 5 шт., 42159-gamedata.base: 4 шт., 42334-changes_otto.mod: 4 шт. (ещё 9 поз.)
 - **Деревня Серодёров** (3 зданий, 0 ед. хранения): склады пусты
 - **Затерянная библиотека** (6 зданий, 0 ед. хранения): склады пусты
 - **Ровная лагуна** (1 зданий, 0 ед. хранения): склады пусты
@@ -87,9 +87,9 @@
 ## Доступные местоположения
 ### Расположение групп отряда
 - **Скуин** (`in_location`): 24 участников [fx (`ps:-843917568`), Ану (`ps:1359130880`), Бип (`ps:-1572677376`), Вечный Суньвынь (`ps:398315424`), Вынос мозга (`ps:1464721664`), Вьючный бык (`ps:35522460`), Гигант Ранэ (`ps:1671874944`), Гриффин (`ps:145629888`), Доктор Чон (`ps:175903328`), Зелёный (`ps:1758056704`), Кан (`ps:-1346969344`), Кот (`ps:1006225600`), Крошка Джон (`ps:-383834368`), Мрачный Нил (`ps:-456466432`), Ожог (`ps:1441040000`), Пиа (`ps:-2041915648`), Ридли (`ps:1665649408`), Рука (`ps:-1715743744`), Сэто (`ps:-474044416`), Хамут (`ps:1223510784`), Хоббс (`ps:-1002242560`), Хот Лон (`ps:827270528`), Чад (`ps:2077026304`), Шрайк (`ps:-476241664`)]
-- **Регион Болото** (`in_region`): 4 участников [Вик (`ps:-941451776`), Вьючный бык (`ps:1856201216`), Зелёный палец (`ps:621948224`), Седая тень (`ps:706176768`)]
-- **Окрестности Деревня Серодёров** (`near_location`): 1 участников [Мью (`ps:2093017600`)]
-- **Регион Пограничная зона** (`in_region`): 1 участников [Флик (`ps:1106567424`)]
+- **Окрестности Деревня Серодёров** (`near_location`): 2 участников [Зелёный палец (`ps:621948224`), Мью (`ps:2093017600`)]
+- **Регион Болото** (`in_region`): 2 участников [Седая тень (`ps:706176768`), Флик (`ps:1106567424`)]
+- **Ровная лагуна** (`in_location`): 2 участников [Вик (`ps:-941451776`), Вьючный бык (`ps:1856201216`)]
 
 ### Собственность и базы
 - `14.2:7405-zone14.2-INGAME`: регион **Берег левиафанов** (`in_region`)
@@ -140,25 +140,88 @@
 - `35.42:46-Newwworld-INGAME`: город **Ровная лагуна** (`in_location`, d = 916.7 м)
 
 ### Перемещения между снимками
-- Все участники оставались на прежних позициях.
+- **fx** (`ps:-843917568`): Squin -> Squin (прямолинейное смещение: 619.6 м)
+- **Ану** (`ps:1359130880`): Squin -> Squin (прямолинейное смещение: 52.7 м)
+- **Бип** (`ps:-1572677376`): Squin -> Squin (прямолинейное смещение: 124.5 м)
+- **Вечный Суньвынь** (`ps:398315424`): Squin -> Squin (прямолинейное смещение: 625.7 м)
+- **Вик** (`ps:-941451776`): The Swamp -> Flats Lagoon (прямолинейное смещение: 54177.4 м)
+- **Вынос мозга** (`ps:1464721664`): Squin -> Squin (прямолинейное смещение: 47.1 м)
+- **Вьючный бык** (`ps:1856201216`): The Swamp -> Flats Lagoon (прямолинейное смещение: 54098.7 м)
+- **Вьючный бык** (`ps:35522460`): Squin -> Squin (прямолинейное смещение: 130.0 м)
+- **Гигант Ранэ** (`ps:1671874944`): Squin -> Squin (прямолинейное смещение: 328.6 м)
+- **Гриффин** (`ps:145629888`): Squin -> Squin (прямолинейное смещение: 327.3 м)
+- **Доктор Чон** (`ps:175903328`): Squin -> Squin (прямолинейное смещение: 111.2 м)
+- **Зелёный** (`ps:1758056704`): Squin -> Squin (прямолинейное смещение: 547.8 м)
+- **Зелёный палец** (`ps:621948224`): The Swamp -> The Swamp (прямолинейное смещение: 369.8 м)
+- **Кан** (`ps:-1346969344`): Squin -> Squin (прямолинейное смещение: 48.5 м)
+- **Кот** (`ps:1006225600`): Squin -> Squin (прямолинейное смещение: 5.0 м)
+- **Крошка Джон** (`ps:-383834368`): Squin -> Squin (прямолинейное смещение: 115.4 м)
+- **Мрачный Нил** (`ps:-456466432`): Squin -> Squin (прямолинейное смещение: 142.7 м)
+- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 57.6 м)
+- **Ожог** (`ps:1441040000`): Squin -> Squin (прямолинейное смещение: 357.0 м)
+- **Пиа** (`ps:-2041915648`): Squin -> Squin (прямолинейное смещение: 32.0 м)
+- **Ридли** (`ps:1665649408`): Squin -> Squin (прямолинейное смещение: 300.3 м)
+- **Рука** (`ps:-1715743744`): Squin -> Squin (прямолинейное смещение: 353.3 м)
+- **Седая тень** (`ps:706176768`): The Swamp -> The Swamp (прямолинейное смещение: 1036.4 м)
+- **Сэто** (`ps:-474044416`): Squin -> Squin (прямолинейное смещение: 125.8 м)
+- **Флик** (`ps:1106567424`): Border Zone -> The Swamp (прямолинейное смещение: 16684.7 м)
+- **Хамут** (`ps:1223510784`): Squin -> Squin (прямолинейное смещение: 1.7 м)
+- **Хоббс** (`ps:-1002242560`): Squin -> Squin (прямолинейное смещение: 258.5 м)
+- **Хот Лон** (`ps:827270528`): Squin -> Squin (прямолинейное смещение: 84.8 м)
+- **Шрайк** (`ps:-476241664`): Squin -> Squin (прямолинейное смещение: 52.8 м)
 
 ## Скриншоты снимка
 
-Новых кадров текущего снимка: 6. Их визуальный анализ обязателен на шаге `[ход]`. Первичная разметка — автоматические ориентиры по файловому времени, а не подтверждённые события; содержание кадра определяется только по изображению.
+Новых кадров текущего снимка: 8. Их визуальный анализ обязателен на шаге `[ход]`. Первичная разметка — автоматические ориентиры по файловому времени, а не подтверждённые события; содержание кадра определяется только по изображению.
 
 | ID кадра | Файл | sha256 | modified_at (системное время файла, не игровое) | Снимок / интервал | Первичная разметка | Raw | Путь (GitHub и Google Диск) |
 |---|---|---|---|---|---|---|---|
-| `screenshot_430` | `screenshot_430-0b9d0d64.jpg` | `7716eb01` `7716eb01ecb8d73ee1133c5b0829421d090e8038a718bbc8c14d04d842d90415` | `2026-11-04T08:43:01Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_430-0b9d0d64.jpg) | `published/screenshots/screenshot_430-0b9d0d64.jpg` |
-| `screenshot_431` | `screenshot_431-f31f45c9.jpg` | `0a29f05a` `0a29f05a9eb8decac86318a1b128232c16f1064b6d61c50e8a74c5a402b8ecc5` | `2026-11-04T08:43:53Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_431-f31f45c9.jpg) | `published/screenshots/screenshot_431-f31f45c9.jpg` |
-| `screenshot_432` | `screenshot_432-cb332892.jpg` | `4a94d466` `4a94d4667b32dd6d25f2af9e16ef3b8ecc21378dc862f2e7663d48eb05dce1cc` | `2026-11-04T08:44:49Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_432-cb332892.jpg) | `published/screenshots/screenshot_432-cb332892.jpg` |
-| `screenshot_433` | `screenshot_433-bb49cf2e.jpg` | `22163f5c` `22163f5cdb1b416f028d96d77d4a537867824864b168cc00286f841fa935d758` | `2026-11-04T08:46:30Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_433-bb49cf2e.jpg) | `published/screenshots/screenshot_433-bb49cf2e.jpg` |
-| `screenshot_434` | `screenshot_434-6ff66e61.jpg` | `e360b473` `e360b4734ed5a10cc3c881a87e0e74d180e12ea88abf3179526fba7f7f2659ea` | `2026-11-04T08:46:48Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_434-6ff66e61.jpg) | `published/screenshots/screenshot_434-6ff66e61.jpg` |
-| `screenshot_435` | `screenshot_435-427d0b89.jpg` | `fc2c3901` `fc2c39019b119aa5685aab2576c1d68901d52013220c2ceef09d198c80ca3758` | `2026-11-04T08:47:16Z` | Day 132, 06:03 (sha256-0a634e20) → Day 132, 11:15 (sha256-31ce3e1c) | группы на Day 132, 11:15: Скуин (24), Регион Болото (4), Окрестности Деревня Серодёров (1) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg None -> lost; Казна: 61953 -> 58866 (-3087); Смена статуса: Зелёный палец incapacitated=True | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_435-427d0b89.jpg) | `published/screenshots/screenshot_435-427d0b89.jpg` |
+| `screenshot_436` | `screenshot_436-2ef3fde8.jpg` | `45d880e3` `45d880e31a72f4d60c19b1f9e78a754e2ae7c4ae9c3a17f50ba1ffd81eb5aef1` | `2026-11-04T16:38:17Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_436-2ef3fde8.jpg) | `published/screenshots/screenshot_436-2ef3fde8.jpg` |
+| `screenshot_437` | `screenshot_437-a704bc04.jpg` | `390f7c99` `390f7c99e89eb3563a2bf43730e6a0ba052acfd70feb10fbe9fcab4e64bdef57` | `2026-11-04T16:40:01Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_437-a704bc04.jpg) | `published/screenshots/screenshot_437-a704bc04.jpg` |
+| `screenshot_438` | `screenshot_438-a347c027.jpg` | `0c7f4384` `0c7f4384c0c8b7705f48cb4dfbb9229d35eaa2acc9ba13ba54410c4c40dba8a9` | `2026-11-04T16:41:25Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_438-a347c027.jpg) | `published/screenshots/screenshot_438-a347c027.jpg` |
+| `screenshot_439` | `screenshot_439-98a2cb8e.jpg` | `06ecf08e` `06ecf08ed029737dc84b6ee359a9090014a3722950488362a249bc39c1931174` | `2026-11-04T16:48:52Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_439-98a2cb8e.jpg) | `published/screenshots/screenshot_439-98a2cb8e.jpg` |
+| `screenshot_440` | `screenshot_440-d73cb79a.jpg` | `3e08cb1b` `3e08cb1b922ae8b4317618ab4ee14ec455b1f626a00f4853d043adafa7b9dc09` | `2026-11-04T16:48:54Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_440-d73cb79a.jpg) | `published/screenshots/screenshot_440-d73cb79a.jpg` |
+| `screenshot_441` | `screenshot_441-478d3d3e.jpg` | `7d72ab78` `7d72ab7877844e1ae1a20ecec2de24d2fd6d8e107c4f01b8df8267af4e7cfbbb` | `2026-11-04T16:50:47Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_441-478d3d3e.jpg) | `published/screenshots/screenshot_441-478d3d3e.jpg` |
+| `screenshot_442` | `screenshot_442-4e97aecf.jpg` | `9662f8e1` `9662f8e18e6348b9f344e9bedbddc829964d093545892eb22a8c6a3ed74be2af` | `2026-11-04T16:53:01Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_442-4e97aecf.jpg) | `published/screenshots/screenshot_442-4e97aecf.jpg` |
+| `screenshot_443` | `screenshot_443-97b97dd4.jpg` | `28c3c178` `28c3c178462d5277db2bafcea4a6a21b1f9cc0a66ba774b9bb062f6261cacb88` | `2026-11-04T16:53:43Z` | Day 132, 11:15 (sha256-d20e4f80) → Day 132, 23:02 (sha256-fcbf8aa4) | группы на Day 132, 23:02: Скуин (24), Окрестности Деревня Серодёров (2), Регион Болото (2) · дельта интервала: Изменены конечности и протезы: Зелёный палец: left_leg lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}; Казна: 58866 -> 40426 (-18440); Смена статуса: Зелёный палец incapacitated=False | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_443-97b97dd4.jpg) | `published/screenshots/screenshot_443-97b97dd4.jpg` |
 
 Архивный хвост и все 30 кадров выпуска: [screenshots/index.md](screenshots/index.md).
 
 ## Ключевые изменения
-- Изменений в отслеживаемых категориях не зафиксировано.
+- **Казна:** 58866 -> 40426 (-18440)
+- **Конечности и протезы (1):** Зелёный палец (`ps:621948224`): left_leg: lost -> {'name': 'Нога разведчика (левая)', 'sid': '96020-Newwworld.mod', 'level': 95}
+- **Смена статуса (1):** Зелёный палец (`ps:621948224`: incapacitated=False)
+- **Перемещения предметов (1):**
+  - `Вяленое мясо`: от [Хот Лон (-2)] к [Зелёный (+2)]
+- **Изменения навыков:** у 15 участников
+  - fx (`ps:-843917568`): Athletics: 88.35 -> 88.36
+  - Ану (`ps:1359130880`): Lockpicking: 4.21 -> 9.93
+  - Вик (`ps:-941451776`): Athletics: 67.36 -> 68.27, Dexterity: 20.84 -> 21.77, Dodge: 27.2 -> 27.53, Melee Attack: 33.8 -> 35.04, Melee Defence: 44.29 -> 44.76, Polearms: 29.34 -> 31.26, Robotics: 43.65 -> 44.3, Strength: 31.91 -> 32.0, Swimming: 17.85 -> 18.83, Toughness: 46.94 -> 47.35, mass combat: 29.09 -> 29.43
+  - Вынос мозга (`ps:1464721664`): Athletics: 56.77 -> 56.78, Crossbows: 60.91 -> 61.4, Dexterity: 20.95 -> 21.21, Perception: 40.23 -> 41.87, Strength: 12.99 -> 13.0
+  - Вьючный бык (`ps:1856201216`): Athletics: 60.55 -> 61.63, Swimming: 18.48 -> 18.79
+  - Гигант Ранэ (`ps:1671874944`): Athletics: 72.95 -> 72.96
+  - Гриффин (`ps:145629888`): Athletics: 73.59 -> 73.6, Strength: 37.23 -> 37.24
+  - Доктор Чон (`ps:175903328`): Turrets: 1.37 -> 8.52
+  - Зелёный (`ps:1758056704`): Athletics: 82.48 -> 82.49, Lockpicking: 13.65 -> 15.77
+  - Зелёный палец (`ps:621948224`): Athletics: 29.41 -> 29.45, Farming: 42.26 -> 42.47
+  - Мью (`ps:2093017600`): Athletics: 33.58 -> 34.29, Cooking: 3.33 -> 8.5, Labouring: 42.62 -> 43.27, Strength: 10.47 -> 10.89
+  - Ридли (`ps:1665649408`): Athletics: 86.87 -> 86.88
+  - Седая тень (`ps:706176768`): Athletics: 48.59 -> 48.73, Dexterity: 13.58 -> 14.6, Katanas: 10.0 -> 10.87, Melee Attack: 10.14 -> 11.06, Melee Defence: 13.49 -> 15.35, Strength: 12.44 -> 12.47, Toughness: 9.23 -> 11.09, mass combat: 10.23 -> 10.45
+  - Сэто (`ps:-474044416`): Athletics: 33.81 -> 33.82
+  - Флик (`ps:1106567424`): Athletics: 89.01 -> 89.17, Strength: 33.88 -> 33.96
+- **Изменения здоровья:** у 24 участников
+- **Изменения очереди работ:** у 4 участников
+  - `Ану`: обновлены назначенные работы
+  - `Вик`: обновлены назначенные работы
+  - `Пиа`: обновлены назначенные работы
+  - `Шрайк`: обновлены назначенные работы
+- **Изменения складских запасов на базах:** 6 позиций
+  - `Хранение: еда`: Вяленое мясо -4
+  - `Хранение: еда`: Шаурма -3
+  - `Хранение: рис`: Рисовая трава -93
+  - `Кухонная плита`: Вода -3
+  - `Кухонная плита`: Рисовая трава -2
+  - ... и ещё 1 складских изменений
 
 ## Несравниваемые категории
 - position: географические координаты подключаются профильным артефактом в задаче 02
@@ -173,6 +236,9 @@
 - [observed] Казна: 36516 -&gt; 61953 (+25437) (день 132; ID: auto-447fd171e4d323da-01). Источники: diff: changes.md#snapshot-447fd171e4d3
 - [observed] Смена статуса: Вик unconscious=False, Зелёный палец unconscious=False, Мью unconscious=False, Седая тень coma=False, Седая тень unconscious=False (день 132; ID: auto-447fd171e4d323da-02). Источники: diff: changes.md#snapshot-447fd171e4d3
 - [observed] Изменены отношения с фракциями (1): Болотники (день 132; ID: auto-447fd171e4d323da-03). Источники: diff: changes.md#snapshot-447fd171e4d3
+- [observed] Изменены конечности и протезы: Зелёный палец: left_leg lost -&gt; {&#x27;name&#x27;: &#x27;Нога разведчика (левая)&#x27;, &#x27;sid&#x27;: &#x27;96020-Newwworld.mod&#x27;, &#x27;level&#x27;: 95} (день 132; ID: auto-fcbf8aa46af05681-01). Источники: diff: changes.json
+- [observed] Казна: 58866 -&gt; 40426 (-18440) (день 132; ID: auto-fcbf8aa46af05681-02). Источники: diff: changes.json
+- [observed] Смена статуса: Зелёный палец incapacitated=False (день 132; ID: auto-fcbf8aa46af05681-03). Источники: diff: changes.json
 
 ## Связанные артефакты
 - [Индекс шардов состояния: бойцы, поселения, мир (current/index.json)](current/index.json)
