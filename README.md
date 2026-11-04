@@ -44,6 +44,8 @@
 
 Игра → конвертер `kenshi-campaign-tech` → `published/` в GitHub → чтение LLM → сохранение канона в GitHub. Google Drive содержит вспомогательные дубли выгрузок конвейера, а не зеркало канонических документов кампании.
 
+Форматы и семантика машинных данных `published/` задаются строгим [контрактом `kenshi-campaign-tech`](https://github.com/asaf1n/kenshi-campaign-tech/blob/main/docs/data-contract.md) и связанными схемами. Наличие файлов сверяется с `manifest.json`; игровая методология в `docs/companion-guide.md` и `docs/session-protocol.md` регулирует **интерпретацию** данных и запись истории, не заменяя контракт.
+
 - `manifest.json` — идентификаторы снимка, ветка, время игры и статус проверки.
 - `brief.md`, `squad.md`, `changes.md`, `timeline.jsonl` — сводка, персонажи, изменения и события.
 - `current/index.json` и `current/` — навигация по детальным данным; `extended/` — расширенный слой.
