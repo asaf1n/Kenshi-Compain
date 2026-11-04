@@ -26,11 +26,11 @@
 
 | Метка | Шаблон | Суть |
 |---|---|---|
-| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: выгрузка сессии, строка хронологии, правки документов |
-| `[хроника]` | [template-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chronicle.md) | художественные сцены по реальным событиям сессии |
+| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: выгрузка сессии (основа хроники), строка хронологии, правки документов |
+| `[хроника]` | [template-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chronicle.md) | хроника сессии по её выгрузке |
 | `[прогресс]` | [template-progress.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-progress.md) | боеспособность колонны и билды |
 | `[экспедиция]` / `[этап]` | [template-expedition.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-expedition.md) | регион, угрозы, логистика, маршруты |
-| `[ход]` | [template-turn.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-turn.md) | разбор последней сессии и диспозиция |
+| `[ход]` | [template-turn.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-turn.md) | вставка нового события (сцена и игровое событие); сводка хода и диспозиция |
 | `[обсуждение]` | [template-discussion.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-discussion.md) | механики, моды, лор, стратегия |
 | `[сверка]` | [template-reconciliation.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-reconciliation.md) | актуализация документов кампании по новой выгрузке |
 | `[глава]` | [template-chapter.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chapter.md) | закрытие сюжетной главы и открытие новой |
