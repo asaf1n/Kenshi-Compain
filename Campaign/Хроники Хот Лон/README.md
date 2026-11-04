@@ -18,7 +18,7 @@
 
    Игровой проект сохраняет их напрямую в `main`; после `[итог]` не требуется отдельное принятие литературным проектом. Существующие документы реконструкции в `archive/` сохраняют собственный статус достоверности. `Chronicle_Handoff.md` при наличии — только необязательный указатель на канон, не обязательная передача между чатами.
 
-3. **Расширенная повесть и произведения** — `archive/povest/`: полнообъёмная художественная книга, создаваемая поэтапно на основе хронологии, выгрузок сессий и Библии (с выгрузкой в Google Drive / внешние хранилища по необходимости).
+3. **Расширенная повесть и произведения** — `archive/novel/`: полнообъёмная художественная книга, создаваемая поэтапно на основе хронологии, выгрузок сессий и Библии (с выгрузкой в Google Drive / внешние хранилища по необходимости).
 
 ## Выгрузка игры
 
@@ -42,8 +42,6 @@
 
 * Архетипы и билды: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%90%D1%80%D1%85%D0%B5%D1%82%D0%B8%D0%BF%D1%8B_%D0%B8_%D0%B1%D0%B8%D0%BB%D0%B4%D1%8B.md
 
-* Методика: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0.md
-
 ## Хронология
 
 Краткий указатель истории и закрытая хронология дней 1–130:
@@ -54,9 +52,7 @@
 
 ## Выгрузки сессий
 
-Готовые артефакты хроники каждой сессии (дословные художественные вставки сессии и разбор по решениям `D-nnnn`); файл сессии — `archive/sessions/S-YYYYMMDD-n.md`, список — в `Kenshi_Канва.md`:
-
-* О выгрузках: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/sessions/README.md
+Готовые артефакты сессий (`archive/sessions/S-YYYYMMDD-n.md`) содержат дословные художественные вставки и разбор решений `D-nnnn`. Список — в `Kenshi_Канва.md`; правила — в `docs/session-protocol.md`.
 
 ## Персонажи и мир
 
@@ -66,11 +62,11 @@
 
 ## Повесть
 
-Расширенная художественная повесть: матрица глав, правила расширения и базовый черновик:
+Расширенная художественная повесть: план глав и базовый черновик:
 
-* План и статусы: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/povest/README.md
+* План и статусы: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/novel/Kenshi_План_повести.md
 
-* Черновик, дни 1–130: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/povest/Kenshi_%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C_%D0%B4%D0%BD%D0%B8_1-130.md
+* Черновик, дни 1–130: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/novel/Kenshi_%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C_%D0%B4%D0%BD%D0%B8_1-130.md
 
 ## Руководства и шаблоны
 
