@@ -26,7 +26,7 @@
 
 | Метка | Шаблон | Суть |
 |---|---|---|
-| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: журнал, повествование, правки документов |
+| `[итог]` | [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md) | завершение сессии: выгрузка сессии, строка хронологии, правки документов |
 | `[хроника]` | [template-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-chronicle.md) | художественные сцены по реальным событиям сессии |
 | `[прогресс]` | [template-progress.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-progress.md) | боеспособность колонны и билды |
 | `[экспедиция]` / `[этап]` | [template-expedition.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-expedition.md) | регион, угрозы, логистика, маршруты |
@@ -45,4 +45,4 @@
 | Блокнот ведения игры (Google Notebook) | [prompts/notebook-sessions.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-sessions.md) |
 | Блокнот хроники (Google Notebook) | [prompts/notebook-chronicle.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/prompts/notebook-chronicle.md) |
 
-Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники, поэтому инструкция блокнота поручает ему самому собирать и обновлять источники по спискам из README прохождения.
+Руководства, на которые ссылаются инструкции: [docs/companion-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/companion-guide.md) (роль, источники, режимы, подача) и [docs/chronicler-guide.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/docs/chronicler-guide.md) (художественные тексты). Блокнот читает только добавленные источники, поэтому инструкция блокнота поручает ему самому собирать и обновлять источники по категориям из README прохождения. Конфигурация проекта — какие категории подключены, кто владеет документами и как сохраняются результаты — задаётся только инструкцией; руководства `docs/` и шаблоны `templates/` описывают роли и форматы и от проекта не зависят.

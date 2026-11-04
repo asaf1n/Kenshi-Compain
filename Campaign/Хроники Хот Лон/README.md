@@ -1,77 +1,78 @@
 # Хроники Хот Лон
 
-Документы прохождения. Состояние игры лежит в общем каталоге [published/](https://github.com/asaf1n/Kenshi-Compain/tree/main/published).
+Документы прохождения по категориям. Какие категории подключает проект и как их обновляет, задаёт инструкция проекта (`prompts/`).
 
-| Документ | Назначение |
-|---|---|
-| [Текущая арка](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B0%D1%80%D0%BA%D0%B0.md) | положение отряда, действующие решения, передача следующей сессии |
-| [Отряд](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9E%D1%82%D1%80%D1%8F%D0%B4.md) | роли, целевые билды, принятые решения |
-| [Канва](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md) | краткие заметки по главам, этапам и сессиям со ссылками на полную историю |
-| [Методика](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%D1%8B_%D0%B8_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0.md) | оценка боеспособности и правила тренировки |
-| [Библия](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md) | персонажи, голоса, фракции, мир |
-| [Хроника, дни 1–131](https://github.com/asaf1n/Kenshi-Compain/blob/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md) | историческая хроника |
+Структура хранения истории:
 
-Полная история сессий (подробные журналы и повествования) хранится в блокноте хроники; в Канве у каждой сессии краткая заметка и идентификатор `S-...`.
+1. **Хронология** — Канва (строка на главу, этап или сессию) и закрытая хронология дней 1–130.
+2. **Выгрузки сессий** — художественные тексты сессии без изменений и разбор сессии по решениям.
+3. **Повесть и производные работы** — расширенные художественные тексты на основе хронологии и выгрузок.
 
-## Источники блокнотов
+## Выгрузка игры
 
-Каждый блокнот работает по своей инструкции и сам добавляет источники по спискам ниже:
-- «выгрузка» — состояние игры от конвертера; переустанавливается в начале каждой сессии;
-- «канон» — документы прохождения; между выгрузками в Git их рабочие версии ведутся в источниках блокнотов, с GitHub они переустанавливаются по команде «обнови источники» после выгрузки в Git;
-- «постоянные» — руководства и шаблоны; добавляются один раз.
+Состояние игры от конвертера; обновляется каждой доставкой.
 
-Между выгрузками в Git Текущей аркой и Отрядом владеет блокнот ведения игры, Канвой, журналами сессий и файлами хроники — блокнот хроники. Поток данных и выгрузка в Git: [template-session.md](https://github.com/asaf1n/Kenshi-Compain/blob/main/templates/template-session.md).
+- Манифест: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/manifest.json
+- Сводка: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md
+- Состав отряда: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md
+- Изменения: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json
 
-| Блокнот | Инструкция |
-|---|---|
-| Ведение игры | https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/prompts/notebook-sessions.md |
-| Хроника (отдельные файлы) | https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/prompts/notebook-chronicle.md |
+## Рабочие документы
 
-### Источники: ведение игры
+Текущее положение, действующие решения, роли и билды, методика.
 
-Выгрузка:
+- Текущая арка: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B0%D1%80%D0%BA%D0%B0.md
+- Отряд: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9E%D1%82%D1%80%D1%8F%D0%B4.md
+- Методика: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%D1%8B_%D0%B8_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0.md
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/manifest.json
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/brief.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/squad.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/changes.json
+## Хронология
 
-Канон:
+Краткий указатель истории и закрытая хронология дней 1–130.
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B0%D1%80%D0%BA%D0%B0.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9E%D1%82%D1%80%D1%8F%D0%B4.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md
+- Канва: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md
+- Хронология, дни 1–130: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B4%D0%BD%D0%B8_1-130.md
 
-Постоянные:
+## Выгрузки сессий
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/companion-guide.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/chronicler-guide.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%D1%8B_%D0%B8_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-session.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-turn.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-progress.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-expedition.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-discussion.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-reconciliation.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chronicle.md
+Художественные тексты и разбор каждой сессии; файл сессии — `archive/sessions/S-YYYYMMDD-n.md`, список — в Канве.
 
-По запросу (добавлять только когда нужны подробности, не заранее):
+- О выгрузках: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/sessions/README.md
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md
+## Персонажи и мир
 
-### Источники: хроника
+Облик, голоса, отношения, фракции.
 
-Канон:
+- Библия: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/Kenshi_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.md
+## Повесть
 
-Постоянные:
+Полнообъёмная повесть: план глав и черновик.
 
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/companion-guide.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/chronicler-guide.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/Kenshi_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chronicle.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chapter.md
-https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-session.md
+- План и статусы: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/povest/README.md
+- Черновик, дни 1–130: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/povest/Kenshi_%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C_%D0%B4%D0%BD%D0%B8_1-130.md
+
+## Исторический текст
+
+Исходная хроника дней 1–127.
+
+- Хроника, дни 1–131: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/Campaign/%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%A5%D0%BE%D1%82%20%D0%9B%D0%BE%D0%BD/archive/legacy/Kenshi_%D0%A5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BD%D0%B8_1-131.md
+
+## Руководства
+
+Роли.
+
+- Руководство компаньона: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/companion-guide.md
+- Руководство хрониста: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/docs/chronicler-guide.md
+
+## Шаблоны
+
+Форматы режимов.
+
+- [итог]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-session.md
+- [ход]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-turn.md
+- [прогресс]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-progress.md
+- [экспедиция]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-expedition.md
+- [обсуждение]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-discussion.md
+- [сверка]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-reconciliation.md
+- [хроника]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chronicle.md
+- [глава]: https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/templates/template-chapter.md
