@@ -1,69 +1,64 @@
-# Справочник NPC и типов юнитов Kenshi (Vanilla) — предварительный план и структура
+# Справочник NPC и типов юнитов Kenshi (Vanilla)
 
-Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races, unit notes). Vanilla only.
+Справочник по расам, фракциям и типам юнитов Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races). Русские названия — приоритетно из docs/Kenshi_RU_EN.md. Связь с world-states.md и regions_atlas.md. Vanilla only.
 
-## Предлагаемая структура справочника
+## Расы (кратко)
 
-1. **Введение**: Расы (Greenlander, Scorchlander, Shek, Hive variants, Skeleton, Soldierbot, animals), общие характеристики (HP limbs, speed, hunger, healing, racial bonuses/penalties).
-2. **Основные фракции** (по порядку важности):
-   - Святая Нация (Holy Nation)
-   - Союзные Города (United Cities) + Traders Guild + Slave Traders
-   - Королевство Шеков (Shek Kingdom) + Kral's Chosen + Berserkers
-   - Улей (Western/Southern Hive) + Fogmen/Deadhive
-   - Tech Hunters, Anti-Slavers, Flotsam Ninjas
-   - Hostile factions (Cannibals, Skin Bandits, Reavers, Crab Raiders, etc.)
-   - Wildlife / Ancient machines
-3. **Для каждой фракции**:
-   - Общее описание и базовая враждебность (attacks on sight? conditions: race, relations ≤ -30, world states).
-   - Типы юнитов (иерархия: leaders, elites, regulars, civilians, slaves).
-   - Характеристики: типичные stats ranges (combat skills, toughness, athletics), weapons, armour, special abilities.
-   - Поведение: patrols, raids, carry/eat (Fogmen/Cannibals), KO, dialogue.
-   - Связь с World States.
-4. **Сводная таблица базовой враждебности** (attacks on sight по расе/условиям).
-5. **Animals и machines**.
+| Раса | Особенности | Бонусы / штрафы |
+|------|-------------|-----------------|
+| Greenlander | Стандартные люди | Сбалансированы |
+| Scorchlander | Пустынные люди | Выше athletics/stealth, ниже strength |
+| Shek | Воины с рогами | Высокая strength/toughness, natural armour, медленное заживление, высокий голод |
+| Hive Worker Drone | Рабочие улья | Низкий бой, высокая labouring/farming |
+| Hive Soldier Drone | Солдаты улья | Выше бой, ниже labour |
+| Hive Prince | Лидеры улья | Выше статы |
+| Skeleton | Скелеты | Нет голода, высокая robotics, уязвимы к anti-skeleton |
+| Soldierbot | Редкие солдатские скелеты | Высокая strength |
 
-## Черновик ключевых данных
-
-### Расы (кратко)
-- **Greenlander**: стандарт humans, balanced.
-- **Scorchlander**: higher athletics/stealth, lower strength.
-- **Shek**: high strength/toughness, natural armour, slow heal, high hunger.
-- **Hive Worker Drone**: low combat, high labouring/farming.
-- **Hive Soldier Drone**: higher combat, lower labour.
-- **Hive Prince**: leaders, higher stats.
-- **Skeleton**: no hunger, high robotics, vulnerable to anti-skeleton.
-- **Soldierbot**: high strength, rare.
+## Основные фракции
 
 ### Святая Нация (Holy Nation)
-- Базовая враждебность: attacks on sight Shek, Hivers, Skeletons, anyone with prosthetics, non-humans. Neutral to humans if not criminal.
-- Типы: Holy Lord Phoenix (elite, Meitou), High Inquisitors (Seta, Valtena), High Paladins, Paladins, Holy Sentinels, Chosen, Holy Nation Servants (slaves as troops), Priests.
-- Характеристики: Paladins ~40-60 combat, heavy armour (Holy Chest Plate), Cross weapons. High Inquisitors higher.
-- Поведение: patrols, Wrath of God raids (при Phoenix gone), searches for "skeleton in disguise".
+- **Базовая враждебность:** attacks on sight Shek, Hivers, Skeletons, anyone with prosthetics, non-humans. Neutral to humans if not criminal / low relations.
+- **Типы юнитов:** Святой Лорд Феникс (Holy Lord Phoenix, elite, Meitou), Верховный инквизитор Сета / Валтэна (High Inquisitor), High Paladins, Paladins, Holy Sentinels, Chosen, Holy Nation Servants, Priests.
+- **Характеристики:** Paladins ~40–60 combat skills, Holy Chest Plate, Cross weapons. High Inquisitors выше.
+- **Поведение:** патрули, Wrath of God raids (при выбытии Феникса), обыски на «skeleton in disguise».
+- **World States:** см. world-states.md (Феникс, Сета, Валтэна).
 
-### Союзные Города (United Cities)
-- Базовая враждебность: neutral to most; hostile if criminal or relations low. Slave Hunters/Manhunters aggressive.
-- Типы: Emperor Tengu, nobles (Lady Sanda etc.), Samurai, Samurai Rogues, Empire Peasants, Slave Masters.
-- Характеристики: Samurai medium-heavy armour, better arm coverage. Stats vary by rank.
+### Союзные Города (United Cities) + Traders Guild + Slave Traders
+- **Базовая враждебность:** neutral к большинству; hostile при low relations или преступлении. Slave Hunters / Manhunters агрессивны.
+- **Типы:** Император Тенгу, дворяне, Samurai, Samurai Rogues, Empire Peasants, Slave Masters.
+- **Характеристики:** Samurai medium-heavy armour (лучше покрытие рук). Статы по рангу.
 
-### Королевство Шеков (Shek Kingdom)
-- Базовая враждебность: neutral/aggressive warrior culture; hostile to HN. Kamikaze if low morale.
-- Типы: Esata (Stone Golem, Meitou Fragment Axe), Hundred Guardians, Shek Warriors, Shek Scouts, Kamikaze.
-- Характеристики: high strength/toughness, medium/heavy mixes, high combat skills (40+).
+### Королевство Шек (Shek Kingdom) + Kral's Chosen + Berserkers
+- **Базовая враждебность:** warrior culture; hostile к Святой Нации. Kamikaze при low morale.
+- **Типы:** Эсата Каменный Голем (Meitou Fragment Axe), Hundred Guardians, Shek Warriors, Shek Scouts, Kamikaze, Летящий Бык, Призрак (Ghost).
+- **Характеристики:** высокая strength/toughness, medium/heavy mixes, combat 40+.
 
-### Улей и Fogmen
-- Western Hive: mostly neutral, villages in Vain/Dreg. Queen gone → Deadhive.
-- Fogmen (Deadhive): attacks on sight, carry/eat, acid. Fog Princes higher stats.
-- Southern Hive: more hostile.
+### Улей (Western / Southern Hive) + Fogmen / Deadhive
+- Western Hive: mostly neutral, деревни в Vain / Dreg. Queen gone → Deadhive.
+- Fogmen (Deadhive): attacks on sight, carry/eat. Fog Princes выше статы.
+- Southern Hive: более hostile.
 
-### Hostile factions (attacks on sight)
-- Cannibals: high numbers, carry/eat, poles. Chiefs with bounties.
-- Berserkers: high-level Shek, maroon robes.
-- Skin Bandits: high-level, skinning.
-- Fogmen: as above.
-- Reavers, Crab Raiders, Swamp Ninjas, Dust Bandits, Sand Ninjas, Shrieking Bandits: vary by strength.
+### Другие
+- Tech Hunters, Anti-Slavers, Flotsam Ninjas (Молл): mostly neutral / conditional.
+- Hostile (attacks on sight): Cannibals (carry/eat, poles), Berserkers, Skin Bandits, Reavers, Crab Raiders, Swamp Ninjas, Dust Bandits, Sand Ninjas, Shrieking Bandits.
 
-### Wildlife
-- Beak Things, Leviathans, Iron Spiders, Blood Spiders, Skin Spiders, Bonedogs, Goats, Crabs, Fishmen, Howlers, Gutters, Stormthralls, Behemoths.
-- Many carry/eat or environmental threats.
+## Сводная таблица базовой враждебности (attacks on sight)
 
-Полный справочник будет расширен по конкретным unit templates из FCS/вики. Связь с world-states.md и regions_atlas.md.
+| Фракция / тип | Условие |
+|---------------|---------|
+| Святая Нация | Shek, Hiver, Skeleton, prosthetic, non-human |
+| Fogmen / Cannibals | Всегда (organics) |
+| Skin Bandits / Reavers / Crab Raiders | Всегда |
+| Союзные Города | Low relations / criminal |
+| Шек | Low relations / HN |
+| Western Hive | Usually neutral |
+| Wildlife (Beak Things, Leviathans, Iron Spiders и др.) | Обычно всегда |
+
+## Wildlife и machines
+
+Beak Things, Leviathans, Iron Spiders, Blood Spiders, Skin Spiders, Bonedogs, Goats, Crabs, Fishmen, Howlers, Gutters, Stormthralls, Behemoths. Многие carry/eat или environmental threats.
+
+Полный справочник расширяется по конкретным unit templates из FCS / вики.  
+
+Источники: Kenshi Wiki (Factions, Races), kenshi.zone. Vanilla only.
