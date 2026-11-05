@@ -1,59 +1,96 @@
 # Боевые и экономические механики Kenshi (Vanilla)
 
-Источники: FCS/Web FCS, Kenshi Wiki, kenshi.zone, Steam. Русские названия по Kenshi_RU_EN.md.
+Справочник по ключевым боевым и экономическим системам Kenshi 1 (Vanilla). Источники: FCS / Web FCS, Kenshi Wiki (kenshi.fandom.com), kenshi.zone. Русские названия — приоритетно из docs/Kenshi_RU_EN.md. Английские термины в скобках при первом упоминании.
 
-## Лестница грейдов оружия
+## Грейды оружия и производители
 
-Грейды: Prototype/Rusted Junk (5) → ... → Meitou (100). Производители влияют на множители.
+Грейды (model value 1–100) и производители определяют финальные статы. Homemade — базовая линия без бонусов.
 
-| Manufacturer | Cut mod | Blunt mod | Weight mod | Notes |
-|--------------|---------|-----------|------------|-------|
-| Unknown | 1 | 1 | 1 | Price 0.3 |
-| Ancient | 0.9 | 1 | 0.7 | Lighter |
-| Catun Scrapmaster | 1 | 1.2 | 1.2 | Blunt bonus |
-| Skeleton Smiths | 1 | 1 | 1 | - |
-| Edgewalkers | 1.1 | 1 | 1 | Cut bonus |
-| Cross (Meitou) | 1.1 | 1 | 1 | Price 2 |
-| Homemade | 1 | 1 | 1 | Baseline |
+| Грейд (RU/EN) | Level | Производитель | Cut mod | Blunt mod | Weight mod | Price mod |
+|---------------|-------|---------------|---------|-----------|------------|-----------|
+| Ржавый хлам / Rusted Junk | 5 | Unknown | 1.0 | 1.0 | 1.0 | 0.3 |
+| Ржавеющий клинок / Rusting Blade | 10 | Unknown | 1.0 | 1.0 | 1.0 | 0.3 |
+| Средний salvage / Mid-Grade Salvage | 15 | Ancient | 0.9 | 1.0 | 0.7 | 0.8 |
+| Старый перекованный клинок / Old Refitted Blade | 20 | Ancient | 0.9 | 1.0 | 0.7 | 0.8 |
+| Перекованный клинок / Refitted Blade | 25 | Ancient | 0.9 | 1.0 | 0.7 | 0.8 |
+| Катун №1 / Catun No.1 | 30 | Catun Scrapmaster | 1.0 | 1.2 | 1.2 | 1.2 |
+| Катун №2 / Catun No.2 | 35 | Catun Scrapmaster | 1.0 | 1.2 | 1.2 | 1.2 |
+| Катун №3 / Catun No.3 | 40 | Catun Scrapmaster | 1.0 | 1.2 | 1.2 | 1.2 |
+| Mk I | 50 | Skeleton Smiths | 1.0 | 1.0 | 1.0 | 1.2 |
+| Mk II | 55 | Skeleton Smiths | 1.0 | 1.0 | 1.0 | 1.2 |
+| Mk III | 60 | Skeleton Smiths | 1.0 | 1.0 | 1.0 | 1.2 |
+| Edge Type 1 | 70 | Edgewalkers | 1.1 | 1.0 | 1.0 | 1.4 |
+| Edge Type 2 | 75 | Edgewalkers | 1.1 | 1.0 | 1.0 | 1.4 |
+| Edge Type 3 | 80 | Edgewalkers | 1.1 | 1.0 | 1.0 | 1.4 |
+| Meitou | 100 | Cross | 1.1 | 1.0 | 1.0 | 2.0 |
+| Homemade (игрок) | 5–80 | Homemade | 1.0 | 1.0 | 1.0 | 1.0 |
 
-Формулы (упрощённо): Cut = mult * (0.3 + 0.017 * model_value); Blunt = mult * model_value / 50 * manuf. Meitou ~5x+ лучше Rusted. Strength req ≈ max(weight*2, blunt*40). [Kenshi Wiki Weapons FCS; kenshi.zone weapons; Shidan Steam]
+**Формулы (упрощённо):**
+- Cut = cut_mult × (0.3 + 0.017 × model_value) × manuf_cut
+- Blunt = blunt_mult × model_value / 50 × manuf_blunt
+- Meitou ~5.2× лучше Rusted Junk по базовому cut (с бонусом Cross ~5.7×).
+
+Ковка: качество зависит от навыка «Ковка оружия» (Weapon Smithing), освещения и состояния персонажа. Edge Type 3 и Meitou в ванилле не крафтятся. Сила (Strength) для тяжёлого оружия: примерно max(weight×2, blunt×40).
+
+Источники: https://kenshi.fandom.com/wiki/Weapons_(FCS), https://kenshi.zone/en/weapons, Steam/Shidan.
 
 ## Классы оружия
 
-Cut (режущий) vs Blunt (дробящий). Бронепробитие, множители против robots/animals/humans (в FCS). Штрафы в помещениях (reach). Сила для тяжёлых. [Wiki]
+Cut (режущий) vs Blunt (дробящий). Разные множители против людей / животных / роботов (в FCS). Штрафы в помещениях (reach). Тяжёлое оружие требует высокой силы. Примеры из локализации: Катана, Сабля, Рубач, Тяжёлое оружие, Дробящее, Древковое.
 
 ## Броня
 
-Покрытие зон (coverage %), сопротивления (cut/blunt/pierce), штрафы (athletics, combat speed, stealth, dodge).
+Покрытие зон (coverage %), сопротивления (cut / blunt / pierce), штрафы (athletics, combat speed, stealth, dodge). Сопротивления нескольких предметов складываются мультипликативно.
 
-Тяжёлая: Holy Chest Plate (HN паладины: chest 100%, arms 25%, legs 40%; cut ~40% standard), Samurai Armour (UC: better arm coverage), Shek warriors часто medium/heavy mixes. Full sets stack multiplicatively. [kenshi.zone heavy armour, holy chest plate; Wiki Armor Stats]
+**Тяжёлая броня (стандартный грейд, примеры):**
 
-## Развитие персонажа
+| Предмет (RU/EN) | Coverage (основные) | Cut | Blunt | Pierce | Вес | Штрафы |
+|-----------------|---------------------|-----|-------|--------|-----|--------|
+| Святая нагрудная пластина / Holy Chest Plate | Грудь 100%, живот 100%, руки 25%, ноги 40% | 40% | 22% | 36 | 19 кг | Dodge 50%, Dex 70% |
+| Доспех самурая / Samurai Armour | Грудь 100%, живот/руки 85% | 40% | 26% | 36 | 20.25 кг | Dodge 60%, Dex 100% |
+| Доспех наёмника / Mercenary Plate | — | 33% | 21% | 27 | 20 кг | — |
 
-Тренировка: sparring, toughness (damage), athletics (run), stealth (sneak). Ориентиры 70-80+: use prepared fighter. Skills soft-cap effectively. [Community/guides]
+Грейды брони: Prototype (5) → Shoddy (20) → Standard (40) → High (60) → Specialist (80) → Masterwork (95). Святая Нация: паладины в Holy Chest Plate. Союзные Города: самурайские комплекты. Полные сеты сильно снижают скорость и скрытность.
 
-## Массовый бой
-
-Численный перевес, окружение, knockout (KO), вынос раненых (Fogmen, Cannibals, Fishmen carry to poles). [Wiki]
-
-## Скрытые операции
-
-Knockout, carry, kidnap sleeping NPC. Alert conditions (witness, noise). [Mechanics knowledge]
+Источники: https://kenshi.zone/en/item-holy-chest-plate, https://kenshi.zone/en/item-samurai-armour, https://kenshi.zone/en/item-heavy-armour, https://kenshi.fandom.com/wiki/Armor_Stats.
 
 ## Протезы
 
-Модели: Economy, Skeleton, Stealth, Scout, KLR, Industrial, Steady/Thief (some non-craftable).
+Модели: Economy, Skeleton, Stealth, Scout, KLR Series, Industrial Lifter, Steady/Thief (последние два не крафтятся).
 
-Грейды Prototype–Masterwork. Множители: Scout Legs +38% athletics, Stealth Legs +25% stealth, Skeleton Arms +25% dexterity.
+**Цепочка исследований (Crafting Tech):**
+1. Robotics (Tech Level 3, 1 Ancient Science Book)
+2. Hiver Skeleton Legs (Tech) и Hiver Skeleton Arms (Tech) (Level 4)
+3. Skeleton Legs / Arms (Level 5, AI Cores)
+4. Специализированные (Scout, Stealth, KLR, Industrial — Level 6)
 
-Изготовление: Skeleton Limb Bench, research chain (Robotics → Hiver Skeleton Legs/Arms → Skeleton Legs → specialists). AI Cores required.
+**Проверка: Hiver Skeleton Legs/Arms (Tech)** — Vanilla. Описание: «копия технологии Economy Legs улья, первый шаг к производству заменяемых конечностей». Применимы ко всем гуманоидным расам (включая Hivers и Skeletons после потери конечности). Крафт на Skeleton Limb Bench. Качество зависит от навыка «Роботехника» (Robotics).
 
-**Проверка: Hiver Skeleton Legs/Arms (Tech)** — Vanilla. Stepping stone to replacement limbs. Применимы ко всем расам (включая Hivers, Skeletons после потери limb). [kenshi.zone robotic-limbs, skeleton-legs-tech; Wiki Hiver Skeleton Legs (Tech); Reddit confirmation]
+Множители (примерно, Masterwork): Scout Legs +athletics, Stealth Legs +stealth, Skeleton Arms +dexterity, Industrial +strength, KLR — баланс.
 
-Расовые: все humanoids; Skeletons native limbs vs prosthetic.
+Источники: https://kenshi.zone/en/robotic-limbs, https://kenshi.zone/en/item-skeleton-legs-tech, https://kenshi.fandom.com/wiki/Hiver_Skeleton_Legs_(Tech), https://kenshi.fandom.com/wiki/Robot_Limbs.
 
-## Экономика
+## Экономика и торговля
 
-Базовые цены, торговые коэффициенты (города/культуры), наценки (гашиш в Ровная лагуна / Flats Lagoon). Наличность торговцев. Цепочки: пенька (hemp) → гашиш. Награды за головы (bounties 10k–100k+). [Wiki Bounty; zone]
+Базовая цена × культура-множитель × случайный ±30% × наличность торговца. Гашиш (Hashish): база ~144 ката. Пенька → гашиш (Hemp Processor).
 
-Источники: Kenshi Wiki (Weapons, Armor, Limbs), kenshi.zone (weapons, armour, robotic-limbs, item-*), Steam/Shidan notes. Vanilla only.
+| Культура / фракция | Множитель гашиша | Контрабанда |
+|--------------------|------------------|-------------|
+| Союзные Города (Empire) | 1200% | Да |
+| Работорговцы | 600% | Да |
+| Святая Нация | 400% | Да |
+| Королевство Шек | 350% | Да |
+| Болотники (Swampers) | 100% | Нет |
+| Ровная лагуна / Flats Lagoon, Траур / Mourn | ~400% | Нет (легально) |
+
+Воры шиноби покупают за половину цены. Награды за головы (bounties): от ~10k до 100k+ катов (Феникс, Хозяин Жуков и др.).
+
+Источники: https://kenshi.zone/en/economy, https://kenshi.zone/en/item-hashish, https://kenshi.fandom.com/wiki/Hashish.
+
+## Прочее
+
+- Массовый бой: численный перевес, окружение, knockout (KO), вынос раненых (туманники, людоеды, рыболюди).
+- Скрытые операции: knockout, carry, похищение спящих. Условия тревоги (свидетели, шум).
+- Развитие: sparring, toughness от урона, athletics от бега, stealth от скрытности. Ориентиры высоких уровней 70–80+.
+
+Источники раздела: FCS, Kenshi Wiki (Weapons, Armor, Limbs, Hashish), kenshi.zone (weapons, armour, robotic-limbs, economy, item-*). Vanilla only.
