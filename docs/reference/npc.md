@@ -1,6 +1,6 @@
 # Справочник NPC и типов юнитов Kenshi (Vanilla)
 
-Справочник по расам, фракциям и типам юнитов Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races). Русские названия — приоритетно из docs/Kenshi_RU_EN.md. Связь с world-states.md и regions_atlas.md. Vanilla only.
+Справочник по расам, фракциям и типам юнитов Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races). Русские названия — приоритетно из docs/Kenshi_RU_EN.md и поля `name_ru` из published/current/world_state.json. Связь с world-states.md и regions_atlas.md. Vanilla only.
 
 ## Расы (кратко)
 
@@ -19,10 +19,10 @@
 
 ### Святая Нация (Holy Nation)
 - **Базовая враждебность:** attacks on sight Shek, Hivers, Skeletons, anyone with prosthetics, non-humans. Neutral to humans if not criminal / low relations.
-- **Типы юнитов:** Святой Лорд Феникс (Holy Lord Phoenix, elite, Meitou), Верховный инквизитор Сета / Валтэна (High Inquisitor), High Paladins, Paladins, Holy Sentinels, Chosen, Holy Nation Servants, Priests.
+- **Типы юнитов:** Святой Лорд Феникс (Holy Lord Phoenix, elite, Meitou), Инквизитор Сэта / Инквизитор Валтэна (High Inquisitor), High Paladins, Paladins, Holy Sentinels, Chosen, Holy Nation Servants, Priests.
 - **Характеристики:** Paladins ~40–60 combat skills, Holy Chest Plate, Cross weapons. High Inquisitors выше.
 - **Поведение:** патрули, Wrath of God raids (при выбытии Феникса), обыски на «skeleton in disguise».
-- **World States:** см. world-states.md (Феникс, Сета, Валтэна).
+- **World States:** см. world-states.md (Феникс, Сэта, Валтэна).
 
 ### Союзные Города (United Cities) + Traders Guild + Slave Traders
 - **Базовая враждебность:** neutral к большинству; hostile при low relations или преступлении. Slave Hunters / Manhunters агрессивны.
@@ -31,7 +31,7 @@
 
 ### Королевство Шек (Shek Kingdom) + Kral's Chosen + Berserkers
 - **Базовая враждебность:** warrior culture; hostile к Святой Нации. Kamikaze при low morale.
-- **Типы:** Эсата Каменный Голем (Meitou Fragment Axe), Hundred Guardians, Shek Warriors, Shek Scouts, Kamikaze, Летящий Бык, Призрак (Ghost).
+- **Типы:** Каменный Голем Эсата (Meitou Fragment Axe), Hundred Guardians, Shek Warriors, Shek Scouts, Kamikaze, Летящий Бык, Призрак (Ghost).
 - **Характеристики:** высокая strength/toughness, medium/heavy mixes, combat 40+.
 
 ### Улей (Western / Southern Hive) + Fogmen / Deadhive
@@ -61,4 +61,4 @@ Beak Things, Leviathans, Iron Spiders, Blood Spiders, Skin Spiders, Bonedogs, Go
 
 Полный справочник расширяется по конкретным unit templates из FCS / вики.  
 
-Источники: Kenshi Wiki (Factions, Races), kenshi.zone. Vanilla only.
+Источники: Kenshi Wiki (Factions, Races), kenshi.zone, published/current/world_state.json (name_ru). Vanilla only.
