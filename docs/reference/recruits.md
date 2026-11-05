@@ -1,52 +1,83 @@
 # Справочник рекрутов Kenshi (Vanilla)
 
-Справочник по найму NPC в Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Unique_Recruits, Playable_Characters), kenshi.zone (recruitment-squad). Русские названия — приоритетно из docs/Kenshi_RU_EN.md. ~44 unique named recruits + generic bar/random. Связь с npc.md и world-states.md. Vanilla only.
+Справочник по найму NPC в Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Unique_Recruits), kenshi.zone. Русские названия уникальных персонажей — по полю `name_ru` из `published/current/world_state.json` где доступно, иначе из docs/Kenshi_RU_EN.md. Локации — по docs/reference/regions-index.md. Vanilla only.
 
 ## Способы найма
 
-- Bar hire (обычно 3k–7.5k катов)
-- Free unique (диалог)
-- Free from cage / prison (нужны nearby hostiles)
-- World State conditions (bounty turn-in, relations)
-- Slaves → allies (купить у Slaver Boss)
-- Lifesaver dialogue (после спасения жизни)
+- Найм в баре (обычно 3 000–7 500 катов).
+- Бесплатный уникальный через диалог.
+- Освобождение из клетки / тюрьмы (требуется присутствие враждебных рядом).
+- Условия World State (сдача награды, порог отношений).
+- Покупка рабов у босса работорговцев (становятся союзниками).
+- Диалог после спасения жизни.
 
-## Unique Recruits (ключевые)
+Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.fandom.com/wiki/Playable_Characters.
 
-| Имя (RU/EN) | Раса | Стоимость / условия | Локации | Особенности |
-|-------------|------|---------------------|---------|-------------|
-| Агну / Agnu | Soldierbot | Free (cage + nearby hostiles) | Tower of Abuse | Единственный recruitable Soldierbot, 50 Strength |
-| Бип / Beep | Hive Worker Drone | Free | Mongrel (Безродный) | Unique dialogue |
-| Бо / Bo | Scorchlander | Free (Anti-Slavers / enemy of UC) | Black Scratch | Высокая stealth / athletics |
-| Ожог / Burn | Skeleton | Free (dialogue) | Burn's Tower (Пойма) | Guaranteed Skeleton |
-| Кот / Cat | Scorchlander | Free (cage + low-level bandits) | Dust King Tower | Medic / Science |
-| Крошка Джон / Crumblejon | Greenlander | Free (dialogue) | Mongrel | Unique dialogue |
-| Гриффин / Griffin | Greenlander | 9,000 | Bad Teeth, Blister Hill, Stack | Former Holy Sentinel |
-| Infinite Wingwang | Greenlander | 100k (bargain ~5k) | Mongrel | High sabre |
-| Рука / Ruka | Shek | Free | Admag, Squin, Last Stand | Fan-favorite |
-| Сэднил / Sadneil | Skeleton | Free (dialogue) | Black Desert City | Unique dialogue |
-| Сэто / Seto | Shek | WS: Bugmaster / Phoenix или 80 Shek relations | Admag | — |
-| Ямду / Yamdu | Hive Prince | WS: turn in Tinfist | Trader's Edge | High engineering / labour |
-| Зелёный / Green | Hive Worker Drone | 2,300 | Mud Town, Shark | Crossbow / Turrets |
-| Мия / Miu | Greenlander | Free | Mud Town, Shark | Farming |
-| Соман / Soman | Greenlander | 3,500 | Fishing Village | Engineering |
-| Лукин / Luquin | Scorchlander | Free (cage + UC guards) | Tengu's Vault | Stealth / Assassination |
-| Рей / Ray | Hive Soldier Drone | 1,000 | Eyesocket, Slave Markets | Mute |
-| Корнелиус / Cornelius | Goat | 14,000 | Settled Nomad Village | Is a Goat |
+## Уникальные рекруты
 
-### Другие notable unique
-Bard, Digna, Doctor Chung, Ells, Espher, Green Finger (Зелёный палец), Hamut, Headshot (Вынос мозга), Hobbs, Horse, Izumi, Jewel, Kang, Knife, Lumi, Oron, Pia, Rane the Giant, Red, Reva, Riddly, Shryke, Silvershade (Седая тень), Sinklyde, Stubs Momuso.
+Все уникальные из https://kenshi.fandom.com/wiki/Unique_Recruits. Локации по regions-index.md. Стартовые навыки указаны по wiki (рандомизация ± где отмечено).
 
-## Generic / Generated Recruits
+| Имя (RU / EN) | Раса | Цена / условия | Локации (по индексу) | Ключевые навыки / роль | Предыстория / лор |
+|---------------|------|----------------|----------------------|------------------------|-------------------|
+| Агну / Agnu | Soldierbot | Бесплатно (клетка + два Meitou-оружия + враждебные рядом) | Башня Жестокости (Мщение) | 50 Strength. Единственный recruitable Soldierbot. Друг Бипа | Пленник в башне |
+| Бард / Bard | Greenlander | 3 000 | Плохие Зубы, Бугристый Холм, Стопка, путевые станции, Край Мира | Диалоги | Странствующий бард |
+| Бип / Beep | Hive Worker Drone | Бесплатно | Безродный (Острова тумана) | Уникальные диалоги | Изгнанник улья |
+| Бо / Bo | Scorchlander | Бесплатно (должен присоединиться к Anti-Slavers) | Чёрная Ссадина (Дальние земли) | 20 Katana, 84 Athletics/Stealth, 70 Assassination/Swimming, 50 Lockpicking/Thievery/Medic/Robotics | — |
+| Ожог / Burn | Skeleton | Бесплатно (диалог) | Башня Ожога (Пойма) | 15 в боевых (±2). Гарантированный скелет | — |
+| Кот / Cat | Scorchlander | Бесплатно (клетка + много низкоуровневых бандитов рядом) | Башня Пыльного Короля (Пограничная зона) | 10 Athletics, 40 Medic, 20 Science | — |
+| Чад / Chad | Scorchlander | 9 000 | Ровная лагуна | 15 боевых (20 Unarmed/Dodge), 20 Strength, 15 Toughness | — |
+| Корнелиус / Cornelius | Goat | 14 000 (торг до 7 000, но фактически 14 000) | Деревня Оседлых Кочевников (Обломки) | 15 боевых. Коза | — |
+| Крошка Джон / Crumblejon | Greenlander | Бесплатно | Безродный | 24 Strength, 10 боевых. Уникальные диалоги | Бывший самурай СГ |
+| Дина / Digna | Greenlander | 3 000 | Деревня Отщепенцев (Скрытый лес) | — | Убила отца, чтобы уйти из СН |
+| Доктор Чон / Doctor Chung | Greenlander | Бесплатно | Город из грязи, Акула (Болото) | 40 Medic, 15 Science | Болотный хирург |
+| Эллс / Ells | Shek | 300 | Шо-Баттаи (Великая пустыня) | 5 Medic, 12 Stealth, 20 Thievery | — |
+| Эсфер / Espher | Southern Hive Worker Drone | Бесплатно (клетка + много стражей СГ рядом) | Хранилище Теньгу (Рвущие пески) | Гарантированный южный рабочий дрон | — |
+| Зелёный / Green | Hive Worker Drone | 2 300 | Город из грязи, Акула | 10 Athletics, 65 Crossbow, 78 Turrets | — |
+| Зелёный палец / Green Finger | Scorchlander | 2 000 | Рыбацкая деревня (Берег левиафанов) | 18 Strength, 25 Engineer, 40 Labouring + Farming | — |
+| Гриффин / Griffin | Greenlander | 9 000 | Плохие Зубы, Бугристый Холм, Стопка | 20 во многих статах. Бывший святой страж | — |
+| Хамут / Hamut | Greenlander | Бесплатно | Город из грязи, Акула (очень малый шанс в любом городе СГ) | 13 боевых (±6). Уникальные диалоги | — |
+| Вынос мозга / Headshot | Shek | 7 500 | Глазница, Рабские рынки | 55 Turret, 50 Crossbow | — |
+| Хоббс / Hobbs | Greenlander | Бесплатно | Рыбацкая деревня, Хаб, путевые станции, Край Мира, Траур | Диалоги | — |
+| Конь / Horse | Shek | 4 500 | Рыбацкая деревня, Скуин | Диалоги | — |
+| Вечный Суньвынь / Infinite Wingwang | Greenlander | 100 000 (торг до ~5 000) | Безродный | 20 Strength/Dex/Sabre, 25 Attack, 10 Defense | — |
+| Изуми / Izumi | Greenlander | 2 500 | Любой город СГ | 40 Medic, 24 Science | — |
+| Самоцвет / Jewel | Scorchlander | 6 000 | Любой город СГ | 50 Cooking | — |
+| Кан / Kang | Shek | 6 000 | Адмаг, Скуин, Последний Бой | 20 боевых | — |
+| Нож / Knife | Greenlander | 6 000 | Деревня Отщепенцев | 10 боевых | — |
+| Луми / Lumi | Scorchlander | 6 000 | Город крабов (Восточные каньоны) | Любит крабов | — |
+| Лукин / Luquin | Scorchlander | Бесплатно (клетка + много стражей СГ рядом) | Хранилище Теньгу | 50 Stealth & Assassination, 10–20 боевых | — |
+| Мью / Miu | Greenlander | Бесплатно | Город из грязи, Акула | 30 Labouring, 60 Farming. Предупреждает о кровавых пауках | — |
+| Орон / Oron | Shek | 3 500 | Адмаг, Скуин, Последний Бой | 8 боевых/атлетика | — |
+| Пиа / Pia | Greenlander | 3 000 | Деревня Отщепенцев | 20 Strength, 10 Dex/Perception, 50 Athletics. Предупреждает о паладинах | — |
+| Гигант Ранэ / Rane the Giant | Shek | 7 500 | Адмаг, Скуин, Последний Бой | 20 боевых | — |
+| Рэй / Ray | Hive Soldier Drone | 1 000 | Глазница, Рабские рынки | 10 боевых. Немой | — |
+| Ред / Red | Greenlander | 150 | Барк | 20 Stealth & Athletics, 10 Assassination | — |
+| Рева / Reva | Greenlander | 6 000 | Деревня Отщепенцев | Диалоги | — |
+| Ридли / Riddly | Greenlander | Бесплатно | Любой город СГ | 8 боевых/атлетика | — |
+| Рука / Ruka | Shek | Бесплатно | Адмаг, Скуин, Последний Бой | 10 боевых | — |
+| Мрачный Нил / Sadneil | Skeleton | Бесплатно (диалог) | Чёрная Пустыня (Гиблые земли) | Диалоги | — |
+| Сэто / Seto | Shek | WS: сдача Хозяина Жуков или Феникса при отношениях >35, или 80 отношений с шеками. Нельзя при союзе с СН/СГ/Гильдией торговцев/работорговцами | Адмаг | 20 боевых. Дочь Эсаты | Наследница Краля |
+| Шрайк / Shryke | Scorchlander | Бесплатно | Безродный | Диалоги | — |
+| Седая тень / Silvershade | Hive Prince | 3 000 | Город из грязи, путевые станции, Край Мира, Ровная лагуна | 10 боевых | — |
+| Синклайд / Sinklyde | Shek | Бесплатно (клетка + много стражей СГ рядом) | Хранилище Теньгу | 10 боевых | — |
+| Соман / Soman | Greenlander | 3 500 | Рыбацкая деревня | 50 Engineering | — |
+| Стабс момусо / Stubs Momuso | Scorchlander | 5 000 | Город из грязи, Акула | 10–15 боевых | — |
+| Ямду / Yamdu | Hive Prince | WS: сдача Тинфиста | Край Торговца (Хэн) | 40 Dex/Athletics/Medic, 70 Engineering/Labour/Farm/Cooking | — |
 
-В барах городов и waystations. Цена 3k–7.5k. Статы обычно низкие (1–15), rag clothing, simple weapon. Специализации: medic, engineer, farmer, cook, gunner и др. После найма бар пустеет до re-import.
+### Отдельная сверка
 
-## Заметки
+- **Сэто**: сдача Хозяина Жуков или Феникса при отношениях >35 (или 80 отношений). Дополнительный бонус отношений при разговоре с Эсатой. Недоступна при союзе с СН, СГ, Гильдией торговцев или работорговцами. Источники: https://kenshi.fandom.com/wiki/Seto.
+- **Агну**: освобождение в Башне Жестокости (Мщение) из клетки при наличии враждебных рядом и Meitou. Источники: https://kenshi.fandom.com/wiki/Agnu.
+- **Зелёный палец**: 2 000 в Рыбацкой деревне (Deadcat). Источники: wiki Unique_Recruits.
+- **Мрачный Нил**: бесплатно в Чёрной Пустыне. Источники: wiki.
+- **Ожог**: бесплатно в Башне Ожога (Пойма). Гарантированный скелет. Источники: wiki.
 
-- Большинство unique spawn не гарантированы (random).
-- Free from prison/cage требует nearby enemies.
-- Некоторые требуют high relations или bounty turn-in.
-- Stats randomized ±, racial bonuses.
-- Полный список — Kenshi Wiki Unique_Recruits.
+Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.fandom.com/wiki/Seto, https://kenshi.fandom.com/wiki/Agnu, published/current/world_state.json (name_ru), docs/reference/regions-index.md.
 
-Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.zone. Vanilla only.
+## Генерируемые рекруты
+
+В барах городов и путевых станций. Цена обычно 3 000–7 500 катов. Стартовые навыки низкие (1–15), одежда rag, простое оружие. Специализации: медик, инженер, фермер, повар, стрелок и др. После найма бар опустевает до re-import. Можно нанимать пленных и рабов (после покупки становятся союзниками). Лимит отряда в ванилле не зафиксирован жёстко в проверенных источниках.
+
+Источники: https://kenshi.fandom.com/wiki/Playable_Characters, https://kenshi.fandom.com/wiki/Recruit.
+
+Источники раздела: https://kenshi.fandom.com/wiki/Unique_Recruits, kenshi.zone. Vanilla only.
