@@ -36,13 +36,34 @@
 
 ## Классы оружия
 
-Cut (режущий) vs Blunt (дробящий). Разные множители против людей / животных / роботов (в FCS). Штрафы в помещениях (reach). Тяжёлое оружие требует высокой силы. Примеры из локализации: Катана, Сабля, Рубач, Тяжёлое оружие, Дробящее, Древковое.
+Шесть основных классов ближнего боя. Cut (режущий) против Blunt (дробящий). Множители против людей / животных / роботов в FCS. Штрафы в помещениях (indoors). Тяжёлое оружие требует высокой силы.
 
-## Броня
+| Класс (RU/EN) | Уклон урона | Ключевые особенности | Штрафы / слабости | Примеры |
+|---------------|-------------|----------------------|-------------------|---------|
+| Катаны / Katanas | Чистый cut | Высокий attack mod, лёгкие, сильное кровотечение, бонус против людей | Слабы против брони и роботов (~60% урона), низкое бронепробитие (−15% до −30%) | Катана, Нодати, Вакидзаси |
+| Сабли / Sabres | Cut + немного blunt | Хороший defence mod | Часто отрицательный attack mod | Пустынная сабля, Иноземная сабля |
+| Тесаки / Hackers | Баланс cut/blunt | Бронепробитие +30%, бонус против роботов (+15–50%) | −10% против животных | Боевой тесак, Длинный тесак |
+| Тяжёлое / Heavy | В основном blunt | Большой урон по дуге, длинные | Высокое требование силы, штраф −6 в помещениях | Падающее солнце |
+| Дробящее / Blunt | Почти чистый blunt | Пробивает броню, мало кровотечения | Обычный урон | Железная палка, Джитте |
+| Древковое / Polearms | В основном cut | Длинный reach, лёгкие, бонус против животных (+50%) | Штраф −4 до −8 в помещениях | Бердыш, Нагината |
 
-Покрытие зон (coverage %), сопротивления (cut / blunt / pierce), штрафы (athletics, combat speed, stealth, dodge). Сопротивления нескольких предметов складываются мультипликативно.
+Арбалеты (Crossbows) наносят pierce-урон, который обходит cut-сопротивление обычной брони.
 
-**Тяжёлая броня (стандартный грейд, примеры):**
+Источники: https://kenshi.fandom.com/wiki/Weapons/Classes, https://kenshi.zone/en/weapons, https://kenshi.fandom.com/wiki/Damage.
+
+## Броня противников
+
+Типичные сопротивления и поведение (по FCS и wiki):
+
+- Туманники (Fogmen): низкая броня, хрупкие, массово выносят раненых к столбам для поедания принцами.
+- Людоеды (Cannibals): почти без брони, клубы и тесаки, выносят в клетки и готовят.
+- Рыболюды (Fishmen): средняя броня, массовые атаки.
+- Паладины (Holy Nation): Святая нагрудная пластина (высокий cut-резист, штрафы на dodge/dex).
+- Самураи (United Cities): Доспех самурая (высокое покрытие груди/живота/рук).
+- Шекские воины: тяжёлая броня, высокие статы.
+- Механические (пауки, охранные машины): иммунитет к кровотечению, уязвимы к blunt и hackers.
+
+Тяжёлая броня (стандартный грейд, примеры):
 
 | Предмет (RU/EN) | Coverage (основные) | Cut | Blunt | Pierce | Вес | Штрафы |
 |-----------------|---------------------|-----|-------|--------|-----|--------|
@@ -50,9 +71,27 @@ Cut (режущий) vs Blunt (дробящий). Разные множител�
 | Доспех самурая / Samurai Armour | Грудь 100%, живот/руки 85% | 40% | 26% | 36 | 20.25 кг | Dodge 60%, Dex 100% |
 | Доспех наёмника / Mercenary Plate | — | 33% | 21% | 27 | 20 кг | — |
 
-Грейды брони: Prototype (5) → Shoddy (20) → Standard (40) → High (60) → Specialist (80) → Masterwork (95). Святая Нация: паладины в Holy Chest Plate. Союзные Города: самурайские комплекты. Полные сеты сильно снижают скорость и скрытность.
+Грейды брони: Prototype (5) → Shoddy (20) → Standard (40) → High (60) → Specialist (80) → Masterwork (95).
 
-Источники: https://kenshi.zone/en/item-holy-chest-plate, https://kenshi.zone/en/item-samurai-armour, https://kenshi.zone/en/item-heavy-armour, https://kenshi.fandom.com/wiki/Armor_Stats.
+Источники: https://kenshi.zone/en/item-holy-chest-plate, https://kenshi.zone/en/item-samurai-armour, https://kenshi.fandom.com/wiki/Armor_Stats, https://kenshi.fandom.com/wiki/Fogmen.
+
+## Массовый бой
+
+Численный перевес, окружение. Нокаут (KO) при уроне по витальным частям (голова, грудь, живот) ниже 0 или потере крови. Туманники, людоеды и рыболюды выносят раненых (carry) в лагеря для поедания или приготовления. Новые группы могут присоединяться к бою.
+
+Источники: https://kenshi.fandom.com/wiki/Fogmen, https://kenshi.zone/en/deadhive, https://kenshi.zone/en/cannibals.
+
+## Скрытые операции
+
+Нокаут (Assassination skill), переноска (carry +30 кг веса, двойной XP силы), похищение спящего. Тревога при свидетелях, шуме, обнаружении. Охранники реагируют на незаконные действия.
+
+Источники: https://kenshi.fandom.com/wiki/Guide_to_Health, community reports.
+
+## Развитие персонажа
+
+Навыки растут от использования: сила от переноски тяжёлого / боя, атлетика от бега, скрытность от sneak, toughness от получения урона, медицина от лечения. Скорость роста снижается на высоких уровнях. Ориентир 70–80 требует длительной тренировки; точных формул скорости в проверенных источниках нет.
+
+Источники: Kenshi Wiki (Skills), kenshi.zone.
 
 ## Протезы
 
@@ -64,11 +103,22 @@ Cut (режущий) vs Blunt (дробящий). Разные множител�
 3. Skeleton Legs / Arms (Level 5, AI Cores)
 4. Специализированные (Scout, Stealth, KLR, Industrial — Level 6)
 
-**Проверка: Hiver Skeleton Legs/Arms (Tech)** — Vanilla. Описание: «копия технологии Economy Legs улья, первый шаг к производству заменяемых конечностей». Применимы ко всем гуманоидным расам (включая Hivers и Skeletons после потери конечности). Крафт на Skeleton Limb Bench. Качество зависит от навыка «Роботехника» (Robotics).
+**Числовые множители (примерно, Masterwork; по kenshi.zone и wiki):**
 
-Множители (примерно, Masterwork): Scout Legs +athletics, Stealth Legs +stealth, Skeleton Arms +dexterity, Industrial +strength, KLR — баланс.
+| Модель | HP | Athletics | Stealth | Strength | Dexterity | Swimming | Примечание |
+|--------|----|-----------|---------|----------|-----------|----------|------------|
+| Economy Leg | 95 | −14% | −14% | — | — | −50% | Базовый |
+| Skeleton Leg | 170 | +10% | −33% до −43% | — | — | −25% | |
+| Stealth Leg | 170 | +4–5% | +25% | — | — | −25% | |
+| Scout Leg | 145 | +38% | −8% | — | — | −1% | Лучший бег |
+| KLR Series Leg | 290 | 0 | −52% | — | — | −50% | Макс. HP |
+| Skeleton Arm | 170 | — | — | 0 | +25% | −25% | |
+| Industrial Lifter Arm | 195 | — | — | +23.8% | 0 | −25% | |
+| KLR Series Arm | 245 | — | — | +10% | +10% | −25% | |
 
-Источники: https://kenshi.zone/en/robotic-limbs, https://kenshi.zone/en/item-skeleton-legs-tech, https://kenshi.fandom.com/wiki/Hiver_Skeleton_Legs_(Tech), https://kenshi.fandom.com/wiki/Robot_Limbs.
+Hiver Skeleton Legs/Arms (Tech) — Vanilla. Применимы ко всем гуманоидным расам. Крафт на Skeleton Limb Bench. Качество зависит от навыка «Роботехника» (Robotics).
+
+Источники: https://kenshi.zone/en/robotic-limbs, https://kenshi.zone/en/item-skeleton-legs-tech, https://kenshi.fandom.com/wiki/Robot_Limbs, https://kenshi.fandom.com/wiki/Hiver_Skeleton_Legs_(Tech).
 
 ## Экономика и торговля
 
@@ -86,11 +136,5 @@ Cut (режущий) vs Blunt (дробящий). Разные множител�
 Воры шиноби покупают за половину цены. Награды за головы (bounties): от ~10k до 100k+ катов (Феникс, Хозяин Жуков и др.).
 
 Источники: https://kenshi.zone/en/economy, https://kenshi.zone/en/item-hashish, https://kenshi.fandom.com/wiki/Hashish.
-
-## Прочее
-
-- Массовый бой: численный перевес, окружение, knockout (KO), вынос раненых (туманники, людоеды, рыболюди).
-- Скрытые операции: knockout, carry, похищение спящих. Условия тревоги (свидетели, шум).
-- Развитие: sparring, toughness от урона, athletics от бега, stealth от скрытности. Ориентиры высоких уровней 70–80+.
 
 Источники раздела: FCS, Kenshi Wiki (Weapons, Armor, Limbs, Hashish), kenshi.zone (weapons, armour, robotic-limbs, economy, item-*). Vanilla only.
