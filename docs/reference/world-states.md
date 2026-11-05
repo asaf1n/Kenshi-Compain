@@ -1,80 +1,146 @@
-# World States, Town Overrides и уникальные NPC (Kenshi Vanilla)
+# Состояния мира (World States) — Kenshi Vanilla
 
-Источники: игровые данные через FCS/Web FCS (приоритет), Kenshi Wiki (kenshi.fandom.com), kenshi.zone research notes, Steam guides, сообщества. При расхождениях указаны оба. Русские названия по справочнику Kenshi_RU_EN.md; английское в скобках при первом упоминании.
+Справочник описывает систему World States в Kenshi 1 (Vanilla). Источники: игровые данные (FCS / https://web-fcs.kenshi.wiki/), Kenshi Wiki (kenshi.fandom.com), kenshi.zone. Русские названия — из docs/Kenshi_RU_EN.md и docs/reference/regions-index.md. Английское название приводится в скобках при первом упоминании.
 
-## Механика World States
+## Механика
 
-World States — система учёта состояния уникальных NPC (жив и свободен / пленён / мёртв). Изменения затрагивают Town Overrides (полная замена поселения) и Homeless Spawns (патрули/рейды в зонах). «Жив» означает жив и свободен. Пленение и смерть в большинстве условий эквивалентны («не жив»). Некоторые условия различают: 7 записей используют только imprisoned (включая Феникса, Эсату, Тенгу, Лонгена, королев Улья); 26 — только смерть. Вербовка не считается исчезновением. Приоритет override: наибольшее число условий; при равенстве — первый в списке. Изменения применяются при загрузке зоны. [kenshi.zone World States notes; Kenshi Wiki World States]
+World States — записи в данных игры (152 записи), отслеживающие состояние уникальных NPC: жив и свободен («alive»), пленён («imprisoned»), мёртв («dead»). Условия проверяются при загрузке зоны. Изменения затрагивают Town Overrides (полная замена поселения: здания, лавки, жители, охрана) и Homeless Spawns (патрули, рейды).
 
-Игрок не может полностью уничтожить большинство фракций: остаются remnants, отдельные поселения (Holy Farms, Tengu's Vault, Spring, Last Stand и т.д.). [Kenshi Wiki; kenshi.zone]
+«Жив» в условиях означает жив и свободен. Пленение и смерть в большинстве условий эквивалентны, поскольку условие «не жив» покрывает оба состояния. Только 7 записей используют состояние «imprisoned» отдельно (включая Святого Лорда Феникса (Holy Lord Phoenix), Эсату Каменного Голема (Esata the Stone Golem), Императора Тенгу (Emperor Tengu), Лонгена (Longen) и королев Улья). 26 записей используют только «dead». Вербовка NPC не снимает его с учёта: нахождение в отряде игрока считается присутствием.
 
-## Проверки
+Приоритет выбора Town Override: выбирается вариант с наибольшим числом выполняющихся условий; при равенстве — первый в списке. Изменения применяются при повторном входе в зону. Игрок не может полностью уничтожить большинство фракций: остаются remnants и отдельные поселения (Святые фермы, Хранилище Теньгу, Скачок, Последний Бой и др.).
 
-1. **Пленение vs смерть (Феникс / Бугристый Холм / Святые военные базы)**: Эквивалентны для большинства. Сдача Феникса (Holy Lord Phoenix) живым Эсате (Esata the Stone Golem) триггерит те же эффекты, что и смерть: Бугристый холм (Blister Hill) разрушается (или переходит к Flotsam/Outlaws при условиях), Святые военные базы (Holy Military Bases) становятся Deadhive Overrun (Fogmen), появляются Fogmen nests в Окранов залив (Okran's Gulf). [Kenshi Wiki Holy Lord Phoenix, Holy Military Base/Fogmen; kenshi.zone Phoenix]
+Источники: https://kenshi.zone/en/world-states, https://kenshi.fandom.com/wiki/World_States
 
-2. **Мёртвый NPC сданный за награду (Летящий Бык / Flying Bull) vs живой (Призрак / Ghost)**: Оба устанавливают флаг «не жив и свободен». Для Flying Bull (Летящий Бык): New Kralia (Новая Кралия) становится руинами при imprisoned/dead. Для Ghost (Призрак): патрули Berserkers halved/broken. Сдача тела даёт 50% награды, но World State тот же. [Kenshi Wiki Flying Bull, Ghost; bounty guides]
-
-3. **Deadhive override**: Deadhive (Мёртвый улей) — Fogmen (туманники), Hivers, потерявшие связь с королевой/феромонами. При смерти/пленении Western/Southern Hive Queen: Hive villages → Deadhive Overrun. При Phoenix dead/imprisoned: Holy Military Bases → Fogmen ruins + nests в Okran's Gulf. Связь: теория сообщества — Fogmen = Hive без королевы. [kenshi.zone Deadhive; Kenshi Wiki Fogmen, Deadhive Overrun]
-
-4. **Файлы rebirth.mod, Dialogue.mod, Newwworld.mod, __world reactions*.mod, __Mourn.mod**: Часть Vanilla base data (gamedata). Загружаются по умолчанию в FCS вместе с gamedata.base. Не пользовательские моды. [Steam community discussions; FCS behavior]
-
-## Уникальные NPC, связанные с World States
+## Уникальные NPC
 
 ### Святая Нация (Holy Nation)
-- **Святой Лорд Феникс (Holy Lord Phoenix)**: Blister Hill. Награда ~100k (Shek/UC/Flotsam/Rebel). Не вербуем. Смерть/пленение: Blister Hill ruins (или Flotsam если Moll alive + Seta/Valtena gone), Holy Military Bases → Deadhive, reduced HN patrols, Fogmen в Okran's Gulf, Wrath of God raids. [Wiki; kenshi.zone]
-- **Верховный Инквизитор Сета (High Inquisitor Seta)**: Stack. Награда 40k. Смерть/пленение: Stack/Bad Teeth → Shek (если Esata) или Kral's Chosen (если Flying Bull) или ruins. [ISK Mogul; Wiki]
-- **Верховный Инквизитор Вальтена (High Inquisitor Valtena)**: Okran's Shield. Смерть/пленение: Okran's Shield → UC/Shek/Reavers/ruins в зависимости от лидеров. [Wiki]
 
-### Союзные Города (United Cities) и Traders Guild
-- **Император Тенгу (Emperor Tengu)**: Heft/Tengu's Vault. Смерть/пленение: многие города half-destroyed/prosperous (Empire Peasants), Samurai Rogues. [kenshi.zone]
-- Nobles (Lady Sanda, Tsugi, Merin, Lords Inaba etc.): влияют на specific towns (Bark, Heng и т.д.).
-- **Лонген (Longen)**: Traders Guild. Влияет на prosperous overrides.
+**Святой Лорд Феникс (Holy Lord Phoenix)**  
+Фракция: Святая Нация. Местоположение: Бугристый Холм (Blister Hill). Охрана: паладины и инквизиторы. Оружие: кресты и т.п. (грейд по данным FCS — стандартный для элиты). Награда за голову: около 100 000 кэт (выдаётся в Королевстве Шек, Союзных Городах, Ниндзя отщепенцам, Мятежным фермерам). Не вербуем.  
+Эффекты при смерти/пленении (в большинстве случаев эквивалентны): Бугристый Холм становится руинами (или переходит к Ниндзя отщепенцам при живой Молл и выбывших Сета/Валтэна); Святые военные базы (Holy Military Bases) становятся Deadhive Overrun (туманники); появляются гнёзда туманников в Окрановом заливе; патрули Святой Нации ослабевают; запускается рейд «Гнев Божий» (Wrath of God).  
+«Жив и свободен» — присутствует в Бугристом Холме и не в клетке.  
+
+Источники: https://kenshi.fandom.com/wiki/Holy_Lord_Phoenix, https://kenshi.zone/en/world-states
+
+**Верховный инквизитор Сета (High Inquisitor Seta)**  
+Местоположение: Стопка (Stack). Награда: около 40 000 кэт.  
+Эффекты: Стопка и Плохие Зубы переходят к Королевству Шек при живой Эсате, к Избранному Крала (Kral's Chosen) при живом Летящем Быке и мёртвой Эсате, или в руины при выбытии ключевых персонажей.  
+
+Источники: https://kenshi.fandom.com/wiki/High_Inquisitor_Seta, https://kenshi.zone/en/high-inquisitor-seta
+
+**Верховный инквизитор Валтэна (High Inquisitor Valtena)**  
+Местоположение: Щит Окрана (Okran's Shield). Награда: около 40 000 кэт.  
+Эффекты: Щит Окрана переходит к Союзным городам (при живом Тенгу), к Королевству Шек (при живой Эсате и альянсе игрока), к Разбойникам или в руины. Кулак Окрана становится полуразрушенным или переходит к людоедам при выбывшем Фениксе. Дрин разрушается.  
+
+Источники: https://kenshi.fandom.com/wiki/High_Inquisitor_Valtena, https://kenshi.zone/en/okrans-shield
 
 ### Королевство Шек (Shek Kingdom)
-- **Эсата Каменный Голем (Esata the Stone Golem)**: Admag. Награда 100k. Смерть/пленение: Admag → Berserkers, Squin new leader (Mukai), Kamikaze patrols. [Wiki]
-- **Мукаи Гора (Mukai the Mountain)**: Squin override.
-- **Летящий Бык (Flying Bull)**: New Kralia. Награда 30k. Alive free: takeovers Stack/Bad Teeth/Squin в определённых условиях.
-- **Призрак (Ghost)**: Berserker Village. Награда 10k. Death: reduced patrols; alive + Seta gone: patrols в Okran's Gulf; can take Admag/Squin.
 
-### Другие
-- **Молл (Moll)**: Flotsam Ninjas. Alive: can take Blister Hill/Rebirth.
-- **Баян (Bayan)**: диалоги по bounty/альянсам.
-- Bugmaster (Бугристый Холм / Arach): death destroys location, Meitou sabre.
-- Hive Queens, Tinfist, Crab Queen, Valamon, Boss Simion, Shade, Big Gray/Grim, Yabuta, Screamer/Ponk, King Gurgler и др. — см. списки в kenshi.zone и Wiki.
+**Эсата Каменный Голем (Esata the Stone Golem)**  
+Местоположение: Адмаг (Admag). Награда: около 50 000–100 000 кэт.  
+Эффекты при смерти/пленении: Адмаг переходит к берсеркам; Скуин получает нового лидера (Мукаи) или переходит к Избранному Крала / берсеркам.  
 
-Таблица ключевых (сокращённо; полный в источниках):
+Источники: https://kenshi.fandom.com/wiki/Esata_the_Stone_Golem, https://kenshi.zone/en/esata
 
-| NPC | Фракция | Место | Награда | Эффект при gone |
-|-----|---------|-------|---------|-----------------|
-| Phoenix | HN | Blister Hill | 100k | Blister ruins, Deadhive bases, Wrath of God |
-| Esata | Shek | Admag | 100k | Admag Berserkers, Squin Mukai |
-| Tengu | UC | Heft | - | UC towns prosperous/half-destroyed |
-| Flying Bull | Kral's Chosen | New Kralia | 30k | New Kralia ruins; takeovers if alive |
-| Ghost | Berserkers | Berserker Village | 10k | Reduced patrols |
+**Летящий Бык (Flying Bull)**  
+Местоположение: Новая Кралия (New Kralia). Награда: около 30 000 кэт (Королевство Шек). Оружие: уникальный топор Bull Horn Axe. Броня: Standard (шанс High).  
+Эффекты при смерти/пленении: Новая Кралия становится руинами; патрули Избранного Крала ослабевают.  
+При живом и свободном: может захватить Скуин (при выбытии Эсаты и Мукаи), Стопку и Плохие Зубы (при выбытии Эсаты и Сета).  
+
+Источники: https://kenshi.fandom.com/wiki/Flying_Bull, https://kenshi.fandom.com/wiki/New_Kralia
+
+**Призрак (Ghost)**  
+Местоположение: Деревня Берсерков (Berserker Village). Награда: около 10 000 кэт.  
+Эффекты: при смерти/пленении патрули берсерков ослабевают; при живом может захватить Адмаг/Скуин при выбытии других лидеров.  
+
+Источники: https://kenshi.fandom.com/wiki/Ghost
+
+**Бесстрашная Тора (Tora the Fearless)**  
+Местоположение: Лагерь изгнанников (Exile Camp). Награда: около 10 000 кэт (Королевство Шек).  
+Эффекты при смерти/пленении: патрули Банды костей (Band of Bones) прекращаются или ослабевают; рейд прекращается. При живой может захватить Деревню Серодёров при выбытии Большого Серого и Большого Грима.  
+
+Источники: https://kenshi.fandom.com/wiki/Tora_the_Fearless
+
+### Другие ключевые NPC
+
+Хозяин Жуков (Bugmaster): Трон Хозяина Жуков (Throne of the Bugmaster) в Арахе (Arach). Награда 100 000 кэт. Смерть разрушает локацию.  
+
+Источники: https://kenshi.fandom.com/wiki/Bugmaster, https://kenshi.fandom.com/wiki/Throne_of_the_Bugmaster
+
+Молл (Moll): Ниндзя отщепенцы (Flotsam Ninjas). При живой может захватить Бугристый Холм и Возрождение при выбытии лидеров Святой Нации.  
+
+Королевы Улья (Western/Southern Hive Queen): смерть/пленение превращает деревни улья в Deadhive Overrun.  
+
+Император Тенгу, Лонген и дворяне Союзных Городов / Гильдии Торговцев влияют на процветающие и полуразрушенные варианты городов.
 
 ## Town Overrides
 
-Типы: Destroyed (руины), Faction takeover, Prosperous (часто Empire Peasants), Half-destroyed, Malnourished/Famine. 117+ towns, 234 versions. Игрок buildings обычно сохраняются. [kenshi.zone Town Overrides]
+Для поселений с переопределениями приведены основные варианты и условия. Полный список превышает 100 поселений; ниже — ключевые, включая указанные в задании.
 
-Примеры:
-- Bad Teeth: half-destroyed / destroyed / Shek / Kral's Chosen / UC (по условиям Phoenix/Seta/Esata/Flying Bull/Tengu).
-- Stack: Shek (Esata) / Kral's (Flying Bull) / ruins.
-- Holy Military Base: Deadhive при Phoenix gone.
-- Squin: new leader / Kral's / Berserkers / destroyed.
-- Admag: Berserkers при Esata gone.
-- Hive villages: Deadhive Overrun при Queen gone.
-- UC towns (Heng, Bark etc.): зависят от Tengu + nobles + slavers.
+**Стопка (Stack) и Плохие Зубы (Bad Teeth)**  
+- К Королевству Шек: Сета выбыл, Эсата жива и свободна.  
+- К Избранному Крала: Сета и Эсата выбыли, Летящий Бык жив и свободен.  
+- В руины: ключевые персонажи выбыли.  
+Плохие Зубы дополнительно: полуразрушен при выбывшем Фениксе и живом Сета; к Союзным Городам при выбытии Сета, Валтэна, Эсаты и живых Тенгу + Лонгене.  
 
-## Рейды и события
+Источники: https://kenshi.fandom.com/wiki/Stack, https://kenshi.fandom.com/wiki/Bad_Teeth, https://kenshi.fandom.com/wiki/Bad_Teeth/Shek_Kingdom
 
-- **Гнев Божий (Wrath of God)**: при Phoenix gone. Recurring HN assault на player outposts (или towns). Led by Seta (bugged variants). До 80+ units. Постоянный риск. [Kenshi Wiki Wrath of God]
-- Другие: Challenger of the Undefeated (Bugmaster related), Hive attacks и т.д. Некоторые never-ending.
+**Щит Окрана (Okran's Shield)**  
+- К Союзным Городам: Валтэна выбыл, Тенгу жив.  
+- К Королевству Шек: Валтэна выбыл, Эсата жива, игрок в альянсе с шеками.  
+- К Разбойникам: Валтэна, Тенгу, Цуги выбыли, Валамон жив.  
+- В руины: Валтэна и Тенгу выбыли.  
 
-## Связанные диалоги
+Источники: https://kenshi.zone/en/okrans-shield, https://kenshi.fandom.com/wiki/Okran%27s_Shield
 
-- Молл (Moll): Flotsam takeover options.
-- Эсата: комментарии о HN collapse.
-- Баян: bounty turn-ins, alliances, suggestions по Shek enemies (Berserkers etc.).
-- Феникс: questline Holy Nation Route (Seto etc.).
+**Кулак Окрана (Okran's Fist)**  
+Полуразрушен или к людоедам при выбывшем Фениксе (и/или Валтэна).  
 
-Источники: Kenshi Wiki (World_States, individual NPC/Town pages), kenshi.zone (world-states, town-overrides, deadhive, phoenix, berserkers), ISK Mogul guides, Steam bounty lists. Данные Vanilla; моды (Reactive World и др.) отброшены.
+**Бугристый Холм (Blister Hill)**  
+В руины при выбывшем Фениксе; к Ниндзя отщепенцам при живой Молл.  
+
+**Святые военные базы**  
+Deadhive Overrun (туманники) при выбывшем Фениксе.  
+
+**Новая Кралия (New Kralia)**  
+В руины при выбывшем Летящем Быке.  
+
+**Акула (Shark)**  
+All ded / разрушена при выбытии ключевых болотных лидеров (Большой Грим и др.).  
+
+**Гниль (Rot), Деревня Серодёров (Grayflayer Village)**  
+Зависят от лидеров болотных фракций; Деревня Серодёров может перейти к Банде костей при выбытии Большого Серого и Большого Грима и живой Торе.  
+
+Источники: https://kenshi.fandom.com/wiki/Town_Overrides, https://kenshi.zone/en/world-states
+
+## Цепочки Святой Нации
+
+**Сета:** Стопка и Плохие Зубы переходят к шекам при живой Эсате, иначе к Избранному Крала (при живом Летящем Быке) или в руины.  
+
+**Валтэна:** Щит Окрана переходит к Союзным Городам или шекам; Кулак Окрана — к людоедам при выбывшем Фениксе; Дрин разрушается.  
+
+**Все трое (Феникс, Сета, Валтэна) выбыли:** армия Нации распадается, появляются отбившиеся паладины (Strayed Paladins); Бугристый Холм и Возрождение переходят к Ниндзя отщепенцам при живой Молл; Святые фермы — к работорговцам при живых Тенгу и Лонгене. Появляются патрули Избранного Крала, берсерков, Сотни стражей в регионах Окрановой гордости, Окранова залива и др.  
+
+Источники: https://kenshi.fandom.com/wiki/World_States, https://kenshi.zone/en/world-states, страницы отдельных NPC.
+
+## Рейды World States
+
+**Гнев Божий (Wrath of God)**  
+Условие: смерть или пленение Святого Лорда Феникса (или победа над Retribution of God). Состав: до ~80 юнитов (инквизиторы, паладины, слуги); первый вариант ведёт Сета. Цель: аванпост игрока (дома в городах не атакуются). Повторяющийся. Есть баг с вариантом Валтэны.  
+
+Источники: https://kenshi.fandom.com/wiki/Wrath_of_God
+
+Другие рейды (Retribution of God, рейды банд и т.д.) зависят от конкретных лидеров и расстояния до базы.  
+
+## Исправления ошибок черновика
+
+- Хозяин Жуков (Bugmaster) находится в Арахе (Трон Хозяина Жуков), а не в Бугристом Холме.  
+- Утверждение «Феникс: questline Holy Nation Route (Seto)» неверно. Сэто вербуется после сдачи Феникса Эсате при отношениях с Королевством Шек выше 35 (или 80 без сдачи). Источники: https://kenshi.fandom.com/wiki/Seto, https://kenshi.zone/en/seto  
+- Летящий Бык: сдача тела за награду устанавливает флаг «не жив и свободен» (state_code, соответствующий dead/imprisoned). То же для Призрака. В сейве кампании state_code 0 для Летящего Быка при сданном теле требует проверки импорта/флагов; стандартное поведение — флаг устанавливается.  
+- Бесстрашная Тора добавлена (см. выше).  
+- «7 записей используют только imprisoned»: это записи, различающие пленение и смерть (Феникс, Эсата, Тенгу, Лонген, королевы Улья и др.). Для них пленение не эквивалентно смерти в некоторых условиях. Для большинства других условий эквивалентны.  
+
+Подтверждённые выводы: пленение и смерть для большинства условий равнозначны; файлы rebirth.mod, Dialogue.mod, Newwworld.mod, __world reactions*.mod — данные Vanilla.
+
+Источники раздела: https://kenshi.zone/en/world-states, https://kenshi.fandom.com/wiki/World_States, https://kenshi.fandom.com/wiki/Seto, https://kenshi.fandom.com/wiki/Tora_the_Fearless
