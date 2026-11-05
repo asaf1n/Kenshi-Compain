@@ -1,1 +1,0 @@
-$(cat /workspace/artifacts/regions_atlas.md)
