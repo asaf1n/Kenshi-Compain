@@ -1,58 +1,52 @@
-# Справочник рекрутов Kenshi (Vanilla) — структура и ключевые данные
+# Справочник рекрутов Kenshi (Vanilla)
 
-Источники: Kenshi Wiki (Unique_Recruits, Playable_Characters), kenshi.zone (recruitment-squad), community guides (pindrop.gg, etc.). Vanilla only. ~44 unique named recruits + generic bar/random.
+Справочник по найму NPC в Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Unique_Recruits, Playable_Characters), kenshi.zone (recruitment-squad). Русские названия — приоритетно из docs/Kenshi_RU_EN.md. ~44 unique named recruits + generic bar/random. Связь с npc.md и world-states.md. Vanilla only.
 
-## Предлагаемая структура справочника
+## Способы найма
 
-1. **Введение**: Способы найма (bar hire 3k–7.5k, free unique, free from cage/prison, world state conditions, slaves that become allies, lifesaver dialogue).
-2. **Unique Recruits** (named, fixed dialogue/stats):
-   - Таблица: Имя | Раса | Стоимость/условия | Локации | Ключевые stats/особенности | Лор/бекграунд.
-3. **Generic / Generated Recruits**:
-   - Типы (rookie, adventurer, warrior, specialist: cook, engineer, farmer, doctor, etc.).
-   - Статы: обычно низкие (1–15), rag clothing, simple weapon, hungry.
-   - Локации: bars в городах, waystations.
-   - Не обновляются после найма/смерти.
-4. **Особые условия**:
-   - Free from cages (Agnu, Cat, Espher, Luquin, Sinklyde) — нужно nearby hostiles.
-   - World State: Seto (Bugmaster/Phoenix or 80 relations), Yamdu (Tinfist), Bo (Anti-Slavers).
-   - Dialogue-based free (Crumblejon, Burn, Hobbs, etc.).
-5. **Сводная таблица** по расам и стоимости.
-6. **Заметки**: Stats randomized ±, racial bonuses, spawn not guaranteed.
+- Bar hire (обычно 3k–7.5k катов)
+- Free unique (диалог)
+- Free from cage / prison (нужны nearby hostiles)
+- World State conditions (bounty turn-in, relations)
+- Slaves → allies (купить у Slaver Boss)
+- Lifesaver dialogue (после спасения жизни)
 
-## Ключевые Unique Recruits (выборка; полный список по вики)
+## Unique Recruits (ключевые)
 
-| Имя | Раса | Стоимость/условия | Локации | Особенности |
-|-----|------|-------------------|---------|-------------|
-| Agnu | Soldierbot | Free (free from cage + meitou hostiles nearby) | Tower of Abuse | Только recruitable Soldierbot, 50 Strength, Beep's friend |
-| Beep | Hive Worker Drone | Free | Mongrel | Beep, unique dialogue |
-| Bo | Scorchlander | Free (join Anti-Slavers / enemy of UC/Traders/Slavers) | Black Scratch | 84 Athletics/Stealth, 70 Assassination, high stealth specialist |
-| Burn | Skeleton | Free (dialogue) | Burn's Tower (Floodlands) | Guaranteed Skeleton, ~15 combat |
-| Cat | Scorchlander | Free (free + low-level bandits nearby) | Dust King Tower | 40 Medic, 20 Science |
-| Crumblejon | Greenlander | Free (dialogue) | Mongrel | 24 Strength, unique dialogue |
-| Griffin | Greenlander | 9,000 | Bad Teeth, Blister Hill, Stack | ~20 combat, unique dialogue (former Holy Sentinel) |
-| Infinite Wingwang | Greenlander | 100k (bargain to 5k) | Mongrel | High sabre/strength |
-| Ruka | Shek | Free | Admag, Squin, Last Stand | ~10 combat, fan-favorite |
-| Sadneil | Skeleton | Free (dialogue) | Black Desert City | Unique dialogue |
-| Seto | Shek | WS: Bugmaster or Phoenix or 80 Shek relations | Admag | ~20 combat |
-| Yamdu | Hive Prince | WS: turn in Tinfist | Trader's Edge | High engineering/labour/farm/cooking (~70) |
-| Green | Hive Worker Drone | 2,300 | Mud Town, Shark | 65 Crossbow, 78 Turrets |
-| Miu | Greenlander | Free | Mud Town, Shark | High farming, warns of blood spiders |
-| Soman | Greenlander | 3,500 | Fishing Village (Deadcat) | 50 Engineering |
-| Luquin | Scorchlander | Free (free + UC guards nearby) | Tengu's Vault | 50 Stealth & Assassination |
-| Ray | Hive Soldier Drone | 1,000 | Eyesocket, Slave Markets | Mute, ~10 combat |
-| Cornelius | Goat | 14,000 | Settled Nomad Village | Is a Goat, ~15 combat |
+| Имя (RU/EN) | Раса | Стоимость / условия | Локации | Особенности |
+|-------------|------|---------------------|---------|-------------|
+| Агну / Agnu | Soldierbot | Free (cage + nearby hostiles) | Tower of Abuse | Единственный recruitable Soldierbot, 50 Strength |
+| Бип / Beep | Hive Worker Drone | Free | Mongrel (Безродный) | Unique dialogue |
+| Бо / Bo | Scorchlander | Free (Anti-Slavers / enemy of UC) | Black Scratch | Высокая stealth / athletics |
+| Ожог / Burn | Skeleton | Free (dialogue) | Burn's Tower (Пойма) | Guaranteed Skeleton |
+| Кот / Cat | Scorchlander | Free (cage + low-level bandits) | Dust King Tower | Medic / Science |
+| Крошка Джон / Crumblejon | Greenlander | Free (dialogue) | Mongrel | Unique dialogue |
+| Гриффин / Griffin | Greenlander | 9,000 | Bad Teeth, Blister Hill, Stack | Former Holy Sentinel |
+| Infinite Wingwang | Greenlander | 100k (bargain ~5k) | Mongrel | High sabre |
+| Рука / Ruka | Shek | Free | Admag, Squin, Last Stand | Fan-favorite |
+| Сэднил / Sadneil | Skeleton | Free (dialogue) | Black Desert City | Unique dialogue |
+| Сэто / Seto | Shek | WS: Bugmaster / Phoenix или 80 Shek relations | Admag | — |
+| Ямду / Yamdu | Hive Prince | WS: turn in Tinfist | Trader's Edge | High engineering / labour |
+| Зелёный / Green | Hive Worker Drone | 2,300 | Mud Town, Shark | Crossbow / Turrets |
+| Мия / Miu | Greenlander | Free | Mud Town, Shark | Farming |
+| Соман / Soman | Greenlander | 3,500 | Fishing Village | Engineering |
+| Лукин / Luquin | Scorchlander | Free (cage + UC guards) | Tengu's Vault | Stealth / Assassination |
+| Рей / Ray | Hive Soldier Drone | 1,000 | Eyesocket, Slave Markets | Mute |
+| Корнелиус / Cornelius | Goat | 14,000 | Settled Nomad Village | Is a Goat |
 
-### Другие notable
-- Bard, Digna, Doctor Chung, Ells, Espher, Green Finger, Hamut, Headshot, Hobbs, Horse, Izumi, Jewel, Kang, Knife, Lumi, Oron, Pia, Rane the Giant, Red, Reva, Riddly, Shryke, Silvershade, Sinklyde, Stubs Momuso.
+### Другие notable unique
+Bard, Digna, Doctor Chung, Ells, Espher, Green Finger (Зелёный палец), Hamut, Headshot (Вынос мозга), Hobbs, Horse, Izumi, Jewel, Kang, Knife, Lumi, Oron, Pia, Rane the Giant, Red, Reva, Riddly, Shryke, Silvershade (Седая тень), Sinklyde, Stubs Momuso.
 
-### Generic Recruits
-- В барах городов/waystations. Цена 3k–7.5k. Статы низкие, специализируются (medic, engineer, farmer, cook, gunner). После найма бар пустеет до re-import.
+## Generic / Generated Recruits
 
-### Условия и механики
+В барах городов и waystations. Цена 3k–7.5k. Статы обычно низкие (1–15), rag clothing, simple weapon. Специализации: medic, engineer, farmer, cook, gunner и др. После найма бар пустеет до re-import.
+
+## Заметки
+
 - Большинство unique spawn не гарантированы (random).
 - Free from prison/cage требует nearby enemies.
 - Некоторые требуют high relations или bounty turn-in.
-- Slaves: купить у Slaver Boss → могут стать allies/player characters.
-- Lifesaver dialogue: после спасения жизни.
+- Stats randomized ±, racial bonuses.
+- Полный список — Kenshi Wiki Unique_Recruits.
 
-Полный список и детали — по Kenshi Wiki Unique_Recruits и kenshi.zone recruitment. Связь с npc.md и world-states.md.
+Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.zone. Vanilla only.
