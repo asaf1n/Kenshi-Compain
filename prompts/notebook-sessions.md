@@ -4,7 +4,7 @@
 
 ## Источники блокнота
 
-Источники — зеркало GitHub `main` (https://github.com/asaf1n/Kenshi-Compain) на Google Диске; файлы Диска синхронизируются автоматически.
+Источники — файлы GitHub `main` (https://github.com/asaf1n/Kenshi-Compain) на Google Диске; файлы Диска синхронизируются автоматически. `Campaign/` и `published/` попадают на Диск через зеркало конвертера; документы `docs/` добавляются в блокнот как отдельные источники.
 
 - Методология: `docs/companion-guide.md`, `docs/session-protocol.md`, `docs/response-formatting.md`, `docs/Kenshi_sources.md`, `docs/Kenshi_RU_EN.md`.
 - Кампания: `Campaign/<кампания>/` — Хронология, текущая арка, архетипы и билды, Библия, `archive/sessions/`.
