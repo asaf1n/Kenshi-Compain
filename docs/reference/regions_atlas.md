@@ -1,1 +1,1 @@
-$(cat /workspace/artifacts/regions_atlas.md)
+$(cat /tmp/regions_atlas_full.md)
