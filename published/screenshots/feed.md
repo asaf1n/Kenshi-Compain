@@ -1,7 +1,7 @@
 # Техническая лента скриншотов Kenshi
 
-- **Сформировано**: `2026-11-04T20:56:59Z`
-- **Окно выборки**: последние 7 суток (с `2026-10-28T20:56:59Z` по `2026-11-04T20:56:59Z`)
+- **Сформировано**: `2026-11-05T21:43:04Z`
+- **Окно выборки**: последние 7 суток (с `2026-10-29T21:43:04Z` по `2026-11-05T21:43:04Z`)
 - **Всего скриншотов в окне**: 30
 - **Сгруппировано серий/кадров**: 30
 
@@ -11,121 +11,93 @@
 
 ### Серия 1 (1 кадр)
 
-- **Файловое время**: с `2026-10-29T04:48:39Z` по `2026-10-29T04:48:39Z`
-- **Игровое время (OCR)**: `День 99, 16:35`
+- **Файловое время**: с `2026-10-30T02:30:56Z` по `2026-10-30T02:30:56Z`
+- **Игровое время (OCR)**: `День 107, 07:11`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Персонажи в UI (OCR)**: Хот Лон
 
 **Кадры серии:**
-- [screenshot_120-1735176e.jpg](screenshot_120-1735176e.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_120-1735176e.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_120-1735176e.jpg))
+- [screenshot_152-e0a03c21.jpg](screenshot_152-e0a03c21.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_152-e0a03c21.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_152-e0a03c21.jpg))
 
-![screenshot_120-1735176e.jpg](screenshot_120-1735176e.jpg)
+![screenshot_152-e0a03c21.jpg](screenshot_152-e0a03c21.jpg)
 
 ---
 
 ### Серия 2 (1 кадр)
 
-- **Файловое время**: с `2026-10-29T06:45:33Z` по `2026-10-29T06:45:33Z`
-- **Игровое время (OCR)**: `День 100, 15:20`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Ану
-- **Задачи/предметы в UI**: Медик, Роботехника
-
-**Кадры серии:**
-- [screenshot_130-85d9d008.jpg](screenshot_130-85d9d008.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_130-85d9d008.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_130-85d9d008.jpg))
-
-![screenshot_130-85d9d008.jpg](screenshot_130-85d9d008.jpg)
-
----
-
-### Серия 3 (1 кадр)
-
-- **Файловое время**: с `2026-10-29T14:27:51Z` по `2026-10-29T14:27:51Z`
-- **Игровое время (OCR)**: `День 104, 02:01`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Хот Лон
-- **Задачи/предметы в UI**: Медик, Роботехника
-
-**Кадры серии:**
-- [screenshot_144-985b52b1.jpg](screenshot_144-985b52b1.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_144-985b52b1.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_144-985b52b1.jpg))
-
-![screenshot_144-985b52b1.jpg](screenshot_144-985b52b1.jpg)
-
----
-
-### Серия 4 (1 кадр)
-
-- **Файловое время**: с `2026-10-30T04:39:23Z` по `2026-10-30T04:39:23Z`
-- **Игровое время (OCR)**: `День 108, 05:04`
+- **Файловое время**: с `2026-10-30T04:53:46Z` по `2026-10-30T04:53:46Z`
+- **Игровое время (OCR)**: `День 108, 11:44`
 - **Локация (OCR)**: Не зафиксирована в UI
 - **Персонажи в UI (OCR)**: Не зафиксированы в UI
 - **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
 
 **Кадры серии:**
-- [screenshot_156-e26a05f2.jpg](screenshot_156-e26a05f2.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_156-e26a05f2.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_156-e26a05f2.jpg))
+- [screenshot_163-be3c6513.jpg](screenshot_163-be3c6513.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_163-be3c6513.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_163-be3c6513.jpg))
 
-![screenshot_156-e26a05f2.jpg](screenshot_156-e26a05f2.jpg)
+![screenshot_163-be3c6513.jpg](screenshot_163-be3c6513.jpg)
+
+---
+
+### Серия 3 (1 кадр)
+
+- **Файловое время**: с `2026-10-30T09:57:44Z` по `2026-10-30T09:57:44Z`
+- **Игровое время (OCR)**: `День 110, 19:44`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_174-98c1b915.jpg](screenshot_174-98c1b915.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_174-98c1b915.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_174-98c1b915.jpg))
+
+![screenshot_174-98c1b915.jpg](screenshot_174-98c1b915.jpg)
+
+---
+
+### Серия 4 (1 кадр)
+
+- **Файловое время**: с `2026-10-30T14:22:56Z` по `2026-10-30T14:22:56Z`
+- **Игровое время (OCR)**: `Не зафиксировано в UI`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Ридли
+
+**Кадры серии:**
+- [screenshot_184-89caf868.jpg](screenshot_184-89caf868.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_184-89caf868.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_184-89caf868.jpg))
+
+![screenshot_184-89caf868.jpg](screenshot_184-89caf868.jpg)
 
 ---
 
 ### Серия 5 (1 кадр)
 
-- **Файловое время**: с `2026-10-30T08:00:21Z` по `2026-10-30T08:00:21Z`
-- **Игровое время (OCR)**: `Не зафиксировано в UI`
+- **Файловое время**: с `2026-10-30T18:09:18Z` по `2026-10-30T18:09:18Z`
+- **Игровое время (OCR)**: `День 115, 07:37`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Хот Лон
+- **Персонажи в UI (OCR)**: вик
+- **Задачи/предметы в UI**: Инженер, Медик
 
 **Кадры серии:**
-- [screenshot_169-2f9ce32c.jpg](screenshot_169-2f9ce32c.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_169-2f9ce32c.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_169-2f9ce32c.jpg))
+- [screenshot_194-2e1724e6.jpg](screenshot_194-2e1724e6.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_194-2e1724e6.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_194-2e1724e6.jpg))
 
-![screenshot_169-2f9ce32c.jpg](screenshot_169-2f9ce32c.jpg)
+![screenshot_194-2e1724e6.jpg](screenshot_194-2e1724e6.jpg)
 
 ---
 
 ### Серия 6 (1 кадр)
 
-- **Файловое время**: с `2026-10-30T13:11:05Z` по `2026-10-30T13:11:05Z`
-- **Игровое время (OCR)**: `День 111, 21:26`
+- **Файловое время**: с `2026-10-31T02:34:25Z` по `2026-10-31T02:34:25Z`
+- **Игровое время (OCR)**: `День 116, 21:25`
 - **Локация (OCR)**: Не зафиксирована в UI
 - **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Задачи/предметы в UI**: Медик, Роботехника, Тащить в: Хранение: пенька
 
 **Кадры серии:**
-- [screenshot_180-e8178bc5.jpg](screenshot_180-e8178bc5.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_180-e8178bc5.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_180-e8178bc5.jpg))
+- [screenshot_204-63a4c232.jpg](screenshot_204-63a4c232.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_204-63a4c232.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_204-63a4c232.jpg))
 
-![screenshot_180-e8178bc5.jpg](screenshot_180-e8178bc5.jpg)
+![screenshot_204-63a4c232.jpg](screenshot_204-63a4c232.jpg)
 
 ---
 
 ### Серия 7 (1 кадр)
-
-- **Файловое время**: с `2026-10-30T16:45:03Z` по `2026-10-30T16:45:03Z`
-- **Игровое время (OCR)**: `День 114, 08:04`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Не зафиксированы в UI
-- **Задачи/предметы в UI**: Работа с машиной: Пеньковая ферма 1-, Работа с машиной: Пеньковая ферма L
-
-**Кадры серии:**
-- [screenshot_191-f57f4429.jpg](screenshot_191-f57f4429.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_191-f57f4429.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_191-f57f4429.jpg))
-
-![screenshot_191-f57f4429.jpg](screenshot_191-f57f4429.jpg)
-
----
-
-### Серия 8 (1 кадр)
-
-- **Файловое время**: с `2026-10-31T02:09:42Z` по `2026-10-31T02:09:42Z`
-- **Игровое время (OCR)**: `День 116, 17:50`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Не зафиксированы в UI
-
-**Кадры серии:**
-- [screenshot_202-326033fa.jpg](screenshot_202-326033fa.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_202-326033fa.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_202-326033fa.jpg))
-
-![screenshot_202-326033fa.jpg](screenshot_202-326033fa.jpg)
-
----
-
-### Серия 9 (1 кадр)
 
 - **Файловое время**: с `2026-10-31T05:15:39Z` по `2026-10-31T05:15:39Z`
 - **Игровое время (OCR)**: `День 117, 12:48`
@@ -140,7 +112,7 @@
 
 ---
 
-### Серия 10 (1 кадр)
+### Серия 8 (1 кадр)
 
 - **Файловое время**: с `2026-10-31T08:42:24Z` по `2026-10-31T08:42:24Z`
 - **Игровое время (OCR)**: `Не зафиксировано в UI`
@@ -154,282 +126,311 @@
 
 ---
 
-### Серия 11 (1 кадр)
+### Серия 9 (1 кадр)
 
-- **Файловое время**: с `2026-10-31T12:18:35Z` по `2026-10-31T12:18:35Z`
-- **Игровое время (OCR)**: `День 118, 06:41`
+- **Файловое время**: с `2026-10-31T12:17:33Z` по `2026-10-31T12:17:33Z`
+- **Игровое время (OCR)**: `День 118, 06:09`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Пиа
+- **Персонажи в UI (OCR)**: Шрайк
 
 **Кадры серии:**
-- [screenshot_233-0b6b3b83.jpg](screenshot_233-0b6b3b83.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_233-0b6b3b83.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_233-0b6b3b83.jpg))
+- [screenshot_232-1dc315a6.jpg](screenshot_232-1dc315a6.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_232-1dc315a6.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_232-1dc315a6.jpg))
 
-![screenshot_233-0b6b3b83.jpg](screenshot_233-0b6b3b83.jpg)
+![screenshot_232-1dc315a6.jpg](screenshot_232-1dc315a6.jpg)
+
+---
+
+### Серия 10 (1 кадр)
+
+- **Файловое время**: с `2026-10-31T13:54:34Z` по `2026-10-31T13:54:34Z`
+- **Игровое время (OCR)**: `День 119, 05:49`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+
+**Кадры серии:**
+- [screenshot_242-a7e14115.jpg](screenshot_242-a7e14115.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_242-a7e14115.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_242-a7e14115.jpg))
+
+![screenshot_242-a7e14115.jpg](screenshot_242-a7e14115.jpg)
+
+---
+
+### Серия 11 (1 кадр)
+
+- **Файловое время**: с `2026-10-31T18:47:05Z` по `2026-10-31T18:47:05Z`
+- **Игровое время (OCR)**: `Не зафиксировано в UI`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+
+**Кадры серии:**
+- [screenshot_252-fbcc5141.jpg](screenshot_252-fbcc5141.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_252-fbcc5141.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_252-fbcc5141.jpg))
+
+![screenshot_252-fbcc5141.jpg](screenshot_252-fbcc5141.jpg)
 
 ---
 
 ### Серия 12 (1 кадр)
 
-- **Файловое время**: с `2026-10-31T15:02:53Z` по `2026-10-31T15:02:53Z`
-- **Игровое время (OCR)**: `День 119, 15:26`
+- **Файловое время**: с `2026-11-01T04:27:01Z` по `2026-11-01T04:27:01Z`
+- **Игровое время (OCR)**: `День 121, 06:40`
 - **Локация (OCR)**: Не зафиксирована в UI
 - **Персонажи в UI (OCR)**: Не зафиксированы в UI
 
 **Кадры серии:**
-- [screenshot_245-a1ae4829.jpg](screenshot_245-a1ae4829.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_245-a1ae4829.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_245-a1ae4829.jpg))
+- [screenshot_262-26d69f64.jpg](screenshot_262-26d69f64.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_262-26d69f64.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_262-26d69f64.jpg))
 
-![screenshot_245-a1ae4829.jpg](screenshot_245-a1ae4829.jpg)
+![screenshot_262-26d69f64.jpg](screenshot_262-26d69f64.jpg)
 
 ---
 
 ### Серия 13 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T01:23:18Z` по `2026-11-01T01:23:18Z`
-- **Игровое время (OCR)**: `День 120, 11:26`
+- **Файловое время**: с `2026-11-01T05:00:17Z` по `2026-11-01T05:00:17Z`
+- **Игровое время (OCR)**: `День 121, 18:03`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Седая тень
-- **Задачи/предметы в UI**: Работа с машиной, Тащить в
+- **Персонажи в UI (OCR)**: Хот Лон
 
 **Кадры серии:**
-- [screenshot_255-1bd0bcd3.jpg](screenshot_255-1bd0bcd3.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_255-1bd0bcd3.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_255-1bd0bcd3.jpg))
+- [screenshot_271-4ac11f9c.jpg](screenshot_271-4ac11f9c.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_271-4ac11f9c.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_271-4ac11f9c.jpg))
 
-![screenshot_255-1bd0bcd3.jpg](screenshot_255-1bd0bcd3.jpg)
+![screenshot_271-4ac11f9c.jpg](screenshot_271-4ac11f9c.jpg)
 
 ---
 
 ### Серия 14 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T04:29:42Z` по `2026-11-01T04:29:42Z`
-- **Игровое время (OCR)**: `День 121, 06:58`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Не зафиксированы в UI
-- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
-
-**Кадры серии:**
-- [screenshot_265-aae09eac.jpg](screenshot_265-aae09eac.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_265-aae09eac.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_265-aae09eac.jpg))
-
-![screenshot_265-aae09eac.jpg](screenshot_265-aae09eac.jpg)
-
----
-
-### Серия 15 (1 кадр)
-
-- **Файловое время**: с `2026-11-01T05:21:36Z` по `2026-11-01T05:21:36Z`
-- **Игровое время (OCR)**: `День 121, 23:11`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Хот Лон
-
-**Кадры серии:**
-- [screenshot_277-eeba239c.jpg](screenshot_277-eeba239c.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_277-eeba239c.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_277-eeba239c.jpg))
-
-![screenshot_277-eeba239c.jpg](screenshot_277-eeba239c.jpg)
-
----
-
-### Серия 16 (1 кадр)
-
-- **Файловое время**: с `2026-11-01T10:27:41Z` по `2026-11-01T10:27:41Z`
-- **Игровое время (OCR)**: `День 122, 14:08`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Мрачный Нил
-- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
-
-**Кадры серии:**
-- [screenshot_288-5535f30d.jpg](screenshot_288-5535f30d.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_288-5535f30d.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_288-5535f30d.jpg))
-
-![screenshot_288-5535f30d.jpg](screenshot_288-5535f30d.jpg)
-
----
-
-### Серия 17 (1 кадр)
-
-- **Файловое время**: с `2026-11-01T10:58:01Z` по `2026-11-01T10:58:01Z`
-- **Игровое время (OCR)**: `День 123, 04:17`
+- **Файловое время**: с `2026-11-01T09:45:40Z` по `2026-11-01T09:45:40Z`
+- **Игровое время (OCR)**: `День 122, 08:15`
 - **Локация (OCR)**: Не зафиксирована в UI
 - **Персонажи в UI (OCR)**: вик
 - **Задачи/предметы в UI**: Быть рядом: Мью, Инженер, Медик, Охранять: Мью
 
 **Кадры серии:**
-- [screenshot_299-65c5e3ee.jpg](screenshot_299-65c5e3ee.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_299-65c5e3ee.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_299-65c5e3ee.jpg))
+- [screenshot_281-98b7f0aa.jpg](screenshot_281-98b7f0aa.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_281-98b7f0aa.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_281-98b7f0aa.jpg))
 
-![screenshot_299-65c5e3ee.jpg](screenshot_299-65c5e3ee.jpg)
+![screenshot_281-98b7f0aa.jpg](screenshot_281-98b7f0aa.jpg)
+
+---
+
+### Серия 15 (1 кадр)
+
+- **Файловое время**: с `2026-11-01T10:29:55Z` по `2026-11-01T10:29:55Z`
+- **Игровое время (OCR)**: `День 122, 14:49`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Ожог
+- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_292-03f2e8d5.jpg](screenshot_292-03f2e8d5.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_292-03f2e8d5.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_292-03f2e8d5.jpg))
+
+![screenshot_292-03f2e8d5.jpg](screenshot_292-03f2e8d5.jpg)
+
+---
+
+### Серия 16 (1 кадр)
+
+- **Файловое время**: с `2026-11-01T11:00:00Z` по `2026-11-01T11:00:00Z`
+- **Игровое время (OCR)**: `День 123, 05:21`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Зелёный палец
+- **Задачи/предметы в UI**: Работа с машиной: Небольшие залежи мех
+
+**Кадры серии:**
+- [screenshot_301-eeefc469.jpg](screenshot_301-eeefc469.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_301-eeefc469.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_301-eeefc469.jpg))
+
+![screenshot_301-eeefc469.jpg](screenshot_301-eeefc469.jpg)
+
+---
+
+### Серия 17 (1 кадр)
+
+- **Файловое время**: с `2026-11-01T11:57:12Z` по `2026-11-01T11:57:12Z`
+- **Игровое время (OCR)**: `День 123, 22:07`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Вьючный бык
+- **Задачи/предметы в UI**: Быть рядом: Вьючный бык, Охранять: Вьючный бык
+
+**Кадры серии:**
+- [screenshot_311-20c83140.jpg](screenshot_311-20c83140.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_311-20c83140.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_311-20c83140.jpg))
+
+![screenshot_311-20c83140.jpg](screenshot_311-20c83140.jpg)
 
 ---
 
 ### Серия 18 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T11:56:05Z` по `2026-11-01T11:56:05Z`
-- **Игровое время (OCR)**: `День 123, 21:37`
+- **Файловое время**: с `2026-11-01T12:40:20Z` по `2026-11-01T12:40:20Z`
+- **Игровое время (OCR)**: `День 124, 08:26`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Йонин
-- **Задачи/предметы в UI**: Медик, Разделка животных
+- **Персонажи в UI (OCR)**: Хот Лон
 
 **Кадры серии:**
-- [screenshot_309-9d766e52.jpg](screenshot_309-9d766e52.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_309-9d766e52.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_309-9d766e52.jpg))
+- [screenshot_320-6369b4e1.jpg](screenshot_320-6369b4e1.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_320-6369b4e1.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_320-6369b4e1.jpg))
 
-![screenshot_309-9d766e52.jpg](screenshot_309-9d766e52.jpg)
+![screenshot_320-6369b4e1.jpg](screenshot_320-6369b4e1.jpg)
 
 ---
 
 ### Серия 19 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T12:39:07Z` по `2026-11-01T12:39:07Z`
-- **Игровое время (OCR)**: `День 124, 08:06`
+- **Файловое время**: с `2026-11-01T13:14:00Z` по `2026-11-01T13:14:00Z`
+- **Игровое время (OCR)**: `День 124, 18:46`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Вьючный бык
-- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Охранять: Хот Лон
+- **Персонажи в UI (OCR)**: Хот Лон
 
 **Кадры серии:**
-- [screenshot_319-19eff87a.jpg](screenshot_319-19eff87a.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_319-19eff87a.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_319-19eff87a.jpg))
+- [screenshot_332-fdeb0bad.jpg](screenshot_332-fdeb0bad.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_332-fdeb0bad.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_332-fdeb0bad.jpg))
 
-![screenshot_319-19eff87a.jpg](screenshot_319-19eff87a.jpg)
+![screenshot_332-fdeb0bad.jpg](screenshot_332-fdeb0bad.jpg)
 
 ---
 
 ### Серия 20 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T13:15:51Z` по `2026-11-01T13:15:51Z`
-- **Игровое время (OCR)**: `День 124, 19:54`
+- **Файловое время**: с `2026-11-01T15:56:55Z` по `2026-11-01T15:56:55Z`
+- **Игровое время (OCR)**: `День 125, 17:17`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Хот Лон
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Задачи/предметы в UI**: Быть рядом: Зелёный, Охранять: Зелёный
 
 **Кадры серии:**
-- [screenshot_333-6e12760c.jpg](screenshot_333-6e12760c.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_333-6e12760c.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_333-6e12760c.jpg))
+- [screenshot_342-42b0e53a.jpg](screenshot_342-42b0e53a.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_342-42b0e53a.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_342-42b0e53a.jpg))
 
-![screenshot_333-6e12760c.jpg](screenshot_333-6e12760c.jpg)
+![screenshot_342-42b0e53a.jpg](screenshot_342-42b0e53a.jpg)
 
 ---
 
 ### Серия 21 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T16:21:03Z` по `2026-11-01T16:21:03Z`
-- **Игровое время (OCR)**: `День 125, 18:52`
+- **Файловое время**: с `2026-11-01T17:45:35Z` по `2026-11-01T17:45:35Z`
+- **Игровое время (OCR)**: `День 126, 21:21`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Флик
-- **Задачи/предметы в UI**: Быть рядом: Вьючный бык, Медик, Роботехника
+- **Персонажи в UI (OCR)**: Сэто
+- **Задачи/предметы в UI**: Медик, Разделка животных
 
 **Кадры серии:**
-- [screenshot_343-bafed3e6.jpg](screenshot_343-bafed3e6.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_343-bafed3e6.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_343-bafed3e6.jpg))
+- [screenshot_352-cffe0990.jpg](screenshot_352-cffe0990.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_352-cffe0990.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_352-cffe0990.jpg))
 
-![screenshot_343-bafed3e6.jpg](screenshot_343-bafed3e6.jpg)
+![screenshot_352-cffe0990.jpg](screenshot_352-cffe0990.jpg)
 
 ---
 
 ### Серия 22 (1 кадр)
 
-- **Файловое время**: с `2026-11-01T17:53:37Z` по `2026-11-01T17:53:37Z`
-- **Игровое время (OCR)**: `День 127, 03:13`
+- **Файловое время**: с `2026-11-02T00:12:36Z` по `2026-11-02T00:12:36Z`
+- **Игровое время (OCR)**: `День 127, 15:25`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Не зафиксированы в UI
-- **Задачи/предметы в UI**: Работа с машиной, Тащить в
+- **Персонажи в UI (OCR)**: Сэто
+- **Задачи/предметы в UI**: Атаковать врагов, Медик, Разделка животных
 
 **Кадры серии:**
-- [screenshot_354-6bfd6720.jpg](screenshot_354-6bfd6720.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_354-6bfd6720.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_354-6bfd6720.jpg))
+- [screenshot_363-b8730d53.jpg](screenshot_363-b8730d53.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_363-b8730d53.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_363-b8730d53.jpg))
 
-![screenshot_354-6bfd6720.jpg](screenshot_354-6bfd6720.jpg)
+![screenshot_363-b8730d53.jpg](screenshot_363-b8730d53.jpg)
 
 ---
 
 ### Серия 23 (1 кадр)
 
-- **Файловое время**: с `2026-11-02T00:39:11Z` по `2026-11-02T00:39:11Z`
-- **Игровое время (OCR)**: `День 127, 17:18`
+- **Файловое время**: с `2026-11-02T06:33:56Z` по `2026-11-02T06:33:56Z`
+- **Игровое время (OCR)**: `День 128, 15:32`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Ану
-- **Задачи/предметы в UI**: Быть рядом: Седая тень, Медик, Роботехника
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Задачи/предметы в UI**: Быть рядом: Зелёный, Охранять: Зелёный
 
 **Кадры серии:**
-- [screenshot_366-82207940.jpg](screenshot_366-82207940.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_366-82207940.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_366-82207940.jpg))
+- [screenshot_372-1642db99.jpg](screenshot_372-1642db99.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_372-1642db99.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_372-1642db99.jpg))
 
-![screenshot_366-82207940.jpg](screenshot_366-82207940.jpg)
+![screenshot_372-1642db99.jpg](screenshot_372-1642db99.jpg)
 
 ---
 
 ### Серия 24 (1 кадр)
 
-- **Файловое время**: с `2026-11-03T01:07:21Z` по `2026-11-03T01:07:21Z`
-- **Игровое время (OCR)**: `День 129, 15:35`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Трактирщик
-
-**Кадры серии:**
-- [screenshot_376-ee4b5ad2.jpg](screenshot_376-ee4b5ad2.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_376-ee4b5ad2.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_376-ee4b5ad2.jpg))
-
-![screenshot_376-ee4b5ad2.jpg](screenshot_376-ee4b5ad2.jpg)
-
----
-
-### Серия 25 (1 кадр)
-
-- **Файловое время**: с `2026-11-03T01:29:43Z` по `2026-11-03T01:29:43Z`
-- **Игровое время (OCR)**: `День 129, 22:23`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: Ану
-- **Задачи/предметы в UI**: Медик, Найти и нести в койку, Роботехника
-
-**Кадры серии:**
-- [screenshot_386-2cb52246.jpg](screenshot_386-2cb52246.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_386-2cb52246.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_386-2cb52246.jpg))
-
-![screenshot_386-2cb52246.jpg](screenshot_386-2cb52246.jpg)
-
----
-
-### Серия 26 (1 кадр)
-
-- **Файловое время**: с `2026-11-03T02:10:47Z` по `2026-11-03T02:10:47Z`
-- **Игровое время (OCR)**: `День 130, 06:13`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: туз эл
-
-**Кадры серии:**
-- [screenshot_399-e2338c27.jpg](screenshot_399-e2338c27.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_399-e2338c27.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_399-e2338c27.jpg))
-
-![screenshot_399-e2338c27.jpg](screenshot_399-e2338c27.jpg)
-
----
-
-### Серия 27 (1 кадр)
-
-- **Файловое время**: с `2026-11-03T02:44:53Z` по `2026-11-03T02:44:53Z`
-- **Игровое время (OCR)**: `День 130, 09:15`
-- **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: флик
-- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Охранять: Хот Лон
-
-**Кадры серии:**
-- [screenshot_411-04780b1d.jpg](screenshot_411-04780b1d.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_411-04780b1d.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_411-04780b1d.jpg))
-
-![screenshot_411-04780b1d.jpg](screenshot_411-04780b1d.jpg)
-
----
-
-### Серия 28 (1 кадр)
-
-- **Файловое время**: с `2026-11-03T06:38:17Z` по `2026-11-03T06:38:17Z`
-- **Игровое время (OCR)**: `День 131, 01:54`
+- **Файловое время**: с `2026-11-03T01:26:34Z` по `2026-11-03T01:26:34Z`
+- **Игровое время (OCR)**: `День 129, 21:36`
 - **Локация (OCR)**: Не зафиксирована в UI
 - **Персонажи в UI (OCR)**: Не зафиксированы в UI
 - **Задачи/предметы в UI**: Медик, Роботехника
 
 **Кадры серии:**
-- [screenshot_421-2b56bbf7.jpg](screenshot_421-2b56bbf7.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_421-2b56bbf7.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_421-2b56bbf7.jpg))
+- [screenshot_382-b833ee70.jpg](screenshot_382-b833ee70.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_382-b833ee70.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_382-b833ee70.jpg))
 
-![screenshot_421-2b56bbf7.jpg](screenshot_421-2b56bbf7.jpg)
+![screenshot_382-b833ee70.jpg](screenshot_382-b833ee70.jpg)
+
+---
+
+### Серия 25 (1 кадр)
+
+- **Файловое время**: с `2026-11-03T01:35:29Z` по `2026-11-03T01:35:29Z`
+- **Игровое время (OCR)**: `День 130, 00:04`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Чад
+- **Задачи/предметы в UI**: Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_392-3e87711b.jpg](screenshot_392-3e87711b.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_392-3e87711b.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_392-3e87711b.jpg))
+
+![screenshot_392-3e87711b.jpg](screenshot_392-3e87711b.jpg)
+
+---
+
+### Серия 26 (1 кадр)
+
+- **Файловое время**: с `2026-11-03T02:24:41Z` по `2026-11-03T02:24:41Z`
+- **Игровое время (OCR)**: `День 130, 06:18`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: туз эл
+- **Задачи/предметы в UI**: Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_403-89c88504.jpg](screenshot_403-89c88504.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_403-89c88504.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_403-89c88504.jpg))
+
+![screenshot_403-89c88504.jpg](screenshot_403-89c88504.jpg)
+
+---
+
+### Серия 27 (1 кадр)
+
+- **Файловое время**: с `2026-11-03T02:46:01Z` по `2026-11-03T02:46:01Z`
+- **Игровое время (OCR)**: `День 130, 09:46`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Чад
+- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_414-8d0843ec.jpg](screenshot_414-8d0843ec.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_414-8d0843ec.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_414-8d0843ec.jpg))
+
+![screenshot_414-8d0843ec.jpg](screenshot_414-8d0843ec.jpg)
+
+---
+
+### Серия 28 (1 кадр)
+
+- **Файловое время**: с `2026-11-03T06:40:05Z` по `2026-11-03T06:40:05Z`
+- **Игровое время (OCR)**: `День 131, 02:52`
+- **Локация (OCR)**: Не зафиксирована в UI
+- **Персонажи в UI (OCR)**: Не зафиксированы в UI
+- **Задачи/предметы в UI**: Быть рядом: Хот Лон, Медик, Роботехника
+
+**Кадры серии:**
+- [screenshot_423-044ef2f1.jpg](screenshot_423-044ef2f1.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_423-044ef2f1.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_423-044ef2f1.jpg))
+
+![screenshot_423-044ef2f1.jpg](screenshot_423-044ef2f1.jpg)
 
 ---
 
 ### Серия 29 (1 кадр)
 
-- **Файловое время**: с `2026-11-04T08:46:30Z` по `2026-11-04T08:46:30Z`
-- **Игровое время (OCR)**: `День 132, 10:48`
+- **Файловое время**: с `2026-11-04T08:46:48Z` по `2026-11-04T08:46:48Z`
+- **Игровое время (OCR)**: `День 132, 10:57`
 - **Локация (OCR)**: Не зафиксирована в UI
-- **Персонажи в UI (OCR)**: флик
-- **Задачи/предметы в UI**: Медик, Роботехника
+- **Персонажи в UI (OCR)**: Зелёный палец
+- **Задачи/предметы в UI**: Работа с машиной: Пеньковая ферма 1-, Работа с машиной: Пеньковая ферма L, Работа с машиной: Рисовая ферма 1-, Тащить в: Хранение: рис
 
 **Кадры серии:**
-- [screenshot_433-bb49cf2e.jpg](screenshot_433-bb49cf2e.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_433-bb49cf2e.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_433-bb49cf2e.jpg))
+- [screenshot_434-6ff66e61.jpg](screenshot_434-6ff66e61.jpg) ([GitHub](https://github.com/asaf1n/Kenshi-Compain/blob/main/published/screenshots/screenshot_434-6ff66e61.jpg) | [Raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_434-6ff66e61.jpg))
 
-![screenshot_433-bb49cf2e.jpg](screenshot_433-bb49cf2e.jpg)
+![screenshot_434-6ff66e61.jpg](screenshot_434-6ff66e61.jpg)
 
 ---
 
