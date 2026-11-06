@@ -1,0 +1,1534 @@
+group,record_sid,record_type,record_name,record_files,field,value,ref_sid,ref_name,ref_v0,ref_v1,ref_v2
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,armor price mult,0.6,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,blueprint price mult,1.5,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,clothing price mult,1,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,crossbow price mult,1,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,food price mult,0.5,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,global price mult,1,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,loot price mult,0.5,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,loot price mult GEAR,0.25,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,loot price mult player armour,0.25,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,loot price mult player weapons,0.25,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,robotics price mult,1,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,sword price mult,0.4,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,trade price mult,0.6,,,,,
+constant,110-gamedata.quack,CONSTANTS,GLOBAL CONSTANTS,gamedata.base; Newwworld.mod; rebirth.mod,trade profit margins,0.3,,,,,
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,2021-gamedata.base,Пеньковая ферма L,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,40569-small_changes_otto.mod,Парник для пеньки,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,50922-rebirth.mod,Перегонка биотоплива (пенька),0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,52163-rebirth.mod,Переработка пеньки,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,56918-rebirth.mod,Пеньковая ферма S,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal buildings,,56919-rebirth.mod,Пеньковая ферма M,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal goods,,1965-gamedata.base,Пенька,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,illegal goods,,43316-rebirth.mod,Кровором,0,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,1200,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,400,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,trade prices,,42310-changes_otto.mod,Сакэ,150,0,0
+culture,1532813-rebirth.mod,ITEMS_CULTURE,empire but more worldly,rebirth.mod,trade prices,,43316-rebirth.mod,Кровором,400,0,0
+culture,1532815-rebirth.mod,ITEMS_CULTURE,ashland,rebirth.mod,forbidden items,,16855-nodes_otto1.mod,Книга,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,1015-gamedata.base,Кактусовый ром,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,1913-gamedata.base,Пшеница,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,1946-gamedata.base,Хлеб,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,42178-rebirth.mod,Хлопок,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,42304-changes_otto.mod,Кактус,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,42311-changes_otto.mod,Грог,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43863-changes_otto.mod,Шлифмашина,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43956-rebirth.mod,Жевательные палочки,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43959-rebirth.mod,Съедобный брикет,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43960-rebirth.mod,Шаурма,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,43961-rebirth.mod,Бутергроб,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,44428-rebirth.mod,Бутылка от рома,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,44429-rebirth.mod,Банка от грога,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,49050-Dialogue.mod,Рождение Феникса,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,50382-Dialogue.mod,Книга жертвования,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,forbidden items,,50383-Dialogue.mod,Книга благодати,0,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,125,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,100,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,1913-gamedata.base,Пшеница,20,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,125,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,75,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,42307-changes_otto.mod,Рисовая трава,75,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,42310-changes_otto.mod,Сакэ,75,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,43316-rebirth.mod,Кровором,125,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,43957-rebirth.mod,Гохан,75,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,43959-rebirth.mod,Съедобный брикет,125,0,0
+culture,50924-rebirth.mod,ITEMS_CULTURE,swamper,rebirth.mod,trade prices,,43960-rebirth.mod,Шаурма,125,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1359-gamedata.base,Хорошая аптечка,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1436-gamedata.base,Хороший набор шин,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1514-gamedata.base,Топливо,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,1946-gamedata.base,Хлеб,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42189-rebirth.mod,Ядро генератора,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42310-changes_otto.mod,Сакэ,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42311-changes_otto.mod,Грог,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43392-changes_otto.mod,Ядро ИИ,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43393-changes_otto.mod,Конденсатор,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43394-changes_otto.mod,ЦПУ,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43397-changes_otto.mod,Мотор,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43398-changes_otto.mod,Энергоядро,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43863-changes_otto.mod,Шлифмашина,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43953-rebirth.mod,Древняя научная книга,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,43959-rebirth.mod,Съедобный брикет,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,44429-rebirth.mod,Банка от грога,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,forbidden items,,49050-Dialogue.mod,Рождение Феникса,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,51315-rebirth.mod,ITEMS_CULTURE,shek,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,350,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,forbidden items,,50518-Newwworld.mod,Вяленая рыба,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,2021-gamedata.base,Пеньковая ферма L,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,40569-small_changes_otto.mod,Парник для пеньки,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,50922-rebirth.mod,Перегонка биотоплива (пенька),0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,52163-rebirth.mod,Переработка пеньки,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,56918-rebirth.mod,Пеньковая ферма S,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal buildings,,56919-rebirth.mod,Пеньковая ферма M,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal goods,,1965-gamedata.base,Пенька,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,illegal goods,,43316-rebirth.mod,Кровором,0,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,1200,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,400,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,trade prices,,42310-changes_otto.mod,Сакэ,150,0,0
+culture,51761-rebirth.mod,ITEMS_CULTURE,empire,rebirth.mod,trade prices,,43316-rebirth.mod,Кровором,400,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1015-gamedata.base,Кактусовый ром,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1359-gamedata.base,Хорошая аптечка,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1436-gamedata.base,Хороший набор шин,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,18020-gamedata.base,Ремкомплект скелета,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,42158-gamedata.base,Медь,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,42160-gamedata.base,Пластины медного сплава,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,42304-changes_otto.mod,Кактус,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,42310-changes_otto.mod,Сакэ,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43392-changes_otto.mod,Ядро ИИ,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43393-changes_otto.mod,Конденсатор,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43394-changes_otto.mod,ЦПУ,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43395-changes_otto.mod,Мышца скелета,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43398-changes_otto.mod,Энергоядро,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43863-changes_otto.mod,Шлифмашина,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43951-rebirth.mod,Инженерные исследования,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43953-rebirth.mod,Древняя научная книга,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43956-rebirth.mod,Жевательные палочки,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,43961-rebirth.mod,Бутергроб,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,44921-rebirth.mod,РАЗЫСКИВАЕТСЯ: Пыльный Король,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,45557-changes_otto.mod,Глаз скелета,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,49360-rebirth.mod,Записки Техохотников: Святая Нация,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,49361-rebirth.mod,Записки Техохотников: Чёрная Пустыня,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,583-gamedata.base,Части роботов,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,forbidden items,,97903-rebirth.mod,Настоящий ремкомплект,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,2084-gamedata.base,Научный стенд IV,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,2085-gamedata.base,Научный стенд V,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,2086-gamedata.base,Научный стенд VI,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,42166-gamedata.base,Верстак для электрики,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,43881-Newwworld.mod,Роботехнический верстак,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal buildings,,64614-rebirth.mod,Ремкровать,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,43392-changes_otto.mod,Ядро ИИ,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,43953-rebirth.mod,Древняя научная книга,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,49057-Dialogue.mod,Письмо к Молл,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,49058-Dialogue.mod,Запретное сочувствие,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,50381-Dialogue.mod,Речь Молл,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,51312-Dialogue.mod,Культурные группы и эволюция I,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,illegal goods,,51313-Dialogue.mod,Культурные группы и эволюиция II,0,0,0
+culture,51785-rebirth.mod,ITEMS_CULTURE,holy,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,400,0,0
+culture,56155-rebirth.mod,ITEMS_CULTURE,skeletons,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,56155-rebirth.mod,ITEMS_CULTURE,skeletons,rebirth.mod,forbidden items,,49051-Dialogue.mod,Святой Крестовый Поход,0,0,0
+culture,56155-rebirth.mod,ITEMS_CULTURE,skeletons,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,56155-rebirth.mod,ITEMS_CULTURE,skeletons,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,forbidden items,,50518-Newwworld.mod,Вяленая рыба,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,illegal goods,,1965-gamedata.base,Пенька,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,illegal goods,,43316-rebirth.mod,Кровором,0,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,600,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,1515-gamedata.base,Камень,50,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,1866-gamedata.base,Железо,50,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,1913-gamedata.base,Пшеница,40,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,400,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,42158-gamedata.base,Медь,50,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,42159-gamedata.base,Железные листы,50,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,42178-rebirth.mod,Хлопок,40,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,42304-changes_otto.mod,Кактус,40,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,42310-changes_otto.mod,Сакэ,150,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,43316-rebirth.mod,Кровором,400,0,0
+culture,56176-rebirth.mod,ITEMS_CULTURE,slavers,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,62174-rebirth.mod,ITEMS_CULTURE,empire lawless,rebirth.mod,forbidden items,,50518-Newwworld.mod,Вяленая рыба,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,62824-rebirth.mod,ITEMS_CULTURE,SE,rebirth.mod,forbidden items,,50518-Newwworld.mod,Вяленая рыба,0,0,0
+culture,62854-rebirth.mod,ITEMS_CULTURE,empire SW override,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,500,0,0
+culture,62854-rebirth.mod,ITEMS_CULTURE,empire SW override,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,300,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,1016-gamedata.base,Миска риса,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,1230-gamedata.base,Гашиш,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,1965-gamedata.base,Пенька,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,42307-changes_otto.mod,Рисовая трава,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,42309-changes_otto.mod,Зеленофрукт,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,42320-changes_otto.mod,Статуэтка Императора ,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,42322-changes_otto.mod,Святое Пламя,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,43316-rebirth.mod,Кровором,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,43955-rebirth.mod,Варёные овощи,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,43957-rebirth.mod,Гохан,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,49052-Dialogue.mod,Святая Цель,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,49053-Dialogue.mod,Святой указ,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,50514-Newwworld.mod,Рыбища,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,50517-Newwworld.mod,Рыбёшка,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,forbidden items,,50518-Newwworld.mod,Вяленая рыба,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,illegal goods,,1230-gamedata.base,Гашиш,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,illegal goods,,1965-gamedata.base,Пенька,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,illegal goods,,43316-rebirth.mod,Кровором,0,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,trade prices,,1230-gamedata.base,Гашиш,1200,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,trade prices,,1965-gamedata.base,Пенька,400,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,trade prices,,42310-changes_otto.mod,Сакэ,150,0,0
+culture,95780-rebirth.mod,ITEMS_CULTURE,empire copy,rebirth.mod,trade prices,,43316-rebirth.mod,Кровором,400,0,0
+culture_link,1073-gamedata.base,TOWN,Slave Farm,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1080-gamedata.base,TOWN,Slave Markets,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1081-gamedata.base,TOWN,Manhunter Base,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1082-gamedata.base,TOWN,Flats Lagoon,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1083-gamedata.base,FACTION,The Holy Nation,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,51785-rebirth.mod,holy,0,0,0
+culture_link,1084-gamedata.base,FACTION,Slave Traders,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,56176-rebirth.mod,slavers,0,0,0
+culture_link,1088-gamedata.base,FACTION,Traders Guild,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,11624-Dialogue (10).mod,FACTION,Shek Kingdom,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,51315-rebirth.mod,shek,0,0,0
+culture_link,1200-gamedata.base,TOWN,Tengu's Vault,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1220-gamedata.base,TOWN,Port North,gamedata.base; rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,1229-gamedata.base,FACTION,Free Traders,gamedata.base; rebirth.mod,trade culture,,1532813-rebirth.mod,empire but more worldly,0,0,0
+culture_link,1233-gamedata.base,FACTION,Tech Hunters,gamedata.base; rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,1364-gamedata.base,TOWN,Clownsteady,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1532481-__May 18 2.mod,TOWN,Fort Yabuta,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,1532821-rebirth.mod,TOWN,Free Settlement,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,1532822-rebirth.mod,TOWN,Barrier Tower,rebirth.mod,trade culture,,1532815-rebirth.mod,ashland,0,0,0
+culture_link,1532945-__world reactions NE.mod,TOWN,Trader's Edge (override) destroyed,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,1533148-__world reactions NE.mod,TOWN,Raider Camp (override),rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1533492-__world reactions Slavers.mod,TOWN,South Stone Camp,rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,1533495-__world reactions Slavers.mod,TOWN,Slave Farm South,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1533505-Newwworld.mod,FACTION,Skeleton MkII Screamer,Newwworld.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,1533606-__world reactions Slavers.mod,TOWN,Trader's Edge (override) malnourished,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,1533609-__world reactions Slavers.mod,TOWN,Trader's Edge (override) malnourished 1,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,1533693-__world reactions Slavers.mod,TOWN,Clownsteady (override) malnourished 1,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1533698-__world reactions Slavers.mod,TOWN,Clownsteady (override) malnourished 2,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1533704-__world reactions Slavers.mod,TOWN,Drifter's Last (override) prosperous,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1533706-__world reactions Slavers.mod,TOWN,Drifter's Last (override) half destroyed,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1533939-__SE world states.mod,TOWN,Crab Village (override) Reaver takeover,rebirth.mod,trade culture,,62824-rebirth.mod,SE,0,0,0
+culture_link,1533943-__SE world states.mod,TOWN,Crab Village (override) destroyed,rebirth.mod,trade culture,,62824-rebirth.mod,SE,0,0,0
+culture_link,1533963-__SE world states.mod,TOWN,Cult village (override) slaver takeover,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1534428-__Fixes.mod,TOWN,Holy Mines (override) takeover TG,rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1534429-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1534433-__Fixes.mod,TOWN,Holy Farm (override) takeover TG,rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,1534435-__Fixes.mod,TOWN,Fishing Village (override) slaver takeover,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,1785-gamedata.base,TOWN,Stone Camp,gamedata.base; rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,33-gamedata.quack,TOWN,Catun,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,41162-Dialogue.mod,FACTION,Swampers,Dialogue.mod; rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,42088-rebirth.mod,FACTION,Skeletons,rebirth.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,48671-rebirth.mod,FACTION,Ancient Ruins,rebirth.mod,trade culture,,1532815-rebirth.mod,ashland,0,0,0
+culture_link,48743-Dialogue.mod,FACTION,Blackshifters,Dialogue.mod; rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,48753-Dialogue.mod,FACTION,Stone Rats,Dialogue.mod; rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,48791-Dialogue.mod,FACTION,Grayflayers,Dialogue.mod; rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,48814-Dialogue.mod,FACTION,Hounds,Dialogue.mod; rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,50358-rebirth.mod,FACTION,Machinists,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,51402-rebirth.mod,TOWN,Drifter's Last,rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,51646-Dialogue.mod,FACTION,Empire Peasants,Dialogue.mod; rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,1015-gamedata.base,Кактусовый ром,110,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,1016-gamedata.base,Миска риса,110,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,1914-gamedata.base,Вода,110,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,1946-gamedata.base,Хлеб,110,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,580-gamedata.base,Стройматериалы,50,0,0
+culture_link,55396-rebirth.mod,TOWN,Port South,rebirth.mod,trade prices,,581-gamedata.base,Ножовка,110,0,0
+culture_link,55649-rebirth.mod,TOWN,Fort Simion,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,55661-rebirth.mod,TOWN,Trader's Edge,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,55662-rebirth.mod,TOWN,The Bastion,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,56086-rebirth.mod,TOWN,Raider Camp,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,58229-Dialogue.mod,FACTION,Anti-Slavers,Dialogue.mod; rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,58704-rebirth.mod,TOWN,Waystation Four,rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+culture_link,62789-rebirth.mod,TOWN,Crab Town,rebirth.mod,trade culture,,62824-rebirth.mod,SE,0,0,0
+culture_link,62805-rebirth.mod,FACTION,Reavers,rebirth.mod,trade culture,,50924-rebirth.mod,swamper,0,0,0
+culture_link,65268-Newwworld.mod,FACTION,Skeleton MkII,Newwworld.mod; rebirth.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,66532-Newwworld.mod,FACTION,Skeleton MkII Log Head,Newwworld.mod; rebirth.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,95512-rebirth.mod,FACTION,Scavengers,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,96157-Dialogue.mod,TOWN,Crab Village,Dialogue.mod; rebirth.mod,trade culture,,62824-rebirth.mod,SE,0,0,0
+culture_link,96219-rebirth.mod,TOWN,Old Control Tower,rebirth.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,96261-rebirth.mod,FACTION,The Gorrillo Bandits,rebirth.mod,trade culture,,62174-rebirth.mod,empire lawless,0,0,0
+culture_link,963-gamedata.base,TOWN,Mourn,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,964-gamedata.base,TOWN,Eyesocket,gamedata.base; rebirth.mod,trade culture,,62854-rebirth.mod,empire SW override,0,0,0
+culture_link,96405-rebirth.mod,TOWN,The Forgotten Throne,rebirth.mod,trade culture,,56155-rebirth.mod,skeletons,0,0,0
+culture_link,97071-Dialogue.mod,TOWN,Cult Village,Dialogue.mod; rebirth.mod,trade culture,,62824-rebirth.mod,SE,0,0,0
+culture_link,98551-rebirth.mod,TOWN,Sniper Tower,rebirth.mod,trade culture,,1532815-rebirth.mod,ashland,0,0,0
+culture_link,defaultEmpireFactionSID,FACTION,United Cities,gamedata.base; Dialogue.mod; rebirth.mod,trade culture,,51761-rebirth.mod,empire,0,0,0
+manufacturer,1057-gamedata.base,WEAPON_MANUFACTURER,Catun Scrapmaster,gamedata.base; rebirth.mod,price mod,1.2,,,,,
+manufacturer,1070-gamedata.base,WEAPON_MANUFACTURER,Edgewalkers,gamedata.base; rebirth.mod,price mod,1.4,,,,,
+manufacturer,1163-gamedata.base,WEAPON_MANUFACTURER,Truth Two-,gamedata.base; rebirth.mod,price mod,1,,,,,
+manufacturer,43917-rebirth.mod,WEAPON_MANUFACTURER,animal,rebirth.mod,price mod,1,,,,,
+manufacturer,52288-rebirth.mod,WEAPON_MANUFACTURER,Cross,rebirth.mod,price mod,2,,,,,
+manufacturer,52294-rebirth.mod,WEAPON_MANUFACTURER,Expired-,rebirth.mod,price mod,1,,,,,
+manufacturer,912-gamedata.base,WEAPON_MANUFACTURER,Unknown,gamedata.base; rebirth.mod,price mod,0.3,,,,,
+manufacturer,917-gamedata.base,WEAPON_MANUFACTURER,Ancient,gamedata.base; rebirth.mod,price mod,0.8,,,,,
+manufacturer,927-gamedata.base,WEAPON_MANUFACTURER,Skeleton Smiths,gamedata.base; Newwworld.mod; rebirth.mod,price mod,1.2,,,,,
+manufacturer,PLAYER_WEAPONS,WEAPON_MANUFACTURER,Homemade,gamedata.base; rebirth.mod,price mod,1,,,,,
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,buy mult,1,,,,,
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,is trader,true,,,,,
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,sell mult,1,,,,,
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,vendor money,250,,,,,
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,vendors,,50340-rebirth.mod,fish food,100,0,0
+squad_template,10322-Dialogue (7).mod,SQUAD_TEMPLATE,Farmer Camp Suspicious,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,10522-Dialogue (10).mod,SQUAD_TEMPLATE,Territorial Thug,Dialogue.mod,buy mult,1,,,,,
+squad_template,10522-Dialogue (10).mod,SQUAD_TEMPLATE,Territorial Thug,Dialogue.mod,is trader,false,,,,,
+squad_template,10522-Dialogue (10).mod,SQUAD_TEMPLATE,Territorial Thug,Dialogue.mod,sell mult,1,,,,,
+squad_template,10522-Dialogue (10).mod,SQUAD_TEMPLATE,Territorial Thug,Dialogue.mod,vendor money,0,,,,,
+squad_template,10522-Dialogue (10).mod,SQUAD_TEMPLATE,Territorial Thug,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,10529-Dialogue (10).mod,SQUAD_TEMPLATE,Bored civ,Dialogue.mod,buy mult,1,,,,,
+squad_template,10529-Dialogue (10).mod,SQUAD_TEMPLATE,Bored civ,Dialogue.mod,is trader,false,,,,,
+squad_template,10529-Dialogue (10).mod,SQUAD_TEMPLATE,Bored civ,Dialogue.mod,sell mult,1,,,,,
+squad_template,10529-Dialogue (10).mod,SQUAD_TEMPLATE,Bored civ,Dialogue.mod,vendor money,0,,,,,
+squad_template,10529-Dialogue (10).mod,SQUAD_TEMPLATE,Bored civ,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,10778-Dialogue (10).mod,SQUAD_TEMPLATE,Empire Bounty hunters,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,10778-Dialogue (10).mod,SQUAD_TEMPLATE,Empire Bounty hunters,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,10778-Dialogue (10).mod,SQUAD_TEMPLATE,Empire Bounty hunters,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,10778-Dialogue (10).mod,SQUAD_TEMPLATE,Empire Bounty hunters,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,10778-Dialogue (10).mod,SQUAD_TEMPLATE,Empire Bounty hunters,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1120-gamedata.base,SQUAD_TEMPLATE,Police Station Tower,gamedata.base; rebirth.mod,buy mult,0.25,,,,,
+squad_template,1120-gamedata.base,SQUAD_TEMPLATE,Police Station Tower,gamedata.base; rebirth.mod,is trader,false,,,,,
+squad_template,1120-gamedata.base,SQUAD_TEMPLATE,Police Station Tower,gamedata.base; rebirth.mod,vendor money,0,,,,,
+squad_template,1120-gamedata.base,SQUAD_TEMPLATE,Police Station Tower,gamedata.base; rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,100,0,0
+squad_template,1120-gamedata.base,SQUAD_TEMPLATE,Police Station Tower,gamedata.base; rebirth.mod,vendors refresh time,99999,,,,,
+squad_template,11627-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Town Guard,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,11627-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Town Guard,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,11627-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Town Guard,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,11627-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Town Guard,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,11627-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Town Guard,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,11676-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Dueler,Dialogue.mod,buy mult,1,,,,,
+squad_template,11676-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Dueler,Dialogue.mod,is trader,false,,,,,
+squad_template,11676-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Dueler,Dialogue.mod,sell mult,1,,,,,
+squad_template,11676-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Dueler,Dialogue.mod,vendor money,0,,,,,
+squad_template,11676-Dialogue (10).mod,SQUAD_TEMPLATE,Shek Dueler,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,1172-gamedata.base,SQUAD_TEMPLATE,Mercenary Police,gamedata.base; rebirth.mod,buy mult,0.5,,,,,
+squad_template,1172-gamedata.base,SQUAD_TEMPLATE,Mercenary Police,gamedata.base; rebirth.mod,is trader,false,,,,,
+squad_template,1172-gamedata.base,SQUAD_TEMPLATE,Mercenary Police,gamedata.base; rebirth.mod,vendor money,0,,,,,
+squad_template,1172-gamedata.base,SQUAD_TEMPLATE,Mercenary Police,gamedata.base; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1174-gamedata.base,SQUAD_TEMPLATE,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1174-gamedata.base,SQUAD_TEMPLATE,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1174-gamedata.base,SQUAD_TEMPLATE,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1174-gamedata.base,SQUAD_TEMPLATE,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1174-gamedata.base,SQUAD_TEMPLATE,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1175-gamedata.base,SQUAD_TEMPLATE,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1175-gamedata.base,SQUAD_TEMPLATE,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1175-gamedata.base,SQUAD_TEMPLATE,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1175-gamedata.base,SQUAD_TEMPLATE,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1027-gamedata.base,weapon vendor UC small-time,100,0,0
+squad_template,1175-gamedata.base,SQUAD_TEMPLATE,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1177-gamedata.base,SQUAD_TEMPLATE,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1177-gamedata.base,SQUAD_TEMPLATE,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1177-gamedata.base,SQUAD_TEMPLATE,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1177-gamedata.base,SQUAD_TEMPLATE,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,vendArmor,armor vendor UC,100,0,0
+squad_template,1177-gamedata.base,SQUAD_TEMPLATE,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1007-gamedata.base,clothing vendor,100,0,0
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1031-gamedata.base,under-armor vendor,100,0,0
+squad_template,1190-gamedata.base,SQUAD_TEMPLATE,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,12,,,,,
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1007-gamedata.base,clothing vendor,100,0,0
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1031-gamedata.base,under-armor vendor,100,0,0
+squad_template,1192-gamedata.base,SQUAD_TEMPLATE,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1193-gamedata.base,SQUAD_TEMPLATE,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1193-gamedata.base,SQUAD_TEMPLATE,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1193-gamedata.base,SQUAD_TEMPLATE,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1193-gamedata.base,SQUAD_TEMPLATE,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,1193-gamedata.base,SQUAD_TEMPLATE,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1006-gamedata.base,footwear vendor,40,0,0
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1028-gamedata.base,item vendor adv,100,0,0
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,2251-gamedata.base,hats vendor UC,70,0,0
+squad_template,1194-gamedata.base,SQUAD_TEMPLATE,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,13241-Escapes.mod,SQUAD_TEMPLATE,Shop bar Empire,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,13242-Escapes.mod,SQUAD_TEMPLATE,Recruits list Empire,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,13242-Escapes.mod,SQUAD_TEMPLATE,Recruits list Empire,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,13242-Escapes.mod,SQUAD_TEMPLATE,Recruits list Empire,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,13242-Escapes.mod,SQUAD_TEMPLATE,Recruits list Empire,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,13242-Escapes.mod,SQUAD_TEMPLATE,Recruits list Empire,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,13749-Escapes.mod,SQUAD_TEMPLATE,Town thug,Dialogue.mod,buy mult,1,,,,,
+squad_template,13749-Escapes.mod,SQUAD_TEMPLATE,Town thug,Dialogue.mod,is trader,false,,,,,
+squad_template,13749-Escapes.mod,SQUAD_TEMPLATE,Town thug,Dialogue.mod,sell mult,1,,,,,
+squad_template,13749-Escapes.mod,SQUAD_TEMPLATE,Town thug,Dialogue.mod,vendor money,0,,,,,
+squad_template,13749-Escapes.mod,SQUAD_TEMPLATE,Town thug,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,buy mult,1,,,,,
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,is trader,true,,,,,
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,vendor money,0,,,,,
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,vendors,,51392-rebirth.mod,wanted posters shek,2,0,0
+squad_template,14487-rebirth.mod,SQUAD_TEMPLATE,Bar,rebirth.mod; gamedata.base,vendors refresh time,24,,,,,
+squad_template,14488-rebirth.mod,SQUAD_TEMPLATE,Bakery,rebirth.mod,buy mult,1,,,,,
+squad_template,14488-rebirth.mod,SQUAD_TEMPLATE,Bakery,rebirth.mod,is trader,true,,,,,
+squad_template,14488-rebirth.mod,SQUAD_TEMPLATE,Bakery,rebirth.mod,vendor money,0,,,,,
+squad_template,14488-rebirth.mod,SQUAD_TEMPLATE,Bakery,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,14488-rebirth.mod,SQUAD_TEMPLATE,Bakery,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,14494-rebirth.mod,SQUAD_TEMPLATE,Thief Group,rebirth.mod; gamedata.base,buy mult,0.5,,,,,
+squad_template,14494-rebirth.mod,SQUAD_TEMPLATE,Thief Group,rebirth.mod; gamedata.base,is trader,true,,,,,
+squad_template,14494-rebirth.mod,SQUAD_TEMPLATE,Thief Group,rebirth.mod; gamedata.base,vendor money,0,,,,,
+squad_template,14494-rebirth.mod,SQUAD_TEMPLATE,Thief Group,rebirth.mod; gamedata.base,vendors,,42079-rebirth.mod,shinobi gear,100,0,0
+squad_template,14494-rebirth.mod,SQUAD_TEMPLATE,Thief Group,rebirth.mod; gamedata.base,vendors refresh time,12,,,,,
+squad_template,15254-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Swamper,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,15254-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Swamper,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,15254-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Swamper,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,15254-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Swamper,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,15254-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Swamper,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1532895-__world reactions NE.mod,SQUAD_TEMPLATE,Bark fish shop (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1532895-__world reactions NE.mod,SQUAD_TEMPLATE,Bark fish shop (override),rebirth.mod,is trader,true,,,,,
+squad_template,1532895-__world reactions NE.mod,SQUAD_TEMPLATE,Bark fish shop (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1532895-__world reactions NE.mod,SQUAD_TEMPLATE,Bark fish shop (override),rebirth.mod,vendors,,50340-rebirth.mod,fish food,100,0,0
+squad_template,1532895-__world reactions NE.mod,SQUAD_TEMPLATE,Bark fish shop (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1532916-__world reactions NE.mod,SQUAD_TEMPLATE,Slaver Shop (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1532916-__world reactions NE.mod,SQUAD_TEMPLATE,Slaver Shop (override),rebirth.mod,is trader,true,,,,,
+squad_template,1532916-__world reactions NE.mod,SQUAD_TEMPLATE,Slaver Shop (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1532916-__world reactions NE.mod,SQUAD_TEMPLATE,Slaver Shop (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533075-__world reactions W.mod,SQUAD_TEMPLATE,Shek Barracks,rebirth.mod,buy mult,1,,,,,
+squad_template,1533075-__world reactions W.mod,SQUAD_TEMPLATE,Shek Barracks,rebirth.mod,is trader,false,,,,,
+squad_template,1533075-__world reactions W.mod,SQUAD_TEMPLATE,Shek Barracks,rebirth.mod,sell mult,1,,,,,
+squad_template,1533075-__world reactions W.mod,SQUAD_TEMPLATE,Shek Barracks,rebirth.mod,vendor money,0,,,,,
+squad_template,1533075-__world reactions W.mod,SQUAD_TEMPLATE,Shek Barracks,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533316-__world reactions Shek.mod,SQUAD_TEMPLATE,Shek Town Guard (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1533316-__world reactions Shek.mod,SQUAD_TEMPLATE,Shek Town Guard (override),rebirth.mod,is trader,false,,,,,
+squad_template,1533316-__world reactions Shek.mod,SQUAD_TEMPLATE,Shek Town Guard (override),rebirth.mod,sell mult,1,,,,,
+squad_template,1533316-__world reactions Shek.mod,SQUAD_TEMPLATE,Shek Town Guard (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1533316-__world reactions Shek.mod,SQUAD_TEMPLATE,Shek Town Guard (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533506-Newwworld.mod,SQUAD_TEMPLATE,Skeleton MkII Screamer,Newwworld.mod,buy mult,1,,,,,
+squad_template,1533506-Newwworld.mod,SQUAD_TEMPLATE,Skeleton MkII Screamer,Newwworld.mod,is trader,false,,,,,
+squad_template,1533506-Newwworld.mod,SQUAD_TEMPLATE,Skeleton MkII Screamer,Newwworld.mod,sell mult,1,,,,,
+squad_template,1533506-Newwworld.mod,SQUAD_TEMPLATE,Skeleton MkII Screamer,Newwworld.mod,vendor money,0,,,,,
+squad_template,1533506-Newwworld.mod,SQUAD_TEMPLATE,Skeleton MkII Screamer,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,vendors,,1533531-__world reactions Slavers.mod,Bar (low food),100,0,0
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,1533534-__world reactions Slavers.mod,SQUAD_TEMPLATE,UC big bar (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533535-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533535-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533535-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533535-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (malnourished),rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1533535-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (malnourished),rebirth.mod,vendors refresh time,48,,,,,
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,vendors,,1533537-__world reactions Slavers.mod,adventure shop (low food),1000,0,0
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,vendors,,95784-rebirth.mod,crossbow ammo - basics,100,0,0
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,vendors,,95869-rebirth.mod,tech hunters notes series,5,0,0
+squad_template,1533536-__world reactions Slavers.mod,SQUAD_TEMPLATE,Adventure shop (malnourished),rebirth.mod,vendors refresh time,48,,,,,
+squad_template,1533538-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533538-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533538-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533538-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (malnourished),rebirth.mod,vendors,,1027-gamedata.base,weapon vendor UC small-time,100,0,0
+squad_template,1533538-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,vendors,,95775-rebirth.mod,--crossbows mid,100,0,0
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,vendors,,95786-rebirth.mod,crossbow ammo - mid,500,0,0
+squad_template,1533539-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop weapons Crossbow (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533541-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (malnourished),rebirth.mod,buy mult,0.25,,,,,
+squad_template,1533541-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (malnourished),rebirth.mod,is trader,false,,,,,
+squad_template,1533541-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533541-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (malnourished),rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,100,0,0
+squad_template,1533541-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (malnourished),rebirth.mod,vendors refresh time,99999,,,,,
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,buy mult,0.5,,,,,
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,vendors,,42079-rebirth.mod,shinobi gear,100,0,0
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,vendors,,51746-rebirth.mod,shinobi thief guild special items,50,0,0
+squad_template,1533544-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thieves Guild (malnourished),rebirth.mod,vendors refresh time,12,,,,,
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,sell mult,1,,,,,
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,vendors,,1533531-__world reactions Slavers.mod,Bar (low food),100,0,0
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,1533545-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop bar Empire (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,vendors,,53662-Dialogue.mod,Lore: Empire Official Books,1,0,0
+squad_template,1533546-__world reactions Slavers.mod,SQUAD_TEMPLATE,shop tools UC (malnourished),rebirth.mod,vendors refresh time,48,,,,,
+squad_template,1533549-__world reactions Slavers.mod,SQUAD_TEMPLATE,Recruits list Empire (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533549-__world reactions Slavers.mod,SQUAD_TEMPLATE,Recruits list Empire (malnourished),rebirth.mod,is trader,false,,,,,
+squad_template,1533549-__world reactions Slavers.mod,SQUAD_TEMPLATE,Recruits list Empire (malnourished),rebirth.mod,sell mult,1,,,,,
+squad_template,1533549-__world reactions Slavers.mod,SQUAD_TEMPLATE,Recruits list Empire (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533549-__world reactions Slavers.mod,SQUAD_TEMPLATE,Recruits list Empire (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533550-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thief Group (malnourished),rebirth.mod,buy mult,0.5,,,,,
+squad_template,1533550-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thief Group (malnourished),rebirth.mod,is trader,false,,,,,
+squad_template,1533550-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thief Group (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533550-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thief Group (malnourished),rebirth.mod,vendors,,42079-rebirth.mod,shinobi gear,100,0,0
+squad_template,1533550-__world reactions Slavers.mod,SQUAD_TEMPLATE,Thief Group (malnourished),rebirth.mod,vendors refresh time,12,,,,,
+squad_template,1533581-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (free),rebirth.mod,buy mult,1,,,,,
+squad_template,1533581-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (free),rebirth.mod,is trader,true,,,,,
+squad_template,1533581-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (free),rebirth.mod,vendor money,0,,,,,
+squad_template,1533581-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (free),rebirth.mod,vendors,,1027-gamedata.base,weapon vendor UC small-time,100,0,0
+squad_template,1533581-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop Weapons UC small (free),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533582-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (free),rebirth.mod,buy mult,1,,,,,
+squad_template,1533582-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (free),rebirth.mod,is trader,true,,,,,
+squad_template,1533582-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (free),rebirth.mod,vendor money,0,,,,,
+squad_template,1533582-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (free),rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1533582-__world reactions Slavers.mod,SQUAD_TEMPLATE,Shop trader UC bigger (free),rebirth.mod,vendors refresh time,12,,,,,
+squad_template,1533585-__world reactions Slavers.mod,SQUAD_TEMPLATE,Fish shop,rebirth.mod,buy mult,1,,,,,
+squad_template,1533585-__world reactions Slavers.mod,SQUAD_TEMPLATE,Fish shop,rebirth.mod,is trader,true,,,,,
+squad_template,1533585-__world reactions Slavers.mod,SQUAD_TEMPLATE,Fish shop,rebirth.mod,vendor money,1000,,,,,
+squad_template,1533585-__world reactions Slavers.mod,SQUAD_TEMPLATE,Fish shop,rebirth.mod,vendors,,50340-rebirth.mod,fish food,100,0,0
+squad_template,1533585-__world reactions Slavers.mod,SQUAD_TEMPLATE,Fish shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533589-__world reactions Slavers.mod,SQUAD_TEMPLATE,best armour shop UC (malnourished),rebirth.mod,buy mult,1,,,,,
+squad_template,1533589-__world reactions Slavers.mod,SQUAD_TEMPLATE,best armour shop UC (malnourished),rebirth.mod,is trader,true,,,,,
+squad_template,1533589-__world reactions Slavers.mod,SQUAD_TEMPLATE,best armour shop UC (malnourished),rebirth.mod,vendor money,0,,,,,
+squad_template,1533589-__world reactions Slavers.mod,SQUAD_TEMPLATE,best armour shop UC (malnourished),rebirth.mod,vendors,,56183-rebirth.mod,best armour vendor UC,100,0,0
+squad_template,1533589-__world reactions Slavers.mod,SQUAD_TEMPLATE,best armour shop UC (malnourished),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533695-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (free),rebirth.mod,buy mult,0.25,,,,,
+squad_template,1533695-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (free),rebirth.mod,is trader,false,,,,,
+squad_template,1533695-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (free),rebirth.mod,vendor money,0,,,,,
+squad_template,1533695-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (free),rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,100,0,0
+squad_template,1533695-__world reactions Slavers.mod,SQUAD_TEMPLATE,Police Station Tower (free),rebirth.mod,vendors refresh time,99999,,,,,
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,is trader,true,,,,,
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,vendors,,50974-rebirth.mod,weapons swamp,100,0,0
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,vendors,,50975-rebirth.mod,armour swamp,100,0,0
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,vendors,,95774-rebirth.mod,crossbows swamp,80,0,0
+squad_template,1533727-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp smithy (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,is trader,true,,,,,
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,vendors,,51763-rebirth.mod,Narcotics,50,0,0
+squad_template,1533728-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp trade goods (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,buy mult,1,,,,,
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,is trader,true,,,,,
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,vendor money,0,,,,,
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,100,0,0
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,vendors,,50977-rebirth.mod,Swamp clothing,100,0,0
+squad_template,1533729-__world reactios swamp.mod,SQUAD_TEMPLATE,swamp travel shop (override),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533764-__world reactios swamp.mod,SQUAD_TEMPLATE,Police Barrack (free) copy,rebirth.mod,buy mult,0.25,,,,,
+squad_template,1533764-__world reactios swamp.mod,SQUAD_TEMPLATE,Police Barrack (free) copy,rebirth.mod,is trader,false,,,,,
+squad_template,1533764-__world reactios swamp.mod,SQUAD_TEMPLATE,Police Barrack (free) copy,rebirth.mod,vendor money,0,,,,,
+squad_template,1533764-__world reactios swamp.mod,SQUAD_TEMPLATE,Police Barrack (free) copy,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,100,0,0
+squad_template,1533764-__world reactios swamp.mod,SQUAD_TEMPLATE,Police Barrack (free) copy,rebirth.mod,vendors refresh time,99999,,,,,
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,buy mult,1,,,,,
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,is trader,true,,,,,
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendor money,0,,,,,
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendors,,50386-rebirth.mod,adventure shop,1000,0,0
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendors,,50980-rebirth.mod,travel food,200,0,0
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendors,,95784-rebirth.mod,crossbow ammo - basics,100,0,0
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendors,,95869-rebirth.mod,tech hunters notes series,5,0,0
+squad_template,1533776-__world reactios swamp.mod,SQUAD_TEMPLATE,Adventure shop (swamp store),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,buy mult,1,,,,,
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,is trader,true,,,,,
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,vendor money,0,,,,,
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,vendors,,50974-rebirth.mod,weapons swamp,100,0,0
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,vendors,,50975-rebirth.mod,armour swamp,100,0,0
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,vendors,,95774-rebirth.mod,crossbows swamp,80,0,0
+squad_template,1533777-__world reactios swamp.mod,SQUAD_TEMPLATE,Merc smithy (swamp house),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1533850-rebirth.mod,SQUAD_TEMPLATE,Shop armor tech hunter,rebirth.mod,buy mult,1,,,,,
+squad_template,1533850-rebirth.mod,SQUAD_TEMPLATE,Shop armor tech hunter,rebirth.mod,is trader,true,,,,,
+squad_template,1533850-rebirth.mod,SQUAD_TEMPLATE,Shop armor tech hunter,rebirth.mod,vendor money,0,,,,,
+squad_template,1533850-rebirth.mod,SQUAD_TEMPLATE,Shop armor tech hunter,rebirth.mod,vendors,,1533851-rebirth.mod,armor vendor ronin/tech hunter,100,0,0
+squad_template,1533850-rebirth.mod,SQUAD_TEMPLATE,Shop armor tech hunter,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,buy mult,1,,,,,
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,is trader,false,,,,,
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,sell mult,1,,,,,
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,vendor money,0,,,,,
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,vendors,,48781-rebirth.mod,cannibal treasure,20,0,0
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,vendors,,96161-rebirth.mod,house junk trash,50,0,0
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,vendors,,97661-rebirth.mod,fish,100,0,0
+squad_template,1534008-__SE world states.mod,SQUAD_TEMPLATE,Gurgler town squad Crab Town,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1534016-Dialogue.mod,SQUAD_TEMPLATE,Shop bar black desert,Dialogue.mod,buy mult,1,,,,,
+squad_template,1534016-Dialogue.mod,SQUAD_TEMPLATE,Shop bar black desert,Dialogue.mod,is trader,true,,,,,
+squad_template,1534016-Dialogue.mod,SQUAD_TEMPLATE,Shop bar black desert,Dialogue.mod,vendor money,0,,,,,
+squad_template,1534016-Dialogue.mod,SQUAD_TEMPLATE,Shop bar black desert,Dialogue.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,1534016-Dialogue.mod,SQUAD_TEMPLATE,Shop bar black desert,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,buy mult,1,,,,,
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,is trader,true,,,,,
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,vendor money,0,,,,,
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,vendors,,1534420-rebirth.mod,holy flame books,5,0,0
+squad_template,1534419-rebirth.mod,SQUAD_TEMPLATE,holy Shop trade adv,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,buy mult,1,,,,,
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,is trader,true,,,,,
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,vendor money,0,,,,,
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,vendors,,49770-rebirth.mod,greenland food,100,0,0
+squad_template,1535073-rebirth.mod,SQUAD_TEMPLATE,Flotsam Bakery,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,16239-Dialogue.mod,SQUAD_TEMPLATE,Outlaw Resident Family,Dialogue.mod,buy mult,1,,,,,
+squad_template,16239-Dialogue.mod,SQUAD_TEMPLATE,Outlaw Resident Family,Dialogue.mod,is trader,false,,,,,
+squad_template,16239-Dialogue.mod,SQUAD_TEMPLATE,Outlaw Resident Family,Dialogue.mod,sell mult,1,,,,,
+squad_template,16239-Dialogue.mod,SQUAD_TEMPLATE,Outlaw Resident Family,Dialogue.mod,vendor money,0,,,,,
+squad_template,16239-Dialogue.mod,SQUAD_TEMPLATE,Outlaw Resident Family,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,16299-Dialogue.mod,SQUAD_TEMPLATE,Outlaw resident solo,Dialogue.mod,buy mult,1,,,,,
+squad_template,16299-Dialogue.mod,SQUAD_TEMPLATE,Outlaw resident solo,Dialogue.mod,is trader,false,,,,,
+squad_template,16299-Dialogue.mod,SQUAD_TEMPLATE,Outlaw resident solo,Dialogue.mod,sell mult,1,,,,,
+squad_template,16299-Dialogue.mod,SQUAD_TEMPLATE,Outlaw resident solo,Dialogue.mod,vendor money,0,,,,,
+squad_template,16299-Dialogue.mod,SQUAD_TEMPLATE,Outlaw resident solo,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,16369-Dialogue.mod,SQUAD_TEMPLATE,Shek Scout squad,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,16369-Dialogue.mod,SQUAD_TEMPLATE,Shek Scout squad,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,16369-Dialogue.mod,SQUAD_TEMPLATE,Shek Scout squad,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,16369-Dialogue.mod,SQUAD_TEMPLATE,Shek Scout squad,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,16369-Dialogue.mod,SQUAD_TEMPLATE,Shek Scout squad,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,16843-Recruits Dialogue.mod,SQUAD_TEMPLATE,test,Dialogue.mod,buy mult,1,,,,,
+squad_template,16843-Recruits Dialogue.mod,SQUAD_TEMPLATE,test,Dialogue.mod,is trader,false,,,,,
+squad_template,16843-Recruits Dialogue.mod,SQUAD_TEMPLATE,test,Dialogue.mod,sell mult,1,,,,,
+squad_template,16843-Recruits Dialogue.mod,SQUAD_TEMPLATE,test,Dialogue.mod,vendor money,0,,,,,
+squad_template,16843-Recruits Dialogue.mod,SQUAD_TEMPLATE,test,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,16913-Dialogue.mod,SQUAD_TEMPLATE,Test,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,16913-Dialogue.mod,SQUAD_TEMPLATE,Test,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,16913-Dialogue.mod,SQUAD_TEMPLATE,Test,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,16913-Dialogue.mod,SQUAD_TEMPLATE,Test,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,16913-Dialogue.mod,SQUAD_TEMPLATE,Test,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,vendors,,51633-rebirth.mod,holy church,100,0,0
+squad_template,17087-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest church,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors,,43391-rebirth.mod,wealthy house,400,0,0
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors,,44916-rebirth.mod,maps holy nation,10,0,0
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,50,0,0
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors,,49491-Dialogue.mod,Lore: Holy Nation Official Notes For Churches,50,0,0
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors,,49572-rebirth.mod,barracks holy,150,0,0
+squad_template,17223-Dialogue.mod,SQUAD_TEMPLATE,Holy Lord Phoenix,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,17233-Dialogue.mod,SQUAD_TEMPLATE,Picky,Dialogue.mod,buy mult,1,,,,,
+squad_template,17233-Dialogue.mod,SQUAD_TEMPLATE,Picky,Dialogue.mod,is trader,false,,,,,
+squad_template,17233-Dialogue.mod,SQUAD_TEMPLATE,Picky,Dialogue.mod,sell mult,1,,,,,
+squad_template,17233-Dialogue.mod,SQUAD_TEMPLATE,Picky,Dialogue.mod,vendor money,0,,,,,
+squad_template,17233-Dialogue.mod,SQUAD_TEMPLATE,Picky,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,1006-gamedata.base,footwear vendor,100,0,0
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,1028-gamedata.base,item vendor adv,100,0,0
+squad_template,1824-gamedata.base,SQUAD_TEMPLATE,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,1825-gamedata.base,SQUAD_TEMPLATE,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,1825-gamedata.base,SQUAD_TEMPLATE,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,1825-gamedata.base,SQUAD_TEMPLATE,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,1825-gamedata.base,SQUAD_TEMPLATE,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,1825-gamedata.base,SQUAD_TEMPLATE,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,18403-Dialogue.mod,SQUAD_TEMPLATE,Bounty Hunter Solo Shek,Dialogue.mod,buy mult,1,,,,,
+squad_template,18403-Dialogue.mod,SQUAD_TEMPLATE,Bounty Hunter Solo Shek,Dialogue.mod,is trader,false,,,,,
+squad_template,18403-Dialogue.mod,SQUAD_TEMPLATE,Bounty Hunter Solo Shek,Dialogue.mod,sell mult,1,,,,,
+squad_template,18403-Dialogue.mod,SQUAD_TEMPLATE,Bounty Hunter Solo Shek,Dialogue.mod,vendor money,0,,,,,
+squad_template,18403-Dialogue.mod,SQUAD_TEMPLATE,Bounty Hunter Solo Shek,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,18475-Dialogue.mod,SQUAD_TEMPLATE,Bounty hunters low,Dialogue.mod,buy mult,1,,,,,
+squad_template,18475-Dialogue.mod,SQUAD_TEMPLATE,Bounty hunters low,Dialogue.mod,is trader,false,,,,,
+squad_template,18475-Dialogue.mod,SQUAD_TEMPLATE,Bounty hunters low,Dialogue.mod,sell mult,1,,,,,
+squad_template,18475-Dialogue.mod,SQUAD_TEMPLATE,Bounty hunters low,Dialogue.mod,vendor money,0,,,,,
+squad_template,18475-Dialogue.mod,SQUAD_TEMPLATE,Bounty hunters low,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,19502-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,19502-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,19502-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,19502-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,19502-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,19641-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,19641-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,19641-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,19641-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,19641-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,20031-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Dead Cat,Dialogue.mod,buy mult,1,,,,,
+squad_template,20031-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Dead Cat,Dialogue.mod,is trader,false,,,,,
+squad_template,20031-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Dead Cat,Dialogue.mod,sell mult,1,,,,,
+squad_template,20031-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Dead Cat,Dialogue.mod,vendor money,0,,,,,
+squad_template,20031-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Dead Cat,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,2238-gamedata.base,SQUAD_TEMPLATE,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2238-gamedata.base,SQUAD_TEMPLATE,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2238-gamedata.base,SQUAD_TEMPLATE,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2238-gamedata.base,SQUAD_TEMPLATE,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,vendWeapon,weapon vendor Holy,100,0,0
+squad_template,2238-gamedata.base,SQUAD_TEMPLATE,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2239-gamedata.base,SQUAD_TEMPLATE,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2239-gamedata.base,SQUAD_TEMPLATE,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2239-gamedata.base,SQUAD_TEMPLATE,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2239-gamedata.base,SQUAD_TEMPLATE,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1026-gamedata.base,weapon vendor Ronin,100,0,0
+squad_template,2239-gamedata.base,SQUAD_TEMPLATE,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,53662-Dialogue.mod,Lore: Empire Official Books,1,0,0
+squad_template,2240-gamedata.base,SQUAD_TEMPLATE,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,5,0,0
+squad_template,2241-gamedata.base,SQUAD_TEMPLATE,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2242-gamedata.base,SQUAD_TEMPLATE,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2242-gamedata.base,SQUAD_TEMPLATE,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2242-gamedata.base,SQUAD_TEMPLATE,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2242-gamedata.base,SQUAD_TEMPLATE,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,2242-gamedata.base,SQUAD_TEMPLATE,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2245-gamedata.base,SQUAD_TEMPLATE,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2245-gamedata.base,SQUAD_TEMPLATE,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2245-gamedata.base,SQUAD_TEMPLATE,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2245-gamedata.base,SQUAD_TEMPLATE,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,2247-gamedata.base,armor vendor ronin/shek,100,0,0
+squad_template,2245-gamedata.base,SQUAD_TEMPLATE,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2246-gamedata.base,SQUAD_TEMPLATE,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2246-gamedata.base,SQUAD_TEMPLATE,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2246-gamedata.base,SQUAD_TEMPLATE,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2246-gamedata.base,SQUAD_TEMPLATE,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors,,2248-gamedata.base,armor vendor holy,100,0,0
+squad_template,2246-gamedata.base,SQUAD_TEMPLATE,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2252-gamedata.base,SQUAD_TEMPLATE,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2252-gamedata.base,SQUAD_TEMPLATE,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2252-gamedata.base,SQUAD_TEMPLATE,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2252-gamedata.base,SQUAD_TEMPLATE,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,2251-gamedata.base,hats vendor UC,100,0,0
+squad_template,2252-gamedata.base,SQUAD_TEMPLATE,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,12,,,,,
+squad_template,2253-gamedata.base,SQUAD_TEMPLATE,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2253-gamedata.base,SQUAD_TEMPLATE,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2253-gamedata.base,SQUAD_TEMPLATE,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2253-gamedata.base,SQUAD_TEMPLATE,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,2250-gamedata.base,hats vendor holy,100,0,0
+squad_template,2253-gamedata.base,SQUAD_TEMPLATE,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,2254-gamedata.base,SQUAD_TEMPLATE,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,2254-gamedata.base,SQUAD_TEMPLATE,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,is trader,true,,,,,
+squad_template,2254-gamedata.base,SQUAD_TEMPLATE,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,2254-gamedata.base,SQUAD_TEMPLATE,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendors,,1008-gamedata.base,hats vendor ronin,100,0,0
+squad_template,2254-gamedata.base,SQUAD_TEMPLATE,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,buy mult,1,,,,,
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,is trader,true,,,,,
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,vendor money,0,,,,,
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,vendors,,2248-gamedata.base,armor vendor holy,100,0,0
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,vendors,,vendWeapon,weapon vendor Holy,100,0,0
+squad_template,40546-rebirth.mod,SQUAD_TEMPLATE,holy Armoury,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40547-rebirth.mod,SQUAD_TEMPLATE,holy armour shop,rebirth.mod,buy mult,1,,,,,
+squad_template,40547-rebirth.mod,SQUAD_TEMPLATE,holy armour shop,rebirth.mod,is trader,true,,,,,
+squad_template,40547-rebirth.mod,SQUAD_TEMPLATE,holy armour shop,rebirth.mod,vendor money,0,,,,,
+squad_template,40547-rebirth.mod,SQUAD_TEMPLATE,holy armour shop,rebirth.mod,vendors,,2248-gamedata.base,armor vendor holy,100,0,0
+squad_template,40547-rebirth.mod,SQUAD_TEMPLATE,holy armour shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40548-rebirth.mod,SQUAD_TEMPLATE,holy weapons shop,rebirth.mod,buy mult,1,,,,,
+squad_template,40548-rebirth.mod,SQUAD_TEMPLATE,holy weapons shop,rebirth.mod,is trader,true,,,,,
+squad_template,40548-rebirth.mod,SQUAD_TEMPLATE,holy weapons shop,rebirth.mod,vendor money,0,,,,,
+squad_template,40548-rebirth.mod,SQUAD_TEMPLATE,holy weapons shop,rebirth.mod,vendors,,vendWeapon,weapon vendor Holy,100,0,0
+squad_template,40548-rebirth.mod,SQUAD_TEMPLATE,holy weapons shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40549-rebirth.mod,SQUAD_TEMPLATE,holy hospital,rebirth.mod,buy mult,1,,,,,
+squad_template,40549-rebirth.mod,SQUAD_TEMPLATE,holy hospital,rebirth.mod,is trader,true,,,,,
+squad_template,40549-rebirth.mod,SQUAD_TEMPLATE,holy hospital,rebirth.mod,vendor money,0,,,,,
+squad_template,40549-rebirth.mod,SQUAD_TEMPLATE,holy hospital,rebirth.mod,vendors,,14471-rebirth.mod,hospital,100,0,0
+squad_template,40549-rebirth.mod,SQUAD_TEMPLATE,holy hospital,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40550-rebirth.mod,SQUAD_TEMPLATE,holy General storage,rebirth.mod,buy mult,1,,,,,
+squad_template,40550-rebirth.mod,SQUAD_TEMPLATE,holy General storage,rebirth.mod,is trader,true,,,,,
+squad_template,40550-rebirth.mod,SQUAD_TEMPLATE,holy General storage,rebirth.mod,vendor money,0,,,,,
+squad_template,40550-rebirth.mod,SQUAD_TEMPLATE,holy General storage,rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,40550-rebirth.mod,SQUAD_TEMPLATE,holy General storage,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40553-rebirth.mod,SQUAD_TEMPLATE,holy Bakery,rebirth.mod,buy mult,1,,,,,
+squad_template,40553-rebirth.mod,SQUAD_TEMPLATE,holy Bakery,rebirth.mod,is trader,true,,,,,
+squad_template,40553-rebirth.mod,SQUAD_TEMPLATE,holy Bakery,rebirth.mod,vendor money,0,,,,,
+squad_template,40553-rebirth.mod,SQUAD_TEMPLATE,holy Bakery,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,40553-rebirth.mod,SQUAD_TEMPLATE,holy Bakery,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,buy mult,1,,,,,
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,is trader,true,,,,,
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,vendor money,0,,,,,
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,5,0,0
+squad_template,40560-rebirth.mod,SQUAD_TEMPLATE,Bar indie,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,42065-rebirth.mod,SQUAD_TEMPLATE,Ninja Gang,rebirth.mod,buy mult,0.5,,,,,
+squad_template,42065-rebirth.mod,SQUAD_TEMPLATE,Ninja Gang,rebirth.mod,is trader,true,,,,,
+squad_template,42065-rebirth.mod,SQUAD_TEMPLATE,Ninja Gang,rebirth.mod,vendor money,0,,,,,
+squad_template,42065-rebirth.mod,SQUAD_TEMPLATE,Ninja Gang,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,buy mult,1,,,,,
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,is trader,true,,,,,
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,vendor money,0,,,,,
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,vendors,,43323-rebirth.mod,hive,100,0,0
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,vendors,,95786-rebirth.mod,crossbow ammo - mid,5,0,0
+squad_template,42199-rebirth.mod,SQUAD_TEMPLATE,hive trader,rebirth.mod,vendors refresh time,6,,,,,
+squad_template,42221-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,42221-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,42221-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,42221-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,42221-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,42222-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,42222-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,42222-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,42222-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,42222-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,42223-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,42223-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,42223-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,42223-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,42223-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,42224-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,42224-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,42224-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,42224-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,42224-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,vendors,,42076-rebirth.mod,house contents,100,0,0
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,100,0,0
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,vendors,,49490-Dialogue.mod,Lore: Holy Nation Forbidden Books & Notes,15,0,0
+squad_template,43350-Dialogue.mod,SQUAD_TEMPLATE,Civilian solo holy,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43352-Dialogue.mod,SQUAD_TEMPLATE,Holy Civilian family,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,43352-Dialogue.mod,SQUAD_TEMPLATE,Holy Civilian family,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,43352-Dialogue.mod,SQUAD_TEMPLATE,Holy Civilian family,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,43352-Dialogue.mod,SQUAD_TEMPLATE,Holy Civilian family,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,43352-Dialogue.mod,SQUAD_TEMPLATE,Holy Civilian family,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendors,,1006-gamedata.base,footwear vendor,100,0,0
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendors,,1028-gamedata.base,item vendor adv,100,0,0
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendors,,44916-rebirth.mod,maps holy nation,10,0,0
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,20,0,0
+squad_template,43353-Dialogue.mod,SQUAD_TEMPLATE,shop travel/boots holy,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,10,0,0
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,vendors,,58058-Dialogue.mod,Wanted posters: Holy Nation,5,0,0
+squad_template,43355-Dialogue.mod,SQUAD_TEMPLATE,Shop bar holy,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,vendors,,1007-gamedata.base,clothing vendor,100,0,0
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,vendors,,1031-gamedata.base,under-armor vendor,100,0,0
+squad_template,43400-Dialogue.mod,SQUAD_TEMPLATE,Shop clothes holy,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,buy mult,1,,,,,
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,is trader,true,,,,,
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,vendor money,0,,,,,
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,vendors,,43937-rebirth.mod,farm vendor,100,0,0
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,vendors,,64869-rebirth.mod,bull stuff,5,0,0
+squad_template,43931-rebirth.mod,SQUAD_TEMPLATE,farm village residential leader,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,43974-rebirth.mod,SQUAD_TEMPLATE,1test animals,rebirth.mod,buy mult,1,,,,,
+squad_template,43974-rebirth.mod,SQUAD_TEMPLATE,1test animals,rebirth.mod,is trader,true,,,,,
+squad_template,43974-rebirth.mod,SQUAD_TEMPLATE,1test animals,rebirth.mod,vendor money,0,,,,,
+squad_template,43974-rebirth.mod,SQUAD_TEMPLATE,1test animals,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,buy mult,1,,,,,
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,is trader,true,,,,,
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendor money,0,,,,,
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,1533848-rebirth.mod,basic first aid,20,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,57397-rebirth.mod,weapon vendor Ronin crappy,20,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,5,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,95774-rebirth.mod,crossbows swamp,50,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors,,95784-rebirth.mod,crossbow ammo - basics,100,0,0
+squad_template,44422-rebirth.mod,SQUAD_TEMPLATE,Bar blackmarket,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,buy mult,1,,,,,
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,is trader,true,,,,,
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,vendor money,0,,,,,
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,vendors,,1502-gamedata.base,construction goods,400,0,0
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,vendors,,44857-rebirth.mod,crops NW,100,0,0
+squad_template,44855-rebirth.mod,SQUAD_TEMPLATE,Adventurer Mechanical Shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,buy mult,1,,,,,
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,is trader,true,,,,,
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,vendor money,0,,,,,
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,35,0,0
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,vendors,,95785-rebirth.mod,crossbow ammo - high,20,0,0
+squad_template,44856-rebirth.mod,SQUAD_TEMPLATE,Adventurer Waystation Bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,45676-Dialogue.mod,SQUAD_TEMPLATE,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,45676-Dialogue.mod,SQUAD_TEMPLATE,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,45676-Dialogue.mod,SQUAD_TEMPLATE,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,45676-Dialogue.mod,SQUAD_TEMPLATE,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,45676-Dialogue.mod,SQUAD_TEMPLATE,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendors,,43971-rebirth.mod,caravan (survival items),100,0,0
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendors,,62816-rebirth.mod,caravan (mats),10,0,0
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendors,,62817-rebirth.mod,caravan (crops),1,0,0
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendors,,95773-rebirth.mod,robot limbs cheapest,4,0,0
+squad_template,47188-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,vendors,,43971-rebirth.mod,caravan (survival items),100,0,0
+squad_template,47235-Dialogue.mod,SQUAD_TEMPLATE,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,49312-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,49312-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,49312-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,49312-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,49312-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,49314-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo skeleton,Dialogue.mod,buy mult,1,,,,,
+squad_template,49314-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo skeleton,Dialogue.mod,is trader,false,,,,,
+squad_template,49314-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo skeleton,Dialogue.mod,sell mult,1,,,,,
+squad_template,49314-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo skeleton,Dialogue.mod,vendor money,0,,,,,
+squad_template,49314-Dialogue.mod,SQUAD_TEMPLATE,Swamper resident solo skeleton,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,50249-rebirth.mod,SQUAD_TEMPLATE,armour king,rebirth.mod,buy mult,1,,,,,
+squad_template,50249-rebirth.mod,SQUAD_TEMPLATE,armour king,rebirth.mod,is trader,true,,,,,
+squad_template,50249-rebirth.mod,SQUAD_TEMPLATE,armour king,rebirth.mod,vendor money,0,,,,,
+squad_template,50249-rebirth.mod,SQUAD_TEMPLATE,armour king,rebirth.mod,vendors,,50319-rebirth.mod,armour king,100,0,0
+squad_template,50249-rebirth.mod,SQUAD_TEMPLATE,armour king,rebirth.mod,vendors refresh time,48,,,,,
+squad_template,50339-rebirth.mod,SQUAD_TEMPLATE,deadcat fish shop,rebirth.mod,buy mult,1,,,,,
+squad_template,50339-rebirth.mod,SQUAD_TEMPLATE,deadcat fish shop,rebirth.mod,is trader,true,,,,,
+squad_template,50339-rebirth.mod,SQUAD_TEMPLATE,deadcat fish shop,rebirth.mod,vendor money,0,,,,,
+squad_template,50339-rebirth.mod,SQUAD_TEMPLATE,deadcat fish shop,rebirth.mod,vendors,,50340-rebirth.mod,fish food,100,0,0
+squad_template,50339-rebirth.mod,SQUAD_TEMPLATE,deadcat fish shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,buy mult,1,,,,,
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,is trader,true,,,,,
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,vendor money,0,,,,,
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,vendors,,50575-rebirth.mod,fishy bar,100,0,0
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,1,0,0
+squad_template,50345-rebirth.mod,SQUAD_TEMPLATE,Deadcat big bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,buy mult,1,,,,,
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,is trader,true,,,,,
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendor money,0,,,,,
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors,,1026-gamedata.base,weapon vendor Ronin,100,0,0
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors,,42078-rebirth.mod,armour vendor ninja,100,0,0
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,100,0,0
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors,,95775-rebirth.mod,--crossbows mid,50,0,0
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors,,95786-rebirth.mod,crossbow ammo - mid,40,0,0
+squad_template,50348-rebirth.mod,SQUAD_TEMPLATE,flotsam military armoury,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,buy mult,1,,,,,
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,is trader,true,,,,,
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,vendor money,0,,,,,
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,vendors,,50386-rebirth.mod,adventure shop,1000,0,0
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,vendors,,95772-rebirth.mod,robot limbs mid,100,0,0
+squad_template,50357-rebirth.mod,SQUAD_TEMPLATE,Adventure shop adv w/repair,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50637-rebirth.mod,SQUAD_TEMPLATE,the dancing skeleton,rebirth.mod,buy mult,1,,,,,
+squad_template,50637-rebirth.mod,SQUAD_TEMPLATE,the dancing skeleton,rebirth.mod,is trader,true,,,,,
+squad_template,50637-rebirth.mod,SQUAD_TEMPLATE,the dancing skeleton,rebirth.mod,vendor money,0,,,,,
+squad_template,50637-rebirth.mod,SQUAD_TEMPLATE,the dancing skeleton,rebirth.mod,vendors,,50929-rebirth.mod,swamp bar,100,0,0
+squad_template,50637-rebirth.mod,SQUAD_TEMPLATE,the dancing skeleton,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,buy mult,1,,,,,
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,is trader,true,,,,,
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,vendor money,0,,,,,
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,vendors,,51763-rebirth.mod,Narcotics,50,0,0
+squad_template,50968-rebirth.mod,SQUAD_TEMPLATE,swamp trade goods,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,buy mult,1,,,,,
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,is trader,true,,,,,
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,vendor money,0,,,,,
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,100,0,0
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,vendors,,50977-rebirth.mod,Swamp clothing,100,0,0
+squad_template,50972-rebirth.mod,SQUAD_TEMPLATE,swamp travel shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,buy mult,1,,,,,
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,is trader,true,,,,,
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,vendor money,0,,,,,
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,vendors,,50974-rebirth.mod,weapons swamp,100,0,0
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,vendors,,50975-rebirth.mod,armour swamp,100,0,0
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,vendors,,95774-rebirth.mod,crossbows swamp,80,0,0
+squad_template,50973-rebirth.mod,SQUAD_TEMPLATE,swamp smithy,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50976-rebirth.mod,SQUAD_TEMPLATE,swamp shop mechanical,rebirth.mod,buy mult,1,,,,,
+squad_template,50976-rebirth.mod,SQUAD_TEMPLATE,swamp shop mechanical,rebirth.mod,is trader,true,,,,,
+squad_template,50976-rebirth.mod,SQUAD_TEMPLATE,swamp shop mechanical,rebirth.mod,vendor money,0,,,,,
+squad_template,50976-rebirth.mod,SQUAD_TEMPLATE,swamp shop mechanical,rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,50976-rebirth.mod,SQUAD_TEMPLATE,swamp shop mechanical,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,buy mult,1,,,,,
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,is trader,true,,,,,
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendor money,0,,,,,
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors,,1008-gamedata.base,hats vendor ronin,100,0,0
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,50,0,0
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors,,50980-rebirth.mod,travel food,100,0,0
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors,,51816-rebirth.mod,crops,200,0,0
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors,,52155-rebirth.mod,mats +  fuel,70,0,0
+squad_template,50978-rebirth.mod,SQUAD_TEMPLATE,deadcat mini travel shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51311-rebirth.mod,SQUAD_TEMPLATE,shop heavy weapons,rebirth.mod,buy mult,1,,,,,
+squad_template,51311-rebirth.mod,SQUAD_TEMPLATE,shop heavy weapons,rebirth.mod,is trader,true,,,,,
+squad_template,51311-rebirth.mod,SQUAD_TEMPLATE,shop heavy weapons,rebirth.mod,vendor money,0,,,,,
+squad_template,51311-rebirth.mod,SQUAD_TEMPLATE,shop heavy weapons,rebirth.mod,vendors,,51312-rebirth.mod,heavy weapons,100,0,0
+squad_template,51311-rebirth.mod,SQUAD_TEMPLATE,shop heavy weapons,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51421-rebirth.mod,SQUAD_TEMPLATE,Shop trade Shek,rebirth.mod,buy mult,1,,,,,
+squad_template,51421-rebirth.mod,SQUAD_TEMPLATE,Shop trade Shek,rebirth.mod,is trader,true,,,,,
+squad_template,51421-rebirth.mod,SQUAD_TEMPLATE,Shop trade Shek,rebirth.mod,vendor money,0,,,,,
+squad_template,51421-rebirth.mod,SQUAD_TEMPLATE,Shop trade Shek,rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,51421-rebirth.mod,SQUAD_TEMPLATE,Shop trade Shek,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,buy mult,1,,,,,
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,is trader,true,,,,,
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,vendor money,0,,,,,
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,vendors,,51392-rebirth.mod,wanted posters shek,2,0,0
+squad_template,51483-rebirth.mod,SQUAD_TEMPLATE,Bar shek,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,buy mult,1,,,,,
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,is trader,true,,,,,
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,vendor money,0,,,,,
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,vendors,,51392-rebirth.mod,wanted posters shek,4,0,0
+squad_template,51484-rebirth.mod,SQUAD_TEMPLATE,Bar last stand,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,buy mult,0.5,,,,,
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,is trader,true,,,,,
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,vendor money,0,,,,,
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,vendors,,42079-rebirth.mod,shinobi gear,100,0,0
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,vendors,,51746-rebirth.mod,shinobi thief guild special items,50,0,0
+squad_template,51709-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,buy mult,1,,,,,
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,is trader,true,,,,,
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,vendor money,0,,,,,
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,vendors,,51763-rebirth.mod,Narcotics,150,0,0
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,vendors,,51810-rebirth.mod,fish food swamp,100,0,0
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,vendors,,51816-rebirth.mod,crops,50,0,0
+squad_template,51762-rebirth.mod,SQUAD_TEMPLATE,swamper fish and drugs,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,51799-Dialogue.mod,SQUAD_TEMPLATE,Ray,Dialogue.mod,buy mult,1,,,,,
+squad_template,51799-Dialogue.mod,SQUAD_TEMPLATE,Ray,Dialogue.mod,is trader,false,,,,,
+squad_template,51799-Dialogue.mod,SQUAD_TEMPLATE,Ray,Dialogue.mod,sell mult,1,,,,,
+squad_template,51799-Dialogue.mod,SQUAD_TEMPLATE,Ray,Dialogue.mod,vendor money,0,,,,,
+squad_template,51799-Dialogue.mod,SQUAD_TEMPLATE,Ray,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,51801-Dialogue.mod,SQUAD_TEMPLATE,Ray empire pro-slave,Dialogue.mod,buy mult,1,,,,,
+squad_template,51801-Dialogue.mod,SQUAD_TEMPLATE,Ray empire pro-slave,Dialogue.mod,is trader,true,,,,,
+squad_template,51801-Dialogue.mod,SQUAD_TEMPLATE,Ray empire pro-slave,Dialogue.mod,sell mult,1,,,,,
+squad_template,51801-Dialogue.mod,SQUAD_TEMPLATE,Ray empire pro-slave,Dialogue.mod,vendor money,0,,,,,
+squad_template,51801-Dialogue.mod,SQUAD_TEMPLATE,Ray empire pro-slave,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,buy mult,0.5,,,,,
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,is trader,true,,,,,
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,vendor money,0,,,,,
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,vendors,,42079-rebirth.mod,shinobi gear,100,0,0
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,vendors,,51746-rebirth.mod,shinobi thief guild special items,50,0,0
+squad_template,51814-rebirth.mod,SQUAD_TEMPLATE,Thieves Guild human,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,52330-rebirth.mod,SQUAD_TEMPLATE,Shop trader UC bigger,rebirth.mod,buy mult,1,,,,,
+squad_template,52330-rebirth.mod,SQUAD_TEMPLATE,Shop trader UC bigger,rebirth.mod,is trader,true,,,,,
+squad_template,52330-rebirth.mod,SQUAD_TEMPLATE,Shop trader UC bigger,rebirth.mod,vendor money,0,,,,,
+squad_template,52330-rebirth.mod,SQUAD_TEMPLATE,Shop trader UC bigger,rebirth.mod,vendors,,1386-gamedata.base,trade goods,100,0,0
+squad_template,52330-rebirth.mod,SQUAD_TEMPLATE,Shop trader UC bigger,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,52334-rebirth.mod,SQUAD_TEMPLATE,Catun Scrapmasters,rebirth.mod,buy mult,1,,,,,
+squad_template,52334-rebirth.mod,SQUAD_TEMPLATE,Catun Scrapmasters,rebirth.mod,is trader,true,,,,,
+squad_template,52334-rebirth.mod,SQUAD_TEMPLATE,Catun Scrapmasters,rebirth.mod,vendor money,0,,,,,
+squad_template,52334-rebirth.mod,SQUAD_TEMPLATE,Catun Scrapmasters,rebirth.mod,vendors,,98508-rebirth.mod,weapon vendor catun,100,0,0
+squad_template,52334-rebirth.mod,SQUAD_TEMPLATE,Catun Scrapmasters,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,5340-Dialogue.mod,SQUAD_TEMPLATE,Ani,Dialogue.mod,buy mult,1,,,,,
+squad_template,5340-Dialogue.mod,SQUAD_TEMPLATE,Ani,Dialogue.mod,is trader,false,,,,,
+squad_template,5340-Dialogue.mod,SQUAD_TEMPLATE,Ani,Dialogue.mod,sell mult,1,,,,,
+squad_template,5340-Dialogue.mod,SQUAD_TEMPLATE,Ani,Dialogue.mod,vendor money,0,,,,,
+squad_template,5340-Dialogue.mod,SQUAD_TEMPLATE,Ani,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,buy mult,1,,,,,
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,is trader,true,,,,,
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,vendor money,0,,,,,
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,vendors,,43937-rebirth.mod,farm vendor,100,0,0
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,vendors,,63751-rebirth.mod,Animal stuff,4,0,0
+squad_template,53642-rebirth.mod,SQUAD_TEMPLATE,farm shop UC,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,54468-Dialogue.mod,SQUAD_TEMPLATE,Empire slave escapees,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,54468-Dialogue.mod,SQUAD_TEMPLATE,Empire slave escapees,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,54468-Dialogue.mod,SQUAD_TEMPLATE,Empire slave escapees,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,54468-Dialogue.mod,SQUAD_TEMPLATE,Empire slave escapees,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,54468-Dialogue.mod,SQUAD_TEMPLATE,Empire slave escapees,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,54539-rebirth.mod,SQUAD_TEMPLATE,slave farm trader,rebirth.mod,buy mult,0.5,,,,,
+squad_template,54539-rebirth.mod,SQUAD_TEMPLATE,slave farm trader,rebirth.mod,is trader,true,,,,,
+squad_template,54539-rebirth.mod,SQUAD_TEMPLATE,slave farm trader,rebirth.mod,vendor money,0,,,,,
+squad_template,54539-rebirth.mod,SQUAD_TEMPLATE,slave farm trader,rebirth.mod,vendors,,54540-rebirth.mod,slaver farm vendor,100,0,0
+squad_template,54539-rebirth.mod,SQUAD_TEMPLATE,slave farm trader,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,buy mult,1,,,,,
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,is trader,true,,,,,
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,vendor money,0,,,,,
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,54546-rebirth.mod,SQUAD_TEMPLATE,slaver bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,54547-rebirth.mod,SQUAD_TEMPLATE,stolen slave clothing shop,rebirth.mod,buy mult,0.5,,,,,
+squad_template,54547-rebirth.mod,SQUAD_TEMPLATE,stolen slave clothing shop,rebirth.mod,is trader,true,,,,,
+squad_template,54547-rebirth.mod,SQUAD_TEMPLATE,stolen slave clothing shop,rebirth.mod,vendor money,0,,,,,
+squad_template,54547-rebirth.mod,SQUAD_TEMPLATE,stolen slave clothing shop,rebirth.mod,vendors,,1007-gamedata.base,clothing vendor,100,0,0
+squad_template,54547-rebirth.mod,SQUAD_TEMPLATE,stolen slave clothing shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,5502-gamedata.base,SQUAD_TEMPLATE,Slaver Shop,gamedata.base; rebirth.mod,buy mult,1,,,,,
+squad_template,5502-gamedata.base,SQUAD_TEMPLATE,Slaver Shop,gamedata.base; rebirth.mod,is trader,true,,,,,
+squad_template,5502-gamedata.base,SQUAD_TEMPLATE,Slaver Shop,gamedata.base; rebirth.mod,vendor money,0,,,,,
+squad_template,5502-gamedata.base,SQUAD_TEMPLATE,Slaver Shop,gamedata.base; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,55043-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Slaver town,Dialogue.mod,buy mult,1,,,,,
+squad_template,55043-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Slaver town,Dialogue.mod,is trader,false,,,,,
+squad_template,55043-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Slaver town,Dialogue.mod,sell mult,1,,,,,
+squad_template,55043-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Slaver town,Dialogue.mod,vendor money,0,,,,,
+squad_template,55043-Dialogue.mod,SQUAD_TEMPLATE,Recruits list Slaver town,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,55059-Dialogue.mod,SQUAD_TEMPLATE,Garret slave,Dialogue.mod,buy mult,1,,,,,
+squad_template,55059-Dialogue.mod,SQUAD_TEMPLATE,Garret slave,Dialogue.mod,is trader,false,,,,,
+squad_template,55059-Dialogue.mod,SQUAD_TEMPLATE,Garret slave,Dialogue.mod,sell mult,1,,,,,
+squad_template,55059-Dialogue.mod,SQUAD_TEMPLATE,Garret slave,Dialogue.mod,vendor money,0,,,,,
+squad_template,55059-Dialogue.mod,SQUAD_TEMPLATE,Garret slave,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,55637-Newwworld.mod,SQUAD_TEMPLATE,Fish Squad!,Newwworld.mod; Dialogue.mod,buy mult,1,,,,,
+squad_template,55637-Newwworld.mod,SQUAD_TEMPLATE,Fish Squad!,Newwworld.mod; Dialogue.mod,is trader,false,,,,,
+squad_template,55637-Newwworld.mod,SQUAD_TEMPLATE,Fish Squad!,Newwworld.mod; Dialogue.mod,sell mult,1,,,,,
+squad_template,55637-Newwworld.mod,SQUAD_TEMPLATE,Fish Squad!,Newwworld.mod; Dialogue.mod,vendor money,0,,,,,
+squad_template,55637-Newwworld.mod,SQUAD_TEMPLATE,Fish Squad!,Newwworld.mod; Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,vendors,,43971-rebirth.mod,caravan (survival items),100,0,0
+squad_template,55931-Dialogue.mod,SQUAD_TEMPLATE,Harmothoe,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56003-Dialogue.mod,SQUAD_TEMPLATE,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,56003-Dialogue.mod,SQUAD_TEMPLATE,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,56003-Dialogue.mod,SQUAD_TEMPLATE,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,56003-Dialogue.mod,SQUAD_TEMPLATE,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,56003-Dialogue.mod,SQUAD_TEMPLATE,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,buy mult,1,,,,,
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,is trader,true,,,,,
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,vendor money,0,,,,,
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,vendors,,1027-gamedata.base,weapon vendor UC small-time,100,0,0
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,vendors,,vendArmor,armor vendor UC,100,0,0
+squad_template,56040-rebirth.mod,SQUAD_TEMPLATE,armory UC,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56042-Dialogue.mod,SQUAD_TEMPLATE,Cornelius,Dialogue.mod,buy mult,1,,,,,
+squad_template,56042-Dialogue.mod,SQUAD_TEMPLATE,Cornelius,Dialogue.mod,is trader,true,,,,,
+squad_template,56042-Dialogue.mod,SQUAD_TEMPLATE,Cornelius,Dialogue.mod,vendor money,1000,,,,,
+squad_template,56042-Dialogue.mod,SQUAD_TEMPLATE,Cornelius,Dialogue.mod,vendors,,50979-rebirth.mod,mini travel,100,0,0
+squad_template,56042-Dialogue.mod,SQUAD_TEMPLATE,Cornelius,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,buy mult,1,,,,,
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,is trader,true,,,,,
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,vendor money,0,,,,,
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,56130-rebirth.mod,SQUAD_TEMPLATE,UC big bar,rebirth.mod,vendors refresh time,15,,,,,
+squad_template,56131-rebirth.mod,SQUAD_TEMPLATE,weapon vendor UC big,rebirth.mod,buy mult,1,,,,,
+squad_template,56131-rebirth.mod,SQUAD_TEMPLATE,weapon vendor UC big,rebirth.mod,is trader,true,,,,,
+squad_template,56131-rebirth.mod,SQUAD_TEMPLATE,weapon vendor UC big,rebirth.mod,vendor money,0,,,,,
+squad_template,56131-rebirth.mod,SQUAD_TEMPLATE,weapon vendor UC big,rebirth.mod,vendors,,52318-rebirth.mod,weapon vendor UC big city,100,0,0
+squad_template,56131-rebirth.mod,SQUAD_TEMPLATE,weapon vendor UC big,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56132-rebirth.mod,SQUAD_TEMPLATE,bank,rebirth.mod,buy mult,1,,,,,
+squad_template,56132-rebirth.mod,SQUAD_TEMPLATE,bank,rebirth.mod,is trader,true,,,,,
+squad_template,56132-rebirth.mod,SQUAD_TEMPLATE,bank,rebirth.mod,vendor money,0,,,,,
+squad_template,56132-rebirth.mod,SQUAD_TEMPLATE,bank,rebirth.mod,vendors,,56133-rebirth.mod,bank,100,0,0
+squad_template,56132-rebirth.mod,SQUAD_TEMPLATE,bank,rebirth.mod,vendors refresh time,72,,,,,
+squad_template,56137-rebirth.mod,SQUAD_TEMPLATE,bakery UC,rebirth.mod,buy mult,1,,,,,
+squad_template,56137-rebirth.mod,SQUAD_TEMPLATE,bakery UC,rebirth.mod,is trader,true,,,,,
+squad_template,56137-rebirth.mod,SQUAD_TEMPLATE,bakery UC,rebirth.mod,vendor money,0,,,,,
+squad_template,56137-rebirth.mod,SQUAD_TEMPLATE,bakery UC,rebirth.mod,vendors,,56139-rebirth.mod,bakery shop,100,0,0
+squad_template,56137-rebirth.mod,SQUAD_TEMPLATE,bakery UC,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,buy mult,1,,,,,
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,is trader,true,,,,,
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendor money,0,,,,,
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,49489-Dialogue.mod,Lore: Holy Nation Offiical Books For Shops & Homes,20,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,49497-Dialogue.mod,Lore: Shek Official Books For Shops & Homes,20,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,51316-Dialogue.mod,Lore: Worlds End Library,100,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,53662-Dialogue.mod,Lore: Empire Official Books,100,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,56147-rebirth.mod,map shop,100,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,56148-rebirth.mod,comprehensive common armour blueprints,600,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,56150-rebirth.mod,comprehensive common weapon blueprints,600,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,56151-rebirth.mod,just books,75,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors,,95869-rebirth.mod,tech hunters notes series,100,0,0
+squad_template,56146-rebirth.mod,SQUAD_TEMPLATE,Bookshop,rebirth.mod,vendors refresh time,15,,,,,
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,buy mult,1,,,,,
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,is trader,true,,,,,
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,vendor money,0,,,,,
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,vendors,,49375-rebirth.mod,Hi tech junk,30,0,0
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,vendors,,52319-rebirth.mod,weapon vendor skeleton city,100,0,0
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,vendors,,56149-rebirth.mod,rare blueprints,7,0,0
+squad_template,56154-rebirth.mod,SQUAD_TEMPLATE,Scraphouse,rebirth.mod,vendors refresh time,48,,,,,
+squad_template,56158-rebirth.mod,SQUAD_TEMPLATE,skeleton city bar,rebirth.mod,buy mult,1,,,,,
+squad_template,56158-rebirth.mod,SQUAD_TEMPLATE,skeleton city bar,rebirth.mod,is trader,true,,,,,
+squad_template,56158-rebirth.mod,SQUAD_TEMPLATE,skeleton city bar,rebirth.mod,vendor money,0,,,,,
+squad_template,56158-rebirth.mod,SQUAD_TEMPLATE,skeleton city bar,rebirth.mod,vendors,,56160-rebirth.mod,skeleton bar,100,0,0
+squad_template,56158-rebirth.mod,SQUAD_TEMPLATE,skeleton city bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56164-rebirth.mod,SQUAD_TEMPLATE,Smugglers Bar,rebirth.mod,buy mult,1,,,,,
+squad_template,56164-rebirth.mod,SQUAD_TEMPLATE,Smugglers Bar,rebirth.mod,is trader,true,,,,,
+squad_template,56164-rebirth.mod,SQUAD_TEMPLATE,Smugglers Bar,rebirth.mod,vendor money,0,,,,,
+squad_template,56164-rebirth.mod,SQUAD_TEMPLATE,Smugglers Bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,56164-rebirth.mod,SQUAD_TEMPLATE,Smugglers Bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56177-rebirth.mod,SQUAD_TEMPLATE,stone camp shop,rebirth.mod,buy mult,1,,,,,
+squad_template,56177-rebirth.mod,SQUAD_TEMPLATE,stone camp shop,rebirth.mod,is trader,true,,,,,
+squad_template,56177-rebirth.mod,SQUAD_TEMPLATE,stone camp shop,rebirth.mod,vendor money,0,,,,,
+squad_template,56177-rebirth.mod,SQUAD_TEMPLATE,stone camp shop,rebirth.mod,vendors,,56178-rebirth.mod,stone camp shop,100,0,0
+squad_template,56177-rebirth.mod,SQUAD_TEMPLATE,stone camp shop,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,56182-rebirth.mod,SQUAD_TEMPLATE,best armour shop UC,rebirth.mod,buy mult,1,,,,,
+squad_template,56182-rebirth.mod,SQUAD_TEMPLATE,best armour shop UC,rebirth.mod,is trader,true,,,,,
+squad_template,56182-rebirth.mod,SQUAD_TEMPLATE,best armour shop UC,rebirth.mod,vendor money,0,,,,,
+squad_template,56182-rebirth.mod,SQUAD_TEMPLATE,best armour shop UC,rebirth.mod,vendors,,56183-rebirth.mod,best armour vendor UC,100,0,0
+squad_template,56182-rebirth.mod,SQUAD_TEMPLATE,best armour shop UC,rebirth.mod,vendors refresh time,12,,,,,
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,buy mult,1,,,,,
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,is trader,true,,,,,
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendor money,0,,,,,
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors,,50386-rebirth.mod,adventure shop,1000,0,0
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors,,51746-rebirth.mod,shinobi thief guild special items,50,0,0
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors,,56185-rebirth.mod,ashlander stuff,100,0,0
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors,,95785-rebirth.mod,crossbow ammo - high,50,0,0
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors,,95869-rebirth.mod,tech hunters notes series,5,0,0
+squad_template,56184-rebirth.mod,SQUAD_TEMPLATE,super adventure shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,56642-Dialogue.mod,SQUAD_TEMPLATE,Black Dog Extortionists,Dialogue.mod,buy mult,1,,,,,
+squad_template,56642-Dialogue.mod,SQUAD_TEMPLATE,Black Dog Extortionists,Dialogue.mod,is trader,false,,,,,
+squad_template,56642-Dialogue.mod,SQUAD_TEMPLATE,Black Dog Extortionists,Dialogue.mod,sell mult,1,,,,,
+squad_template,56642-Dialogue.mod,SQUAD_TEMPLATE,Black Dog Extortionists,Dialogue.mod,vendor money,0,,,,,
+squad_template,56642-Dialogue.mod,SQUAD_TEMPLATE,Black Dog Extortionists,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,57327-rebirth.mod,SQUAD_TEMPLATE,Shop weapons Mongrel,rebirth.mod,buy mult,1,,,,,
+squad_template,57327-rebirth.mod,SQUAD_TEMPLATE,Shop weapons Mongrel,rebirth.mod,is trader,true,,,,,
+squad_template,57327-rebirth.mod,SQUAD_TEMPLATE,Shop weapons Mongrel,rebirth.mod,vendor money,0,,,,,
+squad_template,57327-rebirth.mod,SQUAD_TEMPLATE,Shop weapons Mongrel,rebirth.mod,vendors,,57326-rebirth.mod,weapon vendor mongrel,100,0,0
+squad_template,57327-rebirth.mod,SQUAD_TEMPLATE,Shop weapons Mongrel,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,buy mult,1,,,,,
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,is trader,true,,,,,
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,vendor money,0,,,,,
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,vendors,,56185-rebirth.mod,ashlander stuff,2,0,0
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,vendors,,57328-rebirth.mod,armor vendor mongrel,100,0,0
+squad_template,57329-rebirth.mod,SQUAD_TEMPLATE,Shop armor mongrel,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,57777-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant01,Newwworld.mod,buy mult,1,,,,,
+squad_template,57777-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant01,Newwworld.mod,is trader,false,,,,,
+squad_template,57777-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant01,Newwworld.mod,sell mult,1,,,,,
+squad_template,57777-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant01,Newwworld.mod,vendor money,0,,,,,
+squad_template,57777-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant01,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,57780-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant02,Newwworld.mod,buy mult,1,,,,,
+squad_template,57780-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant02,Newwworld.mod,is trader,false,,,,,
+squad_template,57780-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant02,Newwworld.mod,sell mult,1,,,,,
+squad_template,57780-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant02,Newwworld.mod,vendor money,0,,,,,
+squad_template,57780-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant02,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,57785-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant03,Newwworld.mod,buy mult,1,,,,,
+squad_template,57785-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant03,Newwworld.mod,is trader,false,,,,,
+squad_template,57785-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant03,Newwworld.mod,sell mult,1,,,,,
+squad_template,57785-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant03,Newwworld.mod,vendor money,0,,,,,
+squad_template,57785-Newwworld.mod,SQUAD_TEMPLATE,Skeleton Variant03,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,buy mult,1,,,,,
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,is trader,true,,,,,
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendor money,0,,,,,
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,35,0,0
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,2,0,0
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,2,0,0
+squad_template,58699-rebirth.mod,SQUAD_TEMPLATE,worlds end Bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,buy mult,1,,,,,
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,is trader,true,,,,,
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,sell mult,1,,,,,
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendor money,0,,,,,
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendors,,43971-rebirth.mod,caravan (survival items),10,0,0
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendors,,62816-rebirth.mod,caravan (mats),100,0,0
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendors,,62817-rebirth.mod,caravan (crops),1,0,0
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendors,,95773-rebirth.mod,robot limbs cheapest,2,0,0
+squad_template,62819-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (mats),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,buy mult,1,,,,,
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,is trader,true,,,,,
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,sell mult,1,,,,,
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,vendor money,0,,,,,
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,vendors,,43971-rebirth.mod,caravan (survival items),8,0,0
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,vendors,,62816-rebirth.mod,caravan (mats),10,0,0
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,vendors,,62817-rebirth.mod,caravan (crops),100,0,0
+squad_template,62820-rebirth.mod,SQUAD_TEMPLATE,Hiver Merchant caravan (crops),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,buy mult,1,,,,,
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,is trader,true,,,,,
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,vendor money,0,,,,,
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,vendors,,50340-rebirth.mod,fish food,22,0,0
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,vendors,,65824-rebirth.mod,crab gear,100,0,0
+squad_template,62833-rebirth.mod,SQUAD_TEMPLATE,crab raider smithy shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,63480-rebirth.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers,rebirth.mod,buy mult,1,,,,,
+squad_template,63480-rebirth.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers,rebirth.mod,is trader,true,,,,,
+squad_template,63480-rebirth.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers,rebirth.mod,vendor money,0,,,,,
+squad_template,63480-rebirth.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,63537-rebirth.mod,SQUAD_TEMPLATE,Merchant Nomads,rebirth.mod,buy mult,1,,,,,
+squad_template,63537-rebirth.mod,SQUAD_TEMPLATE,Merchant Nomads,rebirth.mod,is trader,true,,,,,
+squad_template,63537-rebirth.mod,SQUAD_TEMPLATE,Merchant Nomads,rebirth.mod,sell mult,1,,,,,
+squad_template,63537-rebirth.mod,SQUAD_TEMPLATE,Merchant Nomads,rebirth.mod,vendor money,0,,,,,
+squad_template,63537-rebirth.mod,SQUAD_TEMPLATE,Merchant Nomads,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,buy mult,1,,,,,
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,is trader,true,,,,,
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,sell mult,1,,,,,
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,vendor money,1000,,,,,
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,vendors,,63751-rebirth.mod,Animal stuff,100,0,0
+squad_template,63750-rebirth.mod,SQUAD_TEMPLATE,Town Merchant Nomad shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,64488-rebirth.mod,SQUAD_TEMPLATE,skin bandit HQ,rebirth.mod,buy mult,1,,,,,
+squad_template,64488-rebirth.mod,SQUAD_TEMPLATE,skin bandit HQ,rebirth.mod,is trader,true,,,,,
+squad_template,64488-rebirth.mod,SQUAD_TEMPLATE,skin bandit HQ,rebirth.mod,vendor money,0,,,,,
+squad_template,64488-rebirth.mod,SQUAD_TEMPLATE,skin bandit HQ,rebirth.mod,vendors,,1534204-__Fixes.mod,skin gear,100,0,0
+squad_template,64488-rebirth.mod,SQUAD_TEMPLATE,skin bandit HQ,rebirth.mod,vendors refresh time,120,,,,,
+squad_template,64652-rebirth.mod,SQUAD_TEMPLATE,shop tools ronin adv,rebirth.mod,buy mult,1,,,,,
+squad_template,64652-rebirth.mod,SQUAD_TEMPLATE,shop tools ronin adv,rebirth.mod,is trader,true,,,,,
+squad_template,64652-rebirth.mod,SQUAD_TEMPLATE,shop tools ronin adv,rebirth.mod,vendor money,0,,,,,
+squad_template,64652-rebirth.mod,SQUAD_TEMPLATE,shop tools ronin adv,rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,64652-rebirth.mod,SQUAD_TEMPLATE,shop tools ronin adv,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,buy mult,1,,,,,
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,is trader,true,,,,,
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,vendor money,0,,,,,
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,vendors,,50386-rebirth.mod,adventure shop,1000,0,0
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,vendors,,95784-rebirth.mod,crossbow ammo - basics,100,0,0
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,vendors,,95869-rebirth.mod,tech hunters notes series,5,0,0
+squad_template,64655-rebirth.mod,SQUAD_TEMPLATE,Adventure shop,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,buy mult,1,,,,,
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,is trader,true,,,,,
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendor money,0,,,,,
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendors,,49375-rebirth.mod,Hi tech junk,10,0,0
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendors,,56151-rebirth.mod,just books,100,0,0
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendors,,64678-rebirth.mod,repair kits,1000,0,0
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendors,,95772-rebirth.mod,robot limbs mid,1200,0,0
+squad_template,64665-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop expensive,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,64702-__Pacifier faction.mod,SQUAD_TEMPLATE,Jaegar,rebirth.mod,buy mult,1,,,,,
+squad_template,64702-__Pacifier faction.mod,SQUAD_TEMPLATE,Jaegar,rebirth.mod,is trader,false,,,,,
+squad_template,64702-__Pacifier faction.mod,SQUAD_TEMPLATE,Jaegar,rebirth.mod,sell mult,1,,,,,
+squad_template,64702-__Pacifier faction.mod,SQUAD_TEMPLATE,Jaegar,rebirth.mod,vendor money,0,,,,,
+squad_template,64702-__Pacifier faction.mod,SQUAD_TEMPLATE,Jaegar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,buy mult,1,,,,,
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,is trader,true,,,,,
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,sell mult,1,,,,,
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,vendor money,0,,,,,
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,vendors,,58057-Dialogue.mod,Wanted posters: UC Traders Guild,5,0,0
+squad_template,64853-rebirth.mod,SQUAD_TEMPLATE,Shop bar Empire small,rebirth.mod,vendors refresh time,33,,,,,
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,buy mult,1,,,,,
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,is trader,true,,,,,
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,vendor money,0,,,,,
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,vendors,,1027-gamedata.base,weapon vendor UC small-time,50,0,0
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,vendors,,1973-gamedata.base,Бар,1000,0,0
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,vendors,,50386-rebirth.mod,adventure shop,200,0,0
+squad_template,64907-rebirth.mod,SQUAD_TEMPLATE,Cannibal hunter hq,rebirth.mod,vendors refresh time,48,,,,,
+squad_template,65267-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII,Newwworld.mod,buy mult,1,,,,,
+squad_template,65267-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII,Newwworld.mod,is trader,false,,,,,
+squad_template,65267-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII,Newwworld.mod,sell mult,1,,,,,
+squad_template,65267-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII,Newwworld.mod,vendor money,0,,,,,
+squad_template,65267-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,buy mult,1,,,,,
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,is trader,true,,,,,
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,vendor money,0,,,,,
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,vendors,,50340-rebirth.mod,fish food,50,0,0
+squad_template,65826-rebirth.mod,SQUAD_TEMPLATE,Crab Bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,65953-Dialogue.mod,SQUAD_TEMPLATE,Crab Man Shop,Dialogue.mod; rebirth.mod,buy mult,1.5,,,,,
+squad_template,65953-Dialogue.mod,SQUAD_TEMPLATE,Crab Man Shop,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,65953-Dialogue.mod,SQUAD_TEMPLATE,Crab Man Shop,Dialogue.mod; rebirth.mod,vendor money,1000,,,,,
+squad_template,65953-Dialogue.mod,SQUAD_TEMPLATE,Crab Man Shop,Dialogue.mod; rebirth.mod,vendors,,50340-rebirth.mod,fish food,100,0,0
+squad_template,65953-Dialogue.mod,SQUAD_TEMPLATE,Crab Man Shop,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,65972-November.mod,SQUAD_TEMPLATE,Recruits list Crab Town,rebirth.mod,buy mult,1,,,,,
+squad_template,65972-November.mod,SQUAD_TEMPLATE,Recruits list Crab Town,rebirth.mod,is trader,false,,,,,
+squad_template,65972-November.mod,SQUAD_TEMPLATE,Recruits list Crab Town,rebirth.mod,sell mult,1,,,,,
+squad_template,65972-November.mod,SQUAD_TEMPLATE,Recruits list Crab Town,rebirth.mod,vendor money,0,,,,,
+squad_template,65972-November.mod,SQUAD_TEMPLATE,Recruits list Crab Town,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,66531-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII Log Head,Newwworld.mod,buy mult,1,,,,,
+squad_template,66531-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII Log Head,Newwworld.mod,is trader,false,,,,,
+squad_template,66531-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII Log Head,Newwworld.mod,sell mult,1,,,,,
+squad_template,66531-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII Log Head,Newwworld.mod,vendor money,0,,,,,
+squad_template,66531-Newwworld.mod,SQUAD_TEMPLATE,Skeleton_MarkII Log Head,Newwworld.mod,vendors refresh time,24,,,,,
+squad_template,7996-Dialogue.mod,SQUAD_TEMPLATE,Bo,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,7996-Dialogue.mod,SQUAD_TEMPLATE,Bo,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,7996-Dialogue.mod,SQUAD_TEMPLATE,Bo,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,7996-Dialogue.mod,SQUAD_TEMPLATE,Bo,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,7996-Dialogue.mod,SQUAD_TEMPLATE,Bo,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,8235-Dialogue.mod,SQUAD_TEMPLATE,Pickles,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,8235-Dialogue.mod,SQUAD_TEMPLATE,Pickles,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,8235-Dialogue.mod,SQUAD_TEMPLATE,Pickles,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,8235-Dialogue.mod,SQUAD_TEMPLATE,Pickles,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,8235-Dialogue.mod,SQUAD_TEMPLATE,Pickles,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,8305-Dialogue.mod,SQUAD_TEMPLATE,Town Thief,Dialogue.mod,buy mult,1,,,,,
+squad_template,8305-Dialogue.mod,SQUAD_TEMPLATE,Town Thief,Dialogue.mod,is trader,false,,,,,
+squad_template,8305-Dialogue.mod,SQUAD_TEMPLATE,Town Thief,Dialogue.mod,sell mult,1,,,,,
+squad_template,8305-Dialogue.mod,SQUAD_TEMPLATE,Town Thief,Dialogue.mod,vendor money,0,,,,,
+squad_template,8305-Dialogue.mod,SQUAD_TEMPLATE,Town Thief,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,8354-Dialogue.mod,SQUAD_TEMPLATE,Caravan Raided,Dialogue.mod,buy mult,1,,,,,
+squad_template,8354-Dialogue.mod,SQUAD_TEMPLATE,Caravan Raided,Dialogue.mod,is trader,false,,,,,
+squad_template,8354-Dialogue.mod,SQUAD_TEMPLATE,Caravan Raided,Dialogue.mod,sell mult,1,,,,,
+squad_template,8354-Dialogue.mod,SQUAD_TEMPLATE,Caravan Raided,Dialogue.mod,vendor money,0,,,,,
+squad_template,8354-Dialogue.mod,SQUAD_TEMPLATE,Caravan Raided,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,8908-Dialogue.mod,SQUAD_TEMPLATE,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,8908-Dialogue.mod,SQUAD_TEMPLATE,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,8908-Dialogue.mod,SQUAD_TEMPLATE,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,8908-Dialogue.mod,SQUAD_TEMPLATE,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,8908-Dialogue.mod,SQUAD_TEMPLATE,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,9190-Dialogue.mod,SQUAD_TEMPLATE,Escaped Drifter,Dialogue.mod,buy mult,1,,,,,
+squad_template,9190-Dialogue.mod,SQUAD_TEMPLATE,Escaped Drifter,Dialogue.mod,is trader,false,,,,,
+squad_template,9190-Dialogue.mod,SQUAD_TEMPLATE,Escaped Drifter,Dialogue.mod,sell mult,1,,,,,
+squad_template,9190-Dialogue.mod,SQUAD_TEMPLATE,Escaped Drifter,Dialogue.mod,vendor money,0,,,,,
+squad_template,9190-Dialogue.mod,SQUAD_TEMPLATE,Escaped Drifter,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,9477-Dialogue.mod,SQUAD_TEMPLATE,Empire Guard Gate old,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,9477-Dialogue.mod,SQUAD_TEMPLATE,Empire Guard Gate old,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,9477-Dialogue.mod,SQUAD_TEMPLATE,Empire Guard Gate old,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,9477-Dialogue.mod,SQUAD_TEMPLATE,Empire Guard Gate old,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,9477-Dialogue.mod,SQUAD_TEMPLATE,Empire Guard Gate old,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95545-Mourn.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers empty,rebirth.mod,buy mult,1,,,,,
+squad_template,95545-Mourn.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers empty,rebirth.mod,is trader,true,,,,,
+squad_template,95545-Mourn.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers empty,rebirth.mod,vendor money,0,,,,,
+squad_template,95545-Mourn.mod,SQUAD_TEMPLATE,Slaver Shop w/ workers empty,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,buy mult,1,,,,,
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,is trader,true,,,,,
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendor money,0,,,,,
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendors,,1502-gamedata.base,construction goods,100,0,0
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendors,,57397-rebirth.mod,weapon vendor Ronin crappy,20,0,0
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendors,,58059-Dialogue.mod,Wanted posters: Misc,5,0,0
+squad_template,95554-Mourn.mod,SQUAD_TEMPLATE,Bar Mourn,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,buy mult,1,,,,,
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,is trader,true,,,,,
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,vendor money,0,,,,,
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,vendors,,1973-gamedata.base,Бар,100,0,0
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,vendors,,44862-rebirth.mod,medical and travel supplies,35,0,0
+squad_template,95581-__Mourn.mod,SQUAD_TEMPLATE,Adventurer Lagoon Bar,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,buy mult,1,,,,,
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,is trader,true,,,,,
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,vendor money,0,,,,,
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,vendors,,95775-rebirth.mod,--crossbows mid,100,0,0
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,vendors,,95786-rebirth.mod,crossbow ammo - mid,500,0,0
+squad_template,95739-__Mourn.mod,SQUAD_TEMPLATE,Shop weapons Crossbow,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,buy mult,1,,,,,
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,is trader,true,,,,,
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,vendor money,0,,,,,
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,vendors,,95783-rebirth.mod,--crossbows all,100,0,0
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,vendors,,95785-rebirth.mod,crossbow ammo - high,500,0,0
+squad_template,95787-rebirth.mod,SQUAD_TEMPLATE,Shop Crossbow Adv,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,buy mult,1,,,,,
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,is trader,true,,,,,
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendor money,0,,,,,
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors,,49375-rebirth.mod,Hi tech junk,20,0,0
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors,,56151-rebirth.mod,just books,25,0,0
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors,,64678-rebirth.mod,repair kits,500,0,0
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors,,95772-rebirth.mod,robot limbs mid,100,0,0
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors,,95829-__december17.mod,Robotics limb vendor (best),500,0,0
+squad_template,95790-rebirth.mod,SQUAD_TEMPLATE,mini robot workshop adv,rebirth.mod,vendors refresh time,20,,,,,
+squad_template,95828-__december17.mod,SQUAD_TEMPLATE,Robotics shop (black desert),rebirth.mod,buy mult,1,,,,,
+squad_template,95828-__december17.mod,SQUAD_TEMPLATE,Robotics shop (black desert),rebirth.mod,is trader,true,,,,,
+squad_template,95828-__december17.mod,SQUAD_TEMPLATE,Robotics shop (black desert),rebirth.mod,vendor money,0,,,,,
+squad_template,95828-__december17.mod,SQUAD_TEMPLATE,Robotics shop (black desert),rebirth.mod,vendors,,95829-__december17.mod,Robotics limb vendor (best),100,0,0
+squad_template,95828-__december17.mod,SQUAD_TEMPLATE,Robotics shop (black desert),rebirth.mod,vendors refresh time,24,,,,,
+squad_template,95867-Dialogue.mod,SQUAD_TEMPLATE,Shop Robotics,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,95867-Dialogue.mod,SQUAD_TEMPLATE,Shop Robotics,Dialogue.mod; rebirth.mod,is trader,true,,,,,
+squad_template,95867-Dialogue.mod,SQUAD_TEMPLATE,Shop Robotics,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,95867-Dialogue.mod,SQUAD_TEMPLATE,Shop Robotics,Dialogue.mod; rebirth.mod,vendors,,95829-__december17.mod,Robotics limb vendor (best),100,0,0
+squad_template,95867-Dialogue.mod,SQUAD_TEMPLATE,Shop Robotics,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,buy mult,1,,,,,
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,is trader,true,,,,,
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,vendor money,0,,,,,
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,vendors,,95773-rebirth.mod,robot limbs cheapest,100,0,0
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,vendors,,97904-rebirth.mod,economy repair kit,10,0,0
+squad_template,96264-__Southern hive.mod,SQUAD_TEMPLATE,hive trader robotics,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,vendors,,48781-rebirth.mod,cannibal treasure,20,0,0
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,vendors,,96161-rebirth.mod,house junk trash,50,0,0
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,vendors,,97661-rebirth.mod,fish,100,0,0
+squad_template,96392-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,vendors,,48699-rebirth.mod,abandoned house junk (hi-tech zone),100,0,0
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,vendors,,49375-rebirth.mod,Hi tech junk,100,0,0
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,vendors,,97661-rebirth.mod,fish,10000,0,0
+squad_template,96406-Dialogue.mod,SQUAD_TEMPLATE,Gurgler boss squad,Dialogue.mod; rebirth.mod,vendors refresh time,999,,,,,
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,vendors,,44870-rebirth.mod,bandit good loot,100,0,0
+squad_template,96520-Dialogue.mod,SQUAD_TEMPLATE,Black Dog HQ,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,96562-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad copy,Dialogue.mod; rebirth.mod,buy mult,1,,,,,
+squad_template,96562-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad copy,Dialogue.mod; rebirth.mod,is trader,false,,,,,
+squad_template,96562-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad copy,Dialogue.mod; rebirth.mod,sell mult,1,,,,,
+squad_template,96562-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad copy,Dialogue.mod; rebirth.mod,vendor money,0,,,,,
+squad_template,96562-Dialogue.mod,SQUAD_TEMPLATE,Gurgler town squad copy,Dialogue.mod; rebirth.mod,vendors refresh time,24,,,,,
+squad_template,97902-rebirth.mod,SQUAD_TEMPLATE,Gurgler nest residents,rebirth.mod,buy mult,1,,,,,
+squad_template,97902-rebirth.mod,SQUAD_TEMPLATE,Gurgler nest residents,rebirth.mod,is trader,false,,,,,
+squad_template,97902-rebirth.mod,SQUAD_TEMPLATE,Gurgler nest residents,rebirth.mod,sell mult,1,,,,,
+squad_template,97902-rebirth.mod,SQUAD_TEMPLATE,Gurgler nest residents,rebirth.mod,vendor money,0,,,,,
+squad_template,97902-rebirth.mod,SQUAD_TEMPLATE,Gurgler nest residents,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,98228-__March 18.mod,SQUAD_TEMPLATE,Recruits list Empire copy Catun,rebirth.mod,buy mult,1,,,,,
+squad_template,98228-__March 18.mod,SQUAD_TEMPLATE,Recruits list Empire copy Catun,rebirth.mod,is trader,false,,,,,
+squad_template,98228-__March 18.mod,SQUAD_TEMPLATE,Recruits list Empire copy Catun,rebirth.mod,sell mult,1,,,,,
+squad_template,98228-__March 18.mod,SQUAD_TEMPLATE,Recruits list Empire copy Catun,rebirth.mod,vendor money,0,,,,,
+squad_template,98228-__March 18.mod,SQUAD_TEMPLATE,Recruits list Empire copy Catun,rebirth.mod,vendors refresh time,24,,,,,
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,buy mult,1,,,,,
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,is trader,true,,,,,
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendor money,0,,,,,
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors,,1008-gamedata.base,hats vendor ronin,100,0,0
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors,,44862-rebirth.mod,medical and travel supplies,50,0,0
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors,,50980-rebirth.mod,travel food,100,0,0
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors,,51816-rebirth.mod,crops,200,0,0
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors,,52155-rebirth.mod,mats +  fuel,70,0,0
+squad_template,98542-Dialogue.mod,SQUAD_TEMPLATE,deadcat mini travel shop swamp,Dialogue.mod,vendors refresh time,24,,,,,
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,buy mult,1,,,,,
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,is trader,false,,,,,
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,sell mult,1,,,,,
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,vendor money,0,,,,,
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,vendors,,51633-rebirth.mod,holy church,100,0,0
+squad_template,99003-Dialogue.mod,SQUAD_TEMPLATE,Holy Priest campaign squad,Dialogue.mod,vendors refresh time,24,,,,,

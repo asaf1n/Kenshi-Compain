@@ -1,0 +1,251 @@
+settlement,location_key,settlement_status,zone,building_id,building,container,item,item_sid,quantity,base_price,base_price_source,unresolved
+База Мятежников,База Мятежников,near_location,21.31,12065-zone21.31-INGAME,Костёр,234223-zone21.31-INGAME,Вяленое мясо,42334-changes_otto.mod,4,150,rebirth.mod,false
+База Мятежников,База Мятежников,near_location,21.31,12069-zone21.31-INGAME,Костёр,234226-zone21.31-INGAME,Вяленое мясо,42334-changes_otto.mod,5,150,rebirth.mod,false
+База Мятежников,База Мятежников,near_location,21.31,12069-zone21.31-INGAME,Костёр,234226-zone21.31-INGAME,Сырое мясо,42243-rebirth.mod,1,100,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15427-zone24.40-INGAME,Складской сундук,229510-zone24.40-INGAME,Железные листы,42159-gamedata.base,3,250,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15427-zone24.40-INGAME,Складской сундук,229510-zone24.40-INGAME,Медь,42158-gamedata.base,5,300,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15427-zone24.40-INGAME,Складской сундук,229510-zone24.40-INGAME,Медь,42158-gamedata.base,1,300,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15427-zone24.40-INGAME,Складской сундук,229510-zone24.40-INGAME,Стройматериалы,580-gamedata.base,2,150,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15427-zone24.40-INGAME,Складской сундук,229510-zone24.40-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Болты [Зубочистки],96014-rebirth.mod,1,450,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Вьюк,1012-gamedata.base,1,3000,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Деревянные сандали,557-gamedata.base,1,250,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Простая аптечка,209-gamedata.base,5,200,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Стандартная аптечка,515-gamedata.base,5,500,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Стандартная аптечка,515-gamedata.base,3,500,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15429-zone24.40-INGAME,Складской сундук,229517-zone24.40-INGAME,Хороший набор шин,1436-gamedata.base,1,1500,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15431-zone24.40-INGAME,Хранение: еда,229527-zone24.40-INGAME,Гохан,43957-rebirth.mod,2,150,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15431-zone24.40-INGAME,Хранение: еда,229527-zone24.40-INGAME,Гохан,43957-rebirth.mod,2,150,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,15431-zone24.40-INGAME,Хранение: еда,229527-zone24.40-INGAME,Съедобный брикет,43959-rebirth.mod,2,300,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168748-zone24.40-INGAME,Кухонная плита,229535-zone24.40-INGAME,Вода,1914-gamedata.base,5,50,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Гохан,43957-rebirth.mod,1,150,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,4,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,4,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,4,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,4,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,4,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Миска риса,1016-gamedata.base,1,150,gamedata.base,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,168750-zone24.40-INGAME,Хранение: еда,229538-zone24.40-INGAME,Сухой паёк,42337-changes_otto.mod,2,2000,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,19873-zone24.40-INGAME,Хранение: пенька,229556-zone24.40-INGAME,Пенька,1965-gamedata.base,11,100,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,19875-zone24.40-INGAME,Хранение: пенька,229559-zone24.40-INGAME,Пенька,1965-gamedata.base,155,100,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,19877-zone24.40-INGAME,Хранение: пенька,229562-zone24.40-INGAME,Пенька,1965-gamedata.base,145,100,rebirth.mod,false
+Деревня Серодёров,Деревня Серодёров,in_location,24.40,19879-zone24.40-INGAME,Хранение: пенька,229565-zone24.40-INGAME,Пенька,1965-gamedata.base,126,100,rebirth.mod,false
+Затерянная библиотека,Затерянная библиотека,zone_location,14.2,7405-zone14.2-INGAME,Костёр,11173-zone14.2-INGAME,Вяленое мясо,42334-changes_otto.mod,5,150,rebirth.mod,false
+Путевая станция,Путевая станция,zone_location,16.37,1245-zone16.37-INGAME,Campfire,75588-zone16.37-INGAME,Вяленое мясо,42334-changes_otto.mod,3,150,rebirth.mod,false
+Путевая станция,Путевая станция,zone_location,16.37,29018-zone16.37-INGAME,Костёр,75600-zone16.37-INGAME,Вяленое мясо,42334-changes_otto.mod,3,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Болты [Длинные],96000-Newwworld.mod,5,600,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Болты [Длинные],96000-Newwworld.mod,5,600,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Болты [Длинные],96000-Newwworld.mod,5,600,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Болты [Длинные],96000-Newwworld.mod,1,600,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Вода,1914-gamedata.base,5,50,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Вода,1914-gamedata.base,3,50,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Воровской рюкзак,46036-rebirth.mod,1,5000,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Вяленое мясо,42334-changes_otto.mod,4,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Железные листы,42159-gamedata.base,4,250,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Медь,42158-gamedata.base,3,300,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Набор шин,1435-gamedata.base,1,600,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Стройматериалы,580-gamedata.base,5,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Стройматериалы,580-gamedata.base,5,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Стройматериалы,580-gamedata.base,5,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Стройматериалы,580-gamedata.base,4,150,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Сухой паёк,42337-changes_otto.mod,3,2000,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Съедобный брикет,43959-rebirth.mod,5,300,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Хлеб,1946-gamedata.base,3,300,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Хорошая аптечка,1359-gamedata.base,3,1000,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Шаурма,43960-rebirth.mod,3,300,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,64775-zone35.42-INGAME,Складской сундук,449180-zone35.42-INGAME,Электродетали,42164-gamedata.base,2,400,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,91924-zone35.42-INGAME,Переработка пеньки,449356-zone35.42-INGAME,Вода,1914-gamedata.base,3,50,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,91924-zone35.42-INGAME,Переработка пеньки,449356-zone35.42-INGAME,Гашиш,1230-gamedata.base,1,800,gamedata.base,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,91924-zone35.42-INGAME,Переработка пеньки,449356-zone35.42-INGAME,Пенька,1965-gamedata.base,4,100,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,92136-zone35.42-INGAME,Хранение: пенька,449362-zone35.42-INGAME,Пенька,1965-gamedata.base,149,100,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,92138-zone35.42-INGAME,Хранение: пенька,449365-zone35.42-INGAME,Пенька,1965-gamedata.base,170,100,rebirth.mod,false
+Ровная лагуна,Ровная лагуна,in_location,35.42,92140-zone35.42-INGAME,Хранение: гашиш,449368-zone35.42-INGAME,Гашиш,1230-gamedata.base,3,800,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,4,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,4,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,1,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,2,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,4,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Древняя научная книга,43953-rebirth.mod,4,5000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Инженерные исследования,43951-rebirth.mod,3,8000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,4,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,4,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,1,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,1,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,4,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Книга,16855-nodes_otto1.mod,2,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Пенька,1965-gamedata.base,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Пенька,1965-gamedata.base,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Пенька,1965-gamedata.base,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Пенька,1965-gamedata.base,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Пенька,1965-gamedata.base,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039576-zone18.35-INGAME,Научный стенд VI,4442909-zone18.35-INGAME,Электродетали,42164-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,3,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Железные листы,42159-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Кожа,2292-gamedata.base,8,400,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Латы,2288-gamedata.base,19,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Медь,42158-gamedata.base,5,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Медь,42158-gamedata.base,5,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Медь,42158-gamedata.base,5,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Медь,42158-gamedata.base,5,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Медь,42158-gamedata.base,2,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Пластины медного сплава,42160-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Пластины медного сплава,42160-gamedata.base,1,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Слитки стали,579-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,2,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,5,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2039578-zone18.35-INGAME,Складской сундук,4442934-zone18.35-INGAME,Электродетали,42164-gamedata.base,3,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2074033-zone18.35-INGAME,Складской сундук,4442981-zone18.35-INGAME,Спальный мешок,56645-rebirth.mod,2,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2074033-zone18.35-INGAME,Складской сундук,4442981-zone18.35-INGAME,Стройматериалы,580-gamedata.base,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2074033-zone18.35-INGAME,Складской сундук,4442981-zone18.35-INGAME,Стройматериалы,580-gamedata.base,4,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2074033-zone18.35-INGAME,Складской сундук,4442981-zone18.35-INGAME,Ткани,584-gamedata.base,4,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Длинный тесак,478-gamedata.base,1,350,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Доска изгнанника,56728-Dialogue.mod,1,500,Dialogue.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Крест паладина,52299-rebirth.mod,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Нагината,52308-rebirth.mod,1,350,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Сабля с кольцами,903-gamedata.base,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Сабля с отверстием,52287-rebirth.mod,1,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Составной топор,477-gamedata.base,1,550,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445142-zone18.35-INGAME,Оружейный шкаф,4442991-zone18.35-INGAME,Тяжелый дзюттэ,52290-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Глефа,52301-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Доска,902-gamedata.base,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Зубочистка,66534-Newwworld.mod,1,1000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Катана,476-gamedata.base,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Катана без цубы,923-gamedata.base,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Катана без цубы,923-gamedata.base,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Катана без цубы,923-gamedata.base,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Сабля с отверстием,52287-rebirth.mod,1,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Топпер,474-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Топпер,474-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Топпер,474-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Топпер,474-gamedata.base,1,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445144-zone18.35-INGAME,Оружейный шкаф,4443001-zone18.35-INGAME,Шипастая дубина,52297-rebirth.mod,1,160,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Простая аптечка,209-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Стандартная аптечка,515-gamedata.base,3,500,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Хорошая аптечка,1359-gamedata.base,5,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Хорошая аптечка,1359-gamedata.base,5,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Хорошая аптечка,1359-gamedata.base,5,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445146-zone18.35-INGAME,Медикоробка,4443016-zone18.35-INGAME,Хороший набор шин,1436-gamedata.base,4,1500,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Доспех наёмника,2148-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Кожаный доспех наёмника,2283-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Кожаный доспех наёмника,2283-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Латная рваная юбка,5346-armor_otto.mod,1,50,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Латная рваная юбка (цветная),42260-rebirth.mod,1,50,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Латные обноски (цветные),42052-rebirth.mod,1,50,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Ножные латы самурая,2150-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Обноски ниндзя,2151-gamedata.base,1,50,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Обноски убийцы,2154-gamedata.base,1,50,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Пальто,2165-gamedata.base,1,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Противомгла,18029-small_changes_otto.mod,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445148-zone18.35-INGAME,Хранение: доспехи,4443024-zone18.35-INGAME,Святой нагрудник,2166-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Брюки карго [хитрая кольчуга],1392-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Доспех наёмника,2148-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Кожаный доспех наёмника,2283-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Кожаный доспех наёмника,2283-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Крашеная рваная рубаха,51642-rebirth.mod,1,50,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Штаны самурая,2159-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,2445150-zone18.35-INGAME,Хранение: доспехи,4443038-zone18.35-INGAME,Штаны самурая,2159-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Глаз скелета,45557-changes_otto.mod,2,6000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Железная дубина,52295-rebirth.mod,1,80,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Зубочистка,66534-Newwworld.mod,1,1000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Зубочистка,66534-Newwworld.mod,1,1000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Квадратные очки,2168-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Клинок ниндзя,924-gamedata.base,1,200,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Клинок ниндзя,924-gamedata.base,1,200,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Конеруб,475-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Конеруб,475-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Конеруб,475-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Конеруб,475-gamedata.base,1,200,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Мотор,43397-changes_otto.mod,1,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Мотор,43397-changes_otto.mod,4,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Хламбалет,95724-Dialogue.mod,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,ЦПУ,43394-changes_otto.mod,4,10000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353338-zone18.35-INGAME,Прилавок,4443081-zone18.35-INGAME,Шипастая дубина,52297-rebirth.mod,1,160,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Болты [Длинные],96000-Newwworld.mod,5,600,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Болты [Длинные],96000-Newwworld.mod,5,600,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Болты [Длинные],96000-Newwworld.mod,4,600,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Болты [Зубочистки],96014-rebirth.mod,5,450,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Болты [Зубочистки],96014-rebirth.mod,1,450,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Воровской ранец,1288-gamedata.base,1,3000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Журнал пленника I,56737-Dialogue.mod,1,0,Dialogue.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Журнал пленника II,56738-Dialogue.mod,1,0,Dialogue.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Журнал пленника III,56739-Dialogue.mod,1,0,Dialogue.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Журнал пленника IV,56740-Dialogue.mod,1,0,Dialogue.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Инструменты,43404-changes_otto.mod,2,400,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Набор шин,1435-gamedata.base,1,600,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Пластины медного сплава,42160-gamedata.base,5,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Пластины медного сплава,42160-gamedata.base,1,250,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Ранец,576-gamedata.base,1,1000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Ранец,576-gamedata.base,1,1000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Ремкомплект скелета,18020-gamedata.base,1,500,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Стандартная аптечка,515-gamedata.base,1,500,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Старая карта сокровищ,48693-rebirth.mod,1,2000,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Хорошая аптечка,1359-gamedata.base,1,1000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,353340-zone18.35-INGAME,Складской сундук,4443105-zone18.35-INGAME,Хороший набор шин,1436-gamedata.base,1,1500,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Воронёный тагельмуст,1533852-rebirth.mod,1,100,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Деревянные сандали,557-gamedata.base,1,250,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Латные сапоги,556-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Латные сапоги,556-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Латные сапоги,556-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Маска Болотного Ниндзя,18033-small_changes_otto.mod,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Треуголка,1415-gamedata.base,1,300,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Шипастый шлем,2203-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980874-zone18.35-INGAME,Хранение: доспехи,4443143-zone18.35-INGAME,Шляпа из ротанга,2185-gamedata.base,1,100,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Воронёная кольчужная рубаха,577-gamedata.base,1,13000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Воронёная кольчужная рубаха,577-gamedata.base,1,13000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Воронёная кольчужная рубаха,577-gamedata.base,1,13000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Воронёная кольчужная рубаха,577-gamedata.base,1,13000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Кожаная водолазка,2213-gamedata.base,1,4000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Кожаная водолазка,2213-gamedata.base,1,4000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Кожаная водолазка,2213-gamedata.base,1,4000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Кольчужная рубаха,544-gamedata.base,1,8000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3980876-zone18.35-INGAME,Хранение: доспехи,4443154-zone18.35-INGAME,Ржавая кольчужная рубаха,18018-small_changes_otto.mod,1,8000,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мотор,43397-changes_otto.mod,4,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,5,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Мышца скелета,43395-changes_otto.mod,1,150,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Пресс,43399-changes_otto.mod,5,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Пресс,43399-changes_otto.mod,1,500,rebirth.mod,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Части роботов,583-gamedata.base,5,600,gamedata.base,false
+Скуин,Скуин,in_location,18.35,3994678-zone18.35-INGAME,Складской сундук,4443165-zone18.35-INGAME,Части роботов,583-gamedata.base,3,600,gamedata.base,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Боевой тесак,52292-rebirth.mod,1,300,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Болты [Зубочистки],96014-rebirth.mod,3,450,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Инструменты,43404-changes_otto.mod,1,400,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Рюкзак,635-gamedata.base,1,1500,gamedata.base,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Спальный мешок,56645-rebirth.mod,1,300,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Стройматериалы,580-gamedata.base,1,150,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Хламбалет,95724-Dialogue.mod,1,500,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207197-zone20.32-INGAME,Складской сундук,592373-zone20.32-INGAME,Хорошая аптечка,1359-gamedata.base,1,1000,gamedata.base,false
+Хаб,Хаб,in_location,20.32,207201-zone20.32-INGAME,Хранение: еда,592384-zone20.32-INGAME,Вяленое мясо,42334-changes_otto.mod,1,150,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207201-zone20.32-INGAME,Хранение: еда,592384-zone20.32-INGAME,Гохан,43957-rebirth.mod,1,150,rebirth.mod,false
+Хаб,Хаб,in_location,20.32,207201-zone20.32-INGAME,Хранение: еда,592384-zone20.32-INGAME,Съедобный брикет,43959-rebirth.mod,1,300,rebirth.mod,false
