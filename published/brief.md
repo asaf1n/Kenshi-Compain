@@ -1,14 +1,14 @@
-# Краткая сводка: День 134, 16:54
+# Краткая сводка: День 134, 20:46
 
-- **snapshot_id:** `sha256-1316eacab478d942c96859ea5c04f4c3104a7ddc5162d66167828ef8cb5d6cbb`
-- **previous_snapshot_id:** `sha256-52c72c49b5a15b20c4e5c7eba1e24a2ba569398bced9ecfa0e25fbd3842ae340`
+- **snapshot_id:** `sha256-487bd5b4d5f7853272408524e5158bc529891aba81299445ead568d09f8ed121`
+- **previous_snapshot_id:** `sha256-1316eacab478d942c96859ea5c04f4c3104a7ddc5162d66167828ef8cb5d6cbb`
 - **branch_id:** `hot-lon-chapter-x-final`
-- **game_time:** `Day 134, 16:54`
-- **generated_at:** `2026-11-06T14:45:59Z`
+- **game_time:** `Day 134, 20:46`
+- **generated_at:** `2026-11-06T21:57:56Z`
 
 ## Игровой мир
-- **Время:** День 134, время 16:54
-- **Баланс:** 4 941 кат.
+- **Время:** День 134, время 20:46
+- **Баланс:** 4 791 кат.
 
 ## Состав отряда
 - **Всего персонажей:** 30 (гуманоидов: 27, животных: 3)
@@ -56,7 +56,7 @@
 | `ps:-476241664` | Шрайк | `Безымянные_1` | Жженоземец |
 
 ## Состояние мира (World States)
-- **Уникальные NPC:** Ложный крикун (код 2), Святой Лорд Феникс (код 2), Тень (код 2), Пон (код 2), Бесстрашная Тора (код 2), Горрилло (код 2), Король (код 2), Великий шаман (код 2)
+- **Уникальные NPC:** Великий шаман (код 2), Король (код 2), Горрилло (код 2), Тень (код 2), Святой Лорд Феникс (код 2), Ложный крикун (код 2), Пон (код 2), Бесстрашная Тора (код 2)
 - **Переопределённые города:** Акула (41162-Dialogue.mod), Бугристый Холм (1083-gamedata.base), Гниль (51331-rebirth.mod), Деревня Серодёров (41162-Dialogue.mod), Кулак Окрана (1083-gamedata.base), Новая Кралия (51357-rebirth.mod), Плохие Зубы (1083-gamedata.base), Святая военная база (18893-rebirth.mod), Святая военная база (18893-rebirth.mod)
 
 ## Отношения с фракциями (relation)
@@ -170,7 +170,7 @@
 - **Деревня Серодёров** (28 зданий, 501 ед. хранения): Пенька: 437 шт., Миска риса: 21 шт., Стандартная аптечка: 8 шт., Медь: 6 шт., Простая аптечка: 5 шт. (ещё 11 поз.)
 - **Затерянная библиотека** (10 зданий, 5 ед. хранения): Вяленое мясо: 5 шт.
 - **Путевая станция** (5 зданий, 6 ед. хранения): Вяленое мясо: 6 шт.
-- **Ровная лагуна** (13 зданий, 405 ед. хранения): Пенька: 323 шт., Стройматериалы: 19 шт., Болты [Длинные]: 16 шт., Вода: 11 шт., Съедобный брикет: 5 шт. (ещё 11 поз.)
+- **Ровная лагуна** (13 зданий, 394 ед. хранения): Пенька: 312 шт., Стройматериалы: 19 шт., Болты [Длинные]: 16 шт., Вода: 8 шт., Гашиш: 7 шт. (ещё 11 поз.)
 - **Скуин** (80 зданий, 422 ед. хранения): Электродетали: 60 шт., Железные листы: 53 шт., Мышца скелета: 26 шт., Медь: 22 шт., Древняя научная книга: 19 шт. (ещё 77 поз.)
 - **Улей** (2 зданий, 0 ед. хранения): склады пусты
 - **Хаб** (13 зданий, 13 ед. хранения): Болты [Зубочистки]: 3 шт., Боевой тесак: 1 шт., Инструменты: 1 шт., Рюкзак: 1 шт., Спальный мешок: 1 шт. (ещё 6 поз.)
@@ -182,10 +182,11 @@
 
 ## Доступные местоположения
 ### Расположение групп отряда
-- **Регион Верещащий лес** (`in_region`): 23 участников [fx (`ps:-843917568`), Ану (`ps:1359130880`), Бип (`ps:-1572677376`), Вечный Суньвынь (`ps:398315424`), Вьючный бык (`ps:35522460`), Гигант Ранэ (`ps:1671874944`), Гриффин (`ps:145629888`), Доктор Чон (`ps:175903328`), Зелёный (`ps:1758056704`), Кан (`ps:-1346969344`), Крошка Джон (`ps:-383834368`), Мрачный Нил (`ps:-456466432`), Ожог (`ps:1441040000`), Пиа (`ps:-2041915648`), Ридли (`ps:1665649408`), Рука (`ps:-1715743744`), Сэто (`ps:-474044416`), Флик (`ps:1106567424`), Хамут (`ps:1223510784`), Хоббс (`ps:-1002242560`), Хот Лон (`ps:827270528`), Чад (`ps:2077026304`), Шрайк (`ps:-476241664`)]
+- **Регион Пурпурные пески** (`in_region`): 20 участников [fx (`ps:-843917568`), Ану (`ps:1359130880`), Бип (`ps:-1572677376`), Вечный Суньвынь (`ps:398315424`), Вьючный бык (`ps:35522460`), Гигант Ранэ (`ps:1671874944`), Доктор Чон (`ps:175903328`), Зелёный (`ps:1758056704`), Кан (`ps:-1346969344`), Крошка Джон (`ps:-383834368`), Мрачный Нил (`ps:-456466432`), Пиа (`ps:-2041915648`), Ридли (`ps:1665649408`), Рука (`ps:-1715743744`), Сэто (`ps:-474044416`), Флик (`ps:1106567424`), Хамут (`ps:1223510784`), Хот Лон (`ps:827270528`), Чад (`ps:2077026304`), Шрайк (`ps:-476241664`)]
+- **Окрестности Не-древняя мастерская** (`near_location`): 3 участников [Гриффин (`ps:145629888`), Ожог (`ps:1441040000`), Хоббс (`ps:-1002242560`)]
 - **Ровная лагуна** (`in_location`): 3 участников [Вик (`ps:-941451776`), Вьючный бык (`ps:1856201216`), Седая тень (`ps:706176768`)]
-- **Окрестности Деревня Серодёров** (`near_location`): 2 участников [Зелёный палец (`ps:621948224`), Мью (`ps:2093017600`)]
-- **Регион Болото** (`in_region`): 1 участников [Вынос мозга (`ps:1464721664`)]
+- **Регион Болото** (`in_region`): 2 участников [Вынос мозга (`ps:1464721664`), Мью (`ps:2093017600`)]
+- **Окрестности Деревня Серодёров** (`near_location`): 1 участников [Зелёный палец (`ps:621948224`)]
 - **Скуин** (`in_location`): 1 участников [Кот (`ps:1006225600`)]
 
 ### Собственность и базы
@@ -237,100 +238,89 @@
 - `35.42:46-Newwworld-INGAME`: город **Ровная лагуна** (`in_location`, d = 916.7 м)
 
 ### Перемещения между снимками
-- **fx** (`ps:-843917568`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24188.3 м)
-- **Ану** (`ps:1359130880`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24209.9 м)
-- **Бип** (`ps:-1572677376`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24150.6 м)
-- **Вечный Суньвынь** (`ps:398315424`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24162.6 м)
-- **Вик** (`ps:-941451776`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 193.3 м)
-- **Вынос мозга** (`ps:1464721664`): The Swamp -> The Swamp (прямолинейное смещение: 346.8 м)
-- **Вьючный бык** (`ps:1856201216`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 17.3 м)
-- **Вьючный бык** (`ps:35522460`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 23586.1 м)
-- **Гигант Ранэ** (`ps:1671874944`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24184.8 м)
-- **Гриффин** (`ps:145629888`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24178.7 м)
-- **Доктор Чон** (`ps:175903328`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24168.5 м)
-- **Зелёный** (`ps:1758056704`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24176.6 м)
-- **Зелёный палец** (`ps:621948224`): The Swamp -> The Swamp (прямолинейное смещение: 331.8 м)
-- **Кан** (`ps:-1346969344`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24183.2 м)
-- **Кот** (`ps:1006225600`): Squin -> Squin (прямолинейное смещение: 207.3 м)
-- **Крошка Джон** (`ps:-383834368`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24198.6 м)
-- **Мрачный Нил** (`ps:-456466432`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24142.5 м)
-- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 305.3 м)
-- **Ожог** (`ps:1441040000`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24188.1 м)
-- **Пиа** (`ps:-2041915648`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24166.3 м)
-- **Ридли** (`ps:1665649408`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24179.0 м)
-- **Рука** (`ps:-1715743744`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24177.0 м)
-- **Седая тень** (`ps:706176768`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 121.9 м)
-- **Сэто** (`ps:-474044416`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24180.5 м)
-- **Флик** (`ps:1106567424`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24145.6 м)
-- **Хамут** (`ps:1223510784`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24135.6 м)
-- **Хоббс** (`ps:-1002242560`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24209.8 м)
-- **Хот Лон** (`ps:827270528`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24190.6 м)
-- **Чад** (`ps:2077026304`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24146.3 м)
-- **Шрайк** (`ps:-476241664`): Fog Islands -> The Shrieking Forest (прямолинейное смещение: 24185.1 м)
+- **fx** (`ps:-843917568`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13856.1 м)
+- **Ану** (`ps:1359130880`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13804.4 м)
+- **Бип** (`ps:-1572677376`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13868.7 м)
+- **Вечный Суньвынь** (`ps:398315424`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13850.1 м)
+- **Вик** (`ps:-941451776`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 346.2 м)
+- **Вынос мозга** (`ps:1464721664`): The Swamp -> The Swamp (прямолинейное смещение: 346.2 м)
+- **Вьючный бык** (`ps:1856201216`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 26.0 м)
+- **Вьючный бык** (`ps:35522460`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 14537.0 м)
+- **Гигант Ранэ** (`ps:1671874944`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13840.6 м)
+- **Гриффин** (`ps:145629888`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13852.5 м)
+- **Доктор Чон** (`ps:175903328`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13845.8 м)
+- **Зелёный** (`ps:1758056704`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13875.9 м)
+- **Кан** (`ps:-1346969344`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13838.4 м)
+- **Крошка Джон** (`ps:-383834368`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13818.1 м)
+- **Мрачный Нил** (`ps:-456466432`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13853.2 м)
+- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 16.7 м)
+- **Ожог** (`ps:1441040000`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13839.5 м)
+- **Пиа** (`ps:-2041915648`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13847.6 м)
+- **Ридли** (`ps:1665649408`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13832.2 м)
+- **Рука** (`ps:-1715743744`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13856.5 м)
+- **Седая тень** (`ps:706176768`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 1.9 м)
+- **Сэто** (`ps:-474044416`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13835.9 м)
+- **Флик** (`ps:1106567424`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13887.3 м)
+- **Хамут** (`ps:1223510784`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13867.0 м)
+- **Хоббс** (`ps:-1002242560`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13872.1 м)
+- **Хот Лон** (`ps:827270528`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13853.4 м)
+- **Чад** (`ps:2077026304`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13895.8 м)
+- **Шрайк** (`ps:-476241664`): The Shrieking Forest -> Purple Sands (прямолинейное смещение: 13837.0 м)
 
 ## Скриншоты снимка
 
-Новых кадров текущего снимка: 9. Их визуальный анализ обязателен на шаге `[ход]`. Первичная разметка — автоматические ориентиры по файловому времени и OCR интерфейса, а не подтверждённые события; содержание кадра определяется только по изображению.
+Новых кадров текущего снимка: 4. Их визуальный анализ обязателен на шаге `[ход]`. Первичная разметка — автоматические ориентиры по файловому времени и OCR интерфейса, а не подтверждённые события; содержание кадра определяется только по изображению.
 
 | ID кадра | Файл | sha256 | modified_at (системное время файла, не игровое) | Снимок / интервал | Первичная разметка | Raw | Путь (GitHub и Google Диск) |
 |---|---|---|---|---|---|---|---|
-| `screenshot_486` | `screenshot_486-7505944b.jpg` | `6cb52feb` `6cb52feb00250d36359aae506f05ea180562d6cd84d36bcb60021da07d8c4bff` | `2026-11-06T14:25:09Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 11:43 | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_486-7505944b.jpg) | `published/screenshots/screenshot_486-7505944b.jpg` |
-| `screenshot_487` | `screenshot_487-d52f7642.jpg` | `b7214d28` `b7214d2812bd4821ba0b70cabf58aff9cab86dc8e383a09aae3311ffcb128686` | `2026-11-06T14:25:11Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 11:43 | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_487-d52f7642.jpg) | `published/screenshots/screenshot_487-d52f7642.jpg` |
-| `screenshot_488` | `screenshot_488-78a1f13f.jpg` | `2cb5abd6` `2cb5abd61d2eef161221f122c2d4968fed39dd8118f44484dcd5388ce623867c` | `2026-11-06T14:25:16Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 11:46 | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_488-78a1f13f.jpg) | `published/screenshots/screenshot_488-78a1f13f.jpg` |
-| `screenshot_489` | `screenshot_489-f198feea.jpg` | `58d452a0` `58d452a0a5cf34478e8f4af88be34db99f06842ca9de0694cfbcb1630cc397d3` | `2026-11-06T14:26:23Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 12:18, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_489-f198feea.jpg) | `published/screenshots/screenshot_489-f198feea.jpg` |
-| `screenshot_490` | `screenshot_490-62e8b529.jpg` | `a786cedc` `a786cedcd69bb86ab657b67ec68f1cec670e35e5aa5719505c674ebd4b0f7f87` | `2026-11-06T14:26:29Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 12:19, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_490-62e8b529.jpg) | `published/screenshots/screenshot_490-62e8b529.jpg` |
-| `screenshot_491` | `screenshot_491-54bd775a.jpg` | `37db5292` `37db5292b0a566101c8744b3200f69ef43eb11f070e4c191abd4b2a81c15f8f3` | `2026-11-06T14:26:45Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 12:27, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_491-54bd775a.jpg) | `published/screenshots/screenshot_491-54bd775a.jpg` |
-| `screenshot_492` | `screenshot_492-a754c5d0.jpg` | `a20fd47a` `a20fd47aa5a560bda3c5754cddeb8079cea019e3cb0d4914cc8b1f45c98762a7` | `2026-11-06T14:30:53Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 14:19, Шрайк, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_492-a754c5d0.jpg) | `published/screenshots/screenshot_492-a754c5d0.jpg` |
-| `screenshot_493` | `screenshot_493-50f6c74d.jpg` | `86d3596a` `86d3596aed7640f743d363b07c82c678910ed8de1cedd94cc80536b7d505ec27` | `2026-11-06T14:37:06Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 16:54, Бандит, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_493-50f6c74d.jpg) | `published/screenshots/screenshot_493-50f6c74d.jpg` |
-| `screenshot_494` | `screenshot_494-10df7063.jpg` | `575a662a` `575a662ad8f5149341f16f5573e8d37ece09a6e7ae97629aa2b401012a035418` | `2026-11-06T14:45:10Z` | Day 134, 10:49 (sha256-52c72c49) → Day 134, 16:54 (sha256-1316eaca) | группы на Day 134, 16:54: Регион Верещащий лес (23), Ровная лагуна (3), Окрестности Деревня Серодёров (2) · дельта интервала: Казна: 9347 -> 4941 (-4406); Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True; Изменены отношения с фракциями (1): Болотники · OCR: День 134, 16:54, Бандит, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_494-10df7063.jpg) | `published/screenshots/screenshot_494-10df7063.jpg` |
+| `screenshot_495` | `screenshot_495-31d25d9b.jpg` | `f9821bbf` `f9821bbf2269bcb3976c84b1dd6539487c2a54cf8a1e0c0cf836da7965db70f5` | `2026-11-06T20:51:25Z` | Day 134, 16:54 (sha256-1316eaca) → Day 134, 20:46 (sha256-487bd5b4) | группы на Day 134, 20:46: Регион Пурпурные пески (20), Окрестности Не-древняя мастерская (3), Ровная лагуна (3) · дельта интервала: Казна: 4941 -> 4791 (-150); Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False · OCR: День 734, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_495-31d25d9b.jpg) | `published/screenshots/screenshot_495-31d25d9b.jpg` |
+| `screenshot_496` | `screenshot_496-9419f34a.jpg` | `b26b0dae` `b26b0dae1f5acb1d91e8e2d4ac2884b2e88c63b43eabf797462898822434b8a8` | `2026-11-06T20:51:38Z` | Day 134, 16:54 (sha256-1316eaca) → Day 134, 20:46 (sha256-487bd5b4) | группы на Day 134, 20:46: Регион Пурпурные пески (20), Окрестности Не-древняя мастерская (3), Ровная лагуна (3) · дельта интервала: Казна: 4941 -> 4791 (-150); Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False · OCR: День 134, 19:25, Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_496-9419f34a.jpg) | `published/screenshots/screenshot_496-9419f34a.jpg` |
+| `screenshot_497` | `screenshot_497-79329064.jpg` | `57e87546` `57e8754639df6f923e0efbccad185a36007eef1b0f1d36a78f5f2a90d3feccaa` | `2026-11-06T20:52:08Z` | Day 134, 16:54 (sha256-1316eaca) → Day 134, 20:46 (sha256-487bd5b4) | группы на Day 134, 20:46: Регион Пурпурные пески (20), Окрестности Не-древняя мастерская (3), Ровная лагуна (3) · дельта интервала: Казна: 4941 -> 4791 (-150); Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False · OCR: День 134, 19:41, Охранять: Хот Лон, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_497-79329064.jpg) | `published/screenshots/screenshot_497-79329064.jpg` |
+| `screenshot_498` | `screenshot_498-2fde89d1.jpg` | `02eb390e` `02eb390ea0d57743fdebc15c77488d853868d8014d3e5ec08a192e481eddf8a4` | `2026-11-06T20:53:03Z` | Day 134, 16:54 (sha256-1316eaca) → Day 134, 20:46 (sha256-487bd5b4) | группы на Day 134, 20:46: Регион Пурпурные пески (20), Окрестности Не-древняя мастерская (3), Ровная лагуна (3) · дельта интервала: Казна: 4941 -> 4791 (-150); Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False · OCR: Медик, Роботехника, Быть рядом: Хот Лон | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_498-2fde89d1.jpg) | `published/screenshots/screenshot_498-2fde89d1.jpg` |
 
 Архивный хвост и все 30 кадров выпуска: [screenshots/index.md](screenshots/index.md).
 
 ## Ключевые изменения
-- **Казна:** 9347 -> 4941 (-4406)
-- **Смена статуса (2):** Зелёный палец (`ps:621948224`: coma=True), Зелёный палец (`ps:621948224`: unconscious=True)
+- **Казна:** 4941 -> 4791 (-150)
+- **Смена статуса (2):** Зелёный палец (`ps:621948224`: coma=False), Зелёный палец (`ps:621948224`: unconscious=False)
+- **Перемещения предметов (1):**
+  - `Болты [Стандартные]`: от [Вьючный бык [ps:35522460] (-2), Флик (-1)] к [Зелёный (+2)]
 - **Изменения навыков:** у 28 участников
-  - fx (`ps:-843917568`): Athletics: 88.61 -> 88.68, Dexterity: 50.31 -> 50.35, Martial Arts: 50.68 -> 50.71, Melee Attack: 52.41 -> 52.44, Melee Defence: 52.8 -> 52.82, Strength: 26.28 -> 26.32, Toughness: 54.7 -> 54.71, mass combat: 38.76 -> 38.79
-  - Ану (`ps:1359130880`): Athletics: 85.74 -> 85.81, Dexterity: 47.51 -> 47.54, Dodge: 41.7 -> 41.71, Field Medic: 17.52 -> 17.58, Martial Arts: 42.2 -> 42.23, Robotics: 35.95 -> 36.02, mass combat: 69.04 -> 69.6
-  - Бип (`ps:-1572677376`): Athletics: 71.56 -> 71.84, Dexterity: 51.18 -> 51.27, Field Medic: 16.81 -> 16.84, Katanas: 41.57 -> 41.66, Melee Attack: 47.78 -> 47.87, Melee Defence: 46.73 -> 46.75, Strength: 30.61 -> 30.67, Toughness: 51.22 -> 51.23
-  - Вечный Суньвынь (`ps:398315424`): Athletics: 75.6 -> 75.75, Dexterity: 43.48 -> 43.5, Melee Attack: 49.35 -> 49.36, Robotics: 5.46 -> 5.5, Sabres: 43.21 -> 43.22, Strength: 28.41 -> 28.48
-  - Вик (`ps:-941451776`): Athletics: 68.31 -> 68.32, Science: 8.54 -> 10.52, Strength: 32.0 -> 32.01
-  - Вынос мозга (`ps:1464721664`): Dexterity: 23.52 -> 24.03, Dodge: 6.61 -> 7.35, Field Medic: 13.57 -> 13.99, Katanas: 20.76 -> 21.1, Melee Attack: 21.38 -> 21.77, Melee Defence: 35.17 -> 35.81, Perception: 43.36 -> 44.72, Precision Shooting: 37.34 -> 38.64, Strength: 13.94 -> 13.96, Toughness: 36.19 -> 39.0, Turrets: 55.1 -> 55.62, mass combat: 18.88 -> 19.0
-  - Вьючный бык (`ps:35522460`): Athletics: 87.09 -> 87.16, Dexterity: 56.57 -> 56.6, Martial Arts: 52.89 -> 52.94, Melee Attack: 55.5 -> 55.55, Melee Defence: 56.64 -> 56.68, Strength: 33.08 -> 33.14, Toughness: 54.1 -> 54.12
-  - Гигант Ранэ (`ps:1671874944`): Athletics: 73.64 -> 73.79, Dexterity: 27.64 -> 27.68, Field Medic: 19.13 -> 19.16, Heavy Weapons: 39.28 -> 39.36, Melee Attack: 49.81 -> 49.87, Melee Defence: 49.63 -> 49.66, Strength: 48.86 -> 49.04, Toughness: 49.82 -> 49.83, mass combat: 64.42 -> 67.15
-  - Гриффин (`ps:145629888`): Athletics: 74.32 -> 74.47, Dexterity: 35.23 -> 35.25, Dodge: 13.66 -> 13.7, Field Medic: 9.88 -> 10.01, Hackers: 39.42 -> 39.47, Melee Attack: 44.36 -> 44.4, Melee Defence: 47.03 -> 47.09, Robotics: 1.63 -> 1.67, Strength: 38.04 -> 38.4, Toughness: 49.11 -> 49.14, mass combat: 53.7 -> 56.96
-  - Доктор Чон (`ps:175903328`): Athletics: 71.05 -> 71.25, Dexterity: 23.62 -> 23.71, Field Medic: 40.44 -> 40.47, Hackers: 36.31 -> 36.4, Melee Attack: 38.38 -> 38.48, Melee Defence: 43.97 -> 43.99, Robotics: 1.99 -> 2.03, Strength: 30.44 -> 30.61
-  - Зелёный (`ps:1758056704`): Athletics: 83.03 -> 83.11, Katanas: 38.47 -> 38.48, Melee Attack: 34.81 -> 34.82, Melee Defence: 43.97 -> 44.02, Strength: 24.81 -> 24.83, Toughness: 47.43 -> 47.46
-  - Зелёный палец (`ps:621948224`): Athletics: 29.64 -> 29.69, Dexterity: 3.77 -> 4.27, Dodge: 7.6 -> 10.13, Farming: 44.85 -> 45.16, Field Medic: 6.13 -> 6.24, Katanas: 3.11 -> 3.74, Melee Attack: 16.13 -> 16.47, Melee Defence: 9.2 -> 11.42, Strength: 18.5 -> 18.51, Toughness: 16.14 -> 19.3, mass combat: 0.49 -> 0.6
-  - Кан (`ps:-1346969344`): Athletics: 83.25 -> 83.33, Dexterity: 51.13 -> 51.16, Field Medic: 41.62 -> 41.63, Melee Attack: 64.85 -> 64.87, Melee Defence: 53.29 -> 53.31, Robotics: 16.73 -> 16.75, Sabres: 55.33 -> 55.36, Strength: 45.18 -> 45.21, Toughness: 58.28 -> 58.29, mass combat: 194.38 -> 194.46
-  - Крошка Джон (`ps:-383834368`): Athletics: 75.03 -> 75.18, Dexterity: 46.46 -> 46.53, Field Medic: 23.3 -> 23.34, Melee Attack: 51.4 -> 51.47, Melee Defence: 43.21 -> 43.26, Robotics: 9.55 -> 9.56, Sabres: 43.39 -> 43.47, Strength: 34.7 -> 34.79, Toughness: 48.36 -> 48.39, mass combat: 67.8 -> 69.11
-  - Мрачный Нил (`ps:-456466432`): Athletics: 84.49 -> 84.58, Dexterity: 44.81 -> 44.85, Field Medic: 26.63 -> 26.66, Melee Attack: 55.72 -> 55.75, Melee Defence: 56.56 -> 56.57, Polearms: 53.15 -> 53.19, Robotics: 40.96 -> 41.0, Strength: 38.21 -> 38.25, mass combat: 136.14 -> 136.22
-  - Мью (`ps:2093017600`): Athletics: 34.44 -> 34.65, Cooking: 11.71 -> 12.41, Dexterity: 20.5 -> 20.67, Farming: 68.45 -> 68.68, Field Medic: 15.71 -> 15.78, Melee Attack: 26.26 -> 26.43, Melee Defence: 38.23 -> 38.34, Polearms: 21.96 -> 22.21, Strength: 11.02 -> 11.74, Toughness: 36.56 -> 36.76
-  - Ожог (`ps:1441040000`): Athletics: 86.75 -> 86.8, Dexterity: 49.18 -> 49.2, Field Medic: 35.78 -> 35.79, Heavy Weapons: 56.39 -> 56.42, Melee Attack: 61.47 -> 61.49, Melee Defence: 62.16 -> 62.18, Robotics: 54.35 -> 54.39, Strength: 50.04 -> 50.1, Toughness: 59.0 -> 59.02, mass combat: 194.71 -> 196.21
-  - Пиа (`ps:-2041915648`): Athletics: 81.7 -> 81.82, Dexterity: 50.73 -> 50.78, Field Medic: 17.37 -> 17.4, Katanas: 44.84 -> 44.91, Melee Attack: 42.89 -> 42.96, Melee Defence: 44.2 -> 44.22, Robotics: 11.89 -> 11.91, Strength: 28.04 -> 28.1, Toughness: 45.96 -> 45.97, mass combat: 27.5 -> 27.57
-  - Ридли (`ps:1665649408`): Athletics: 87.15 -> 87.21, Dexterity: 50.64 -> 50.66, Melee Attack: 54.7 -> 54.72, Melee Defence: 50.93 -> 50.95, Sabres: 51.74 -> 51.77, Strength: 36.0 -> 36.03, Toughness: 50.42 -> 50.43
-  - Рука (`ps:-1715743744`): Athletics: 82.85 -> 82.92, Dexterity: 32.32 -> 32.35, Field Medic: 29.67 -> 29.68, Hackers: 49.37 -> 49.4, Melee Attack: 52.9 -> 52.94, Strength: 45.99 -> 46.02, mass combat: 93.55 -> 93.74
-  - Седая тень (`ps:706176768`): Athletics: 51.09 -> 51.1, Science: 9.99 -> 11.99, Strength: 13.02 -> 13.03
-  - Сэто (`ps:-474044416`): Athletics: 40.15 -> 41.33, Dexterity: 22.33 -> 22.45, Field Medic: 23.36 -> 23.37, Hackers: 29.01 -> 29.23, Melee Attack: 32.21 -> 32.46, Melee Defence: 39.39 -> 39.44, Robotics: 15.47 -> 15.48, Strength: 25.91 -> 26.01, Toughness: 39.16 -> 39.2
-  - Флик (`ps:1106567424`): Athletics: 89.33 -> 89.37, Crossbows: 82.39 -> 82.48, Dexterity: 71.1 -> 71.2, Field Medic: 26.44 -> 26.47, Katanas: 45.22 -> 45.26, Melee Attack: 44.51 -> 44.55, Melee Defence: 50.61 -> 50.66, Perception: 80.31 -> 80.39, Precision Shooting: 84.84 -> 84.89, Robotics: 23.64 -> 23.67, Strength: 34.22 -> 34.32, Toughness: 60.56 -> 60.6, mass combat: 67.49 -> 67.57
-  - Хамут (`ps:1223510784`): Athletics: 83.03 -> 83.14, Dexterity: 45.8 -> 45.84, Field Medic: 24.85 -> 24.86, Melee Attack: 51.74 -> 51.78, Melee Defence: 51.06 -> 51.07, Polearms: 51.83 -> 51.88, Robotics: 8.95 -> 9.08, Strength: 32.44 -> 32.5, mass combat: 38.6 -> 38.67
-  - Хоббс (`ps:-1002242560`): Athletics: 85.77 -> 85.82, Dexterity: 41.79 -> 41.82, Field Medic: 33.26 -> 33.29, Hackers: 49.28 -> 49.32, Melee Attack: 52.79 -> 52.83, Melee Defence: 53.45 -> 53.47, Robotics: 19.39 -> 19.4, Strength: 44.8 -> 44.94, Toughness: 59.96 -> 59.97, mass combat: 86.39 -> 86.58
-  - Хот Лон (`ps:827270528`): Athletics: 87.14 -> 87.2, Dexterity: 47.84 -> 47.88, Melee Attack: 51.09 -> 51.13, Melee Defence: 52.45 -> 52.46, Polearms: 30.69 -> 30.98, Strength: 39.35 -> 39.39, Toughness: 53.19 -> 53.2
-  - Чад (`ps:2077026304`): Athletics: 88.4 -> 88.46, Dexterity: 51.89 -> 51.94, Dodge: 48.47 -> 48.5, Field Medic: 33.65 -> 33.66, Martial Arts: 48.66 -> 48.71, Robotics: 20.82 -> 20.83, Toughness: 57.36 -> 57.41, mass combat: 73.99 -> 74.1
-  - Шрайк (`ps:-476241664`): Athletics: 80.37 -> 80.53, Dexterity: 36.36 -> 36.5, Field Medic: 15.88 -> 15.92, Melee Attack: 39.93 -> 40.07, Melee Defence: 42.09 -> 42.18, Polearms: 35.15 -> 35.38, Robotics: 10.62 -> 10.72, Strength: 23.58 -> 23.64, Toughness: 40.03 -> 40.06, mass combat: 22.6 -> 22.67
-- **Изменения здоровья:** у 29 участников
-- **Изменения отношений с фракциями (1):**
-  - `Болотники`: отношение: -0.19 -> -2.69 (-2.5)
-- **Изменения очереди работ:** у 2 участников
-  - `Вик`: обновлены назначенные работы
-  - `Седая тень`: обновлены назначенные работы
-- **Изменения складских запасов на базах:** 7 позиций
-  - `Хранение: пенька`: Пенька +20
-  - `Складской сундук`: Стройматериалы +19
-  - `Переработка пеньки`: Гашиш +1
-  - `Переработка пеньки`: Вода -1
-  - `Переработка пеньки`: Пенька +4
-  - ... и ещё 2 складских изменений
+  - fx (`ps:-843917568`): Athletics: 88.68 -> 88.71, Dexterity: 50.35 -> 50.37, Martial Arts: 50.71 -> 50.73, Melee Attack: 52.44 -> 52.46, Melee Defence: 52.82 -> 52.84, Strength: 26.32 -> 26.34, Toughness: 54.71 -> 54.72
+  - Ану (`ps:1359130880`): Athletics: 85.81 -> 85.86, Dexterity: 47.54 -> 47.55, Field Medic: 17.58 -> 17.6, Martial Arts: 42.23 -> 42.24
+  - Бип (`ps:-1572677376`): Athletics: 71.84 -> 71.98, Dexterity: 51.27 -> 51.32, Field Medic: 16.84 -> 16.9, Katanas: 41.66 -> 41.68, Melee Attack: 47.87 -> 47.92, Robotics: 9.72 -> 9.73, Strength: 30.67 -> 30.69, Toughness: 51.23 -> 51.24, mass combat: 38.85 -> 38.89
+  - Вечный Суньвынь (`ps:398315424`): Athletics: 75.75 -> 75.85, Dexterity: 43.5 -> 43.52, Field Medic: 15.74 -> 15.85, Melee Attack: 49.36 -> 49.38, Melee Defence: 41.38 -> 41.39, Sabres: 43.22 -> 43.23, Strength: 28.48 -> 28.52, mass combat: 35.44 -> 35.48
+  - Вик (`ps:-941451776`): Athletics: 68.32 -> 68.38
+  - Вынос мозга (`ps:1464721664`): Dexterity: 24.03 -> 24.63, Dodge: 7.35 -> 7.48, Field Medic: 13.99 -> 15.03, Katanas: 21.1 -> 21.84, Melee Attack: 21.77 -> 22.64, Melee Defence: 35.81 -> 35.95, Perception: 44.72 -> 44.84, Strength: 13.96 -> 13.98, Toughness: 39.0 -> 39.41, Turrets: 55.62 -> 55.69
+  - Вьючный бык (`ps:35522460`): Athletics: 87.16 -> 87.19, Dexterity: 56.6 -> 56.61, Martial Arts: 52.94 -> 52.95, Melee Attack: 55.55 -> 55.56, Strength: 33.14 -> 33.16, Toughness: 54.12 -> 54.13, mass combat: 34.38 -> 34.46
+  - Гигант Ранэ (`ps:1671874944`): Athletics: 73.79 -> 73.87, Dexterity: 27.68 -> 27.69, Field Medic: 19.16 -> 19.19, Heavy Weapons: 39.36 -> 39.38, Melee Attack: 49.87 -> 49.89, Melee Defence: 49.66 -> 49.69, Strength: 49.04 -> 49.08, Toughness: 49.83 -> 49.85, mass combat: 67.15 -> 67.42
+  - Гриффин (`ps:145629888`): Athletics: 74.47 -> 74.56, Dexterity: 35.25 -> 35.27, Field Medic: 10.01 -> 10.11, Hackers: 39.47 -> 39.48, Melee Attack: 44.4 -> 44.43, Melee Defence: 47.09 -> 47.1, Robotics: 1.67 -> 1.68, Strength: 38.4 -> 38.51, mass combat: 56.96 -> 57.04
+  - Доктор Чон (`ps:175903328`): Athletics: 71.25 -> 71.37, Dexterity: 23.71 -> 23.72, Field Medic: 40.47 -> 40.48, Melee Attack: 38.48 -> 38.5, Robotics: 2.03 -> 2.04, Strength: 30.61 -> 30.68, Toughness: 44.49 -> 44.5
+  - Зелёный (`ps:1758056704`): Athletics: 83.11 -> 83.17, Crossbows: 82.67 -> 82.68, Dexterity: 61.77 -> 61.79, Field Medic: 17.6 -> 17.65, Perception: 67.83 -> 67.85, Strength: 24.83 -> 24.84
+  - Зелёный палец (`ps:621948224`): Athletics: 29.69 -> 29.7
+  - Кан (`ps:-1346969344`): Athletics: 83.33 -> 83.37, Field Medic: 41.63 -> 41.64, Melee Defence: 53.31 -> 53.32, Robotics: 16.75 -> 16.76, Strength: 45.21 -> 45.22, Toughness: 58.29 -> 58.3, mass combat: 194.46 -> 194.87
+  - Крошка Джон (`ps:-383834368`): Athletics: 75.18 -> 75.27, Dexterity: 46.53 -> 46.58, Field Medic: 23.34 -> 23.38, Melee Attack: 51.47 -> 51.51, Melee Defence: 43.26 -> 43.29, Sabres: 43.47 -> 43.48, Strength: 34.79 -> 34.83, Toughness: 48.39 -> 48.4, mass combat: 69.11 -> 69.45
+  - Мрачный Нил (`ps:-456466432`): Athletics: 84.58 -> 84.62, Dexterity: 44.85 -> 44.87, Field Medic: 26.66 -> 26.68, Melee Attack: 55.75 -> 55.77, Polearms: 53.19 -> 53.21, Robotics: 41.0 -> 41.01, Strength: 38.25 -> 38.27, mass combat: 136.22 -> 138.32
+  - Мью (`ps:2093017600`): Athletics: 34.65 -> 34.84, Cooking: 12.41 -> 12.53, Field Medic: 15.78 -> 16.0, Strength: 11.74 -> 11.88
+  - Ожог (`ps:1441040000`): Athletics: 86.8 -> 86.83, Dexterity: 49.2 -> 49.22, Field Medic: 35.79 -> 35.81, Heavy Weapons: 56.42 -> 56.44, Melee Attack: 61.49 -> 61.51, Robotics: 54.39 -> 54.41, Strength: 50.1 -> 50.13, mass combat: 196.21 -> 199.59
+  - Пиа (`ps:-2041915648`): Athletics: 81.82 -> 81.88, Dexterity: 50.78 -> 50.83, Field Medic: 17.4 -> 17.46, Katanas: 44.91 -> 44.94, Melee Attack: 42.96 -> 43.03, Melee Defence: 44.22 -> 44.23, Robotics: 11.91 -> 11.92, Strength: 28.1 -> 28.13, Toughness: 45.97 -> 45.98, mass combat: 27.57 -> 27.98
+  - Ридли (`ps:1665649408`): Athletics: 87.21 -> 87.24, Dexterity: 50.66 -> 50.67, Field Medic: 39.39 -> 39.41, Melee Attack: 54.72 -> 54.73, Melee Defence: 50.95 -> 50.97, Sabres: 51.77 -> 51.78, Strength: 36.03 -> 36.04, Toughness: 50.43 -> 50.44, mass combat: 74.09 -> 74.13
+  - Рука (`ps:-1715743744`): Athletics: 82.92 -> 82.96, Dexterity: 32.35 -> 32.36, Field Medic: 29.68 -> 29.7, Hackers: 49.4 -> 49.41, Melee Attack: 52.94 -> 52.95, Melee Defence: 53.31 -> 53.32, Strength: 46.02 -> 46.03, Toughness: 55.96 -> 55.97, mass combat: 93.74 -> 94.45
+  - Седая тень (`ps:706176768`): Science: 11.99 -> 14.71
+  - Сэто (`ps:-474044416`): Athletics: 41.33 -> 41.97, Dexterity: 22.45 -> 22.55, Field Medic: 23.37 -> 23.39, Hackers: 29.23 -> 29.36, Melee Attack: 32.46 -> 32.69, Melee Defence: 39.44 -> 39.45, Strength: 26.01 -> 26.05, Toughness: 39.2 -> 39.24, mass combat: 15.34 -> 15.38
+  - Флик (`ps:1106567424`): Athletics: 89.37 -> 89.38, Crossbows: 82.48 -> 82.51, Dexterity: 71.2 -> 71.23, Perception: 80.39 -> 80.41, Precision Shooting: 84.89 -> 84.92, Strength: 34.32 -> 34.37
+  - Хамут (`ps:1223510784`): Athletics: 83.14 -> 83.19, Dexterity: 45.84 -> 45.85, Field Medic: 24.86 -> 24.89, Melee Attack: 51.78 -> 51.79, Melee Defence: 51.07 -> 51.08, Polearms: 51.88 -> 51.89, Robotics: 9.08 -> 9.09, Strength: 32.5 -> 32.51, Toughness: 47.61 -> 47.62
+  - Хоббс (`ps:-1002242560`): Athletics: 85.82 -> 85.85, Field Medic: 33.29 -> 33.33, Melee Attack: 52.83 -> 52.84, Strength: 44.94 -> 44.98
+  - Хот Лон (`ps:827270528`): Athletics: 87.2 -> 87.23, Dexterity: 47.88 -> 47.89, Field Medic: 33.44 -> 33.47, Melee Attack: 51.13 -> 51.15, Polearms: 30.98 -> 31.07, Strength: 39.39 -> 39.4
+  - Чад (`ps:2077026304`): Athletics: 88.46 -> 88.49, Field Medic: 33.66 -> 33.68
+  - Шрайк (`ps:-476241664`): Athletics: 80.53 -> 80.61, Dexterity: 36.5 -> 36.58, Field Medic: 15.92 -> 15.98, Melee Attack: 40.07 -> 40.15, Melee Defence: 42.18 -> 42.22, Polearms: 35.38 -> 35.47, Strength: 23.64 -> 23.67, Toughness: 40.06 -> 40.1, mass combat: 22.67 -> 22.79
+- **Смена экипировки:** у 1 участников
+- **Изменения здоровья:** у 28 участников
+- **Изменения складских запасов на базах:** 4 позиций
+  - `Переработка пеньки`: Гашиш +3
+  - `Переработка пеньки`: Вода -3
+  - `Переработка пеньки`: Пенька -1
+  - `Хранение: пенька`: Пенька -10
 
 ## Несравниваемые категории
 - position: географические координаты подключаются профильным артефактом в задаче 02
@@ -349,9 +339,11 @@
 - [observed] Казна: 58866 -&gt; 40426 (-18440) (день 132; ID: auto-fcbf8aa46af05681-02). Источники: diff: changes.md#snapshot-fcbf8aa46af0
 - [observed] Смена статуса: Зелёный палец incapacitated=False (день 132; ID: auto-fcbf8aa46af05681-03). Источники: diff: changes.md#snapshot-fcbf8aa46af0
 - [observed] Казна: 40426 -&gt; 51802 (+11376) (день 133; ID: auto-5fde6a27cf9da521-01). Источники: diff: changes.md#snapshot-5fde6a27cf9d
-- [observed] Казна: 9347 -&gt; 4941 (-4406) (день 134; ID: auto-1316eacab478d942-01). Источники: diff: changes.json
-- [observed] Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True (день 134; ID: auto-1316eacab478d942-02). Источники: diff: changes.json
-- [observed] Изменены отношения с фракциями (1): Болотники (день 134; ID: auto-1316eacab478d942-03). Источники: diff: changes.json
+- [observed] Казна: 9347 -&gt; 4941 (-4406) (день 134; ID: auto-1316eacab478d942-01). Источники: diff: changes.md#snapshot-1316eacab478
+- [observed] Смена статуса: Зелёный палец coma=True, Зелёный палец unconscious=True (день 134; ID: auto-1316eacab478d942-02). Источники: diff: changes.md#snapshot-1316eacab478
+- [observed] Изменены отношения с фракциями (1): Болотники (день 134; ID: auto-1316eacab478d942-03). Источники: diff: changes.md#snapshot-1316eacab478
+- [observed] Казна: 4941 -&gt; 4791 (-150) (день 134; ID: auto-487bd5b4d5f78532-01). Источники: diff: changes.json
+- [observed] Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False (день 134; ID: auto-487bd5b4d5f78532-02). Источники: diff: changes.json
 - [observed] Сменили отряд (2): Вынос мозга, Флик (день 134; ID: auto-52c72c49b5a15b20-01). Источники: diff: changes.md#snapshot-52c72c49b5a1
 - [observed] Казна: 51802 -&gt; 9347 (-42455) (день 134; ID: auto-52c72c49b5a15b20-02). Источники: diff: changes.md#snapshot-52c72c49b5a1
 
