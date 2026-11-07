@@ -1,6 +1,6 @@
 # Справочник рекрутов Kenshi (Vanilla)
 
-Справочник по найму NPC в Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Unique_Recruits), kenshi.zone. Русские названия уникальных персонажей — по полю `name_ru` из `published/current/world_state.json` где доступно, иначе из docs/Kenshi_RU_EN.md. Локации — по docs/reference/regions-index.md. Vanilla only.
+Справочник по найму NPC в Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Unique_Recruits), kenshi.zone. Русские названия уникальных персонажей — по полю `name_ru` из `published/tables/unique_npcs.csv; ранее published/current/world_state.json` где доступно, иначе из docs/Kenshi_RU_EN.md. Локации — по docs/reference/regions-index.md. Vanilla only.
 
 ## Способы найма
 
@@ -72,7 +72,7 @@
 - **Мрачный Нил**: бесплатно в Чёрной Пустыне. Источники: wiki.
 - **Ожог**: бесплатно в Башне Ожога (Пойма). Гарантированный скелет. Источники: wiki.
 
-Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.fandom.com/wiki/Seto, https://kenshi.fandom.com/wiki/Agnu, published/current/world_state.json (name_ru), docs/reference/regions-index.md.
+Источники: https://kenshi.fandom.com/wiki/Unique_Recruits, https://kenshi.fandom.com/wiki/Seto, https://kenshi.fandom.com/wiki/Agnu, published/tables/unique_npcs.csv; ранее published/current/world_state.json (name_ru), docs/reference/regions-index.md.
 
 ## Генерируемые рекруты
 

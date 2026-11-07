@@ -61,4 +61,4 @@ Beak Things, Leviathans, Iron Spiders, Blood Spiders, Skin Spiders, Bonedogs, Go
 
 Полный справочник расширяется по конкретным unit templates из FCS / вики.  
 
-Источники: Kenshi Wiki (Factions, Races), kenshi.zone, published/current/world_state.json (name_ru). Vanilla only.
+Источники: Kenshi Wiki (Factions, Races), kenshi.zone, published/tables/unique_npcs.csv (ранее published/current/world_state.json, name_ru). Vanilla only.
