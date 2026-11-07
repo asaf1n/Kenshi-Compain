@@ -1,6 +1,6 @@
 # Справочник NPC и типов юнитов Kenshi (Vanilla)
 
-Справочник по расам, фракциям и типам юнитов Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races). Русские названия — приоритетно из docs/Kenshi_RU_EN.md и поля `name_ru` из published/current/world_state.json. Связь с world-states.md и regions_atlas.md. Vanilla only.
+Справочник по расам, фракциям и типам юнитов Kenshi 1 (Vanilla). Источники: Kenshi Wiki (Factions, Races, individual unit pages), kenshi.zone (factions, races). Русские названия — приоритетно из docs/Kenshi_RU_EN.md и `published/tables/unique_npcs.csv`. Связь с world-states.md и regions_atlas.md. Vanilla only.
 
 ## Расы (кратко)
 
@@ -61,4 +61,4 @@ Beak Things, Leviathans, Iron Spiders, Blood Spiders, Skin Spiders, Bonedogs, Go
 
 Полный справочник расширяется по конкретным unit templates из FCS / вики.  
 
-Источники: Kenshi Wiki (Factions, Races), kenshi.zone, published/tables/unique_npcs.csv (ранее published/current/world_state.json, name_ru). Vanilla only.
+Источники: Kenshi Wiki (Factions, Races), kenshi.zone, published/tables/unique_npcs.csv. Vanilla only.

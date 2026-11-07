@@ -1,6 +1,6 @@
 # Атлас регионов Kenshi (Vanilla)
 
-Полный справочник по всем регионам из docs/reference/regions-index.md. Русские названия — приоритетно из индекса и docs/Kenshi_RU_EN.md; уникальные NPC — по `published/tables/unique_npcs.csv` (ранее поле `name_ru` из `published/current/world_state.json``. Английские термины в скобках при первом упоминании. Источники: kenshi.zone (environment-hazards, world-map, locations), Kenshi Wiki (Zones, individual region pages), regions-index.md. Vanilla only. Связь с World States — ссылками на world-states.md.
+Полный справочник по всем регионам из docs/reference/regions-index.md. Русские названия — приоритетно из индекса и docs/Kenshi_RU_EN.md; уникальные NPC — по `published/tables/unique_npcs.csv``. Английские термины в скобках при первом упоминании. Источники: kenshi.zone (environment-hazards, world-map, locations), Kenshi Wiki (Zones, individual region pages), regions-index.md. Vanilla only. Связь с World States — ссылками на world-states.md.
 
 Кто появляется в каждом регионе и городе, состав отрядов и отношения фракций между собой — `docs/reference/encounters.md`.
 
@@ -397,7 +397,7 @@ NPC: Каменный Голем Эсата (Esata the Stone Golem) в Адма�
 - Разведпост (Scout Post) — poi (×2)
 - Старая деревня (Old Village) — ruins
 - Столица людоедов (Cannibal Capital) — town · секретная
-NPC: Великий шаман (Cannibal Grand Wizard). Источники: world_state.json.
+NPC: Великий шаман (Cannibal Grand Wizard). Источники: `published/tables/unique_npcs.csv`.
 
 ## Рвущие пески (Skimsands)
 Положение: восток. Соседи: Великая пустыня (The Great Desert), Мочалка (Bast).
@@ -597,4 +597,4 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 - Дозорный рубеж (Watcher's Rim): юго-запад, высокие уровни.
 - Центр (Central), Пустыня (Desert), Империя (Empire), The Desert: служебные / без данных в индексе.
 
-Источники раздела: docs/reference/regions-index.md, https://kenshi.zone/en/environment-hazards, https://kenshi.zone/en/world-map, https://kenshi.zone/en/locations, https://kenshi.zone/en/deadlands, Kenshi Wiki (Zones, Okran's Pride, Okran's Gulf, Burning Forest, Fogmen, Bugmaster, Agnu, Cat-Lon, King Gurgler), published/current/world_state.json (name_ru), world-states.md, recruits.md. Vanilla only.
+Источники раздела: docs/reference/regions-index.md, https://kenshi.zone/en/environment-hazards, https://kenshi.zone/en/world-map, https://kenshi.zone/en/locations, https://kenshi.zone/en/deadlands, Kenshi Wiki (Zones, Okran's Pride, Okran's Gulf, Burning Forest, Fogmen, Bugmaster, Agnu, Cat-Lon, King Gurgler), published/tables/unique_npcs.csv, world-states.md, recruits.md. Vanilla only.
