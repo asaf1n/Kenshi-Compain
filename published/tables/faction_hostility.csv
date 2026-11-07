@@ -1,0 +1,104 @@
+faction_sid,faction_name_en,faction_name_ru,files,default_relation,enemy_classification,business_relations,trustworthy,effect_of_anger,effect_of_happy,emotion_fade_rate,run_away_ratio_of_squad_size,run_away_ratio_relative_to_enemy,not_real,anti_slavery,heals_strangers,offers_bounties,allow_slaves_weapons,fundamental_type,squad_formation,race_sids,race_names,race_weights
+1083-gamedata.base,The Holy Nation,Святая Нация,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.1,1,0,0,false,false,true,true,false,4,2,17-gamedata.quack,Зеленоземец,100
+1084-gamedata.base,Slave Traders,Рабовладельцы,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.05,0.1,1,0,0,false,false,false,false,false,7,0,,,
+1085-gamedata.base,Sand ninjas,Песчаные ниндзя,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base,Зеленоземец; Жженоземец,100; 100
+1086-gamedata.base,Temple of truth,Храм правды,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,false,false,false,false,4,0,,,
+1087-gamedata.base,Imperial Lords,Имперские Лорды,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,false,false,false,false,4,0,,,
+1088-gamedata.base,Traders Guild,Гильдия Торговцев,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.25,0.1,1,0,0,false,false,true,false,false,3,1,17-gamedata.quack; 18019-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Трутень-солдат; Шек,70; 100; 10; 50
+11624-Dialogue (10).mod,Shek Kingdom,Королевство шеков,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,true,false,2,2,5276-chareditor.mod,Шек,100
+1171-gamedata.base,Mercenary Police,Наёмная полиция,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,false,false,false,false,1,0,,,
+1209-gamedata.base,Fisher,Рыбак,gamedata.base; rebirth.mod,0,-10,-5,100,0.1,0.2,1,0,0,false,true,true,false,false,4,0,,,
+1214-gamedata.base,Mercenary Guild,Гильдия наёмников,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,false,false,false,2,0,17-gamedata.quack; 5276-chareditor.mod,Зеленоземец; Шек,100; 60
+1229-gamedata.base,Free Traders,Вольные купцы,gamedata.base; rebirth.mod,0,-10,-5,0,0.25,0.1,1,0,0,false,true,true,false,false,4,1,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,70; 100; 5; 10; 50; 1
+1233-gamedata.base,Tech Hunters,Техохотники,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,true,false,false,4,0,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Скелет; Жженоземец; Трутень-солдат; Шек; Принц,100; 5; 100; 20; 100; 10
+1234-gamedata.base,Medics Guild,Гильдия медиков,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,true,false,false,4,0,,,
+1305-gamedata.base,Starving Bandits,Голодные бандиты,gamedata.base; rebirth.mod,-10,-10,-5,0,0.1,0.1,1,0.5,0.5,false,true,false,false,false,8,0,,,
+14459-rebirth.mod,The Old Empire,Старая Империя,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,2,2,,,
+14491-rebirth.mod,Shinobi Thieves,Воры шиноби,rebirth.mod; gamedata.base,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,7,0,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5346-stick_people.mod,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат; Принц,90; 200; 30; 5; 30
+14508-gamedata.base,Bounty Hunters,Охотники за наградой,gamedata.base; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,9,0,,,
+1532482-__May 18 2.mod,Yabuta Outlaws,Изгои Ямусы,rebirth.mod,-100,-10,-5,-100,0.1,0.1,1,0.3,0.2,false,false,false,false,false,8,0,17-gamedata.quack; 18961-gamedata.base; 5276-chareditor.mod,Зеленоземец; Трутень-солдат; Шек,100; 30; 100
+1532900-__world reactions NE.mod,Rebel Swordsmen,Мятежные мечники,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат,1500; 1500; 100; 100
+1533505-Newwworld.mod,Skeleton MkII Screamer,Крикуны MkII,Newwworld.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,9,0,1533504-Newwworld.mod,Крикун МкII,100
+1533874-rebirth.mod,Second Empire Exile,Изгнанники ВИ,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,2,2,,,
+1534558-rebirth.mod,Bar Thugs,Гопники,rebirth.mod,0,-10,-5,0,0.1,0.1,1,0.5,0.5,true,true,false,false,false,8,0,,,
+15579-Dialogue.mod,Republic of Tertius,Республика Тертиус,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,true,false,4,0,,,
+16855-gamedata.base,Cannibal Hunters,Охотники на людоедов,gamedata.base; rebirth.mod,0,-10,-5,80,0.2,0.2,1,0,0,false,true,true,false,false,9,2,,,
+16860-gamedata.base,Bloodraiders,Кровавые налётчики,gamedata.base; rebirth.mod,-100,-10,-5,-100,0.1,0.1,1,0.3,0.2,false,false,false,false,false,8,0,17-gamedata.quack; 5276-chareditor.mod,Зеленоземец; Шек,100; 35
+18000-gamedata.base,Western Hive,Западный Улей,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,-50,0.2,0.2,1,0,0,false,true,true,false,false,2,0,18960-gamedata.base; 18961-gamedata.base; 5346-stick_people.mod,Рабочий трутень; Трутень-солдат; Принц,100; 100; 5
+18007-rebirth.mod,Black Dragon Ninjas,Ниндзя Чёрного Дракона,rebirth.mod,0,-10,-5,-50,0.2,0.2,1,0,0,false,false,false,false,false,8,2,,,
+18011-rebirth.mod,White Eyebrow Clan,Клан Белой Брови,rebirth.mod,0,-10,-5,-50,0.2,0.2,1,0,0,false,false,false,false,false,8,2,,,
+18891-rebirth.mod,Mongrel,Безродный,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,false,false,9,2,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Скелет; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,150; 4; 60; 30; 60; 60; 10
+18893-rebirth.mod,Fogmen,Туманники,rebirth.mod,-100,0,0,-100,0.1,0.1,1,0.3,0.3,true,false,false,false,false,8,0,42027-rebirth.mod,Рабочий,100
+18897-rebirth.mod,Broken Cities,Разбитые города,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,17-gamedata.quack; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Шек; Принц,80; 200; 25
+200-gamedata.base,Dust Bandits,Пыльные бандиты,gamedata.base; rebirth.mod,-10,-10,-5,-50,0.1,0.1,1,0.3,0.2,false,false,false,false,false,8,0,17-gamedata.quack; 5276-chareditor.mod,Зеленоземец; Шек,100; 20
+204-gamedata.base,Nameless,Безымянные,gamedata.base; rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,false,false,false,9,0,,,
+2607-gamedata.base,Police,Полиция,gamedata.base; rebirth.mod,0,-10,-5,50,0.2,0.2,1,0.3,0.3,false,false,true,true,false,1,0,,,
+3943-gamedata.base,Wildlife,Живность,gamedata.base; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+40544-rebirth.mod,Herbivore,Травоядные,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,4,0,,,
+40551-rebirth.mod,Trade Ninjas,Ниндзя торговцы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,false,false,3,0,,,
+41162-Dialogue.mod,Swampers,Болотники,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,,,
+42022-rebirth.mod,Holy Nation Outlaws,Изгои Святой Нации,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,,,
+42085-rebirth.mod,Old Machines,Старые машины,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,true,false,false,false,2,2,,,
+42088-rebirth.mod,Skeletons,Скелеты,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,false,false,9,0,17946-stick_people.mod; 57778-Newwworld.mod,Скелет; Серия Р4,100; 4
+42097-rebirth.mod,Nomads,Кочевники,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,false,false,4,1,17-gamedata.quack; 18019-gamedata.base,Зеленоземец; Жженоземец,100; 20
+42235-rebirth.mod,Shrieking Bandits,Верещащие бандиты,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,0,17-gamedata.quack,Зеленоземец,100
+42257-rebirth.mod,Berserkers,Берсерки,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,5276-chareditor.mod,Шек,100
+42264-gamedata.base,United Heroes League,Лига Союзных Героев,gamedata.base; rebirth.mod,0,-10,-5,-100,0.2,0.2,1,0,0,false,false,false,false,false,8,2,17-gamedata.quack,Зеленоземец,100
+46241-Dialogue.mod,Okranites,Окраниты,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,,,
+48671-rebirth.mod,Ancient Ruins,Древние руины,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,true,false,false,false,8,2,,,
+48708-rebirth.mod,Floodland Ruins,Руины поймы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,8,0,,,
+48743-Dialogue.mod,Blackshifters,Черновёртыши,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,18961-gamedata.base; 5346-stick_people.mod,Трутень-солдат; Принц,200; 50
+48753-Dialogue.mod,Stone Rats,Каменные крысы,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Жженоземец; Шек; Принц,100; 100; 100; 100
+48760-Dialogue.mod,Twinblades,Два клинка,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,18019-gamedata.base,Жженоземец,100
+48791-Dialogue.mod,Grayflayers,Серодёры,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Жженоземец; Шек; Принц,100; 100; 100; 100
+48814-Dialogue.mod,Hounds,Гончие,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,,,
+49356-rebirth.mod,Second Empire,Вторая империя,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,4,2,,,
+49377-rebirth.mod,Flotsam Ninjas,Ниндзя отщепенцы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,true,false,false,7,2,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,200; 100; 10
+49392-rebirth.mod,Rebirth Slaves,Рабы Возрождения,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,true,false,false,false,6,0,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,100; 50; 20; 10; 500; 5
+50358-rebirth.mod,Machinists,Машинисты,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,4,0,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Скелет; Жженоземец; Шек; Принц,100; 10; 100; 5; 20
+513-gamedata.base,Deadcat,Дохлокот,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,70,0.1,0.1,1,0,0,false,true,true,false,false,4,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,70; 200; 10
+51331-rebirth.mod,Spiders,Пауки,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,8,0,,,
+51357-rebirth.mod,Kral's Chosen,Избранный Крала,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,2,5276-chareditor.mod,Шек,100
+51638-rebirth.mod,Swamp Ninjas,Болотные ниндзя,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5346-stick_people.mod,Зеленоземец; Жженоземец; Принц,100; 100; 20
+51646-Dialogue.mod,Empire Peasants,Имперские селяне,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,true,false,false,4,0,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,100; 10; 400; 200; 100; 20
+51652-rebirth.mod,Red Sabres,Красные сабли,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,100; 100; 100
+51707-rebirth.mod,Drifters,Скитальцы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,true,true,false,false,9,0,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod; 57778-Newwworld.mod,Зеленоземец; Скелет; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц; Серия Р4,100; 5; 100; 10; 10; 50; 5; 2
+518-gamedata.base,Cannibals,Людоеды,gamedata.base; Dialogue.mod; rebirth.mod,-100,0,0,-100,0.1,0.1,1,0.3,0.3,false,false,false,false,false,8,0,,,
+51811-rebirth.mod,Swamp Creatures,Болотные твари,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+51812-rebirth.mod,Gutters,Живоглоты,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+51813-rebirth.mod,Gorillos,Гориллы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+54297-rebirth.mod,Rebel Farmers,Мятежные фермеры,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18960-gamedata.base; 18961-gamedata.base,Зеленоземец; Рабочий трутень; Трутень-солдат,3000; 100; 100
+5442-gamedata.base,Outlaw,Изгои,gamedata.base; rebirth.mod,0,-10,-5,-50,0.1,0.1,1,0.3,0.2,false,true,false,false,false,8,0,17-gamedata.quack; 5276-chareditor.mod,Зеленоземец; Шек,100; 20
+54587-rebirth.mod,Manhunters,Охотники на людей,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,2,0,17-gamedata.quack; 18019-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Трутень-солдат; Шек,100; 100; 100; 100
+55101-rebirth.mod,Slave Hunters,Охотники на рабов,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,500; 100; 100
+56098-rebirth.mod,Skimmers,Рвачи,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+56101-rebirth.mod,Megacity,Мегагород,rebirth.mod,0,-10,-5,70,0.1,0.1,1,0,0,true,false,true,false,false,4,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,70; 200; 10
+56108-rebirth.mod,Crabs,Крабы,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+56128-rebirth.mod,Wolves,Волки,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+56595-Dialogue.mod,Band of Bones,Груда костей,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,0,5276-chareditor.mod,Шек,100
+56644-Dialogue.mod,Black Dog,Чёрный пёс,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,9,0,,,
+56777-Dialogue.mod,Southern Hive,Южный улей,Dialogue.mod; rebirth.mod,-50,-10,-5,-50,0.2,0.2,1,0,0,false,false,false,false,false,2,2,57770-Newwworld.mod; 57771-Newwworld.mod; 57772-Newwworld.mod,Принц; Трутень-солдат; Рабочий трутень,5; 100; 100
+57737-rebirth.mod,Skeleton Legion,Легион скелетов,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,8,2,66529-Newwworld.mod,Голова-брусок MкII,100
+57740-rebirth.mod,Slaves,Рабы,rebirth.mod,0,-99,-5,0,0.2,0.2,1,0,0,true,true,false,false,false,6,0,,,
+58229-Dialogue.mod,Anti-Slavers,Противники рабства,Dialogue.mod; rebirth.mod,0,-10,-5,100,0.5,0.2,1,0,0,false,true,true,false,false,9,0,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Скелет; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,100; 100; 100; 100; 100; 100; 100
+58701-rebirth.mod,Raptors,Ящеры,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+62792-rebirth.mod,Skeleton Bandits,Скелетные бандиты,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,2,17-gamedata.quack,Зеленоземец,100
+62805-rebirth.mod,Reavers,Разбойники,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,true,8,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,100; 50; 100
+62806-rebirth.mod,Crab Raiders,Крабовые налётчики,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,2,18019-gamedata.base,Жженоземец,100
+63028-Dialogue.mod,Skin Bandits,Кожаные бандиты,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,2,57774-Newwworld.mod; 57778-Newwworld.mod,Крикун МкI; Серия Р4,25; 10
+64918-rebirth.mod,Broken Ones,Неисправные,rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,true,false,false,false,8,2,57782-Newwworld.mod,Солдабот,100
+65263-Newwworld.mod,Crimper,Обжимка,Newwworld.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+65268-Newwworld.mod,Skeleton MkII,Скелеты МкII,Newwworld.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,9,0,65266-Newwworld.mod,Р4МкII,100
+66292-rebirth.mod,Black Desert Ninjas,Ниндзя Чёрной Пустыни,rebirth.mod,0,-10,-5,0,0.1,0.1,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5346-stick_people.mod,Зеленоземец; Жженоземец; Принц,100; 100; 25
+66532-Newwworld.mod,Skeleton MkII Log Head,Брускоголовые МкII,Newwworld.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,9,0,66529-Newwworld.mod,Голова-брусок MкII,100
+95512-rebirth.mod,Scavengers,Мародёры,rebirth.mod,-100,-30,-20,0,0.2,0.2,1,0,0,false,true,false,false,false,7,0,17-gamedata.quack; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5346-stick_people.mod,Зеленоземец; Жженоземец; Рабочий трутень; Трутень-солдат; Принц,100; 10; 100; 100; 10
+96156-rebirth.mod,Vagrants,Бродяги,rebirth.mod,-10,-10,-5,0,0.1,0.1,1,0.5,0.5,true,true,false,false,false,8,0,,,
+96175-rebirth.mod,Grass Pirates,Луговые пираты,rebirth.mod,-100,-10,-5,-50,0.1,0.1,1,0.3,0.2,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,100; 100; 20
+96261-rebirth.mod,The Gorrillo Bandits,Бандиты Горрилло,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,false,true,false,false,false,8,0,17-gamedata.quack; 18019-gamedata.base; 5276-chareditor.mod,Зеленоземец; Жженоземец; Шек,100; 100; 100
+96359-rebirth.mod,Fishmen,Рыболюды,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,8,0,55396-gamedata.base,Рыболюд,100
+97072-Dialogue.mod,Preacher Cult,Культ проповедника,Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,8,0,,,
+97574-Newwworld.mod,Land Bat,Ползучая мышь,Newwworld.mod; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,
+97613-rebirth.mod,Thrall Masters,Хозяева невольников,rebirth.mod,-100,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,8,2,,,
+GENERATION_TEMPLATE_FACTION,generation template,generation template,gamedata.base; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,false,false,false,false,false,4,0,,,
+defaultEmpireFactionSID,United Cities,Союзные Города,gamedata.base; Dialogue.mod; rebirth.mod,0,-10,-5,0,0.2,0.1,1,0,0,false,false,true,true,false,4,2,17-gamedata.quack; 17946-stick_people.mod; 18019-gamedata.base; 18960-gamedata.base; 18961-gamedata.base; 5276-chareditor.mod; 5346-stick_people.mod,Зеленоземец; Скелет; Жженоземец; Рабочий трутень; Трутень-солдат; Шек; Принц,150; 1; 150; 10; 10; 50; 10
+nofac,No Faction,Нет фракции,gamedata.base; rebirth.mod,0,-10,-5,0,0.2,0.2,1,0,0,true,false,false,false,false,0,0,,,

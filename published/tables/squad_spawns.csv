@@ -1,0 +1,714 @@
+source,place_sid,place_name_en,place_name_ru,place_faction_sid,spawn_amount,squad_sid,squad_name,ref_v0
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1307-gamedata.base,Starving bandit mob,15
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1308-gamedata.base,Starving bandit big mob,7
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1531880-rebirth.mod,south hive invasion,2
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532622-__world reactions.mod,Shek Kamikaze (esata dead),5
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532649-__world reactions.mod,Holy Army Patrol (Seta is alive),5
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532650-__world reactions.mod,Holy Army Patrol (phoenix alive),2
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532651-__world reactions.mod,Inquisitor roam (phoenix alive),3
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532652-__world reactions.mod,krals chosen (seta dead),1
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532653-__world reactions.mod,Berserker squad (seta dead),2
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532654-__world reactions.mod,Shek Patrol (phoenix dead),4
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532655-__world reactions.mod,krals chosen (phoenix dead),3
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532656-__world reactions.mod,flotsam patrol (seta dead),3
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,2
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1532982-__world reactions W.mod,Shek Patrol (seta dead),3
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,1533318-__world reactions Shek.mod,Shek Patrol (seto revenge),5
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,4005-gamedata.base,Bulls,6
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,42019-rebirth.mod,Escaped holy servants,10
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,43970-rebirth.mod,Caravan NW,1
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,46994-rebirth.mod,Mercenary guild human,2
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,62658-Dialogue.mod,Traveller,1
+biome_homeless,18006-rebirth.mod,Okran's Gulf,Окранов залив,,1,63537-rebirth.mod,Merchant Nomads,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1307-gamedata.base,Starving bandit mob,10
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1531880-rebirth.mod,south hive invasion,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1531885-rebirth.mod,hive diaspora bandits,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532622-__world reactions.mod,Shek Kamikaze (esata dead),10
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532649-__world reactions.mod,Holy Army Patrol (Seta is alive),7
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532650-__world reactions.mod,Holy Army Patrol (phoenix alive),26
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532651-__world reactions.mod,Inquisitor roam (phoenix alive),5
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532652-__world reactions.mod,krals chosen (seta dead),8
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532654-__world reactions.mod,Shek Patrol (phoenix dead),10
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532655-__world reactions.mod,krals chosen (phoenix dead),8
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,5
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1532982-__world reactions W.mod,Shek Patrol (seta dead),15
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,1533318-__world reactions Shek.mod,Shek Patrol (seto revenge),7
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,18892-rebirth.mod,Lone Wolf,10
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,42019-rebirth.mod,Escaped holy servants,10
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,43327-rebirth.mod,river ducks small mob,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,43970-rebirth.mod,Caravan NW,5
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,46994-rebirth.mod,Mercenary guild human,5
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,49579-arg.mod,Holy Prisoner Caravan,5
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,18876-rebirth.mod,Okran's Pride,Окранова гордость,,1,62658-Dialogue.mod,Traveller,1
+biome_homeless,18890-rebirth.mod,Fog Islands,Острова тумана,,1,41588-rebirth.mod,Fog hive roaming squad,40
+biome_homeless,18890-rebirth.mod,Fog Islands,Острова тумана,,1,42019-rebirth.mod,Escaped holy servants,6
+biome_homeless,18890-rebirth.mod,Fog Islands,Острова тумана,,1,42029-rebirth.mod,Fog prince squad,7
+biome_homeless,18890-rebirth.mod,Fog Islands,Острова тумана,,1,55622-rebirth.mod,Fog hive nest hunter patrol huge,2
+biome_homeless,42084-rebirth.mod,Floodlands,Пойма,,1,42086-rebirth.mod,Robot spiders,10
+biome_homeless,42084-rebirth.mod,Floodlands,Пойма,,1,42087-rebirth.mod,Skeleton Searcher,2
+biome_homeless,42084-rebirth.mod,Floodlands,Пойма,,1,42089-rebirth.mod,Skeleton Killer,1
+biome_homeless,42091-rebirth.mod,Obedience,Смирение,,1,42086-rebirth.mod,Robot spiders,3
+biome_homeless,42091-rebirth.mod,Obedience,Смирение,,1,42089-rebirth.mod,Skeleton Killer,1
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,1307-gamedata.base,Starving bandit mob,100
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,1531882-rebirth.mod,hive diaspora lost,100
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,1531885-rebirth.mod,hive diaspora bandits,100
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,20
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,4006-gamedata.base,Goat Herder,40
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,42019-rebirth.mod,Escaped holy servants,100
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,42095-rebirth.mod,Fog hive lost man,100
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,50520-rebirth.mod,Cannibal scrawny,50
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,62553-Dialogue.mod,Потерянный трутень,10
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,62658-Dialogue.mod,Traveller,5
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,63537-rebirth.mod,Merchant Nomads,5
+biome_homeless,42094-rebirth.mod,Dreg,Обломки,,1,8908-Dialogue.mod,Holy Nation slave escapees,30
+biome_homeless,42099-rebirth.mod,Iron Valleys,Железные долины,,1,42064-rebirth.mod,Drifter solo skeleton,4
+biome_homeless,42099-rebirth.mod,Iron Valleys,Железные долины,,1,42086-rebirth.mod,Robot spiders,20
+biome_homeless,42099-rebirth.mod,Iron Valleys,Железные долины,,1,42087-rebirth.mod,Skeleton Searcher,2
+biome_homeless,42099-rebirth.mod,Iron Valleys,Железные долины,,1,42089-rebirth.mod,Skeleton Killer,4
+biome_homeless,42099-rebirth.mod,Iron Valleys,Железные долины,,1,66291-rebirth.mod,Ниндзя Чёрной Пустыни,4
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,1531880-rebirth.mod,south hive invasion,10
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,18892-rebirth.mod,Lone Wolf,2
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,4005-gamedata.base,Bulls,1
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,42019-rebirth.mod,Escaped holy servants,3
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,42202-rebirth.mod,wild pack beast family,2
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,43902-rebirth.mod,gorillos,10
+biome_homeless,42192-rebirth.mod,Vain,Тщета,,1,47188-Dialogue.mod,Hiver Merchant caravan,1
+biome_homeless,42238-rebirth.mod,Empire,Империя,,1,18919-gamedata.base,slave hunters------,1
+biome_homeless,42238-rebirth.mod,Empire,Империя,,1,3387-gamedata.base,Slaver caravan,1
+biome_homeless,42252-rebirth.mod,The Shrieking Forest,Верещащий лес,,2.5,42236-rebirth.mod,shrieking squad,10
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,1532244-__May 18.mod,Berserker squad (broken),2
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,2206-gamedata.base,Drifter solo,1
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,2605-gamedata.base,Cannibal raid 1,14
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,3950-gamedata.base,Drifter squad,1
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,4012-gamedata.base,Beak Squad Small,5
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,42019-rebirth.mod,Escaped holy servants,1
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,42064-rebirth.mod,Drifter solo skeleton,1
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,42236-rebirth.mod,shrieking squad,9
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,42258-rebirth.mod,Berserker squad,4
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,50520-rebirth.mod,Cannibal scrawny,7
+biome_homeless,42254-rebirth.mod,Cannibal Plains,Равнины людоедов,,1,63888-rebirth.mod,cannibal hunter patrol,1
+biome_homeless,42255-rebirth.mod,The Iron Trail,Железный шлейф,,4,47956-rebirth.mod,Robot spiders static,10
+biome_homeless,42256-rebirth.mod,Berserker Country,Страна Берсерков,,1,1532244-__May 18.mod,Berserker squad (broken),5
+biome_homeless,42256-rebirth.mod,Berserker Country,Страна Берсерков,,1,2605-gamedata.base,Cannibal raid 1,3
+biome_homeless,42256-rebirth.mod,Berserker Country,Страна Берсерков,,1,4005-gamedata.base,Bulls,2
+biome_homeless,42256-rebirth.mod,Berserker Country,Страна Берсерков,,1,42258-rebirth.mod,Berserker squad,10
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1302-gamedata.base,Dust Bandit squad,2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1307-gamedata.base,Starving bandit mob,2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1308-gamedata.base,Starving bandit big mob,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1531880-rebirth.mod,south hive invasion,2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1531882-rebirth.mod,hive diaspora lost,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1531885-rebirth.mod,hive diaspora bandits,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532622-__world reactions.mod,Shek Kamikaze (esata dead),2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532652-__world reactions.mod,krals chosen (seta dead),2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532658-__world reactions.mod,Holy Army force (esata dead),2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532659-__world reactions.mod,Holy Army Patrol (esata dead),1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1532982-__world reactions W.mod,Shek Patrol (seta dead),2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,1533322-__world reactions Shek.mod,Holy Army Patrol (seto dead),2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,18892-rebirth.mod,Lone Wolf,2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,18919-gamedata.base,slave hunters------,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,2206-gamedata.base,Drifter solo,2
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,42019-rebirth.mod,Escaped holy servants,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,42202-rebirth.mod,wild pack beast family,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,42263-rebirth.mod,wild goats,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,46046-rebirth.mod,Starving bandit mob aggressive,4
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,51759-rebirth.mod,Бродячий убийца,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,63537-rebirth.mod,Merchant Nomads,1
+biome_homeless,42262-rebirth.mod,Border Zone,Пограничная зона,,0.75,97905-rebirth.mod,Dust Bandit Squad mild,2
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1307-gamedata.base,Starving bandit mob,10
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1412-gamedata.base,Inquisitor roam (valtena alive),2
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1531885-rebirth.mod,hive diaspora bandits,15
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1532647-__world reactions.mod,Holy Army Patrol (valtena alive),12
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1532650-__world reactions.mod,Holy Army Patrol (phoenix alive),8
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1532651-__world reactions.mod,Inquisitor roam (phoenix alive),3
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1532656-__world reactions.mod,flotsam patrol (seta dead),10
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,6
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,1534432-__Fixes.mod,krals chosen (HN destroyed),3
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,18892-rebirth.mod,Lone Wolf,10
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,42019-rebirth.mod,Escaped holy servants,20
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,43483-Dialogue.mod,Holy nation robot,1
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,50520-rebirth.mod,Cannibal scrawny,1
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,43922-rebirth.mod,Okran's Valley,Окранова долина,,1,62658-Dialogue.mod,Traveller,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1307-gamedata.base,Starving bandit mob,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1531882-rebirth.mod,hive diaspora lost,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1531885-rebirth.mod,hive diaspora bandits,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1532622-__world reactions.mod,Shek Kamikaze (esata dead),1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1532655-__world reactions.mod,krals chosen (phoenix dead),1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1532658-__world reactions.mod,Holy Army force (esata dead),1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1532659-__world reactions.mod,Holy Army Patrol (esata dead),1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,1533965-__SE world states.mod,Slaver caravan (tinfist dead),1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,18875-rebirth.mod,Bulls Herd,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,18892-rebirth.mod,Lone Wolf,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,2852-gamedata.base,Starving bandit giant mob,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,4005-gamedata.base,Bulls,1
+biome_homeless,44871-Newwworld.mod,Skinner's Roam,Скорняков край,,0.8,42019-rebirth.mod,Escaped holy servants,1
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1531880-rebirth.mod,south hive invasion,2
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1531882-rebirth.mod,hive diaspora lost,2
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1531885-rebirth.mod,hive diaspora bandits,2
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1532246-__May 18.mod,Band of bones squad (broken),2
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,1532249-__May 18.mod,_swamp ninja genins (broken),4
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,18005-rebirth.mod,swamp turtle squad,20
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,50624-rebirth.mod,spider squad mini swamp,20
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,51639-rebirth.mod,_swamp ninja genins,10
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,51653-rebirth.mod,Water Clan squad,18
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,51759-rebirth.mod,Бродячий убийца,3
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,56604-Dialogue.mod,Band of bones squad,4
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,62861-rebirth.mod,water clan weakened,4
+biome_homeless,48447-Newwworld.mod,The Swamp,Болото,,1.1,62863-rebirth.mod,swamp ninja strengthened,8
+biome_homeless,48456-Newwworld.mod,Deadlands,Гиблые земли,,1,42086-rebirth.mod,Robot spiders,3
+biome_homeless,48456-Newwworld.mod,Deadlands,Гиблые земли,,1,47956-rebirth.mod,Robot spiders static,10
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,1533512-rebirth.mod,screamer unit,10
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,1533514-rebirth.mod,legion thrall unit,20
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,1534046-rebirth.mod,Robot spiders static ashland,70
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,1534048-rebirth.mod,skeleton legion force (post),40
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,42156-rebirth.mod,Robot spider group,20
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,62774-rebirth.mod,skeleton legion force- pre,20
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,62776-rebirth.mod,skeleton legion scouts,10
+biome_homeless,48462-Newwworld.mod,Ashlands,Пепельные земли,,1.1,62777-rebirth.mod,robo levi,10
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,1532812-rebirth.mod,Crab raiders scout,2
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,4010-gamedata.base,Leviathan Loner,5
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,42263-rebirth.mod,wild goats,10
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,55672-rebirth.mod,gorillos blue,40
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,62375-rebirth.mod,south hive patrol,5
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,62376-rebirth.mod,south hive scouts,10
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,62809-rebirth.mod,Skeleton bandits patrol,4
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,62812-rebirth.mod,Skeleton bandits patrol (broken),1
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,95749-rebirth.mod,Bounty hunters ,1
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,95750-rebirth.mod,Treasure hunters,1
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,95754-rebirth.mod,Мародёры,1
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,95755-rebirth.mod,mad sniper,2
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,96179-rebirth.mod,Karate Seeker,1
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,97571-Newwworld.mod,Land Bat squad,40
+biome_homeless,48678-Newwworld.mod,Stobe's Gamble,Авантюра Стоба,,1.1,97665-rebirth.mod,landbat swarm,5
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,1531882-rebirth.mod,hive diaspora lost,1
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,2605-gamedata.base,Cannibal raid 1,1
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,4012-gamedata.base,Beak Squad Small,1
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,42202-rebirth.mod,wild pack beast family,1
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,42236-rebirth.mod,shrieking squad,1
+biome_homeless,48744-rebirth.mod,Purple Sands,Пурпурные пески,,0.3,50520-rebirth.mod,Cannibal scrawny,1
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,4010-gamedata.base,Leviathan Loner,1
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,4012-gamedata.base,Beak Squad Small,1
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,42202-rebirth.mod,wild pack beast family,2
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,43327-rebirth.mod,river ducks small mob,1
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,48782-rebirth.mod,Leviathan Family,1
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,50247-rebirth.mod,wild pack beast herd,2
+biome_homeless,48745-rebirth.mod,Leviathan Coast,Берег левиафанов,,2.5,56003-Dialogue.mod,Tech Hunters Ruins,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,1307-gamedata.base,Starving bandit mob,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,18892-rebirth.mod,Lone Wolf,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,2206-gamedata.base,Drifter solo,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,2605-gamedata.base,Cannibal raid 1,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,3950-gamedata.base,Drifter squad,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,4009-gamedata.base,Wolf Pack nocturnal,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,42263-rebirth.mod,wild goats,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,43483-Dialogue.mod,Holy nation robot,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,50353-rebirth.mod,flotsam patrol,1
+biome_homeless,48746-rebirth.mod,Northern Coast,Северный берег,,1,63888-rebirth.mod,cannibal hunter patrol,1
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,18892-rebirth.mod,Lone Wolf,10
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,2605-gamedata.base,Cannibal raid 1,5
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,4009-gamedata.base,Wolf Pack nocturnal,10
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,42263-rebirth.mod,wild goats,10
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,50353-rebirth.mod,flotsam patrol,7
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,50510-rebirth.mod,Cannibal Hunter Bar Squad,3
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,63537-rebirth.mod,Merchant Nomads,3
+biome_homeless,48748-rebirth.mod,Hidden Forest,Скрытый лес,,0.66,63888-rebirth.mod,cannibal hunter patrol,1
+biome_homeless,49383-rebirth.mod,Wend,Путь,,1,43483-Dialogue.mod,Holy nation robot,1
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1161-gamedata.base,Caravan,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1531882-rebirth.mod,hive diaspora lost,3
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1531885-rebirth.mod,hive diaspora bandits,6
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1532241-__May 18.mod,krals chosen (broken),5
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1532244-__May 18.mod,Berserker squad (broken),5
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1532657-__world reactions.mod,Shek Patrol (esata alive),10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1533322-__world reactions Shek.mod,Holy Army Patrol (seto dead),5
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,1533366-__world reactions Shek.mod,Shek Patrol (Mukai alive),5
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,16369-Dialogue.mod,Shek Scout squad,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,18892-rebirth.mod,Lone Wolf,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,4009-gamedata.base,Wolf Pack nocturnal,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,42258-rebirth.mod,Berserker squad,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,51321-rebirth.mod,Shek Patrol,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,51325-rebirth.mod,spider squad small 1-3,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,51336-rebirth.mod,shek wandering duelist,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,51360-rebirth.mod,krals chosen,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,51481-rebirth.mod,shek warrior bar,10
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,62553-Dialogue.mod,Потерянный трутень,4
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,62658-Dialogue.mod,Traveller,1
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,62819-rebirth.mod,Hiver Merchant caravan (mats),2
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,62820-rebirth.mod,Hiver Merchant caravan (crops),2
+biome_homeless,51287-rebirth.mod,Stenn Desert,Пустыня Стэнн,,1,63537-rebirth.mod,Merchant Nomads,2
+biome_homeless,51326-rebirth.mod,Arach,Арах,,2,43878-rebirth.mod,spider squad,10
+biome_homeless,51326-rebirth.mod,Arach,Арах,,2,51361-rebirth.mod,spider swarm,2
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,42263-rebirth.mod,wild goats,4
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,43878-rebirth.mod,spider squad,10
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,43902-rebirth.mod,gorillos,4
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,50247-rebirth.mod,wild pack beast herd,3
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,51325-rebirth.mod,spider squad small 1-3,10
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,56003-Dialogue.mod,Tech Hunters Ruins,1
+biome_homeless,51334-rebirth.mod,Shun,Шан,,1,56604-Dialogue.mod,Band of bones squad,1
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,1532241-__May 18.mod,krals chosen (broken),5
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,1532244-__May 18.mod,Berserker squad (broken),5
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,1532246-__May 18.mod,Band of bones squad (broken),2
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,16369-Dialogue.mod,Shek Scout squad,10
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,18892-rebirth.mod,Lone Wolf,10
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,42258-rebirth.mod,Berserker squad,10
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,43878-rebirth.mod,spider squad,20
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,51321-rebirth.mod,Shek Patrol,4
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,51325-rebirth.mod,spider squad small 1-3,30
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,51360-rebirth.mod,krals chosen,10
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,51759-rebirth.mod,Бродячий убийца,3
+biome_homeless,51359-rebirth.mod,Spider Plains,Паучьи равнины,,1,56604-Dialogue.mod,Band of bones squad,5
+biome_homeless,51363-rebirth.mod,The Crater,Кратер,,3,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,51363-rebirth.mod,The Crater,Кратер,,3,44912-rebirth.mod,swamp ducks small mob,2
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,18005-rebirth.mod,swamp turtle squad,2
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,50624-rebirth.mod,spider squad mini swamp,1
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,51639-rebirth.mod,_swamp ninja genins,2
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,51641-rebirth.mod,swamp turtle herd,2
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,51653-rebirth.mod,Water Clan squad,2
+biome_homeless,51380-rebirth.mod,South Wetlands,Южные болота,,1.2,62861-rebirth.mod,water clan weakened,1
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1161-gamedata.base,Caravan,40
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1531880-rebirth.mod,south hive invasion,20
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1532246-__May 18.mod,Band of bones squad (broken),20
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1532491-__May 18 2.mod,yabuta outlaw roaming,200
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533515-__world reactions Slavers.mod,Slaver caravan (grace alive),50
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533516-__world reactions Slavers.mod,Slaver caravan (market master alive),50
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533517-__world reactions Slavers.mod,manhunter patrol (S),70
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533700-__world reactions Slavers.mod,slave hunters (S),70
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533701-__world reactions Slavers.mod,Empire army (Slave masters alive),100
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533740-__world reactios swamp.mod,empire rebel farmers (south),200
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,1533741-__world reactios swamp.mod,empire rebel farmers heavy (merin dead),250
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,18892-rebirth.mod,Lone Wolf,20
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,4009-gamedata.base,Wolf Pack nocturnal,10
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,42202-rebirth.mod,wild pack beast family,40
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,42263-rebirth.mod,wild goats,30
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,43388-rebirth.mod,Mercenary wanderers,30
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,51759-rebirth.mod,Бродячий убийца,30
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,54294-rebirth.mod,UC escaped slave,30
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,56604-Dialogue.mod,Band of bones squad,50
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,62553-Dialogue.mod,Потерянный трутень,10
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,62658-Dialogue.mod,Traveller,10
+biome_homeless,51654-rebirth.mod,The Hook,Крюк,,1,96173-rebirth.mod,noble hunter,10
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1127-gamedata.base,Empire army,2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1161-gamedata.base,Caravan,5
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1309-gamedata.base,Sand ninja cell,9
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1312-gamedata.base,Йоунин,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1531882-rebirth.mod,hive diaspora lost,4
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1531885-rebirth.mod,hive diaspora bandits,5
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1532491-__May 18 2.mod,yabuta outlaw roaming,50
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),70
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1532845-__world reactions NE.mod,Cannibal raid 1 (tengu dead),40
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1532846-__world reactions NE.mod,Empire army (sanda alive),2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1532946-__world reactions NE.mod,Anti slaver patrol (override) longen dead,5
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533510-__world reactions Slavers.mod,manhunter patrol (kana and haga alive),10
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533511-__world reactions Slavers.mod,Slaver caravan (kana and haga alive),1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533664-__world reactions Slavers.mod,Anti slaver patrol (override) kana dead,3
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533666-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished N),2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,1533965-__SE world states.mod,Slaver caravan (tinfist dead),2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,3387-gamedata.base,Slaver caravan,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,3950-gamedata.base,Drifter squad,2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,42064-rebirth.mod,Drifter solo skeleton,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,42202-rebirth.mod,wild pack beast family,3
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,43388-rebirth.mod,Mercenary wanderers,3
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,47188-Dialogue.mod,Hiver Merchant caravan,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,50247-rebirth.mod,wild pack beast herd,3
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,51759-rebirth.mod,Бродячий убийца,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,5337-gamedata.base,Bounty hunters wandering between towns,3
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,54294-rebirth.mod,UC escaped slave,2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,54298-rebirth.mod,empire rebel farmers,50
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,55016-rebirth.mod,manhunter patrol (N),10
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,55102-rebirth.mod,slave hunters (N),5
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,56095-rebirth.mod,skimmer hunter solo 24hr,40
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,62658-Dialogue.mod,Traveller,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,62845-rebirth.mod,empire rebel farmers small,6
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,63537-rebirth.mod,Merchant Nomads,2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,64908-rebirth.mod,skimmer patrol group nocturnal,40
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,95749-rebirth.mod,Bounty hunters ,2
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,96154-rebirth.mod,vagrant bandits,40
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,96173-rebirth.mod,noble hunter,1
+biome_homeless,55621-rebirth.mod,The Great Desert,Великая пустыня,,1.25,97927-__March 18.mod,UC racists patrol,5
+biome_homeless,55636-rebirth.mod,Burning Forest,Горящий лес,,1,18005-rebirth.mod,swamp turtle squad,5
+biome_homeless,55636-rebirth.mod,Burning Forest,Горящий лес,,1,50624-rebirth.mod,spider squad mini swamp,10
+biome_homeless,55636-rebirth.mod,Burning Forest,Горящий лес,,1,55638-rebirth.mod,spider squad mini baby swarm,7
+biome_homeless,55641-rebirth.mod,The Black Desert,Чёрная пустыня,,0.33,66291-rebirth.mod,Ниндзя Чёрной Пустыни,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1127-gamedata.base,Empire army,3
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1161-gamedata.base,Caravan,5
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532491-__May 18 2.mod,yabuta outlaw roaming,50
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),90
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532850-__world reactions NE.mod,Empire army (Nagata alive),10
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532852-__world reactions NE.mod,reaver patrol (Yoshinaga dead),20
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532853-__world reactions NE.mod,"Crab raiders patrol (Yoshinaga dead, Valamon dead)",20
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532881-__world reactions NE.mod,empire rebel farmers heavy (inaba dead),20
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1532946-__world reactions NE.mod,Anti slaver patrol (override) longen dead,2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533509-__world reactions Slavers.mod,Slaver caravan (ren and sly alive),2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533514-__world reactions Slavers.mod,manhunter patrol (ren and sly alive),10
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533662-__world reactions Slavers.mod,Anti slaver patrol (override) ren/sly dead,4
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533663-__world reactions Slavers.mod,Anti slaver patrol (override) grande dead,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533665-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished S),5
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),4
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,3387-gamedata.base,Slaver caravan,2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,3950-gamedata.base,Drifter squad,2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,42064-rebirth.mod,Drifter solo skeleton,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,42202-rebirth.mod,wild pack beast family,2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,43388-rebirth.mod,Mercenary wanderers,3
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,47188-Dialogue.mod,Hiver Merchant caravan,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,50247-rebirth.mod,wild pack beast herd,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,51759-rebirth.mod,Бродячий убийца,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,5337-gamedata.base,Bounty hunters wandering between towns,3
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,54294-rebirth.mod,UC escaped slave,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,54298-rebirth.mod,empire rebel farmers,50
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,55016-rebirth.mod,manhunter patrol (N),10
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,55102-rebirth.mod,slave hunters (N),5
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,56095-rebirth.mod,skimmer hunter solo 24hr,30
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,62658-Dialogue.mod,Traveller,1
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,62845-rebirth.mod,empire rebel farmers small,40
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,63537-rebirth.mod,Merchant Nomads,2
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,64753-rebirth.mod,empire rebel farmers heavy,4
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,64908-rebirth.mod,skimmer patrol group nocturnal,25
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,96154-rebirth.mod,vagrant bandits,40
+biome_homeless,55648-rebirth.mod,Heng,Хэн,,1,97927-__March 18.mod,UC racists patrol,1
+biome_homeless,55659-rebirth.mod,Darkfinger,Тёмный палец,,0.9,18892-rebirth.mod,Lone Wolf,1
+biome_homeless,55659-rebirth.mod,Darkfinger,Тёмный палец,,0.9,2605-gamedata.base,Cannibal raid 1,1
+biome_homeless,55659-rebirth.mod,Darkfinger,Тёмный палец,,0.9,4009-gamedata.base,Wolf Pack nocturnal,1
+biome_homeless,55659-rebirth.mod,Darkfinger,Тёмный палец,,0.9,42263-rebirth.mod,wild goats,1
+biome_homeless,55659-rebirth.mod,Darkfinger,Тёмный палец,,0.9,50520-rebirth.mod,Cannibal scrawny,1
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1127-gamedata.base,Empire army,4
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532491-__May 18 2.mod,yabuta outlaw roaming,4
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532646-__world reactions.mod,Holy Army force (valtena alive),15
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532647-__world reactions.mod,Holy Army Patrol (valtena alive),2
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532650-__world reactions.mod,Holy Army Patrol (phoenix alive),2
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532843-__world reactions NE.mod,Empire army force weak (Inaba alive),15
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532881-__world reactions NE.mod,empire rebel farmers heavy (inaba dead),4
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1532972-__world reactions.mod,Holy Army bandits (override) diaspora,2
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,1533666-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished N),2
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,18892-rebirth.mod,Lone Wolf,2
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,2605-gamedata.base,Cannibal raid 1,4
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,54468-Dialogue.mod,Empire slave escapees,5
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,56095-rebirth.mod,skimmer hunter solo 24hr,1
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,62658-Dialogue.mod,Traveller,1
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,62845-rebirth.mod,empire rebel farmers small,4
+biome_homeless,55664-rebirth.mod,Bast,Мочалка,,1.6,64753-rebirth.mod,empire rebel farmers heavy,4
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1309-gamedata.base,Sand ninja cell,10
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1312-gamedata.base,Йоунин,5
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1531882-rebirth.mod,hive diaspora lost,5
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1531885-rebirth.mod,hive diaspora bandits,20
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1532848-__world reactions NE.mod,reaver patrol (Tsugi dead),30
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),10
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,1533665-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished S),10
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,18892-rebirth.mod,Lone Wolf,100
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,2206-gamedata.base,Drifter solo,3
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,42064-rebirth.mod,Drifter solo skeleton,3
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,54468-Dialogue.mod,Empire slave escapees,5
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,55016-rebirth.mod,manhunter patrol (N),20
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,56095-rebirth.mod,skimmer hunter solo 24hr,100
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,96024-rebirth.mod,Blood bandits ,50
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,96174-rebirth.mod,straw pirate patrol,50
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,96237-rebirth.mod,Wolf pack patrol day,100
+biome_homeless,55667-rebirth.mod,The Eye,Глаз,,1,96400-rebirth.mod,venge thralls,1
+biome_homeless,55678-rebirth.mod,Venge,Мщение,,0.6,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,55678-rebirth.mod,Venge,Мщение,,0.6,47956-rebirth.mod,Robot spiders static,1
+biome_homeless,55678-rebirth.mod,Venge,Мщение,,0.6,55679-rebirth.mod,small blood spiders,2
+biome_homeless,55678-rebirth.mod,Venge,Мщение,,0.6,96400-rebirth.mod,venge thralls,40
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,1302-gamedata.base,Dust Bandit squad,7
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,1307-gamedata.base,Starving bandit mob,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,1308-gamedata.base,Starving bandit big mob,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,2206-gamedata.base,Drifter solo,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,2852-gamedata.base,Starving bandit giant mob,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,42202-rebirth.mod,wild pack beast family,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,42336-rebirth.mod,Кочевники,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,55679-rebirth.mod,small blood spiders,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,56604-Dialogue.mod,Band of bones squad,1
+biome_homeless,55938-rebirth.mod,Shem,Сим,,1,63537-rebirth.mod,Merchant Nomads,1
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,1533867-__SE world states.mod,south hive patrol (savant dead),40
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,42156-rebirth.mod,Robot spider group,10
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,55672-rebirth.mod,gorillos blue,5
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,62776-rebirth.mod,skeleton legion scouts,10
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,64356-rebirth.mod,skin bandit patrol,60
+biome_homeless,55939-rebirth.mod,Sonorous Dark,Звонкий мрак,,1.25,95755-rebirth.mod,mad sniper,5
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,1531880-rebirth.mod,south hive invasion,10
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,1532246-__May 18.mod,Band of bones squad (broken),1
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,4010-gamedata.base,Leviathan Loner,2
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,43878-rebirth.mod,spider squad,7
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,50247-rebirth.mod,wild pack beast herd,1
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,51325-rebirth.mod,spider squad small 1-3,7
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,56604-Dialogue.mod,Band of bones squad,2
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,62552-rebirth.mod,Mountain Wolf Pack,7
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,62554-rebirth.mod,Wolf Swarm,4
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,66294-rebirth.mod,beak swarm,3
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,66295-rebirth.mod,beak elder,2
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,95535-rebirth.mod,beak squad med,18
+biome_homeless,56099-rebirth.mod,Bonefields,Поля костей,,0.7,98505-rebirth.mod,gorillo bandit squad,10
+biome_homeless,56110-rebirth.mod,Howler Maze,Ревущий лабиринт,,2,54294-rebirth.mod,UC escaped slave,1
+biome_homeless,56110-rebirth.mod,Howler Maze,Ревущий лабиринт,,2,56112-rebirth.mod,crab wander solo,20
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1532491-__May 18 2.mod,yabuta outlaw roaming,10
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1532646-__world reactions.mod,Holy Army force (valtena alive),3
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1532647-__world reactions.mod,Holy Army Patrol (valtena alive),2
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),5
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1532851-__world reactions NE.mod,Empire army (Yoshinaga alive),3
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),1
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1533665-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished S),1
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1533965-__SE world states.mod,Slaver caravan (tinfist dead),5
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,1534432-__Fixes.mod,krals chosen (HN destroyed),5
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,43388-rebirth.mod,Mercenary wanderers,3
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,51759-rebirth.mod,Бродячий убийца,2
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,54294-rebirth.mod,UC escaped slave,2
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,54298-rebirth.mod,empire rebel farmers,10
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,55016-rebirth.mod,manhunter patrol (N),7
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,56095-rebirth.mod,skimmer hunter solo 24hr,50
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,56111-rebirth.mod,Skimsands,Рвущие пески,,2.2,64908-rebirth.mod,skimmer patrol group nocturnal,100
+biome_homeless,56123-rebirth.mod,NONE,NONE,,1,56091-Newwworld.mod,Краб,1
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,4012-gamedata.base,Beak Squad Small,4
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,56112-rebirth.mod,crab wander solo,10
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,62793-rebirth.mod,crab wander group,10
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,62828-rebirth.mod,Crab raiders patrol,10
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,62830-rebirth.mod,crab raiders (broken),3
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,65261-rebirth.mod,reaver patrol,5
+biome_homeless,57287-rebirth.mod,Greenbeach,Зелёный пляж,,1.2,65869-rebirth.mod,massive crab wander,1
+biome_homeless,57724-rebirth.mod,Royal Valley,Царская долина,,1,42263-rebirth.mod,wild goats,1
+biome_homeless,57724-rebirth.mod,Royal Valley,Царская долина,,1,62375-rebirth.mod,south hive patrol,4
+biome_homeless,57724-rebirth.mod,Royal Valley,Царская долина,,1,62376-rebirth.mod,south hive scouts,5
+biome_homeless,57725-rebirth.mod,Greyshelf,Серый шельф,,1,42263-rebirth.mod,wild goats,1
+biome_homeless,57725-rebirth.mod,Greyshelf,Серый шельф,,1,43902-rebirth.mod,gorillos,1
+biome_homeless,57725-rebirth.mod,Greyshelf,Серый шельф,,1,55672-rebirth.mod,gorillos blue,1
+biome_homeless,57725-rebirth.mod,Greyshelf,Серый шельф,,1,62375-rebirth.mod,south hive patrol,2
+biome_homeless,57725-rebirth.mod,Greyshelf,Серый шельф,,1,62376-rebirth.mod,south hive scouts,2
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,1533857-__SE world states.mod,south hive patrol (elder dead),5
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,18009-rebirth.mod,Black Dragon Squad,1
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,55672-rebirth.mod,gorillos blue,1
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,62809-rebirth.mod,Skeleton bandits patrol,10
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,62812-rebirth.mod,Skeleton bandits patrol (broken),5
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,62828-rebirth.mod,Crab raiders patrol,5
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,62830-rebirth.mod,crab raiders (broken),1
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,65261-rebirth.mod,reaver patrol,30
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,95749-rebirth.mod,Bounty hunters ,1
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,95754-rebirth.mod,Мародёры,1
+biome_homeless,57726-rebirth.mod,Stobe's Garden,Сад Стоба,,1,97571-Newwworld.mod,Land Bat squad,5
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,1532250-__May 18.mod,Scavengers (broken),2
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,56112-rebirth.mod,crab wander solo,1
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,62793-rebirth.mod,crab wander group,10
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,62828-rebirth.mod,Crab raiders patrol,12
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,62830-rebirth.mod,crab raiders (broken),5
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,65261-rebirth.mod,reaver patrol,5
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,65869-rebirth.mod,massive crab wander,4
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,95754-rebirth.mod,Мародёры,4
+biome_homeless,57727-rebirth.mod,The Pits East,Восточные каньоны,,1.1,96357-rebirth.mod,fishman patrol,5
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1161-gamedata.base,Caravan,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1532250-__May 18.mod,Scavengers (broken),2
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1532847-__world reactions NE.mod,Empire army small patrol (Tsugi alive),6
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1532848-__world reactions NE.mod,reaver patrol (Tsugi dead),20
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1532849-__world reactions NE.mod,"Crab raiders patrol (Tsugi dead, Valamon dead)",20
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1532881-__world reactions NE.mod,empire rebel farmers heavy (inaba dead),5
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),2
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1533508-__world reactions Slavers.mod,Slaver caravan (grande alive),1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1533663-__world reactions Slavers.mod,Anti slaver patrol (override) grande dead,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,18892-rebirth.mod,Lone Wolf,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,2206-gamedata.base,Drifter solo,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,3950-gamedata.base,Drifter squad,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,4009-gamedata.base,Wolf Pack nocturnal,5
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,5337-gamedata.base,Bounty hunters wandering between towns,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,56642-Dialogue.mod,Black Dog Extortionists,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,62845-rebirth.mod,empire rebel farmers small,10
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,64864-rebirth.mod,Empire army small patrol,4
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,95754-rebirth.mod,Мародёры,5
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,96173-rebirth.mod,noble hunter,1
+biome_homeless,62169-rebirth.mod,Stormgap Coast,Берег грозового ущелья,,1,96174-rebirth.mod,straw pirate patrol,30
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),3
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),3
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,56642-Dialogue.mod,Black Dog Extortionists,3
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,65261-rebirth.mod,reaver patrol,20
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,95754-rebirth.mod,Мародёры,1
+biome_homeless,62170-rebirth.mod,The Outlands,Дальние земли,,1,96174-rebirth.mod,straw pirate patrol,10
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,18005-rebirth.mod,swamp turtle squad,1
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,4012-gamedata.base,Beak Squad Small,3
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,42202-rebirth.mod,wild pack beast family,1
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,42263-rebirth.mod,wild goats,1
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,43902-rebirth.mod,gorillos,1
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,50247-rebirth.mod,wild pack beast herd,1
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,56112-rebirth.mod,crab wander solo,3
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,62793-rebirth.mod,crab wander group,3
+biome_homeless,62171-rebirth.mod,The Unwanted Zone,Ненужная зона,,1.5,62794-rebirth.mod,swamp ducks small mob aggressive,3
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,56003-Dialogue.mod,Tech Hunters Ruins,1
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,64858-rebirth.mod,Robot spiders static forbidden,10
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,64860-rebirth.mod,Robot spiders forbidden,1
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,64861-rebirth.mod,Robot spider army forbidden,10
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,64862-rebirth.mod,wild goats forbidden,10
+biome_homeless,62172-rebirth.mod,Forbidden Isle,Запретный остров,,1,64863-rebirth.mod,wild pack beast family forbidden,4
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,1531880-rebirth.mod,south hive invasion,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,1531882-rebirth.mod,hive diaspora lost,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,1531885-rebirth.mod,hive diaspora bandits,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,18892-rebirth.mod,Lone Wolf,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,4012-gamedata.base,Beak Squad Small,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,42202-rebirth.mod,wild pack beast family,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,47188-Dialogue.mod,Hiver Merchant caravan,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,56642-Dialogue.mod,Black Dog Extortionists,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,62552-rebirth.mod,Mountain Wolf Pack,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,62553-Dialogue.mod,Потерянный трутень,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,62819-rebirth.mod,Hiver Merchant caravan (mats),1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,62820-rebirth.mod,Hiver Merchant caravan (crops),1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,63537-rebirth.mod,Merchant Nomads,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,97571-Newwworld.mod,Land Bat squad,1
+biome_homeless,62382-rebirth.mod,Flats Lagoon,Ровная лагуна,,0.75,98505-rebirth.mod,gorillo bandit squad,1
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1531882-rebirth.mod,hive diaspora lost,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1531885-rebirth.mod,hive diaspora bandits,5
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1531973-__May 18.mod,hive diaspora lost prince,1
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1532491-__May 18 2.mod,yabuta outlaw roaming,15
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1533149-__world reactions NE.mod,Empire guard bandits (diaspora),4
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,1533965-__SE world states.mod,Slaver caravan (tinfist dead),4
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,4006-gamedata.base,Goat Herder,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,42263-rebirth.mod,wild goats,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,54298-rebirth.mod,empire rebel farmers,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,56095-rebirth.mod,skimmer hunter solo 24hr,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,62845-rebirth.mod,empire rebel farmers small,10
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,63537-rebirth.mod,Merchant Nomads,2
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,63888-rebirth.mod,cannibal hunter patrol,2
+biome_homeless,62834-rebirth.mod,Sinkuun,Синкаан,,1,64753-rebirth.mod,empire rebel farmers heavy,10
+biome_homeless,63748-rebirth.mod,Spine Canyon,Хребтовый каньон,,1,1309-gamedata.base,Sand ninja cell,2
+biome_homeless,63748-rebirth.mod,Spine Canyon,Хребтовый каньон,,1,1312-gamedata.base,Йоунин,1
+biome_homeless,63748-rebirth.mod,Spine Canyon,Хребтовый каньон,,1,16865-gamedata.base,Blood bandits nest,4
+biome_homeless,63748-rebirth.mod,Spine Canyon,Хребтовый каньон,,1,4009-gamedata.base,Wolf Pack nocturnal,1
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,1161-gamedata.base,Caravan,11
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,1532491-__May 18 2.mod,yabuta outlaw roaming,6
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,1533508-__world reactions Slavers.mod,Slaver caravan (grande alive),8
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,1533965-__SE world states.mod,Slaver caravan (tinfist dead),5
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,3387-gamedata.base,Slaver caravan,3
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,42086-rebirth.mod,Robot spiders,2
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,54298-rebirth.mod,empire rebel farmers,2
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,56095-rebirth.mod,skimmer hunter solo 24hr,11
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,56173-rebirth.mod,Smuggler caravan- bar,11
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,56642-Dialogue.mod,Black Dog Extortionists,1
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,62845-rebirth.mod,empire rebel farmers small,2
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,63537-rebirth.mod,Merchant Nomads,11
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,64753-rebirth.mod,empire rebel farmers heavy,4
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,66291-rebirth.mod,Ниндзя Чёрной Пустыни,4
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,96024-rebirth.mod,Blood bandits ,11
+biome_homeless,64810-rebirth.mod,Grey Desert,Серая пустыня,,0.65,96400-rebirth.mod,venge thralls,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,1532812-rebirth.mod,Crab raiders scout,2
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,1533857-__SE world states.mod,south hive patrol (elder dead),10
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,1533858-__SE world states.mod,skin bandit patrol (elder dead),4
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,55672-rebirth.mod,gorillos blue,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,62809-rebirth.mod,Skeleton bandits patrol,15
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,62812-rebirth.mod,Skeleton bandits patrol (broken),7
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,62828-rebirth.mod,Crab raiders patrol,4
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,62830-rebirth.mod,crab raiders (broken),3
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,65261-rebirth.mod,reaver patrol,6
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,95750-rebirth.mod,Treasure hunters,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,95751-rebirth.mod,Treasure hunters aggressive,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,95754-rebirth.mod,Мародёры,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,95755-rebirth.mod,mad sniper,1
+biome_homeless,65822-rebirth.mod,The Crags,Утёсы,,1,97571-Newwworld.mod,Land Bat squad,5
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,1533858-__SE world states.mod,skin bandit patrol (elder dead),5
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,62809-rebirth.mod,Skeleton bandits patrol,15
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,62812-rebirth.mod,Skeleton bandits patrol (broken),5
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,62828-rebirth.mod,Crab raiders patrol,20
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,62830-rebirth.mod,crab raiders (broken),10
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,95750-rebirth.mod,Treasure hunters,1
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,95751-rebirth.mod,Treasure hunters aggressive,1
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,95754-rebirth.mod,Мародёры,1
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,95755-rebirth.mod,mad sniper,1
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,96357-rebirth.mod,fishman patrol,5
+biome_homeless,65823-rebirth.mod,The Pits,Каньоны,,1,97571-Newwworld.mod,Land Bat squad,5
+biome_homeless,95536-rebirth.mod,Cheaters Run,Тропа хитрецов,,1,42086-rebirth.mod,Robot spiders,10
+biome_homeless,95536-rebirth.mod,Cheaters Run,Тропа хитрецов,,1,42155-rebirth.mod,Robot spiders light,10
+biome_homeless,95536-rebirth.mod,Cheaters Run,Тропа хитрецов,,1,42156-rebirth.mod,Robot spider group,10
+biome_homeless,95536-rebirth.mod,Cheaters Run,Тропа хитрецов,,1,96357-rebirth.mod,fishman patrol,1
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,1532246-__May 18.mod,Band of bones squad (broken),4
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,4012-gamedata.base,Beak Squad Small,10
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,43878-rebirth.mod,spider squad,7
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,50247-rebirth.mod,wild pack beast herd,1
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,51325-rebirth.mod,spider squad small 1-3,7
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,56604-Dialogue.mod,Band of bones squad,8
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,62552-rebirth.mod,Mountain Wolf Pack,10
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,62554-rebirth.mod,Wolf Swarm,10
+biome_homeless,95538-rebirth.mod,High Bonefields,Верхние поля костей,,1,66295-rebirth.mod,beak elder,2
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,1532812-rebirth.mod,Crab raiders scout,2
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,4010-gamedata.base,Leviathan Loner,2
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,42263-rebirth.mod,wild goats,10
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,55672-rebirth.mod,gorillos blue,20
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,95754-rebirth.mod,Мародёры,3
+biome_homeless,95758-rebirth.mod,Sniper Valley,Долина снайперов,,1.7,95755-rebirth.mod,mad sniper,30
+biome_homeless,96354-rebirth.mod,Fishman Island,Остров рыболюдов,,0.4,56112-rebirth.mod,crab wander solo,1
+biome_homeless,96354-rebirth.mod,Fishman Island,Остров рыболюдов,,0.4,62793-rebirth.mod,crab wander group,1
+biome_homeless,96354-rebirth.mod,Fishman Island,Остров рыболюдов,,0.4,96357-rebirth.mod,fishman patrol,10
+town_roaming,1220-gamedata.base,Port North,Порт Север,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,1224-gamedata.base,Cannibal Village,Деревня людоедов,518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,0
+town_roaming,14539-gamedata.base,Skinhouse HQ,Дом Кожи - Штаб,63028-Dialogue.mod,,64356-rebirth.mod,skin bandit patrol,0
+town_roaming,1531884-rebirth.mod,Fog Deathyard Invasion,Нападение гиблого двора,18893-rebirth.mod,,42029-rebirth.mod,Fog prince squad,3
+town_roaming,1531884-rebirth.mod,Fog Deathyard Invasion,Нападение гиблого двора,18893-rebirth.mod,,42040-rebirth.mod,Fog hive nest,25
+town_roaming,1531891-rebirth.mod,_Cannibal Village (override),_Cannibal Village (override),518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,0
+town_roaming,1532915-__world reactions NE.mod,Sho -Battai (override) cannibals,Sho -Battai (override) cannibals,518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,800
+town_roaming,1532950-__world reactions.mod,Okran's Fist (override) cannibals,Okran's Fist (override) cannibals,518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,800
+town_roaming,1533148-__world reactions NE.mod,Raider Camp (override),Raider Camp (override),1532900-__world reactions NE.mod,,1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),2
+town_roaming,1533241-__world reactions W.mod,Fogman Nest Invasion,Нашествие туманников,18893-rebirth.mod,,42029-rebirth.mod,Fog prince squad,3
+town_roaming,1533241-__world reactions W.mod,Fogman Nest Invasion,Нашествие туманников,18893-rebirth.mod,,42040-rebirth.mod,Fog hive nest,25
+town_roaming,1533487-__world reactions NE.mod,Cannibal Infestation,Нашествие людоедов,518-gamedata.base,,50520-rebirth.mod,Cannibal scrawny,9
+town_roaming,1533492-__world reactions Slavers.mod,South Stone Camp,Южный каменный лагерь,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,1533732-__world reactios swamp.mod,Grayflayer Village (override) takeover,Grayflayer Village (override) takeover,56595-Dialogue.mod,,56604-Dialogue.mod,Band of bones squad,3
+town_roaming,1534428-__Fixes.mod,Holy Mines (override) takeover TG,Holy Mines (override) takeover TG,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,1534429-__Fixes.mod,Holy Farm (override) takeover TG,Holy Farm (override) takeover TG,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,1534433-__Fixes.mod,Holy Farm (override) takeover TG,Holy Farm (override) takeover TG,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,16842-gamedata.base,Dust Bandit Camp,Лагерь Пыльных бандитов,200-gamedata.base,,16844-gamedata.base,Bandit Raiders,3
+town_roaming,16858-gamedata.base,Camp- Cannibal Hunters,Лагерь- Охотники на людоедов,16855-gamedata.base,,16856-gamedata.base,Cannibal Hunter Squad nest,8
+town_roaming,16866-gamedata.base,Blood Bandit Camp,Лагерь Кровавых Бандитов,16860-gamedata.base,,16865-gamedata.base,Blood bandits nest,3
+town_roaming,1785-gamedata.base,Stone Camp,Каменный лагерь,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,18920-gamedata.base,Slaver Camp,Лагерь рабовладельцев,1084-gamedata.base,,18919-gamedata.base,slave hunters------,10
+town_roaming,4011-gamedata.base,Nest of Beak Things,Гнездо клювастых,51812-rebirth.mod,,4012-gamedata.base,Beak Squad Small,25
+town_roaming,4011-gamedata.base,Nest of Beak Things,Гнездо клювастых,51812-rebirth.mod,,4033-gamedata.base,Beak Squad -Nest,20
+town_roaming,4034-gamedata.base,Wolf Den,Волчье логово,3943-gamedata.base,,4009-gamedata.base,Wolf Pack nocturnal,100
+town_roaming,4034-gamedata.base,Wolf Den,Волчье логово,3943-gamedata.base,,4021-gamedata.base,Wolf Pack Den,200
+town_roaming,42026-rebirth.mod,Fog Deathyard,Гиблый двор,18893-rebirth.mod,,42029-rebirth.mod,Fog prince squad,5
+town_roaming,42026-rebirth.mod,Fog Deathyard,Гиблый двор,18893-rebirth.mod,,42040-rebirth.mod,Fog hive nest,25
+town_roaming,42096-rebirth.mod,Goat Herder's Camp,Лагерь козлопасов,42097-rebirth.mod,,4006-gamedata.base,Goat Herder,10
+town_roaming,42096-rebirth.mod,Goat Herder's Camp,Лагерь козлопасов,42097-rebirth.mod,,62843-rebirth.mod,goat herder camp,20
+town_roaming,42338-rebirth.mod,Nomads,Кочевники,42097-rebirth.mod,,42336-rebirth.mod,Кочевники,3
+town_roaming,43977-rebirth.mod,River Nest,Речное гнездо,3943-gamedata.base,,43327-rebirth.mod,river ducks small mob,100
+town_roaming,44913-rebirth.mod,Swamp Raptor Nest,Гнездо болотных ящеров,51811-rebirth.mod,,44912-rebirth.mod,swamp ducks small mob,100
+town_roaming,48752-rebirth.mod,Cannibals,Людоеды,518-gamedata.base,,50520-rebirth.mod,Cannibal scrawny,9
+town_roaming,49365-rebirth.mod,Berserker Village,Деревня Берсерков,42257-rebirth.mod,,42258-rebirth.mod,Berserker squad,0
+town_roaming,50522-rebirth.mod,Cannibal Capital,Столица людоедов,518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,800
+town_roaming,51387-rebirth.mod,Bounty Hunter Camp,Лагерь Охотников за наградой,14508-gamedata.base,,51389-rebirth.mod,Bounty hunter camp for bugmaster,9
+town_roaming,51388-rebirth.mod,Mercenary Camp,Лагерь наёмников,1214-gamedata.base,,51390-rebirth.mod,Mercenary camp,100
+town_roaming,55396-rebirth.mod,Port South,Порт Юг,1084-gamedata.base,,3387-gamedata.base,Slaver caravan,800
+town_roaming,55671-rebirth.mod,Gorillo Nest,Гнездо горилл,51813-rebirth.mod,,55672-rebirth.mod,gorillos blue,3
+town_roaming,56086-rebirth.mod,Raider Camp,Лагерь налётчиков,54297-rebirth.mod,,54298-rebirth.mod,empire rebel farmers,2
+town_roaming,56086-rebirth.mod,Raider Camp,Лагерь налётчиков,54297-rebirth.mod,,56096-rebirth.mod,UC farmer raider nest,4
+town_roaming,56093-rebirth.mod,Skimmer Nest,Гнездо рвачей,56098-rebirth.mod,,56094-rebirth.mod,skimmer nest,4
+town_roaming,56093-rebirth.mod,Skimmer Nest,Гнездо рвачей,56098-rebirth.mod,,56095-rebirth.mod,skimmer hunter solo 24hr,6
+town_roaming,56107-rebirth.mod,Crab Nest,Гнездо крабов,56108-rebirth.mod,,56109-rebirth.mod,crab nest,100
+town_roaming,56114-rebirth.mod,Small Skimmer Nest,Малое гнездо рвачей,56098-rebirth.mod,,56094-rebirth.mod,skimmer nest,4
+town_roaming,56142-rebirth.mod,Vagrant Camp,Лагерь бродяг,51646-Dialogue.mod,,54298-rebirth.mod,empire rebel farmers,4
+town_roaming,56142-rebirth.mod,Vagrant Camp,Лагерь бродяг,51646-Dialogue.mod,,56143-rebirth.mod,vagrant squad,100
+town_roaming,64912-rebirth.mod,First Village,Первая деревня,518-gamedata.base,,2605-gamedata.base,Cannibal raid 1,800
+town_roaming,66295-Boneyard Wolf.mod,Boneyard Wolf Den,Логово Костяного Волка,3943-gamedata.base,,4009-gamedata.base,Wolf Pack nocturnal,100
+town_roaming,66295-Boneyard Wolf.mod,Boneyard Wolf Den,Логово Костяного Волка,3943-gamedata.base,,4021-gamedata.base,Wolf Pack Den,200
+town_roaming,66515-Dialogue.mod,Stone Rat Village,Деревня Каменных Крыс,48753-Dialogue.mod,,48713-Dialogue.mod,Swamper Stone Rat,10
+town_roaming,66517-Dialogue.mod,Rot,Гниль,48814-Dialogue.mod,,50930-rebirth.mod,hounds town patrol,5
+town_roaming,66543-rebirth.mod,Skinhouse,Дом кожи,63028-Dialogue.mod,,64356-rebirth.mod,skin bandit patrol,0
+town_roaming,95755-__december17.mod,Ark,Ковчег,62805-rebirth.mod,,65261-rebirth.mod,reaver patrol,0
+town_roaming,96148-Dialogue.mod,Reaver Camp,Лагерь Разбойников,62805-rebirth.mod,,65261-rebirth.mod,reaver patrol,0
+town_roaming,96390-Dialogue.mod,Island Lab,Островная лаба,96359-rebirth.mod,,96357-rebirth.mod,fishman patrol,10
+town_roaming,96498-Dialogue.mod,Exile Camp,Лагерь изгнанников,56595-Dialogue.mod,,56604-Dialogue.mod,Band of bones squad,3
+town_roaming,96499-Dialogue.mod,New Kralia,Новая Кралия,51357-rebirth.mod,,51360-rebirth.mod,krals chosen,3
+town_roaming,97901-rebirth.mod,Gurgler Nest,Гнездо гурчащих,96359-rebirth.mod,,97902-rebirth.mod,Gurgler nest residents,9

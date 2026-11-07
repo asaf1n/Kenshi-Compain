@@ -1,0 +1,960 @@
+sid,name_en,name_ru,files,faction_sids,faction_names,world_state_sids,world_state_required,race_override_sids,race_override_names,roaming_military,patrol_approaches_towns,dont_multiply,regenerates,is_trader,num_random_chars,num_random_chars_max
+10322-Dialogue (7).mod,Farmer Camp Suspicious,Farmer Camp Suspicious,Dialogue.mod,,,,,,,false,true,false,false,true,0,0
+10522-Dialogue (10).mod,Territorial Thug,Territorial Thug,Dialogue.mod,48753-Dialogue.mod,Каменные крысы,,,,,false,true,true,false,false,0,0
+10529-Dialogue (10).mod,Bored civ,Bored civ,Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+10778-Dialogue (10).mod,Empire Bounty hunters,Empire Bounty hunters,Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+1120-gamedata.base,Police Station Tower,Police Station Tower,gamedata.base; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+1122-gamedata.base,Civilian solo,Civilian solo,gamedata.base; Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,false,0,0
+1125-gamedata.base,Civilian family,Civilian family,gamedata.base; Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1126-gamedata.base,Empire Guard,Empire Guard,gamedata.base; Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,true,true,false,false,false,0,0
+1127-gamedata.base,Empire army,Empire army,gamedata.base; Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,59583-Dialogue.mod,1,,,true,true,false,false,false,0,0
+1130-gamedata.base,Bandit raid small,Bandit raid small,gamedata.base; Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1161-gamedata.base,Caravan,Caravan,gamedata.base; Dialogue.mod; rebirth.mod,1088-gamedata.base,Гильдия Торговцев,59585-Dialogue.mod,1,,,false,true,false,false,false,0,0
+11627-Dialogue (10).mod,Shek Town Guard,Shek Town Guard,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+11676-Dialogue (10).mod,Shek Dueler,Дуэлянт,Dialogue.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,true,false,false,0,0
+1172-gamedata.base,Mercenary Police,Наёмная полиция,gamedata.base; rebirth.mod,2607-gamedata.base,Полиция,,,,,false,true,false,false,false,0,0
+1173-gamedata.base,Police small,Police small,gamedata.base; Dialogue.mod,2607-gamedata.base,Полиция,,,,,false,true,false,false,false,0,0
+1174-gamedata.base,Shop trade adv,Shop trade adv,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1175-gamedata.base,Shop Weapons UC small,Shop Weapons UC small,gamedata.base; Newwworld.mod; rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,true,false,true,0,0
+1176-gamedata.base,Mercenary Police Small,Mercenary Police Small,gamedata.base,2607-gamedata.base,Полиция,,,,,false,true,false,false,false,0,0
+1177-gamedata.base,Shop armor UC,Shop armor UC,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1190-gamedata.base,Shop armour/clothes UC,Shop armour/clothes UC,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1192-gamedata.base,Shop clothes,Shop clothes,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1193-gamedata.base,Shop bar old,Shop bar old,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1194-gamedata.base,Shop 27 travelboothats UC,Shop 27 travelboothats UC,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1196-gamedata.base,Empire Gate guard,Empire Gate guard,gamedata.base; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,true,false,0,0
+1197-gamedata.base,Outpost crew,Outpost crew,gamedata.base,1229-gamedata.base,Вольные купцы,,,,,false,true,false,false,false,0,0
+1207-gamedata.base,Farmer family,Farmer family,gamedata.base; Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+1208-gamedata.base,Miners,Miners,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1211-gamedata.base,Militia guard,Militia guard,gamedata.base; Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+1212-gamedata.base,Militia,Милиция,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1215-gamedata.base,Temple Guard,Temple Guard,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1216-gamedata.base,Temple Army,Temple Army,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1217-gamedata.base,Temple Gate Guards,Temple Gate Guards,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1218-gamedata.base,Temple Inquisitor,Инквизитор храма,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1228-gamedata.base,Mercenary guard 5,Mercenary guard 5,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1293-gamedata.base,Medic squad,Medic squad,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1300-gamedata.base,Mercenary gate guard,Mercenary gate guard,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1302-gamedata.base,Dust Bandit squad,Dust Bandit squad,gamedata.base; rebirth.mod,200-gamedata.base,Пыльные бандиты,,,,,false,true,false,false,false,0,0
+1307-gamedata.base,Starving bandit mob,Starving bandit mob,gamedata.base; Dialogue.mod; rebirth.mod,1305-gamedata.base,Голодные бандиты,,,,,false,true,false,false,false,0,0
+1308-gamedata.base,Starving bandit big mob,Starving bandit big mob,gamedata.base; rebirth.mod,1305-gamedata.base,Голодные бандиты,,,,,false,true,false,false,false,0,0
+1309-gamedata.base,Sand ninja cell,Sand ninja cell,gamedata.base; rebirth.mod,1085-gamedata.base,Песчаные ниндзя,,,,,false,true,false,false,false,0,0
+1312-gamedata.base,Sand Ninja Jounin,Йоунин,gamedata.base; rebirth.mod,1085-gamedata.base,Песчаные ниндзя,,,,,false,true,false,false,false,0,0
+13241-Escapes.mod,Shop bar Empire,Shop bar Empire,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+13242-Escapes.mod,Recruits list Empire,Recruits list Empire,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+1352-gamedata.base,trailer,trailer,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1371-gamedata.base,Recruits list,Recruits list,gamedata.base; Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,0
+13749-Escapes.mod,Town thug,Местный гопник,Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+1406-gamedata.base,Holy Army Patrol,Holy Army Patrol,gamedata.base; Dialogue.mod; rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+1407-gamedata.base,Holy Guards,Holy Guards,gamedata.base; Dialogue.mod; rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+1412-gamedata.base,Inquisitor roam (valtena alive),Inquisitor roam (valtena alive),gamedata.base; rebirth.mod,1083-gamedata.base,Святая Нация,59882-Dialogue.mod,1,,,false,true,false,false,false,0,0
+14460-rebirth.mod,Empire Police old--t,Empire Police old--t,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+14464-rebirth.mod,Samurai Gate Guard,Самурай - привратник,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+14465-rebirth.mod,barracks,barracks,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+14469-rebirth.mod,hospital,hospital,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+14487-rebirth.mod,Bar,Бар,rebirth.mod; gamedata.base,,,,,,,false,true,true,false,true,0,0
+14488-rebirth.mod,Bakery,Пекарня,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+14489-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+14490-rebirth.mod,Traders Guild HQ,Штаб Гильдии торговцев,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+14494-rebirth.mod,Thief Group,Thief Group,rebirth.mod; gamedata.base,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,true,0,0
+14540-gamedata.base,UC military outpost,UC military outpost,gamedata.base,,,,,,,true,true,false,false,false,0,0
+14867-Dialogue.mod,Shek Warrior,Воин,gamedata.base,,,,,,,false,true,false,false,false,0,0
+1523-gamedata.base,Raiders diplomat,Raiders diplomat,gamedata.base,,,,,,,false,true,false,false,false,0,0
+15254-Dialogue.mod,Recruits list Swamper,Recruits list Swamper,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,1
+1531880-rebirth.mod,south hive invasion,south hive invasion,rebirth.mod,56777-Dialogue.mod,Южный улей,1531881-rebirth.mod; 62377-rebirth.mod,0; 1,,,false,true,false,false,false,0,0
+1531882-rebirth.mod,hive diaspora lost,hive diaspora lost,rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,0,,,false,true,false,false,false,0,0
+1531885-rebirth.mod,hive diaspora bandits,hive diaspora bandits,rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,0,,,false,true,false,false,false,0,0
+1531893-rebirth.mod,Cannibal home occupation,Cannibal home occupation,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1531895-rebirth.mod,hive trader robotics overrun,hive trader robotics overrun,rebirth.mod,18893-rebirth.mod,Туманники,,,,,false,true,false,false,false,0,0
+1531973-__May 18.mod,hive diaspora lost prince,hive diaspora lost prince,rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,0,,,false,true,false,false,false,0,0
+1532002-Dialogue.mod,Holy Army force assault,Holy Army force assault,Dialogue.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+1532241-__May 18.mod,krals chosen (broken),krals chosen (broken),rebirth.mod,51357-rebirth.mod,Избранный Крала,1532242-__May 18.mod,0,,,false,true,false,false,false,0,0
+1532241-rebirth.mod,hive guards,hive guards,rebirth.mod,18000-gamedata.base,Западный Улей,,,,,false,true,false,false,false,0,0
+1532243-rebirth.mod,skin house raid ruin- no peeler,skin house raid ruin- no peeler,rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,,,,,false,true,false,false,false,0,0
+1532244-__May 18.mod,Berserker squad (broken),Berserker squad (broken),rebirth.mod,42257-rebirth.mod,Берсерки,1532243-__May 18.mod,0,,,false,true,false,false,false,0,0
+1532246-__May 18.mod,Band of bones squad (broken),Band of bones squad (broken),rebirth.mod,56595-Dialogue.mod,Груда костей,1532245-__May 18.mod,0,,,false,true,false,false,false,0,0
+1532249-__May 18.mod,_swamp ninja genins (broken),_swamp ninja genins (broken),rebirth.mod,51638-rebirth.mod,Болотные ниндзя,1532248-__May 18.mod,0,,,false,true,false,false,false,0,0
+1532250-__May 18.mod,Scavengers (broken),Scavengers (broken),rebirth.mod,95512-rebirth.mod,Мародёры,1532251-__May 18.mod,0,,,false,true,false,false,false,0,0
+1532481-rebirth.mod,Shek Warrior (bar squad),Shek Warrior (bar squad),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532483-__May 18 2.mod,yabuta hideout,yabuta hideout,rebirth.mod,1532482-__May 18 2.mod,Изгои Ямусы,,,,,false,true,false,false,false,0,0
+1532486-__May 18 2.mod,yabuta barracks,yabuta barracks,rebirth.mod,1532482-__May 18 2.mod,Изгои Ямусы,,,,,false,true,false,false,false,0,0
+1532487-__May 18 2.mod,Yabuta HQ,Yabuta HQ,rebirth.mod,1532482-__May 18 2.mod,Изгои Ямусы,,,,,false,true,false,false,false,0,0
+1532491-__May 18 2.mod,yabuta outlaw roaming,yabuta outlaw roaming,rebirth.mod,1532482-__May 18 2.mod,Изгои Ямусы,66290-rebirth.mod,1,,,false,true,false,false,false,0,0
+1532528-Newwworld Plus.mod,Alpha Fishman,Альфа Рыблоюд,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532622-__world reactions.mod,Shek Kamikaze (esata dead),Shek Kamikaze (esata dead),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod,0,,,false,true,false,false,false,0,0
+1532624-__world reactions.mod,Berserker squad (phoenix dead),Berserker squad (phoenix dead),rebirth.mod,42257-rebirth.mod,Берсерки,1532243-__May 18.mod; 66167-Dialogue.mod,1; 1,,,false,true,false,false,false,0,0
+1532646-__world reactions.mod,Holy Army force (valtena alive),Holy Army force (valtena alive),rebirth.mod,1083-gamedata.base,Святая Нация,59882-Dialogue.mod,1,,,true,true,false,false,false,0,0
+1532647-__world reactions.mod,Holy Army Patrol (valtena alive),Holy Army Patrol (valtena alive),rebirth.mod,1083-gamedata.base,Святая Нация,59882-Dialogue.mod,1,,,true,true,false,false,false,0,0
+1532649-__world reactions.mod,Holy Army Patrol (Seta is alive),Holy Army Patrol (Seta is alive),rebirth.mod,1083-gamedata.base,Святая Нация,59881-Dialogue.mod,1,,,true,true,false,false,false,0,0
+1532650-__world reactions.mod,Holy Army Patrol (phoenix alive),Holy Army Patrol (phoenix alive),rebirth.mod,1083-gamedata.base,Святая Нация,57392-rebirth.mod,1,,,true,true,false,false,false,0,0
+1532651-__world reactions.mod,Inquisitor roam (phoenix alive),Inquisitor roam (phoenix alive),rebirth.mod,1083-gamedata.base,Святая Нация,57392-rebirth.mod,1,,,false,true,false,false,false,0,0
+1532652-__world reactions.mod,krals chosen (seta dead),krals chosen (seta dead),rebirth.mod,51357-rebirth.mod,Избранный Крала,1531897-rebirth.mod; 59881-Dialogue.mod,1; 0,,,false,true,false,false,false,0,0
+1532653-__world reactions.mod,Berserker squad (seta dead),Berserker squad (seta dead),rebirth.mod,42257-rebirth.mod,Берсерки,1532243-__May 18.mod; 59881-Dialogue.mod,1; 0,,,false,true,false,false,false,0,0
+1532654-__world reactions.mod,Shek Patrol (phoenix dead),Shek Patrol (phoenix dead),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod; 57392-rebirth.mod,1; 0,,,false,true,false,false,false,0,0
+1532655-__world reactions.mod,krals chosen (phoenix dead),krals chosen (phoenix dead),rebirth.mod,51357-rebirth.mod,Избранный Крала,1531897-rebirth.mod; 57392-rebirth.mod; 59881-Dialogue.mod,1; 0; 0,,,false,true,false,false,false,0,0
+1532656-__world reactions.mod,flotsam patrol (seta dead),flotsam patrol (seta dead),rebirth.mod,49377-rebirth.mod,Ниндзя отщепенцы,1531892-rebirth.mod; 59881-Dialogue.mod; 59882-Dialogue.mod,1; 0; 0,,,true,true,false,false,false,0,0
+1532657-__world reactions.mod,Shek Patrol (esata alive),Shek Patrol (esata alive),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod,1,,,false,true,false,false,false,0,0
+1532658-__world reactions.mod,Holy Army force (esata dead),Holy Army force (esata dead),rebirth.mod,1083-gamedata.base,Святая Нация,1532623-__world reactions.mod; 57392-rebirth.mod,0; 1,,,true,true,false,false,false,0,0
+1532659-__world reactions.mod,Holy Army Patrol (esata dead),Holy Army Patrol (esata dead),rebirth.mod,1083-gamedata.base,Святая Нация,1532623-__world reactions.mod; 57392-rebirth.mod,0; 1,,,true,true,false,false,false,0,0
+1532707-rebirth.mod,Crab tournament 1,Crab tournament 1,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1532790-rebirth.mod,Crab tournament 2,Crab tournament 2,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1532792-rebirth.mod,Crab tournament 3,Crab tournament 3,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1532794-rebirth.mod,Crab tournament 4 ,Crab tournament 4 ,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1532796-rebirth.mod,Crab tournament 0,Crab tournament 0,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1532812-rebirth.mod,Crab raiders scout,Crab raiders scout,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,1,,,false,true,false,false,false,0,0
+1532816-rebirth.mod,Sniper Tower II,Sniper Tower II,rebirth.mod,,,,,66529-Newwworld.mod,Голова-брусок MкII,false,true,false,false,false,0,0
+1532825-rebirth.mod,Drug farm,Drug farm,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532829-rebirth.mod,anti-slaver Gate Guard,anti-slaver Gate Guard,rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,false,true,false,true,false,0,0
+1532843-__world reactions NE.mod,Empire army force weak (Inaba alive),Empire army force weak (Inaba alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532876-__world reactions NE.mod,1,,,true,true,false,false,false,0,0
+1532844-__world reactions NE.mod,empire rebel farmers heavy (tengu dead),empire rebel farmers heavy (tengu dead),rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,59583-Dialogue.mod,0,,,false,true,false,false,false,0,0
+1532845-__world reactions NE.mod,Cannibal raid 1 (tengu dead),Cannibal raid 1 (tengu dead),rebirth.mod,518-gamedata.base,Людоеды,59583-Dialogue.mod; 61467-Dialogue.mod; 66290-rebirth.mod,0; 1; 0,,,false,true,false,false,false,0,0
+1532846-__world reactions NE.mod,Empire army (sanda alive),Empire army (sanda alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532880-__world reactions NE.mod,1,,,true,true,false,false,false,0,0
+1532847-__world reactions NE.mod,Empire army small patrol (Tsugi alive),Empire army small patrol (Tsugi alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532879-__world reactions NE.mod,1,,,true,true,false,false,false,0,0
+1532848-__world reactions NE.mod,reaver patrol (Tsugi dead),reaver patrol (Tsugi dead),rebirth.mod,62805-rebirth.mod,Разбойники,61472-Dialogue.mod; 96078-rebirth.mod,1; 1,,,false,true,false,false,false,0,0
+1532849-__world reactions NE.mod,"Crab raiders patrol (Tsugi dead, Valamon dead)","Crab raiders patrol (Tsugi dead, Valamon dead)",rebirth.mod,62806-rebirth.mod,Крабовые налётчики,61472-Dialogue.mod; 62829-rebirth.mod; 96078-rebirth.mod,1; 1; 0,,,false,true,false,false,false,0,0
+1532850-__world reactions NE.mod,Empire army (Nagata alive),Empire army (Nagata alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532877-__world reactions NE.mod,1,,,true,true,false,false,false,0,0
+1532851-__world reactions NE.mod,Empire army (Yoshinaga alive),Empire army (Yoshinaga alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532878-__world reactions NE.mod,1,,,true,true,false,false,false,0,0
+1532852-__world reactions NE.mod,reaver patrol (Yoshinaga dead),reaver patrol (Yoshinaga dead),rebirth.mod,62805-rebirth.mod,Разбойники,61470-Dialogue.mod; 61472-Dialogue.mod; 96078-rebirth.mod,1; 1; 1,,,false,true,false,false,false,0,0
+1532853-__world reactions NE.mod,"Crab raiders patrol (Yoshinaga dead, Valamon dead)","Crab raiders patrol (Yoshinaga dead, Valamon dead)",rebirth.mod,62806-rebirth.mod,Крабовые налётчики,61470-Dialogue.mod; 61472-Dialogue.mod; 62829-rebirth.mod; 96078-rebirth.mod,1; 1; 1; 0,,,false,true,false,false,false,0,0
+1532855-__world reactions NE.mod,Reaver residents (Brink) HQ,Reaver residents (Brink) HQ,rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1532856-__world reactions NE.mod,Reaver residents (Brink),Reaver residents (Brink),rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1532857-__world reactions NE.mod,Reaver residents (Brink),Reaver residents (Brink),rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1532858-__world reactions NE.mod,reaver patrol brink town patrol,reaver patrol brink town patrol,rebirth.mod,62805-rebirth.mod,Разбойники,96078-rebirth.mod,1,,,false,true,false,false,false,0,0
+1532859-__world reactions NE.mod,Whelp Cage Warden (Brink),Whelp Cage Warden (Brink),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532881-__world reactions NE.mod,empire rebel farmers heavy (inaba dead),empire rebel farmers heavy (inaba dead),rebirth.mod,54297-rebirth.mod,Мятежные фермеры,1532876-__world reactions NE.mod; 59583-Dialogue.mod,0; 1,,,false,true,false,false,false,0,0
+1532883-__world reactions NE.mod,Anti slaver (override),Anti slaver (override),rebirth.mod,58229-Dialogue.mod,Противники рабства,59029-Dialogue.mod,0,,,false,true,false,false,false,0,0
+1532884-__world reactions NE.mod,Empire squatters (override),Empire squatters (override),rebirth.mod,,,,,,,false,true,false,false,false,0,5
+1532889-__world reactions NE.mod,Outlaw guards (override),Outlaw guards (override),rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,,,,,false,true,false,false,false,0,0
+1532890-__world reactions NE.mod,heft hq (override),heft hq (override),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532891-__world reactions NE.mod,Outlaw Gate guard,Outlaw Gate guard,rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,,,,,false,true,false,false,false,0,0
+1532892-__world reactions NE.mod,UC residents (override),UC residents (override),rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+1532895-__world reactions NE.mod,Bark fish shop (override),Bark fish shop (override),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+1532897-__world reactions NE.mod,Outlaw barracks (override),Outlaw barracks (override),rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,,,,,false,true,false,false,false,0,0
+1532911-__world reactions NE.mod,Trashed house empty,Trashed house empty,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532912-__world reactions NE.mod,Civilian family (override) shack,Civilian family (override) shack,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532913-__world reactions NE.mod,UC residents (override) ruin,UC residents (override) ruin,rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,3
+1532916-__world reactions NE.mod,Slaver Shop (override),Slaver Shop (override),rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+1532920-__world reactions NE.mod,cannibal sho battai ruin,cannibal sho battai ruin,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532921-__world reactions NE.mod,Cannibal sho battai scrawny ,Cannibal sho battai scrawny ,rebirth.mod,518-gamedata.base,Людоеды,,,,,false,true,false,false,false,0,0
+1532922-__world reactions NE.mod,Cannibal raid sho battai,Cannibal raid sho battai,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532933-__world reactions NE.mod,Trashed building w/squatters (override),Trashed building w/squatters (override),rebirth.mod,,,,,,,false,true,false,false,false,0,4
+1532934-__world reactions NE.mod,yabuta town patrol,yabuta town patrol,rebirth.mod,1532482-__May 18 2.mod,Изгои Ямусы,66290-rebirth.mod,1,,,false,true,false,false,false,0,0
+1532935-rebirth.mod,startoff- rebirth,startoff- rebirth,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1532937-__world reactions NE.mod,Anti slaver HQ (override),Anti slaver HQ (override),rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,false,true,false,false,false,0,0
+1532942-__world reactions NE.mod,Civilian Heng (override),Civilian Heng (override),rebirth.mod,,,,,,,false,true,true,false,false,3,6
+1532946-__world reactions NE.mod,Anti slaver patrol (override) longen dead,Anti slaver patrol (override) longen dead,rebirth.mod,58229-Dialogue.mod,Противники рабства,1533661-__world reactions Slavers.mod; 59585-Dialogue.mod,1; 0,,,true,true,false,false,false,0,0
+1532972-__world reactions.mod,Holy Army bandits (override) diaspora,Holy Army bandits (override) diaspora,rebirth.mod,1083-gamedata.base,Святая Нация,57392-rebirth.mod; 59881-Dialogue.mod; 59882-Dialogue.mod,0; 0; 0,,,true,true,false,false,false,0,0
+1532977-__world reactions.mod,blister hill squatter,blister hill squatter,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+1532982-__world reactions W.mod,Shek Patrol (seta dead),Shek Patrol (seta dead),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod; 59881-Dialogue.mod,1; 0,,,false,true,false,false,false,0,0
+1533075-__world reactions W.mod,Shek Barracks,Shek Barracks,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533149-__world reactions NE.mod,Empire guard bandits (diaspora),Empire guard bandits (diaspora),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1532876-__world reactions NE.mod; 1532877-__world reactions NE.mod; 1532878-__world reactions NE.mod; 1532880-__world reactions NE.mod; 59583-Dialogue.mod,0; 0; 0; 0; 0,,,true,true,false,false,false,0,0
+1533315-__world reactions Shek.mod,shek HQ (override),shek HQ (override),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533316-__world reactions Shek.mod,Shek Town Guard (override),Shek Town Guard (override),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533318-__world reactions Shek.mod,Shek Patrol (seto revenge),Shek Patrol (seto revenge),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod; 58591-Dialogue.mod,1; 1,,,false,true,false,false,false,0,0
+1533322-__world reactions Shek.mod,Holy Army Patrol (seto dead),Holy Army Patrol (seto dead),rebirth.mod,1083-gamedata.base,Святая Нация,57392-rebirth.mod; 58591-Dialogue.mod,1; 1,,,true,true,false,false,false,0,0
+1533325-__world reactions Shek.mod,shek HQ (override) Mukai,shek HQ (override) Mukai,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533366-__world reactions Shek.mod,Shek Patrol (Mukai alive),Shek Patrol (Mukai alive),rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,1532623-__world reactions.mod; 1533328-__world reactions Shek.mod,0; 1,,,false,true,false,false,false,0,0
+1533486-__world reactions Slavers.mod,noble slave boss/ market,noble slave boss/ market,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533487-__world reactions Slavers.mod,noble slave farm boss/ ren,noble slave farm boss/ ren,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533490-__world reactions Slavers.mod,noble stone boss/ Haga,noble stone boss/ Haga,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533493-__world reactions Slavers.mod,noble stone boss/ Sly,noble stone boss/ Sly,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533496-__world reactions Slavers.mod,noble slave farm boss/ grace,noble slave farm boss/ grace,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533498-__world reactions Slavers.mod,noble slave boss/ grand,noble slave boss/ grand,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533506-Newwworld.mod,Skeleton MkII Screamer,Крикуны MkII,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+1533508-__world reactions Slavers.mod,Slaver caravan (grande alive),Slaver caravan (grande alive),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533502-__world reactions Slavers.mod,1,,,false,true,false,false,false,0,0
+1533508-rebirth.mod,ash dome 1,ash dome 1,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533509-__world reactions Slavers.mod,Slaver caravan (ren and sly alive),Slaver caravan (ren and sly alive),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533504-__world reactions Slavers.mod; 1533507-__world reactions Slavers.mod,1; 1,,,false,true,false,false,false,0,0
+1533510-__world reactions Slavers.mod,manhunter patrol (kana and haga alive),manhunter patrol (kana and haga alive),rebirth.mod,54587-rebirth.mod,Охотники на людей,1533503-__world reactions Slavers.mod; 59584-Dialogue.mod,1; 1,,,false,true,false,false,false,0,0
+1533510-rebirth.mod,ash dome 2,ash dome 2,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533511-__world reactions Slavers.mod,Slaver caravan (kana and haga alive),Slaver caravan (kana and haga alive),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533503-__world reactions Slavers.mod; 59584-Dialogue.mod,1; 1,,,false,true,false,false,false,0,0
+1533512-rebirth.mod,screamer unit,screamer unit,rebirth.mod,57737-rebirth.mod,Легион скелетов,,,,,false,true,false,false,false,0,0
+1533514-__world reactions Slavers.mod,manhunter patrol (ren and sly alive),manhunter patrol (ren and sly alive),rebirth.mod,54587-rebirth.mod,Охотники на людей,1533504-__world reactions Slavers.mod; 1533507-__world reactions Slavers.mod,1; 1,,,false,true,false,false,false,0,0
+1533514-rebirth.mod,legion thrall unit,legion thrall unit,rebirth.mod,57737-rebirth.mod,Легион скелетов,,,,,false,true,false,false,false,0,0
+1533515-__world reactions Slavers.mod,Slaver caravan (grace alive),Slaver caravan (grace alive),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533506-__world reactions Slavers.mod,1,,,false,true,false,false,false,0,0
+1533516-__world reactions Slavers.mod,Slaver caravan (market master alive),Slaver caravan (market master alive),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533501-__world reactions Slavers.mod,1,,,false,true,false,false,false,0,0
+1533517-__world reactions Slavers.mod,manhunter patrol (S),manhunter patrol (S),rebirth.mod,54587-rebirth.mod,Охотники на людей,1533699-__world reactions Slavers.mod,0,,,false,true,false,false,false,0,0
+1533521-__world reactions Slavers.mod,noble slave boss/ wada,noble slave boss/ wada,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533530-__world reactions Slavers.mod,Barracks UC (malnourished),Barracks UC (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533533-__world reactions Slavers.mod,Storehouse UC (malnourished),Storehouse UC (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533534-__world reactions Slavers.mod,UC big bar (malnourished),UC big bar (malnourished),rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1533535-__world reactions Slavers.mod,Shop trader UC bigger (malnourished),Shop trader UC bigger (malnourished),rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,true,false,true,0,0
+1533536-__world reactions Slavers.mod,Adventure shop (malnourished),Adventure shop (malnourished),rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+1533538-__world reactions Slavers.mod,Shop Weapons UC small (malnourished),Shop Weapons UC small (malnourished),rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,true,false,true,0,0
+1533539-__world reactions Slavers.mod,Shop weapons Crossbow (malnourished),Shop weapons Crossbow (malnourished),rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,true,false,true,0,0
+1533540-__world reactions Slavers.mod,Empire Noble Nagata (malnourished),Empire Noble Nagata (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533541-__world reactions Slavers.mod,Police Station Tower (malnourished),Police Station Tower (malnourished),rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+1533542-__world reactions Slavers.mod,Empire Gate guard (malnourished),Empire Gate guard (malnourished),rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+1533543-__world reactions Slavers.mod,Civilian family (malnourished),Civilian family (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533544-__world reactions Slavers.mod,Thieves Guild (malnourished),Thieves Guild (malnourished),rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,true,0,0
+1533545-__world reactions Slavers.mod,Shop bar Empire (malnourished),Shop bar Empire (malnourished),rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1533546-__world reactions Slavers.mod,shop tools UC (malnourished),shop tools UC (malnourished),rebirth.mod,50358-rebirth.mod,Машинисты,,,,,false,true,true,false,true,0,0
+1533549-__world reactions Slavers.mod,Recruits list Empire (malnourished),Recruits list Empire (malnourished),rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+1533550-__world reactions Slavers.mod,Thief Group (malnourished),Thief Group (malnourished),rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,false,0,0
+1533551-__world reactions Slavers.mod,Mercenary guild (malnourished),Mercenary guild (malnourished),rebirth.mod,1214-gamedata.base,Гильдия наёмников,,,,,false,true,false,false,false,0,0
+1533552-__world reactions Slavers.mod,UC town racists (malnourished),UC town racists (malnourished),rebirth.mod,42264-gamedata.base,Лига Союзных Героев,,,,,false,true,false,false,false,0,0
+1533560-Dialogue.mod,Slaver raid,Slaver raid,Dialogue.mod,1084-gamedata.base,Рабовладельцы,59585-Dialogue.mod,1,,,false,true,false,false,false,0,0
+1533581-__world reactions Slavers.mod,Shop Weapons UC small (free),Shop Weapons UC small (free),rebirth.mod,1229-gamedata.base,Вольные купцы,,,,,false,true,true,false,true,0,0
+1533582-__world reactions Slavers.mod,Shop trader UC bigger (free),Shop trader UC bigger (free),rebirth.mod,1229-gamedata.base,Вольные купцы,,,,,false,true,true,false,true,0,0
+1533585-__world reactions Slavers.mod,Fish shop,Fish shop,rebirth.mod,1229-gamedata.base,Вольные купцы,,,,,false,true,false,false,true,0,0
+1533586-__world reactions Slavers.mod,farm village barracks peasant,farm village barracks peasant,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533588-__world reactions Slavers.mod,tengus palace (malnourished),tengus palace (malnourished),rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,18019-gamedata.base,Жженоземец,false,true,false,false,false,0,0
+1533589-__world reactions Slavers.mod,best armour shop UC (malnourished),best armour shop UC (malnourished),rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,true,false,true,0,0
+1533594-__world reactions Slavers.mod,Empire Noble Inaba (malnourished),Empire Noble Inaba (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533602-__world reactions Slavers.mod,Empire Noble Tsugi (malnourished),Empire Noble Tsugi (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533603-__world reactions Slavers.mod,UC farmer stormhouse (malnourished),UC farmer stormhouse (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533607-__world reactions Slavers.mod,traders guild HQ (malnourished),traders guild HQ (malnourished),rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533608-__world reactions Slavers.mod,traders HQ guards malnourished,traders HQ guards malnourished,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+1533658-rebirth.mod,startoff- exile,startoff- exile,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+1533660-rebirth.mod,startoff- Wanderer UC,startoff- Wanderer UC,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+1533662-__world reactions Slavers.mod,Anti slaver patrol (override) ren/sly dead,Anti slaver patrol (override) ren/sly dead,rebirth.mod,58229-Dialogue.mod,Противники рабства,1533504-__world reactions Slavers.mod; 1533507-__world reactions Slavers.mod; 1533661-__world reactions Slavers.mod,0; 0; 1,,,true,true,false,false,false,0,0
+1533663-__world reactions Slavers.mod,Anti slaver patrol (override) grande dead,Anti slaver patrol (override) grande dead,rebirth.mod,58229-Dialogue.mod,Противники рабства,1533502-__world reactions Slavers.mod; 1533661-__world reactions Slavers.mod,0; 1,,,true,true,false,false,false,0,0
+1533663-rebirth.mod,ash dome 3,ash dome 3,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533664-__world reactions Slavers.mod,Anti slaver patrol (override) kana dead,Anti slaver patrol (override) kana dead,rebirth.mod,58229-Dialogue.mod,Противники рабства,1533661-__world reactions Slavers.mod; 59584-Dialogue.mod,1; 0,,,true,true,false,false,false,0,0
+1533665-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished S),Empire guard bandits (diaspora) (malnourished S),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1533504-__world reactions Slavers.mod; 1533507-__world reactions Slavers.mod; 59583-Dialogue.mod,0; 0; 1,,,true,true,false,false,false,0,0
+1533666-__world reactions Slavers.mod,Empire guard bandits (diaspora) (malnourished N),Empire guard bandits (diaspora) (malnourished N),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1533503-__world reactions Slavers.mod; 1533507-__world reactions Slavers.mod; 59583-Dialogue.mod,0; 0; 1,,,true,true,false,false,false,0,0
+1533667-rebirth.mod,ash dome 4,ash dome 4,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533695-__world reactions Slavers.mod,Police Station Tower (free),Police Station Tower (free),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533700-__world reactions Slavers.mod,slave hunters (S),slave hunters (S),rebirth.mod,55101-rebirth.mod,Охотники на рабов,1533699-__world reactions Slavers.mod,0,,,false,true,false,false,false,0,0
+1533701-__world reactions Slavers.mod,Empire army (Slave masters alive),Empire army (Slave masters alive),rebirth.mod,defaultEmpireFactionSID,Союзные Города,1533739-__world reactios swamp.mod,0,,,true,true,false,false,false,0,0
+1533703-__world reactions Slavers.mod,Empire Noble Merin,Empire Noble Merin,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533708-__world reactions Slavers.mod,Empire Noble Shiro,Empire Noble Shiro,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533712-__world reactios swamp.mod,grayflayer hq,grayflayer hq,rebirth.mod,48791-Dialogue.mod,Серодёры,,,,,false,true,false,false,false,0,0
+1533714-__world reactios swamp.mod,blackshifter hq,blackshifter hq,rebirth.mod,48743-Dialogue.mod,Черновёртыши,,,,,false,true,false,false,false,0,0
+1533715-__world reactios swamp.mod,Blackshifter town patrol,Blackshifter town patrol,rebirth.mod,48743-Dialogue.mod,Черновёртыши,,,,,false,true,false,false,false,0,0
+1533724-__world reactios swamp.mod,spider ruins,spider ruins,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533725-__world reactios swamp.mod,spider house,spider house,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533727-__world reactios swamp.mod,swamp smithy (override),swamp smithy (override),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+1533728-__world reactios swamp.mod,swamp trade goods (override),swamp trade goods (override),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+1533729-__world reactios swamp.mod,swamp travel shop (override),swamp travel shop (override),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+1533730-__world reactios swamp.mod,swamp ninja village,swamp ninja village,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533731-__world reactios swamp.mod,swamp ninja gate guards,swamp ninja gate guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+1533733-__world reactios swamp.mod,Band of bones hideout,Band of bones hideout,rebirth.mod,56595-Dialogue.mod,Груда костей,1532245-__May 18.mod,1,,,false,true,false,false,false,0,0
+1533734-__world reactios swamp.mod,Band of bones residential,Band of bones residential,rebirth.mod,56595-Dialogue.mod,Груда костей,,,,,false,true,false,false,false,0,0
+1533735-__world reactios swamp.mod,band of bones gate guards,band of bones gate guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533736-__world reactios swamp.mod,empire rebel farmers (civil war),empire rebel farmers (civil war),rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,,,,,false,true,false,false,false,0,0
+1533738-__world reactios swamp.mod,peasant vagrants (civil war),peasant vagrants (civil war),rebirth.mod,54297-rebirth.mod,Мятежные фермеры,,,,,false,true,false,false,false,0,0
+1533740-__world reactios swamp.mod,empire rebel farmers (south),empire rebel farmers (south),rebirth.mod,54297-rebirth.mod,Мятежные фермеры,1533705-__world reactions Slavers.mod,1,,,false,true,false,false,false,0,0
+1533741-__world reactios swamp.mod,empire rebel farmers heavy (merin dead),empire rebel farmers heavy (merin dead),rebirth.mod,1532900-__world reactions NE.mod,Мятежные мечники,1533705-__world reactions Slavers.mod,0,,,false,true,false,false,false,0,0
+1533764-__world reactios swamp.mod,Police Barrack (free) copy,Police Barrack (free) copy,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533775-__world reactios swamp.mod,Mercenary guard 5 copy,Mercenary guard 5 copy,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533776-__world reactios swamp.mod,Adventure shop (swamp store),Adventure shop (swamp store),rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+1533777-__world reactios swamp.mod,Merc smithy (swamp house),Merc smithy (swamp house),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+1533838-rebirth.mod,Mongrel undertakers,Mongrel undertakers,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533842-rebirth.mod,cat lon,cat lon,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533850-rebirth.mod,Shop armor tech hunter,Shop armor tech hunter,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1533857-__SE world states.mod,south hive patrol (elder dead),south hive patrol (elder dead),rebirth.mod,56777-Dialogue.mod,Южный улей,62377-rebirth.mod; 62810-rebirth.mod,1; 0,,,false,true,false,false,false,0,0
+1533858-__SE world states.mod,skin bandit patrol (elder dead),skin bandit patrol (elder dead),rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,62810-rebirth.mod; 63880-Dialogue.mod,0; 1,,,false,true,false,false,false,0,0
+1533861-__SE world states.mod,iron hq -south hive,iron hq -south hive,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+1533862-__SE world states.mod,south hive guards (residential),south hive guards (residential),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533864-__SE world states.mod,skinhouse -south hive,skinhouse -south hive,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+1533867-__SE world states.mod,south hive patrol (savant dead),south hive patrol (savant dead),rebirth.mod,56777-Dialogue.mod,Южный улей,62377-rebirth.mod; 63880-Dialogue.mod,1; 0,,,false,true,false,false,false,0,0
+1533870-__SE world states.mod,south hive gate guards,south hive gate guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533871-__SE world states.mod,swamp dome -south hive copy,swamp dome -south hive copy,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+1533940-__SE world states.mod,Reaver residents (camp) residential,Reaver residents (camp) residential,rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1533940-rebirth.mod,ash dome mob,ash dome mob,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1533941-__SE world states.mod,Reaver residents (camp) Prison,Reaver residents (camp) Prison,rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1533942-__SE world states.mod,Reaver residents (camp) hideout,Reaver residents (camp) hideout,rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1533965-__SE world states.mod,Slaver caravan (tinfist dead),Slaver caravan (tinfist dead),rebirth.mod,1084-gamedata.base,Рабовладельцы,1533661-__world reactions Slavers.mod; 59585-Dialogue.mod,0; 1,,,false,true,false,false,false,0,0
+1534008-__SE world states.mod,Gurgler town squad Crab Town,Gurgler town squad Crab Town,rebirth.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+1534009-__SE world states.mod,reaver HQ (override) crab takeover,reaver HQ (override) crab takeover,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+1534012-__SE world states.mod,Reaver residents (Ark),Reaver residents (Ark),rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+1534014-__SE world states.mod,Ark squatters,Ark squatters,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+1534015-Dialogue.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+1534016-Dialogue.mod,Shop bar black desert,Shop bar black desert,Dialogue.mod,,,,,,,false,true,true,false,true,0,0
+1534046-rebirth.mod,Robot spiders static ashland,Robot spiders static ashland,rebirth.mod,42085-rebirth.mod,Старые машины,1534047-rebirth.mod,1,,,false,false,false,false,false,0,0
+1534048-rebirth.mod,skeleton legion force (post),skeleton legion force (post),rebirth.mod,57737-rebirth.mod,Легион скелетов,1534047-rebirth.mod,0,,,false,true,false,false,false,0,0
+1534050-rebirth.mod,start- nobodies copy,start- nobodies copy,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+1534416-Dialogue.mod,Green Finger,Зелёный палец,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+1534417-__Fixes.mod,Empire Noble Ohta (malnourished),Empire Noble Ohta (malnourished),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1534417-rebirth.mod,startoff- Wanderer squad holy,startoff- Wanderer squad holy,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+1534419-rebirth.mod,holy Shop trade adv,holy Shop trade adv,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1534422-rebirth.mod,Tech Hunter HQ,Tech Hunter HQ,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+1534432-__Fixes.mod,krals chosen (HN destroyed),krals chosen (HN destroyed),rebirth.mod,51357-rebirth.mod,Избранный Крала,1531897-rebirth.mod; 57392-rebirth.mod; 59881-Dialogue.mod; 59882-Dialogue.mod,1; 0; 0; 0,,,false,true,false,false,false,0,0
+1535033-rebirth.mod,undertakers,undertakers,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1535037-rebirth.mod,startoff- slave uc,startoff- slave uc,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+1535060-rebirth.mod,hive factory,hive factory,rebirth.mod,18000-gamedata.base,Западный Улей,,,,,false,true,false,false,false,0,0
+1535072-__November6.mod,anti-slaver town patrol,anti-slaver town patrol,rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,false,true,false,true,false,0,0
+1535073-rebirth.mod,Flotsam Bakery,Flotsam Bakery,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1535096-rebirth.mod,holy materials storage,holy materials storage,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+16239-Dialogue.mod,Outlaw Resident Family,Outlaw Resident Family,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+16299-Dialogue.mod,Outlaw resident solo,Outlaw resident solo,Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+16369-Dialogue.mod,Shek Scout squad,Shek Scout squad,Dialogue.mod; rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+1668-gamedata.base,Black Dragon Diplomat,Black Dragon Diplomat,gamedata.base; Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+16842-Dialogue.mod,Fark Guard Gate,Fark Guard Gate,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+16843-Recruits Dialogue.mod,test,test,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+16844-gamedata.base,Bandit Raiders,Bandit Raiders,gamedata.base; rebirth.mod,200-gamedata.base,Пыльные бандиты,,,,,true,true,false,false,false,0,0
+16856-gamedata.base,Cannibal Hunter Squad nest,Cannibal Hunter Squad nest,gamedata.base; rebirth.mod,16855-gamedata.base,Охотники на людоедов,,,,,false,true,false,false,false,0,0
+16864-gamedata.base,SQUAD_TEMPLATE,SQUAD_TEMPLATE,gamedata.base,,,,,,,false,true,false,false,false,0,0
+16865-gamedata.base,Blood bandits nest,Blood bandits nest,gamedata.base; rebirth.mod,16860-gamedata.base,Кровавые налётчики,,,,,true,true,false,false,false,0,0
+1691-gamedata.base,Black Dragon Assault,Black Dragon Assault,gamedata.base; rebirth.mod,,,,,,,true,true,false,false,false,0,0
+1692-gamedata.base,Raiders Assault,Raiders Assault,gamedata.base,,,,,,,false,true,false,false,false,0,0
+17087-Dialogue.mod,Holy Priest church,Holy Priest church,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+17223-Dialogue.mod,Holy Lord Phoenix,Святой Лорд Феникс,Dialogue.mod; rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+17233-Dialogue.mod,Picky,Привереда,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+1790-gamedata.base,Flophouse,Flophouse,gamedata.base; Newwworld.mod; Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+18005-rebirth.mod,swamp turtle squad,swamp turtle squad,rebirth.mod,3943-gamedata.base,Живность,,,,,false,false,true,false,false,0,0
+18009-rebirth.mod,Black Dragon Squad,Black Dragon Squad,rebirth.mod,18007-rebirth.mod,Ниндзя Чёрного Дракона,96655-Dialogue.mod,1,,,true,true,false,false,false,0,0
+18013-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+18014-rebirth.mod,White eyebrow squad,White eyebrow squad,rebirth.mod,18011-rebirth.mod,Клан Белой Брови,,,,,true,true,false,false,false,0,0
+1824-gamedata.base,shop travel/boots,shop travel/boots,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+1825-gamedata.base,Shop trade adv 27,Shop trade adv 27,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+18403-Dialogue.mod,Bounty Hunter Solo Shek,Bounty Hunter Solo Shek,Dialogue.mod,14508-gamedata.base,Охотники за наградой,,,,,false,true,false,false,false,0,0
+18475-Dialogue.mod,Bounty hunters low,Bounty hunters low,Dialogue.mod,14508-gamedata.base,Охотники за наградой,,,,,false,true,false,false,false,0,0
+18875-rebirth.mod,Bulls Herd,Bulls Herd,rebirth.mod,40544-rebirth.mod,Травоядные,,,,,false,true,false,false,false,0,0
+18877-rebirth.mod,Inquisitor homestation patrol,Inquisitor homestation patrol,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+18881-rebirth.mod,Holy Gate Guards,Holy Gate Guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+18883-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+18884-rebirth.mod,holy slave conscripts,holy slave conscripts,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+18886-rebirth.mod,Inquisitor homestation stay,Inquisitor homestation stay,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+18892-rebirth.mod,Lone Wolf,Lone Wolf,rebirth.mod,56128-rebirth.mod,Волки,,,,,false,false,false,false,false,0,0
+18894-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+18919-gamedata.base,slave hunters------,slave hunters------,gamedata.base; rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,true,true,false,false,false,0,0
+19502-Dialogue.mod,Recruits list Shek Kingdom,Recruits list Shek Kingdom,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+19641-Dialogue.mod,Recruits list Holy Nation,Recruits list Holy Nation,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+1974-gamedata.base,Generators,Generators,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+20031-Dialogue.mod,Recruits list Dead Cat,Recruits list Dead Cat,Dialogue.mod,,,,,,,false,true,false,false,false,1,1
+2206-gamedata.base,Drifter solo,Drifter solo,gamedata.base; Dialogue.mod; rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+2238-gamedata.base,Shop weapons Holy,Shop weapons Holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2239-gamedata.base,Shop weapons Ronin,Shop weapons Ronin,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2240-gamedata.base,shop tools UC,shop tools UC,gamedata.base; Newwworld.mod; rebirth.mod,50358-rebirth.mod,Машинисты,,,,,false,true,true,false,true,0,0
+2241-gamedata.base,shop tools holy,shop tools holy,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,true,0,0
+2242-gamedata.base,shop tools ronin ,shop tools ronin ,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2245-gamedata.base,Shop armor ronin/shek,Shop armor ronin/shek,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2246-gamedata.base,Shop armor holy old,Shop armor holy old,gamedata.base; Newwworld.mod; Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2252-gamedata.base,shop hats UC,shop hats UC,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2253-gamedata.base,shop hats holy,shop hats holy,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2254-gamedata.base,shop hats ronin,shop hats ronin,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+2302-gamedata.base,test spawn,test spawn,gamedata.base,,,,,,,false,true,false,false,false,0,0
+2364-gamedata.base,UC taxman,UC taxman,gamedata.base,,,,,,,false,true,false,false,false,0,0
+2409-gamedata.base,UC tax enforcement 1,UC tax enforcement 1,gamedata.base,,,,,,,false,true,false,false,false,0,0
+2486-gamedata.base,Dust bandit raiders 01,Dust bandit raiders 01,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+2511-gamedata.base,Dust bandit 1st contact,Dust bandit 1st contact,gamedata.base; Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+2578-gamedata.base,Starving bandit assault,Starving bandit assault,gamedata.base; Dialogue.mod; rebirth.mod,1305-gamedata.base,Голодные бандиты,,,,,false,true,false,false,false,0,0
+2605-gamedata.base,Cannibal raid 1,Cannibal raid 1,gamedata.base; rebirth.mod,518-gamedata.base,Людоеды,,,,,false,true,false,false,false,0,0
+2609-gamedata.base,Cannibal home guards,Cannibal home guards,gamedata.base; rebirth.mod,518-gamedata.base,Людоеды,,,,,false,true,false,false,false,0,0
+2671-gamedata.base,Mercenary patrol,Mercenary patrol,gamedata.base; Dialogue.mod,,,,,,,true,true,false,false,false,0,0
+2726-gamedata.base,1TestSwawn,1TestSwawn,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+2827-gamedata.base,Mercenary patrol-U,Mercenary patrol-U,gamedata.base,,,,,,,false,true,false,false,false,0,0
+2852-gamedata.base,Starving bandit giant mob,Starving bandit giant mob,gamedata.base; rebirth.mod,1305-gamedata.base,Голодные бандиты,,,,,false,true,false,false,false,0,0
+2854-gamedata.base,farmer chief,farmer chief,gamedata.base; rebirth.mod,,,,,,,false,true,true,false,false,0,0
+3330-gamedata.base,Lost Wanderer,Lost Wanderer,gamedata.base; rebirth.mod,nofac,Нет фракции,,,,,false,true,true,false,false,0,0
+3372-gamedata.base,Asshole squad,Asshole squad,gamedata.base,nofac,Нет фракции,,,,,false,true,false,false,false,0,0
+3387-gamedata.base,Slaver caravan,Slaver caravan,gamedata.base; rebirth.mod,1084-gamedata.base,Рабовладельцы,59585-Dialogue.mod,1,,,false,true,false,false,false,0,0
+3393-gamedata.base,Work Camp Security Guard,Work Camp Security Guard,gamedata.base,,,,,,,false,true,false,false,false,0,0
+3950-gamedata.base,Drifter squad,Drifter squad,gamedata.base; rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+4005-gamedata.base,Bulls,Bulls,gamedata.base; rebirth.mod,40544-rebirth.mod,Травоядные,,,,,false,true,false,false,false,0,0
+4006-gamedata.base,Goat Herder,Goat Herder,gamedata.base; rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,false,0,0
+4009-gamedata.base,Wolf Pack nocturnal,Wolf Pack nocturnal,gamedata.base; rebirth.mod,56128-rebirth.mod,Волки,,,,,false,false,false,false,false,0,0
+4010-gamedata.base,Leviathan Loner,Leviathan Loner,gamedata.base; rebirth.mod,3943-gamedata.base,Живность,,,,,false,true,false,false,false,0,0
+4012-gamedata.base,Beak Squad Small,Beak Squad Small,gamedata.base; rebirth.mod,51812-rebirth.mod,Живоглоты,,,,,false,true,false,false,false,0,0
+4013-gamedata.base,Whale squad,Whale squad,gamedata.base,,,,,,,false,true,false,false,false,0,0
+4014-gamedata.base,Turtle Squad,Turtle Squad,gamedata.base,,,,,,,false,true,false,false,false,0,0
+4021-gamedata.base,Wolf Pack Den,Wolf Pack Den,gamedata.base; rebirth.mod,56128-rebirth.mod,Волки,,,,,false,true,false,false,false,0,0
+4033-gamedata.base,Beak Squad -Nest,Beak Squad -Nest,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+40543-rebirth.mod,holy materials storage (small shack),holy materials storage (small shack),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+40546-rebirth.mod,holy Armoury,holy Armoury,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+40547-rebirth.mod,holy armour shop,holy armour shop,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+40548-rebirth.mod,holy weapons shop,holy weapons shop,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+40549-rebirth.mod,holy hospital,holy hospital,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+40550-rebirth.mod,holy General storage,holy General storage,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+40552-rebirth.mod,Holy Servant Keeper,Holy Servant Keeper,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+40553-rebirth.mod,holy Bakery,holy Bakery,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+40554-rebirth.mod,Holy Farm Cage Guards,Holy Farm Cage Guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+40555-rebirth.mod,Holy Mines Boss,Holy Mines Boss,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+40559-rebirth.mod,Civilian solo holy -small,Civilian solo holy -small,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+40560-rebirth.mod,Bar indie,Bar indie,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+41588-rebirth.mod,Fog hive roaming squad,Fog hive roaming squad,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,true,false,false,false,0,0
+42019-rebirth.mod,Escaped holy servants,Escaped holy servants,rebirth.mod,42022-rebirth.mod,Изгои Святой Нации,,,,,true,true,false,false,false,0,0
+42029-rebirth.mod,Fog prince squad,Fog prince squad,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,false,false,false,false,0,0
+42040-rebirth.mod,Fog hive nest,Fog hive nest,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,true,false,false,false,0,0
+42053-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+42055-rebirth.mod,Shinobi Gate Guards,Shinobi Gate Guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+42056-rebirth.mod,Shinobi Gate Guards c,Shinobi Gate Guards c,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+42057-rebirth.mod,Shinobi Guards,Shinobi Guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+42058-rebirth.mod,Civilian mongrel,Civilian mongrel,rebirth.mod,,,,,,,false,true,true,false,false,3,6
+42064-rebirth.mod,Drifter solo skeleton,Drifter solo skeleton,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+42065-rebirth.mod,Ninja Gang,Ninja Gang,rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,true,4,8
+42067-rebirth.mod,Civilian mongrel solo,Civilian mongrel solo,rebirth.mod,,,,,,,false,true,true,false,false,1,2
+42068-rebirth.mod,Mongrel HQ,Mongrel HQ,rebirth.mod,18891-rebirth.mod,Безродный,,,,,false,true,false,false,false,0,0
+42075-rebirth.mod,Crumblejon,Крошка Джон,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+42086-rebirth.mod,Robot spiders,Robot spiders,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+42087-rebirth.mod,Skeleton Searcher,Skeleton Searcher,rebirth.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+42089-rebirth.mod,Skeleton Killer,Skeleton Killer,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,true,false,false,false,0,0
+42095-rebirth.mod,Fog hive lost man,Fog hive lost man,rebirth.mod,18893-rebirth.mod,Туманники,,,,,false,true,false,false,false,0,0
+42155-rebirth.mod,Robot spiders light,Robot spiders light,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+42156-rebirth.mod,Robot spider group,Robot spider group,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+42193-rebirth.mod,hive workers,hive workers,rebirth.mod,18000-gamedata.base,Западный Улей,,,,,false,true,false,false,false,0,0
+42195-rebirth.mod,hive soldiers,hive soldiers,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+42199-rebirth.mod,hive trader,hive trader,rebirth.mod,,,1531881-rebirth.mod,1,,,false,true,false,false,true,0,0
+42202-rebirth.mod,wild pack beast family,wild pack beast family,rebirth.mod,40544-rebirth.mod,Травоядные,,,,,false,true,false,false,false,0,0
+42221-Dialogue.mod,Recruits list Holy Nation 2,Recruits list Holy Nation 2,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,0
+42222-Dialogue.mod,Recruits list Holy Nation 3,Recruits list Holy Nation 3,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,0
+42223-Dialogue.mod,Recruits list Holy Nation 4,Recruits list Holy Nation 4,Dialogue.mod; rebirth.mod,1233-gamedata.base; 51707-rebirth.mod,Техохотники; Скитальцы,,,,,false,true,false,false,false,1,0
+42224-Dialogue.mod,Recruits list Holy Nation 5,Recruits list Holy Nation 5,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,0
+42236-rebirth.mod,shrieking squad,shrieking squad,rebirth.mod,42235-rebirth.mod,Верещащие бандиты,,,,,false,true,false,false,false,0,0
+42258-rebirth.mod,Berserker squad,Berserker squad,rebirth.mod,42257-rebirth.mod,Берсерки,1532243-__May 18.mod,1,,,false,true,false,false,false,0,0
+42263-rebirth.mod,wild goats,wild goats,rebirth.mod,40544-rebirth.mod,Травоядные,,,,,false,false,false,false,false,0,0
+42265-gamedata.base,UC town racists,UC town racists,gamedata.base; rebirth.mod,42264-gamedata.base,Лига Союзных Героев,,,,,false,true,false,false,false,0,0
+42336-rebirth.mod,Nomads,Кочевники,rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,false,0,0
+43327-rebirth.mod,river ducks small mob,river ducks small mob,rebirth.mod,58701-rebirth.mod,Ящеры,,,,,false,true,false,false,false,0,0
+43350-Dialogue.mod,Civilian solo holy,Civilian solo holy,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,false,0,0
+43352-Dialogue.mod,Holy Civilian family,Holy Civilian family,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43353-Dialogue.mod,shop travel/boots holy,shop travel/boots holy,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+43355-Dialogue.mod,Shop bar holy,Shop bar holy,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+43388-rebirth.mod,Mercenary wanderers,Mercenary wanderers,rebirth.mod,1214-gamedata.base,Гильдия наёмников,,,,,false,true,false,false,false,0,0
+43392-rebirth.mod,Holy Workmasters,Holy Workmasters,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43393-rebirth.mod,holy slaves,holy slaves,rebirth.mod,57740-rebirth.mod,Рабы,,,,,false,true,false,false,false,0,0
+43400-Dialogue.mod,Shop clothes holy,Shop clothes holy,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+43483-Dialogue.mod,Holy nation robot,Holy nation robot,Dialogue.mod; rebirth.mod,42088-rebirth.mod,Скелеты,,,,,true,true,false,false,false,0,0
+43569-Dialogue.mod,Test player,Test player,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+43878-rebirth.mod,spider squad,spider squad,rebirth.mod,51331-rebirth.mod,Пауки,,,,,false,true,false,false,false,0,0
+43891-rebirth.mod,cage,cage,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43902-rebirth.mod,gorillos,gorillos,rebirth.mod,51813-rebirth.mod,Гориллы,,,,,false,true,false,false,false,0,0
+43928-rebirth.mod,farm village barracks,farm village barracks,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43930-rebirth.mod,farm village residential,farm village residential,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43931-rebirth.mod,farm village residential leader,farm village residential leader,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+43935-rebirth.mod,holy farm bulls,holy farm bulls,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43950-rebirth.mod,holy farm dogs,holy farm dogs,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+43970-rebirth.mod,Caravan NW,Caravan NW,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+43974-rebirth.mod,1test animals,1test animals,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+43975-rebirth.mod,mongrel recruits,mongrel recruits,rebirth.mod,,,,,,,false,true,false,false,false,1,0
+43986-rebirth.mod,bar plastic surgeon,bar plastic surgeon,rebirth.mod,51707-rebirth.mod,Скитальцы,,,18019-gamedata.base,Жженоземец,false,true,false,false,false,0,0
+44338-Dialogue.mod,bounty test,bounty test,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+44421-rebirth.mod,_ruined empty building (DEFAULT),_ruined empty building (DEFAULT),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44422-rebirth.mod,Bar blackmarket,Bar blackmarket,rebirth.mod,40551-rebirth.mod,Ниндзя торговцы,,,,,false,true,true,false,true,0,0
+44426-rebirth.mod,hub squatters,hub squatters,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+44855-rebirth.mod,Adventurer Mechanical Shop,Adventurer Mechanical Shop,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+44856-rebirth.mod,Adventurer Waystation Bar,Adventurer Waystation Bar,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+44859-rebirth.mod,Drifter squad bar,Drifter squad bar,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+44863-rebirth.mod,ninja guards,ninja guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44864-rebirth.mod,shady bar recruits list travellers,shady bar recruits list travellers,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,0
+44866-rebirth.mod,dust bandit HQ,dust bandit HQ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44869-rebirth.mod,Dust Tower Guards,Dust Tower Guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44886-rebirth.mod,ruined holy outpost basic loot,ruined holy outpost basic loot,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44899-rebirth.mod,Fog hive ruins,Fog hive ruins,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,true,false,false,false,0,0
+44900-rebirth.mod,Fog prince ruins,Fog prince ruins,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,false,false,false,false,0,0
+44901-rebirth.mod,ruin warehouse mines,ruin warehouse mines,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+44912-rebirth.mod,swamp ducks small mob,swamp ducks small mob,rebirth.mod,51811-rebirth.mod,Болотные твари,,,,,false,true,false,false,false,0,0
+44914-rebirth.mod,ninja tower squad,ninja tower squad,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+45494-Dialogue.mod,Dust King Prisoner,Dust King Prisoner,Dialogue.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+45550-gamedata.base,startoff- Wanderer squad,startoff- Wanderer squad,gamedata.base; rebirth.mod,,,,,,,false,true,true,false,false,0,0
+45552-Newwworld.mod,!Experienced Man!,!Experienced Man!,Newwworld.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+45676-Dialogue.mod,Recruits list outlaw town generic,Recruits list outlaw town generic,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,1
+46038-rebirth.mod,start- freedom seekers,start- freedom seekers,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+46039-rebirth.mod,start- rock bottom,start- rock bottom,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+46046-rebirth.mod,Starving bandit mob aggressive,Starving bandit mob aggressive,rebirth.mod,1305-gamedata.base,Голодные бандиты,,,,,false,true,false,false,false,0,0
+46960-Dialogue.mod,Trang starving,Trang starving,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+46963-Dialogue.mod,Trang strong,Trang strong,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+46964-Dialogue.mod,Trang normal,Trang normal,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+46966-Dialogue.mod,Trang super,Trang super,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+46976-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,204-gamedata.base,Безымянные,,,,,false,true,false,false,false,0,0
+46978-rebirth.mod,_aces,_aces,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+46994-rebirth.mod,Mercenary guild human,Mercenary guild human,rebirth.mod,1214-gamedata.base,Гильдия наёмников,,,17-gamedata.quack; 18019-gamedata.base,Зеленоземец; Жженоземец,false,true,false,false,false,0,0
+47188-Dialogue.mod,Hiver Merchant caravan,Hiver Merchant caravan,Dialogue.mod; rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,1,,,false,true,false,false,true,0,0
+47235-Dialogue.mod,Hiver Merchant caravan --Not in use--,Hiver Merchant caravan --Not in use--,Dialogue.mod; rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,true,0,0
+47367-Dialogue.mod,Mongrel pair,Mongrel pair,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,false,0,0
+47749-rebirth.mod,mongrel fog warning,mongrel fog warning,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+47925-rebirth.mod,start- guy with dog,start- guy with dog,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+47928-rebirth.mod,start- wandering trader,start- wandering trader,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+47956-rebirth.mod,Robot spiders static,Robot spiders static,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+48471-rebirth.mod,Ancient Lab n.2 AI cores,Ancient Lab n.2 AI cores,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+48670-Dialogue.mod,Swamper Hounds-----,Swamper Hounds-----,Dialogue.mod; rebirth.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+48698-rebirth.mod,floodland ruin tower,floodland ruin tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+48701-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+48705-rebirth.mod,floodland destroyed tower,floodland destroyed tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+48709-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+48712-Dialogue.mod,Swamper Grayflayer,Swamper Grayflayer,Dialogue.mod; rebirth.mod,48791-Dialogue.mod,Серодёры,,,,,false,true,false,false,false,0,0
+48713-Dialogue.mod,Swamper Stone Rat,Swamper Stone Rat,Dialogue.mod; rebirth.mod,48753-Dialogue.mod,Каменные крысы,,,,,false,true,false,false,false,0,0
+48714-Dialogue.mod,Swamper Blackshifter,Swamper Blackshifter,Dialogue.mod; rebirth.mod,48743-Dialogue.mod,Черновёртыши,,,,,false,true,false,false,false,0,0
+48717-Dialogue.mod,Swamper Twinblade,Swamper Twinblade,Dialogue.mod; rebirth.mod,48760-Dialogue.mod,Два клинка,,,,,false,true,false,false,false,0,0
+48782-rebirth.mod,Leviathan Family,Leviathan Family,rebirth.mod,3943-gamedata.base,Живность,,,,,false,true,false,false,false,0,0
+49312-Dialogue.mod,Swamper resident solo,Swamper resident solo,Dialogue.mod; rebirth.mod,41162-Dialogue.mod,Болотники,,,,,false,true,true,false,false,0,0
+49314-Dialogue.mod,Swamper resident solo skeleton,Swamper resident solo skeleton,Dialogue.mod,41162-Dialogue.mod,Болотники,,,,,false,true,true,false,false,0,0
+49357-rebirth.mod,lost library ruined,lost library ruined,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49364-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49370-rebirth.mod,Cannibal lab,Cannibal lab,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49373-rebirth.mod,workshop empty,workshop empty,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49376-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49378-rebirth.mod,Flotsam safehouse,Flotsam safehouse,rebirth.mod,49377-rebirth.mod,Ниндзя отщепенцы,,,,,false,true,false,false,false,0,0
+49390-rebirth.mod,Holy Slave Processing,Holy Slave Processing,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49391-rebirth.mod,Rebirth Cage Guards,Rebirth Cage Guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49393-rebirth.mod,rebirth slaves,rebirth slaves,rebirth.mod,49392-rebirth.mod,Рабы Возрождения,,,,,false,true,false,false,false,0,0
+49395-rebirth.mod,rebirth garrison,rebirth garrison,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49396-rebirth.mod,rebirth workmaster,rebirth workmaster,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49398-rebirth.mod,Rebirth Gate Guards,Rebirth Gate Guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+49573-arg.mod,Flotsam Guards,Flotsam Guards,rebirth.mod,49377-rebirth.mod,Ниндзя отщепенцы,,,,,false,true,false,false,false,0,0
+49576-arg.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49577-arg.mod,flotsam refuge,flotsam refuge,rebirth.mod,,,,,,,false,true,false,false,false,1,4
+49579-arg.mod,Holy Prisoner Caravan,Holy Prisoner Caravan,rebirth.mod,1083-gamedata.base,Святая Нация,57392-rebirth.mod,1,,,true,true,false,false,false,0,0
+49767-rebirth.mod,Flotsam borderguard,Flotsam borderguard,rebirth.mod,49377-rebirth.mod,Ниндзя отщепенцы,,,,,false,true,false,false,false,0,0
+49779-Dialogue.mod,Swamper bar thug,Swamper bar thug,Dialogue.mod; rebirth.mod,1534558-rebirth.mod,Гопники,,,,,false,true,false,false,false,0,0
+49932-rebirth.mod,lost library intact,lost library intact,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49937-rebirth.mod,lost armoury,lost armoury,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+49939-rebirth.mod,lost armoury ruin,lost armoury ruin,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+5006-squad.mod,Wandering Squad,Wandering Squad,gamedata.base; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50244-rebirth.mod,ghost town resident,ghost town resident,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50245-rebirth.mod,ghost bar,ghost bar,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50247-rebirth.mod,wild pack beast herd,wild pack beast herd,rebirth.mod,40544-rebirth.mod,Травоядные,,,,,false,true,false,false,false,0,0
+50249-rebirth.mod,armour king,armour king,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50320-rebirth.mod,library canyon spiders,library canyon spiders,rebirth.mod,51331-rebirth.mod,Пауки,,,,,false,true,false,false,false,0,0
+50325-rebirth.mod,ruin- tech loot ,ruin- tech loot ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50339-rebirth.mod,deadcat fish shop,deadcat fish shop,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50345-rebirth.mod,Deadcat big bar,Deadcat big bar,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50347-rebirth.mod,deadcat civilian,deadcat civilian,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50348-rebirth.mod,flotsam military armoury,flotsam military armoury,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50349-rebirth.mod,flotsam hq,flotsam hq,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50353-rebirth.mod,flotsam patrol,flotsam patrol,rebirth.mod,49377-rebirth.mod,Ниндзя отщепенцы,,,,,true,true,false,false,false,0,0
+50355-rebirth.mod,small generator shack,small generator shack,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50356-rebirth.mod,battery station,battery station,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50357-rebirth.mod,Adventure shop adv w/repair,Adventure shop adv w/repair,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+50385-rebirth.mod,University big,University big,rebirth.mod,50358-rebirth.mod,Машинисты,,,,,false,true,false,false,false,0,0
+50395-rebirth.mod,adventurer gate guards,adventurer gate guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+50396-rebirth.mod,Flotsam Gate Guard,Flotsam Gate Guard,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+50508-rebirth.mod,hydroponic,hydroponic,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50510-rebirth.mod,Cannibal Hunter Bar Squad,Cannibal Hunter Bar Squad,rebirth.mod,16855-gamedata.base,Охотники на людоедов,,,,,false,true,false,false,false,0,0
+50520-rebirth.mod,Cannibal scrawny,Cannibal scrawny,rebirth.mod,518-gamedata.base,Людоеды,,,,,false,true,false,false,false,0,0
+50521-rebirth.mod,Cannibal grand wizard,Cannibal grand wizard,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50526-rebirth.mod,cannibal stormhouse ruin,cannibal stormhouse ruin,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50527-rebirth.mod,broken gates,broken gates,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50563-Dialogue.mod,Recruits list worlds end,Recruits list worlds end,Dialogue.mod; rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,1,1
+50569-rebirth.mod,teds tower,teds tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+50624-rebirth.mod,spider squad mini swamp,spider squad mini swamp,rebirth.mod,51811-rebirth.mod,Болотные твари,,,,,false,false,false,false,false,0,0
+50637-rebirth.mod,the dancing skeleton,the dancing skeleton,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50639-rebirth.mod,blsh casino guy,blsh casino guy,rebirth.mod,48743-Dialogue.mod,Черновёртыши,,,,,false,true,false,false,false,0,0
+50640-rebirth.mod,hound hq,hound hq,rebirth.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+50884-Dialogue.mod,Worlds end bar patrons,Worlds end bar patrons,Dialogue.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+50930-rebirth.mod,hounds town patrol,hounds town patrol,rebirth.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+50963-rebirth.mod,dancing skeleton patrons,dancing skeleton patrons,rebirth.mod,96156-rebirth.mod,Бродяги,,,,,false,true,false,false,false,0,0
+50968-rebirth.mod,swamp trade goods,swamp trade goods,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50972-rebirth.mod,swamp travel shop,swamp travel shop,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50973-rebirth.mod,swamp smithy,swamp smithy,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50976-rebirth.mod,swamp shop mechanical,swamp shop mechanical,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50978-rebirth.mod,deadcat mini travel shop,deadcat mini travel shop,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+50985-rebirth.mod,megaraptor nest,megaraptor nest,rebirth.mod,51811-rebirth.mod,Болотные твари,,,,,false,true,false,false,false,0,0
+50990-rebirth.mod,Farm Storage,Farm Storage,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51011-Newwworld.mod,Crow Face,Вороноликий,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+51289-rebirth.mod,Shek Gate Guards,Shek Gate Guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+51310-rebirth.mod,storage shek,storage shek,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51311-rebirth.mod,shop heavy weapons,shop heavy weapons,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+51314-rebirth.mod,shek HQ,shek HQ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51317-rebirth.mod,shek resident,shek resident,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51320-rebirth.mod,Shek fortress,Shek fortress,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51321-rebirth.mod,Shek Patrol,Shek Patrol,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+51325-rebirth.mod,spider squad small 1-3,spider squad small 1-3,rebirth.mod,51331-rebirth.mod,Пауки,,,,,false,true,false,false,false,0,0
+51327-rebirth.mod,ruin- shek military,ruin- shek military,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51332-rebirth.mod,Bugmaster,Хозяин жуков,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51336-rebirth.mod,shek wandering duelist,shek wandering duelist,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+51360-rebirth.mod,krals chosen,krals chosen,rebirth.mod,51357-rebirth.mod,Избранный Крала,1531897-rebirth.mod,1,,,false,true,false,false,false,0,0
+51361-rebirth.mod,spider swarm,spider swarm,rebirth.mod,51331-rebirth.mod,Пауки,,,,,false,true,false,false,false,0,0
+51376-rebirth.mod,nest- lab ruin,nest- lab ruin,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51389-rebirth.mod,Bounty hunter camp for bugmaster,Bounty hunter camp for bugmaster,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51390-rebirth.mod,Mercenary camp,Mercenary camp,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51397-rebirth.mod,Ancient Lab n.3,Ancient Lab n.3,rebirth.mod,48671-rebirth.mod,Древние руины,,,,,false,true,false,false,false,0,0
+51399-rebirth.mod,Ancient Lab n.4 spiders,Ancient Lab n.4 spiders,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51401-rebirth.mod,Ancient Lab n.5 empty spiders,Ancient Lab n.5 empty spiders,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51409-rebirth.mod,Ancient Lab n.6 AI cores emptyish,Ancient Lab n.6 AI cores emptyish,rebirth.mod,48671-rebirth.mod,Древние руины,,,,,false,true,false,false,false,0,0
+51411-rebirth.mod,Holy Guards narko,Holy Guards narko,rebirth.mod,,,,,,,true,true,false,false,false,0,0
+51419-rebirth.mod,Holy Gate Guards narko,Holy Gate Guards narko,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51421-rebirth.mod,Shop trade Shek,Shop trade Shek,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+51481-rebirth.mod,shek warrior bar,shek warrior bar,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+51483-rebirth.mod,Bar shek,Bar shek,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+51484-rebirth.mod,Bar last stand,Bar last stand,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+51632-rebirth.mod,shek bar last stand customers,shek bar last stand customers,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+51639-rebirth.mod,_swamp ninja genins,_swamp ninja genins,rebirth.mod,51638-rebirth.mod,Болотные ниндзя,1532248-__May 18.mod,1,,,false,true,false,false,false,0,0
+51641-rebirth.mod,swamp turtle herd,swamp turtle herd,rebirth.mod,3943-gamedata.base,Живность,,,,,false,false,true,false,false,0,0
+51647-rebirth.mod,swamp ninja base,swamp ninja base,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51653-rebirth.mod,Water Clan squad,Water Clan squad,rebirth.mod,51652-rebirth.mod,Красные сабли,62862-rebirth.mod,1,,,false,true,false,false,false,0,0
+51709-rebirth.mod,Thieves Guild,Thieves Guild,rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,true,0,0
+51744-Dialogue.mod,Empire Noble Sanda,Empire Noble Sanda,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51745-Dialogue.mod,Empire Noble Tsugi,Empire Noble Tsugi,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51747-Dialogue.mod,Empire Noble Ohta,Empire Noble Ohta,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51748-Dialogue.mod,Empire Noble Nagata,Empire Noble Nagata,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51749-Dialogue.mod,Empire Noble Yoshinaga,Empire Noble Yoshinaga,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51750-Dialogue.mod,Empire Noble Inaba,Empire Noble Inaba,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+51759-rebirth.mod,Wandering Assassin,Бродячий убийца,rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,false,0,0
+51762-rebirth.mod,swamper fish and drugs,swamper fish and drugs,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+51794-rebirth.mod,Thieves Guild smuggler,Thieves Guild smuggler,rebirth.mod,14491-rebirth.mod,Воры шиноби,,,,,false,true,false,false,false,0,0
+51799-Dialogue.mod,Ray,Рэй,Dialogue.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,0,0
+51801-Dialogue.mod,Ray empire pro-slave,Ray empire pro-slave,Dialogue.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,true,0,0
+51814-rebirth.mod,Thieves Guild human,Thieves Guild human,rebirth.mod,14491-rebirth.mod,Воры шиноби,,,17-gamedata.quack; 18019-gamedata.base,Зеленоземец; Жженоземец,false,true,false,false,true,0,0
+51836-rebirth.mod,swamp gate guards,swamp gate guards,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+5217-gamedata.base,Work Camp Gate Guard,Work Camp Gate Guard,gamedata.base; rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,true,false,0,0
+5220-gamedata.base,Slaver Cage Warden,Slaver Cage Warden,gamedata.base; Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+52326-rebirth.mod,police patrol unit,police patrol unit,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+5233-gamedata.base,Slaver Storage Guard,Slaver Storage Guard,gamedata.base,,,,,,,false,true,false,false,false,0,0
+52330-rebirth.mod,Shop trader UC bigger,Shop trader UC bigger,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,true,false,true,0,0
+52334-rebirth.mod,Catun Scrapmasters,Катунские кулибины,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,true,0,0
+5239-gamedata.base,Slaver Workmaster,Slaver Workmaster,gamedata.base,,,,,,,false,true,false,false,false,0,0
+5285-gamedata.base,Work Camp slave Trader,Work Camp slave Trader,gamedata.base; Newwworld.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+53085-rebirth.mod,fogmen tower,fogmen tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+5337-gamedata.base,Bounty hunters wandering between towns,Bounty hunters wandering between towns,gamedata.base; rebirth.mod,14508-gamedata.base,Охотники за наградой,,,,,false,true,false,false,false,0,0
+5338-gamedata.base,slaves 3-7,slaves 3-7,gamedata.base; rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,3,7
+5340-Dialogue.mod,Ani,Ani,Dialogue.mod,nofac,Нет фракции,,,,,false,true,false,false,false,0,0
+53641-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+53642-rebirth.mod,farm shop UC,farm shop UC,rebirth.mod,1229-gamedata.base,Вольные купцы,,,,,false,true,false,false,true,0,0
+54019-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+54020-rebirth.mod,Civilian solo UC small,Civilian solo UC small,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+54022-rebirth.mod,Civilian family UC,Civilian family UC,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+54289-rebirth.mod,Barracks UC,Barracks UC,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+54294-rebirth.mod,UC escaped slave,UC escaped slave,rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+54298-rebirth.mod,empire rebel farmers,empire rebel farmers,rebirth.mod,54297-rebirth.mod,Мятежные фермеры,1532480-__May 18 2.mod; 59583-Dialogue.mod,1; 1,,,false,true,false,false,false,0,0
+54301-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+54302-rebirth.mod,Farm hut UC,Farm hut UC,rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+54303-rebirth.mod,slave camp wardens w/slaves,slave camp wardens w/slaves,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+54304-rebirth.mod,slaves 1-5 copy,slaves 1-5 copy,rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,1,5
+54305-rebirth.mod,slave cage shack,slave cage shack,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+54306-rebirth.mod,noble slave boss/kana,noble slave boss/kana,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+54468-Dialogue.mod,Empire slave escapees,Empire slave escapees,Dialogue.mod; rebirth.mod,57740-rebirth.mod,Рабы,,,,,false,true,false,false,false,0,0
+54539-rebirth.mod,slave farm trader,slave farm trader,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,true,0,0
+54541-rebirth.mod,Slaver Barracks,Slaver Barracks,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+54542-rebirth.mod,slaver town guard patrol,slaver town guard patrol,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+54546-rebirth.mod,slaver bar,slaver bar,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+54547-rebirth.mod,stolen slave clothing shop,stolen slave clothing shop,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+54571-rebirth.mod,Slave platform sales,Slave platform sales,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+54584-rebirth.mod,slaver heavy guards,slaver heavy guards,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+54589-rebirth.mod,manhunter barracks,manhunter barracks,rebirth.mod,54587-rebirth.mod,Охотники на людей,,,,,false,true,false,false,false,0,0
+54590-rebirth.mod,manhunter boss,manhunter boss,rebirth.mod,54587-rebirth.mod,Охотники на людей,,,,,false,true,false,false,false,0,0
+5462-gamedata.base,Mercenary guild,Mercenary guild,gamedata.base; Dialogue.mod; rebirth.mod,1214-gamedata.base,Гильдия наёмников,,,,,false,true,false,false,false,0,0
+55016-rebirth.mod,manhunter patrol (N),manhunter patrol (N),rebirth.mod,54587-rebirth.mod,Охотники на людей,1533690-__world reactions Slavers.mod,0,,,false,true,false,false,false,0,0
+5502-gamedata.base,Slaver Shop,Slaver Shop,gamedata.base; rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+55043-Dialogue.mod,Recruits list Slaver town,Recruits list Slaver town,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,1
+55058-Dialogue.mod,Garret,Гаррет,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+55059-Dialogue.mod,Garret slave,Garret slave,Dialogue.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,0,0
+55102-rebirth.mod,slave hunters (N),slave hunters (N),rebirth.mod,55101-rebirth.mod,Охотники на рабов,1533690-__world reactions Slavers.mod,0,,,false,true,false,false,false,0,0
+55124-rebirth.mod,plastic surgeon,plastic surgeon,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+55376-rebirth.mod,slaves 1-5,slaves 1-5,rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,1,5
+55395-Newwworld.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+55622-rebirth.mod,Fog hive nest hunter patrol huge,Fog hive nest hunter patrol huge,rebirth.mod,18893-rebirth.mod,Туманники,,,,,true,true,false,false,false,0,0
+55637-Newwworld.mod,Fish Squad!,Fish Squad!,Newwworld.mod; Dialogue.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+55638-rebirth.mod,spider squad mini baby swarm,spider squad mini baby swarm,rebirth.mod,51811-rebirth.mod,Болотные твари,,,,,false,true,false,false,false,0,0
+55640-rebirth.mod,__fish,__fish,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+55645-rebirth.mod,skeleton workshop,skeleton workshop,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+55647-rebirth.mod,lost armoury security,lost armoury security,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+55658-rebirth.mod,Holy Watchtower,Holy Watchtower,rebirth.mod,,,,,,,true,true,false,false,false,0,0
+55665-rebirth.mod,Empire army force weak,Empire army force weak,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,true,true,false,false,false,0,0
+55666-rebirth.mod,Holy Army force,Holy Army force,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+55672-rebirth.mod,gorillos blue,gorillos blue,rebirth.mod,51813-rebirth.mod,Гориллы,,,,,false,true,false,false,false,0,0
+55673-rebirth.mod,blue gorillo nest,blue gorillo nest,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+55679-rebirth.mod,small blood spiders,small blood spiders,rebirth.mod,51331-rebirth.mod,Пауки,,,,,false,false,false,false,false,0,0
+55819-Dialogue.mod,Skeletons junkyard,Skeletons junkyard,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+55931-Dialogue.mod,Harmothoe,Гармофоя,Dialogue.mod; rebirth.mod,1229-gamedata.base,Вольные купцы,,,,,false,true,false,false,true,0,0
+56003-Dialogue.mod,Tech Hunters Ruins,Tech Hunters Ruins,Dialogue.mod; rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+56022-Dialogue.mod,Hamut,Хамут,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56023-Dialogue.mod,Doctor Chung,Доктор Чон,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56024-Dialogue.mod,Silvershade,Седая тень,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56025-Dialogue.mod,Stubs Momuso,Стабс момусо,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56026-Dialogue.mod,Green,Зелёный,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56027-Dialogue.mod,Miu,Мью,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56028-Dialogue.mod,Reva,Рева,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56029-Dialogue.mod,Digna,Дина,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56030-Dialogue.mod,Knife,Финка,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56031-Dialogue.mod,Pia,Пиа,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56032-Dialogue.mod,Flotsam Recruit,Flotsam Recruit,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56033-Dialogue.mod,Jewel,Самоцвет,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56034-Dialogue.mod,Izumi,Изуми,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56035-Dialogue.mod,Griffin,Гриффин,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56036-Dialogue.mod,Bard,Бард,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56037-Dialogue.mod,Kang,Кан,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56038-Dialogue.mod,Ruka,Рука,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+56039-Dialogue.mod,Headshot,Вынос мозга,Dialogue.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+56040-rebirth.mod,armory UC,armory UC,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+56041-rebirth.mod,Storehouse UC,Storehouse UC,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56042-Dialogue.mod,Cornelius,Корнелиус,Dialogue.mod,,,,,,,false,true,false,false,true,0,0
+56043-rebirth.mod,noble procession,noble procession,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56091-Newwworld.mod,Crab,Краб,Newwworld.mod,3943-gamedata.base,Живность,,,,,false,false,false,false,false,0,0
+56094-rebirth.mod,skimmer nest,skimmer nest,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56095-rebirth.mod,skimmer hunter solo 24hr,skimmer hunter solo 24hr,rebirth.mod,56098-rebirth.mod,Рвачи,,,,,false,true,false,false,false,0,0
+56096-rebirth.mod,UC farmer raider nest,UC farmer raider nest,rebirth.mod,54297-rebirth.mod,Мятежные фермеры,,,,,false,true,false,false,false,0,0
+56097-rebirth.mod,holy hub hideout,holy hub hideout,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+56106-rebirth.mod,UC watchtower,UC watchtower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56109-rebirth.mod,crab nest,crab nest,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56112-rebirth.mod,crab wander solo,crab wander solo,rebirth.mod,56108-rebirth.mod,Крабы,,,,,false,true,false,false,false,0,0
+56113-Newwworld.mod,Big-Bones,Широкая Кость,Newwworld.mod,3943-gamedata.base,Живность,,,,,false,false,false,false,false,0,0
+56115-rebirth.mod,crab infestation,crab infestation,rebirth.mod,56108-rebirth.mod,Крабы,,,,,false,true,false,false,false,0,0
+56117-rebirth.mod,_totally empty,_totally empty,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56120-rebirth.mod,megacrab,megacrab,rebirth.mod,56108-rebirth.mod,Крабы,,,,,false,true,false,false,false,0,0
+56130-rebirth.mod,UC big bar,UC big bar,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+56131-rebirth.mod,weapon vendor UC big,weapon vendor UC big,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,true,false,true,0,0
+56132-rebirth.mod,bank,bank,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,true,0,0
+56135-rebirth.mod,traders guild HQ,traders guild HQ,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+56137-rebirth.mod,bakery UC,bakery UC,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+56140-rebirth.mod,Big General Storage,Big General Storage,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56143-rebirth.mod,vagrant squad,vagrant squad,rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+56146-rebirth.mod,Bookshop,Bookshop,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+56154-rebirth.mod,Scraphouse,Хламилище,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+56156-rebirth.mod,default skeleton town,default skeleton town,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56158-rebirth.mod,skeleton city bar,skeleton city bar,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+56159-rebirth.mod,large storage outpost,large storage outpost,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56164-rebirth.mod,Smugglers Bar,Бар контрабандистов,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+56173-rebirth.mod,Smuggler caravan- bar,Smuggler caravan- bar,rebirth.mod,48791-Dialogue.mod,Серодёры,,,,,false,true,false,false,false,0,0
+56177-rebirth.mod,stone camp shop,stone camp shop,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+56180-rebirth.mod,slaves 1-3,slaves 1-3,rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,1,3
+56181-rebirth.mod,tengus vault,tengus vault,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56182-rebirth.mod,best armour shop UC,best armour shop UC,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,true,false,true,0,0
+56184-rebirth.mod,super adventure shop,super adventure shop,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+56206-rebirth.mod,destroyed old stormhouse,destroyed old stormhouse,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56207-rebirth.mod,UC farmer stormhouse,UC farmer stormhouse,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56208-rebirth.mod,peasant vagrants,peasant vagrants,rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+56357-rebirth.mod,Skeleton Armory,Skeleton Armory,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+56577-Dialogue.mod,Eyegore,Вырвиглаз,Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,true,true,false,false,false,0,0
+56604-Dialogue.mod,Band of bones squad,Band of bones squad,Dialogue.mod; rebirth.mod,56595-Dialogue.mod,Груда костей,1532245-__May 18.mod,1,,,false,true,false,false,false,0,0
+56642-Dialogue.mod,Black Dog Extortionists,Black Dog Extortionists,Dialogue.mod,56644-Dialogue.mod,Чёрный пёс,,,,,false,true,false,false,false,0,0
+56726-rebirth.mod,mongrel permanent recruits,mongrel permanent recruits,rebirth.mod,,,,,,,false,true,false,false,false,1,1
+57325-rebirth.mod,shryke,shryke,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+57327-rebirth.mod,Shop weapons Mongrel,Shop weapons Mongrel,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+57329-rebirth.mod,Shop armor mongrel,Shop armor mongrel,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+57389-rebirth.mod,beep,beep,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+57407-__dont commit.mod,__race1,__race1,rebirth.mod,,,,,17-gamedata.quack,Зеленоземец,false,true,false,false,false,0,0
+57408-__dont commit.mod,__race1 copy2,__race1 copy2,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+57777-Newwworld.mod,Skeleton Variant01,Skeleton Variant01,Newwworld.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+57780-Newwworld.mod,Skeleton Variant02,Skeleton Variant02,Newwworld.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+57785-Newwworld.mod,Skeleton Variant03,Skeleton Variant03,Newwworld.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+58283-Dialogue.mod,United Cities Pacifier,United Cities Pacifier,Dialogue.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+58284-Dialogue.mod,Shek Kingdom Pacifier,Shek Kingdom Pacifier,Dialogue.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+58285-Dialogue.mod,Holy Nation Pacifier,Holy Nation Pacifier,Dialogue.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+58286-Dialogue.mod,Traders Guild Pacifier,Усмиритель ТГ,Dialogue.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+58288-Dialogue.mod,Anti Slaver Pacifier,Anti Slaver Pacifier,Dialogue.mod,58229-Dialogue.mod,Противники рабства,,,,,false,true,false,false,false,0,0
+58289-Dialogue.mod,Flotsam Pacifier,Flotsam Pacifier,Dialogue.mod,49377-rebirth.mod,Ниндзя отщепенцы,,,,,false,true,false,false,false,0,0
+58290-Dialogue.mod,Hound Pacifier,Hound Pacifier,Dialogue.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+58699-rebirth.mod,worlds end Bar,worlds end Bar,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+59292-rebirth.mod,shek guard bounty desk,shek guard bounty desk,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,false,true,false,false,false,0,0
+59295-rebirth.mod,__phoenix test,__phoenix test,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,false,true,false,false,false,0,0
+59428-rebirth.mod,tengus palace,tengus palace,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,18019-gamedata.base,Жженоземец,false,true,false,false,false,0,0
+60941-Dialogue.mod,test 2,test 2,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+61006-Dialogue.mod,Elite Hunter,Elite Hunter,Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+61858-rebirth.mod,Empire taxman,Empire taxman,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,true,true,false,false,false,0,0
+61910-rebirth.mod,Empire army force strong,Empire army force strong,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,true,true,false,false,false,0,0
+62175-rebirth.mod,tinfist hq,tinfist hq,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62179-rebirth.mod,anti slaver recruits,anti slaver recruits,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+62186-rebirth.mod,Cannibal magi,Cannibal magi,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62187-rebirth.mod,south hive workers (w/ guards),south hive workers (w/ guards),rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+62189-rebirth.mod,south hive guards,south hive guards,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62192-rebirth.mod,Hive Queen south,Hive Queen south,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+62375-rebirth.mod,south hive patrol,south hive patrol,rebirth.mod,56777-Dialogue.mod,Южный улей,62377-rebirth.mod,1,,,false,true,false,false,false,0,0
+62376-rebirth.mod,south hive scouts,south hive scouts,rebirth.mod,56777-Dialogue.mod,Южный улей,62377-rebirth.mod,1,,,false,true,false,false,false,0,0
+62438-Dialogue.mod,Dust King Prisoner copy,Dust King Prisoner copy,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+62439-__additions.mod,Tengu's vault prisoners,Tengu's vault prisoners,rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,0,0
+62552-rebirth.mod,Mountain Wolf Pack,Mountain Wolf Pack,rebirth.mod,56128-rebirth.mod,Волки,,,,,false,false,false,false,false,0,0
+62553-Dialogue.mod,Lost drone,Потерянный трутень,Dialogue.mod; rebirth.mod,nofac,Нет фракции,,,,,false,true,false,false,false,0,0
+62554-rebirth.mod,Wolf Swarm,Wolf Swarm,rebirth.mod,56128-rebirth.mod,Волки,,,,,false,false,false,false,false,0,0
+62658-Dialogue.mod,Traveller,Traveller,Dialogue.mod; rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+62766-rebirth.mod,mega gorillo,mega gorillo,rebirth.mod,51813-rebirth.mod,Гориллы,,,,,false,true,false,false,false,0,0
+62772-rebirth.mod,lost outpost ,lost outpost ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62774-rebirth.mod,skeleton legion force- pre,skeleton legion force- pre,rebirth.mod,57737-rebirth.mod,Легион скелетов,1534047-rebirth.mod,1,,,false,true,false,false,false,0,0
+62776-rebirth.mod,skeleton legion scouts,skeleton legion scouts,rebirth.mod,57737-rebirth.mod,Легион скелетов,,,,,false,true,false,false,false,0,0
+62777-rebirth.mod,robo levi,robo levi,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,true,false,false,false,0,0
+62778-rebirth.mod,robot spiders static group,robot spiders static group,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+62783-rebirth.mod,lost armoury -south hive,lost armoury -south hive,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+62785-rebirth.mod,south hive workers solo,south hive workers solo,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+62793-rebirth.mod,crab wander group,crab wander group,rebirth.mod,56108-rebirth.mod,Крабы,,,,,false,true,false,false,false,0,0
+62794-rebirth.mod,swamp ducks small mob aggressive,swamp ducks small mob aggressive,rebirth.mod,51811-rebirth.mod,Болотные твари,,,,,false,true,false,false,false,0,0
+62802-rebirth.mod,skeleton workshop ashland,skeleton workshop ashland,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62804-rebirth.mod,skelebandit HQ,skelebandit HQ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62809-rebirth.mod,Skeleton bandits patrol,Skeleton bandits patrol,rebirth.mod,62792-rebirth.mod,Скелетные бандиты,62810-rebirth.mod,1,,,false,true,false,false,false,0,0
+62812-rebirth.mod,Skeleton bandits patrol (broken),Skeleton bandits patrol (broken),rebirth.mod,62792-rebirth.mod,Скелетные бандиты,62810-rebirth.mod,0,,,false,true,false,false,false,0,0
+62819-rebirth.mod,Hiver Merchant caravan (mats),Hiver Merchant caravan (mats),rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,1,,,false,true,false,false,true,0,0
+62820-rebirth.mod,Hiver Merchant caravan (crops),Hiver Merchant caravan (crops),rebirth.mod,18000-gamedata.base,Западный Улей,1531881-rebirth.mod,1,,,false,true,false,false,true,0,0
+62825-rebirth.mod,crab raider hq,crab raider hq,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+62828-rebirth.mod,Crab raiders patrol,Crab raiders patrol,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,1,,,false,true,false,false,false,0,0
+62830-rebirth.mod,crab raiders (broken),crab raiders (broken),rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,0,,,false,true,false,false,false,0,0
+62831-rebirth.mod,crab raider town,crab raider town,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,1,,,false,true,false,false,false,0,0
+62833-rebirth.mod,crab raider smithy shop,crab raider smithy shop,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,1,,,false,true,false,false,true,0,0
+62843-rebirth.mod,goat herder camp,goat herder camp,rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,false,0,0
+62845-rebirth.mod,empire rebel farmers small,empire rebel farmers small,rebirth.mod,54297-rebirth.mod,Мятежные фермеры,59583-Dialogue.mod,1,,,false,true,false,false,false,0,0
+62847-rebirth.mod,rebel farmer HQ,rebel farmer HQ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62850-rebirth.mod,rebel farmer barracks,rebel farmer barracks,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62851-rebirth.mod,rebel farmer hideout,rebel farmer hideout,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62857-rebirth.mod,Empire Gate guard -vault,Empire Gate guard -vault,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+62858-rebirth.mod,sadniel,sadniel,rebirth.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+62859-rebirth.mod,razor,razor,rebirth.mod,5442-gamedata.base,Изгои,,,,,false,true,false,false,false,0,0
+62860-rebirth.mod,red sabre HQ,red sabre HQ,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+62861-rebirth.mod,water clan weakened,water clan weakened,rebirth.mod,51652-rebirth.mod,Красные сабли,62862-rebirth.mod,0,,,false,true,false,false,false,0,0
+62863-rebirth.mod,swamp ninja strengthened,swamp ninja strengthened,rebirth.mod,51638-rebirth.mod,Болотные ниндзя,1532248-__May 18.mod; 62862-rebirth.mod,1; 0,,,false,true,false,false,false,0,0
+63142-rebirth.mod,skeleton legion force north,skeleton legion force north,rebirth.mod,57737-rebirth.mod,Легион скелетов,62810-rebirth.mod; 63144-rebirth.mod,0; 0,,,false,true,false,false,false,0,0
+63143-rebirth.mod,Robot spider group north,Robot spider group north,rebirth.mod,42085-rebirth.mod,Старые машины,62810-rebirth.mod; 63144-rebirth.mod,0; 0,,,false,false,false,false,false,0,0
+63480-rebirth.mod,Slaver Shop w/ workers,Slaver Shop w/ workers,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,true,0,0
+63481-rebirth.mod,slave camp warden solo,slave camp warden solo,rebirth.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+63483-rebirth.mod,traders HQ guards,traders HQ guards,rebirth.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+63537-rebirth.mod,Merchant Nomads,Merchant Nomads,rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,true,0,0
+63749-rebirth.mod,Nomad town resident,Nomad town resident,rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,false,0,0
+63750-rebirth.mod,Town Merchant Nomad shop,Town Merchant Nomad shop,rebirth.mod,42097-rebirth.mod,Кочевники,,,,,false,true,false,false,true,0,0
+63886-rebirth.mod,Barracks cannibal hunters,Barracks cannibal hunters,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+63888-rebirth.mod,cannibal hunter patrol,cannibal hunter patrol,rebirth.mod,16855-gamedata.base,Охотники на людоедов,,,,,false,true,false,false,false,0,0
+63978-Dialogue.mod,Shek base attack,Shek base attack,Dialogue.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,true,true,false,false,false,0,0
+63981-Dialogue.mod,Shek Warrior Squad,Shek Warrior Squad,Dialogue.mod,,,,,,,true,true,false,false,false,0,0
+64140-Dialogue.mod,Stone Rat Assault,Stone Rat Assault,Dialogue.mod,48753-Dialogue.mod,Каменные крысы,,,,,false,true,false,false,false,0,0
+64223-rebirth.mod,hub squatters copy berserker,hub squatters copy berserker,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+64227-rebirth.mod,Shek base attack weak,Shek base attack weak,rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,true,true,false,false,false,0,0
+64238-Dialogue.mod,Shek base attack medium,Shek base attack medium,Dialogue.mod; rebirth.mod,11624-Dialogue (10).mod,Королевство шеков,,,,,true,true,false,false,false,0,0
+64280-__Pacifier.mod,Pacifier Choosefrom,Pacifier Choosefrom,rebirth.mod,,,,,,,false,true,false,false,false,1,1
+64347-__Pacifier.mod,Ears,Уши,rebirth.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+64356-rebirth.mod,skin bandit patrol,skin bandit patrol,rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,63880-Dialogue.mod,1,,,false,true,false,false,false,0,0
+64357-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64394-Dialogue.mod,Anti slaver base attack strong,Anti slaver base attack strong,Dialogue.mod; rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,true,true,false,false,false,0,0
+64397-Dialogue.mod,Anti slaver base attack weak,Anti slaver base attack weak,Dialogue.mod; rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,true,true,false,false,false,0,0
+64488-rebirth.mod,skin bandit HQ,skin bandit HQ,rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,,,,,false,true,false,false,true,0,0
+64652-rebirth.mod,shop tools ronin adv,shop tools ronin adv,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+64655-rebirth.mod,Adventure shop,Adventure shop,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+64665-rebirth.mod,mini robot workshop expensive,mini robot workshop expensive,rebirth.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,true,0,0
+64702-__Pacifier faction.mod,Jaegar,Егарь,rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,false,false,false,false,false,0,0
+64753-rebirth.mod,empire rebel farmers heavy,empire rebel farmers heavy,rebirth.mod,54297-rebirth.mod,Мятежные фермеры,1532480-__May 18 2.mod; 59583-Dialogue.mod; 66290-rebirth.mod,1; 1; 0,,,false,true,false,false,false,0,0
+64853-rebirth.mod,Shop bar Empire small,Shop bar Empire small,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+64854-rebirth.mod,mini UC barracks,mini UC barracks,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64855-rebirth.mod,spider factory,spider factory,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64858-rebirth.mod,Robot spiders static forbidden,Robot spiders static forbidden,rebirth.mod,42085-rebirth.mod,Старые машины,64859-rebirth.mod,0,,,false,false,false,false,false,0,0
+64860-rebirth.mod,Robot spiders forbidden,Robot spiders forbidden,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,false,false,false,false,0,0
+64861-rebirth.mod,Robot spider army forbidden,Robot spider army forbidden,rebirth.mod,42085-rebirth.mod,Старые машины,64859-rebirth.mod,1,,,false,false,false,false,false,0,0
+64862-rebirth.mod,wild goats forbidden,wild goats forbidden,rebirth.mod,40544-rebirth.mod,Травоядные,64859-rebirth.mod,0,,,false,false,false,false,false,0,0
+64863-rebirth.mod,wild pack beast family forbidden,wild pack beast family forbidden,rebirth.mod,40544-rebirth.mod,Травоядные,64859-rebirth.mod,0,,,false,true,false,false,false,0,0
+64864-rebirth.mod,Empire army small patrol,Empire army small patrol,rebirth.mod,defaultEmpireFactionSID,Союзные Города,59583-Dialogue.mod,1,,,true,true,false,false,false,0,0
+64867-rebirth.mod,cannibal hunter gate guard,cannibal hunter gate guard,rebirth.mod,16855-gamedata.base,Охотники на людоедов,,,,,false,true,false,true,false,0,0
+64868-rebirth.mod,Empire Gate guard mini,Empire Gate guard mini,rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,true,false,0,0
+64904-rebirth.mod,goat tower,goat tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64906-rebirth.mod,!Reasonable Men!,!Reasonable Men!,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64907-rebirth.mod,Cannibal hunter hq,Cannibal hunter hq,rebirth.mod,16855-gamedata.base,Охотники на людоедов,,,,,false,true,false,false,true,0,0
+64908-rebirth.mod,skimmer patrol group nocturnal,skimmer patrol group nocturnal,rebirth.mod,56098-rebirth.mod,Рвачи,,,,,false,true,false,false,false,0,0
+64910-rebirth.mod,Cannibal meat lord,Cannibal meat lord,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64920-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+64921-rebirth.mod,error code,error code,rebirth.mod,64918-rebirth.mod,Неисправные,,,,,false,true,false,false,false,0,0
+65063-Dialogue.mod,Slave trade Pacifier,Slave trade Pacifier,Dialogue.mod,1084-gamedata.base,Рабовладельцы,,,,,false,true,false,false,false,0,0
+65261-Newwworld.mod,Crimper,Обжимка,Newwworld.mod,65263-Newwworld.mod,Обжимка,,,,,false,true,false,false,false,0,0
+65261-rebirth.mod,reaver patrol,reaver patrol,rebirth.mod,62805-rebirth.mod,Разбойники,96078-rebirth.mod,1,,,false,true,false,false,false,0,0
+65264-rebirth.mod,reaver whelps,reaver whelps,rebirth.mod,96156-rebirth.mod,Бродяги,,,,,false,true,false,false,false,0,0
+65267-Newwworld.mod,Skeleton_MarkII,Skeleton_MarkII,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+65825-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+65826-rebirth.mod,Crab Bar,Крабовый Бар,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+65864-rebirth.mod,patrolling town crab,patrolling town crab,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+65866-rebirth.mod,crab resident default,crab resident default,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+65867-rebirth.mod,crab worker,crab worker,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+65868-rebirth.mod,crab gate guard,crab gate guard,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,true,false,0,0
+65869-rebirth.mod,massive crab wander,massive crab wander,rebirth.mod,56108-rebirth.mod,Крабы,,,,,false,true,false,false,false,0,0
+65944-November.mod,Zeal,Zeal,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+65946-November.mod,Crab bar patrons,Crab bar patrons,rebirth.mod,62806-rebirth.mod,Крабовые налётчики,,,,,false,true,false,false,false,0,0
+65953-Dialogue.mod,Crab Man Shop,Crab Man Shop,Dialogue.mod; rebirth.mod,62806-rebirth.mod,Крабовые налётчики,62829-rebirth.mod,1,,,false,true,false,false,true,0,0
+65972-November.mod,Recruits list Crab Town,Recruits list Crab Town,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+66155-__November.mod,Fisher bar patrons,Fisher bar patrons,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+66159-__November.mod,Bar thugs,Bar thugs,rebirth.mod,96156-rebirth.mod,Бродяги,,,,,false,true,false,false,false,1,3
+66291-rebirth.mod,Black Desert Ninjas,Ниндзя Чёрной Пустыни,rebirth.mod,66292-rebirth.mod,Ниндзя Чёрной Пустыни,,,,,false,true,false,false,false,0,0
+66294-rebirth.mod,beak swarm,beak swarm,rebirth.mod,51812-rebirth.mod,Живоглоты,,,,,false,true,false,false,false,0,0
+66295-rebirth.mod,beak elder,beak elder,rebirth.mod,51812-rebirth.mod,Живоглоты,,,,,false,true,false,false,false,0,0
+66296-rebirth.mod,inquisitor valetina hq,inquisitor valetina hq,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+66297-Boneyard Wolf.mod,Boneyard Wolf Pack Den,Boneyard Wolf Pack Den,rebirth.mod,56128-rebirth.mod,Волки,,,,,false,true,false,false,false,0,0
+66516-Dialogue.mod,Swamper Stone Rat HQ,Swamper Stone Rat HQ,Dialogue.mod,48753-Dialogue.mod,Каменные крысы,,,,,false,true,false,false,false,0,0
+66518-Dialogue.mod,hounds town home,hounds town home,Dialogue.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+66530-Dialogue.mod,hounds assault,hounds assault,Dialogue.mod,48814-Dialogue.mod,Гончие,,,,,false,true,false,false,false,0,0
+66531-Newwworld.mod,Skeleton_MarkII Log Head,Skeleton_MarkII Log Head,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+66541-rebirth.mod,skin house,skin house,rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,,,,,false,true,false,false,false,0,0
+66544-rebirth.mod,inquisitor seta hq,inquisitor seta hq,rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+7996-Dialogue.mod,Bo,Бо,Dialogue.mod; rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,false,false,false,false,false,0,0
+8235-Dialogue.mod,Pickles,Pickles,Dialogue.mod; rebirth.mod,51646-Dialogue.mod,Имперские селяне,,,,,false,true,false,false,false,0,0
+8305-Dialogue.mod,Town Thief,Town Thief,Dialogue.mod,,,,,,,false,true,true,false,false,0,0
+8354-Dialogue.mod,Caravan Raided,Caravan Raided,Dialogue.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,false,false,false,false,0,0
+8908-Dialogue.mod,Holy Nation slave escapees,Holy Nation slave escapees,Dialogue.mod; rebirth.mod,42022-rebirth.mod,Изгои Святой Нации,,,,,false,true,false,false,false,0,0
+9190-Dialogue.mod,Escaped Drifter,Escaped Drifter,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+9477-Dialogue.mod,Empire Guard Gate old,Empire Guard Gate old,Dialogue.mod; rebirth.mod,defaultEmpireFactionSID,Союзные Города,,,,,false,true,false,false,false,0,0
+95487-Dialogue.mod,Holy Assault strong,Holy Assault strong,Dialogue.mod; rebirth.mod,1083-gamedata.base,Святая Нация,,,,,true,true,false,false,false,0,0
+95511-rebirth.mod,cheat police,cheat police,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,true,false,false,false,0,0
+95529-rebirth.mod,error police- library hidden,error police- library hidden,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,true,false,false,false,0,0
+95530-rebirth.mod,skin house raid ruin,skin house raid ruin,rebirth.mod,63028-Dialogue.mod,Кожаные бандиты,,,,,false,true,false,false,false,0,0
+95535-rebirth.mod,beak squad med,beak squad med,rebirth.mod,51812-rebirth.mod,Живоглоты,,,,,false,true,false,false,false,0,0
+95540-rebirth.mod,ranger test,ranger test,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95542-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95544-Mourn.mod,Slave platform sales empty,Slave platform sales empty,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95545-Mourn.mod,Slaver Shop w/ workers empty,Slaver Shop w/ workers empty,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+95546-Mourn.mod,Blue Eyes,Синеглазка,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+95547-Mourn.mod,Mourn squatters,Mourn squatters,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+95549-Mourn.mod,mourn hq,mourn hq,rebirth.mod,3943-gamedata.base,Живность,,,,,false,true,false,false,false,0,0
+95554-Mourn.mod,Bar Mourn,Bar Mourn,rebirth.mod,40551-rebirth.mod,Ниндзя торговцы,,,,,false,true,true,false,true,0,1
+95577-Mourn.mod,Bar thugs Mourn,Bar thugs Mourn,rebirth.mod,96156-rebirth.mod,Бродяги,,,,,false,true,false,false,false,1,1
+95578-Mourn.mod,mourn ramp,mourn ramp,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95581-__Mourn.mod,Adventurer Lagoon Bar,Adventurer Lagoon Bar,rebirth.mod,,,,,,,false,true,true,false,true,0,0
+95607-__Mourn.mod,Lagoon bar patrons,Lagoon bar patrons,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,false,0,0
+95739-__Mourn.mod,Shop weapons Crossbow,Shop weapons Crossbow,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,true,false,true,0,0
+95749-__december17.mod,skelebandit residents,skelebandit residents,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95749-rebirth.mod,Bounty hunters ,Bounty hunters ,rebirth.mod,14508-gamedata.base,Охотники за наградой,,,,,false,true,false,false,false,0,0
+95750-rebirth.mod,Treasure hunters,Treasure hunters,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+95751-rebirth.mod,Treasure hunters aggressive,Treasure hunters aggressive,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+95754-rebirth.mod,Scavengers,Мародёры,rebirth.mod,95512-rebirth.mod,Мародёры,1532251-__May 18.mod,1,,,false,true,false,false,false,0,0
+95755-rebirth.mod,mad sniper,mad sniper,rebirth.mod,42085-rebirth.mod,Старые машины,,,,,false,true,false,false,false,0,0
+95757-__december17.mod,reaver HQ,reaver HQ,rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+95758-__december17.mod,Whelp Cage Warden,Whelp Cage Warden,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95759-__december17.mod,Reaver residents (Brink),Reaver residents (Brink),rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+95760-__december17.mod,reaver whelps residents,reaver whelps residents,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95768-rebirth.mod,start- fog refugees,start- fog refugees,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95778-rebirth.mod,skeleton town empty to buy,skeleton town empty to buy,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+95787-rebirth.mod,Shop Crossbow Adv,Shop Crossbow Adv,rebirth.mod,1233-gamedata.base,Техохотники,,,,,false,true,false,false,true,0,0
+95790-rebirth.mod,mini robot workshop adv,mini robot workshop adv,rebirth.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,true,0,0
+95828-__december17.mod,Robotics shop (black desert),Robotics shop (black desert),rebirth.mod,,,,,,,false,true,false,false,true,0,0
+95867-Dialogue.mod,Shop Robotics,Shop Robotics,Dialogue.mod; rebirth.mod,,,,,,,false,true,true,false,true,0,0
+96024-rebirth.mod,Blood bandits ,Blood bandits ,rebirth.mod,16860-gamedata.base,Кровавые налётчики,,,,,true,true,false,false,false,0,0
+96078-__Southern hive.mod,King squad,King squad,rebirth.mod,56777-Dialogue.mod,Южный улей,,,,,true,true,false,false,false,0,0
+96079-rebirth.mod,spider tower,spider tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96133-Dialogue.mod,hive soldiers campaign,hive soldiers campaign,Dialogue.mod,18000-gamedata.base,Западный Улей,,,,,true,true,false,false,false,0,0
+96134-__Southern hive.mod,south hive guards village,south hive guards village,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96149-Dialogue.mod,Reaver residents (camp),Reaver residents (camp),Dialogue.mod; rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+96152-Dialogue.mod,Reaver residents (camp) HQ,Reaver residents (camp) HQ,Dialogue.mod; rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+96154-rebirth.mod,vagrant bandits,vagrant bandits,rebirth.mod,96156-rebirth.mod,Бродяги,59585-Dialogue.mod,1,,,false,true,false,false,false,0,0
+96158-Dialogue.mod,Reaver gate guard,Reaver gate guard,Dialogue.mod; rebirth.mod,62805-rebirth.mod,Разбойники,,,,,false,true,false,false,false,0,0
+96159-rebirth.mod,Trashed building,Trashed building,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96160-Dialogue.mod,Sand ninja HQ,Sand ninja HQ,Dialogue.mod; rebirth.mod,1085-gamedata.base,Песчаные ниндзя,,,,,false,true,false,false,false,0,0
+96162-rebirth.mod,UC squatters,UC squatters,rebirth.mod,,,,,,,false,true,false,false,false,0,3
+96163-rebirth.mod,Trashed building w/squatters,Trashed building w/squatters,rebirth.mod,,,,,,,false,true,false,false,false,0,4
+96173-rebirth.mod,noble hunter,noble hunter,rebirth.mod,defaultEmpireFactionSID,Союзные Города,59583-Dialogue.mod,1,,,false,true,false,false,false,0,0
+96174-rebirth.mod,straw pirate patrol,straw pirate patrol,rebirth.mod,96175-rebirth.mod,Луговые пираты,,,,,false,true,false,false,false,0,0
+96179-rebirth.mod,Karate Seeker,Karate Seeker,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,0,0
+96218-rebirth.mod,bugmaster pets,bugmaster pets,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96237-rebirth.mod,Wolf pack patrol day,Wolf pack patrol day,rebirth.mod,56128-rebirth.mod,Волки,,,,,false,false,false,false,false,0,0
+96262-rebirth.mod,Gorillo boss squad,Gorillo boss squad,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96264-__Southern hive.mod,hive trader robotics,hive trader robotics,rebirth.mod,,,,,,,false,true,false,false,true,0,0
+96294-Dialogue.mod,Western hive queen,Western hive queen,Dialogue.mod; rebirth.mod,18000-gamedata.base,Западный Улей,,,,,false,true,false,false,false,0,0
+96343-Dialogue.mod,hive workers (queen),hive workers (queen),Dialogue.mod,18000-gamedata.base,Западный Улей,,,,,false,true,false,false,false,0,0
+96357-rebirth.mod,fishman patrol,fishman patrol,rebirth.mod,96359-rebirth.mod,Рыболюды,96616-Dialogue.mod,1,,,false,true,false,false,false,0,0
+96360-rebirth.mod,immortal king,immortal king,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96391-Dialogue.mod,Fish boss,Fish boss,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+96392-Dialogue.mod,Gurgler town squad,Gurgler town squad,Dialogue.mod; rebirth.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+96400-rebirth.mod,venge thralls,venge thralls,rebirth.mod,97613-rebirth.mod,Хозяева невольников,96401-rebirth.mod,0,,,false,true,false,false,false,0,0
+96404-rebirth.mod,tower of abuse,tower of abuse,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96406-Dialogue.mod,Gurgler boss squad,Gurgler boss squad,Dialogue.mod; rebirth.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+96406-rebirth.mod,old control tower,old control tower,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96412-rebirth.mod,agnu,agnu,rebirth.mod,42088-rebirth.mod,Скелеты,,,,,false,true,false,false,false,0,0
+96445-Dialogue.mod,Fog raid,Fog raid,Dialogue.mod; rebirth.mod,18893-rebirth.mod,Туманники,,,,,false,true,false,false,false,0,0
+96455-rebirth.mod,_ruined empty building (NO SELL),_ruined empty building (NO SELL),rebirth.mod,,,,,,,false,true,false,false,false,0,0
+96500-Dialogue.mod,krals chosen HQ,krals chosen HQ,Dialogue.mod; rebirth.mod,51357-rebirth.mod,Избранный Крала,,,,,false,true,false,false,false,0,0
+96501-Dialogue.mod,krals chosen base,krals chosen base,Dialogue.mod,51357-rebirth.mod,Избранный Крала,,,,,false,true,false,false,false,0,0
+96502-Dialogue.mod,krals chosen gate guard,krals chosen gate guard,Dialogue.mod,51357-rebirth.mod,Избранный Крала,,,,,false,true,false,false,false,0,0
+96503-Dialogue.mod,Band of bones base,Band of bones base,Dialogue.mod,56595-Dialogue.mod,Груда костей,,,,,false,true,false,false,false,0,0
+96504-Dialogue.mod,krals chosen base2,krals chosen base2,Dialogue.mod,51357-rebirth.mod,Избранный Крала,,,,,false,true,false,false,false,0,0
+96520-Dialogue.mod,Black Dog HQ,Штаб Чёрных Псов,Dialogue.mod; rebirth.mod,56644-Dialogue.mod,Чёрный пёс,,,,,false,true,false,false,false,0,0
+96562-Dialogue.mod,Gurgler town squad copy,Gurgler town squad copy,Dialogue.mod; rebirth.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+96802-Newwworld.mod,Flayed Man,Мужчина без кожи,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+96903-Newwworld.mod,Flayed Woman,Женщина без кожи,Newwworld.mod,,,,,,,false,true,false,false,false,0,0
+97071-__February 18.mod,White eyebrow squad camp,White eyebrow squad camp,rebirth.mod,18011-rebirth.mod,Клан Белой Брови,,,,,true,true,false,false,false,0,0
+97073-Dialogue.mod,Preacher HQ,Preacher HQ,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+97074-Dialogue.mod,Preacher village 1,Preacher village 1,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+97075-Dialogue.mod,Preacher village 2,Preacher village 2,Dialogue.mod; rebirth.mod,,,,,,,false,true,false,false,false,0,0
+97079-Dialogue.mod,Preacher village Guards,Preacher village Guards,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+97082-Dialogue.mod,Preacher gate guards,Preacher gate guards,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+97571-Newwworld.mod,Land Bat squad,Land Bat squad,Newwworld.mod; rebirth.mod,97574-Newwworld.mod,Ползучая мышь,,,,,false,true,false,false,false,0,0
+97601-Dialogue.mod,Traders Guild diplomat,Traders Guild diplomat,Dialogue.mod,1088-gamedata.base,Гильдия Торговцев,,,,,false,true,false,false,false,0,0
+97665-rebirth.mod,landbat swarm,landbat swarm,rebirth.mod,97574-Newwworld.mod,Ползучая мышь,,,,,false,true,false,false,false,0,0
+97850-__March 18.mod,UC town racists fort,UC town racists fort,rebirth.mod,42264-gamedata.base,Лига Союзных Героев,,,,,false,true,false,false,false,0,0
+97858-rebirth.mod,Holy Gate Guards small,Holy Gate Guards small,rebirth.mod,,,,,,,false,true,false,true,false,0,0
+97902-rebirth.mod,Gurgler nest residents,Gurgler nest residents,rebirth.mod,96359-rebirth.mod,Рыболюды,,,,,false,true,false,false,false,0,0
+97905-rebirth.mod,Dust Bandit Squad mild,Dust Bandit Squad mild,rebirth.mod,200-gamedata.base,Пыльные бандиты,,,,,false,true,false,false,false,0,0
+97927-__March 18.mod,UC racists patrol,UC racists patrol,rebirth.mod,42264-gamedata.base,Лига Союзных Героев,,,,,false,true,false,false,false,0,0
+97943-__March 18.mod,UC town racists strong,UC town racists strong,rebirth.mod,42264-gamedata.base,Лига Союзных Героев,,,,,false,true,false,false,false,0,0
+98228-__March 18.mod,Recruits list Empire copy Catun,Recruits list Empire copy Catun,rebirth.mod,51707-rebirth.mod,Скитальцы,,,,,false,true,false,false,false,1,1
+98503-rebirth.mod,SQUAD_TEMPLATE,SQUAD_TEMPLATE,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+98505-rebirth.mod,gorillo bandit squad,gorillo bandit squad,rebirth.mod,96261-rebirth.mod,Бандиты Горрилло,1531879-rebirth.mod,1,,,false,true,false,false,false,0,0
+98542-Dialogue.mod,deadcat mini travel shop swamp,deadcat mini travel shop swamp,Dialogue.mod,,,,,,,false,true,false,false,true,0,0
+98542-___March 2.mod,rebel farmer gate guard,rebel farmer gate guard,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+98553-rebirth.mod,No-Face,Без Лица,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+98561-rebirth.mod,Tech Hunter Guards small,Tech Hunter Guards small,rebirth.mod,,,,,,,false,true,false,false,false,0,0
+99003-Dialogue.mod,Holy Priest campaign squad,Holy Priest campaign squad,Dialogue.mod,,,,,,,false,true,false,false,false,0,0
+99119-Dialogue.mod,south hive patrol w/ gorillos,south hive patrol w/ gorillos,Dialogue.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+99121-Dialogue.mod,south hive patrol w/ King gorilla,south hive patrol w/ King gorilla,Dialogue.mod,56777-Dialogue.mod,Южный улей,,,,,false,true,false,false,false,0,0
+99180-Dialogue.mod,Anti slaver all strong small,Anti slaver all strong small,Dialogue.mod; rebirth.mod,58229-Dialogue.mod,Противники рабства,,,,,true,true,false,false,false,0,0
+99185-rebirth.mod,start- nobodies,start- nobodies,rebirth.mod,,,,,,,false,true,true,false,false,0,0
+99700-__April 18.mod,Crab bar patrons 2,Crab bar patrons 2,rebirth.mod,96156-rebirth.mod,Бродяги,,,,,false,true,false,false,false,0,0
+GENERATION_TEMPLATE_SQUAD,generation template,generation template,gamedata.base,,,,,,,false,true,false,false,false,0,0
+blank squad,blank squad,blank squad,gamedata.base,,,,,,,false,true,false,false,false,0,0

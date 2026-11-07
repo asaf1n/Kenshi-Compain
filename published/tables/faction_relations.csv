@@ -1,0 +1,318 @@
+faction_sid,faction_name,kind,other_sid,other_name,value
+1083-gamedata.base,Святая Нация,legal_system,1083-gamedata.base,Святая Нация,
+1083-gamedata.base,Святая Нация,relation,11624-Dialogue (10).mod,Королевство шеков,-100
+1083-gamedata.base,Святая Нация,relation,18891-rebirth.mod,Безродный,-100
+1083-gamedata.base,Святая Нация,relation,42022-rebirth.mod,Изгои Святой Нации,-100
+1083-gamedata.base,Святая Нация,relation,49377-rebirth.mod,Ниндзя отщепенцы,-100
+1083-gamedata.base,Святая Нация,relation,513-gamedata.base,Дохлокот,0
+1083-gamedata.base,Святая Нация,relation,58701-rebirth.mod,Ящеры,-100
+1083-gamedata.base,Святая Нация,relation,defaultEmpireFactionSID,Союзные Города,-100
+1084-gamedata.base,Рабовладельцы,legal_system,defaultEmpireFactionSID,Союзные Города,
+1084-gamedata.base,Рабовладельцы,relation,1083-gamedata.base,Святая Нация,0
+1084-gamedata.base,Рабовладельцы,relation,1087-gamedata.base,Имперские Лорды,100
+1084-gamedata.base,Рабовладельцы,relation,1088-gamedata.base,Гильдия Торговцев,100
+1084-gamedata.base,Рабовладельцы,relation,18000-gamedata.base,Западный Улей,0
+1084-gamedata.base,Рабовладельцы,relation,18891-rebirth.mod,Безродный,-100
+1084-gamedata.base,Рабовладельцы,relation,2607-gamedata.base,Полиция,100
+1084-gamedata.base,Рабовладельцы,relation,54297-rebirth.mod,Мятежные фермеры,-100
+1084-gamedata.base,Рабовладельцы,relation,54587-rebirth.mod,Охотники на людей,75
+1084-gamedata.base,Рабовладельцы,relation,55101-rebirth.mod,Охотники на рабов,75
+1084-gamedata.base,Рабовладельцы,relation,58229-Dialogue.mod,Противники рабства,-100
+1084-gamedata.base,Рабовладельцы,relation,defaultEmpireFactionSID,Союзные Города,100
+1085-gamedata.base,Песчаные ниндзя,coexistence,14491-rebirth.mod,Воры шиноби,
+1088-gamedata.base,Гильдия Торговцев,legal_system,defaultEmpireFactionSID,Союзные Города,
+1088-gamedata.base,Гильдия Торговцев,relation,1084-gamedata.base,Рабовладельцы,100
+1088-gamedata.base,Гильдия Торговцев,relation,2607-gamedata.base,Полиция,100
+1088-gamedata.base,Гильдия Торговцев,relation,defaultEmpireFactionSID,Союзные Города,100
+11624-Dialogue (10).mod,Королевство шеков,coexistence,1088-gamedata.base,Гильдия Торговцев,
+11624-Dialogue (10).mod,Королевство шеков,coexistence,defaultEmpireFactionSID,Союзные Города,
+11624-Dialogue (10).mod,Королевство шеков,legal_system,11624-Dialogue (10).mod,Королевство шеков,
+11624-Dialogue (10).mod,Королевство шеков,relation,1083-gamedata.base,Святая Нация,-100
+1209-gamedata.base,Рыбак,relation,1305-gamedata.base,Голодные бандиты,0
+1209-gamedata.base,Рыбак,relation,200-gamedata.base,Пыльные бандиты,-50
+1229-gamedata.base,Вольные купцы,legal_system,defaultEmpireFactionSID,Союзные Города,
+1229-gamedata.base,Вольные купцы,relation,11624-Dialogue (10).mod,Королевство шеков,100
+1229-gamedata.base,Вольные купцы,relation,2607-gamedata.base,Полиция,100
+1229-gamedata.base,Вольные купцы,relation,41162-Dialogue.mod,Болотники,100
+1229-gamedata.base,Вольные купцы,relation,defaultEmpireFactionSID,Союзные Города,100
+1233-gamedata.base,Техохотники,legal_system,defaultEmpireFactionSID,Союзные Города,
+1233-gamedata.base,Техохотники,relation,16855-gamedata.base,Охотники на людоедов,100
+1233-gamedata.base,Техохотники,relation,18891-rebirth.mod,Безродный,100
+1233-gamedata.base,Техохотники,relation,50358-rebirth.mod,Машинисты,100
+1233-gamedata.base,Техохотники,relation,58229-Dialogue.mod,Противники рабства,15
+1234-gamedata.base,Гильдия медиков,legal_system,defaultEmpireFactionSID,Союзные Города,
+14459-rebirth.mod,Старая Империя,coexistence,42085-rebirth.mod,Старые машины,
+14459-rebirth.mod,Старая Империя,coexistence,57737-rebirth.mod,Легион скелетов,
+14459-rebirth.mod,Старая Империя,relation,1083-gamedata.base,Святая Нация,-100
+14459-rebirth.mod,Старая Империя,relation,1084-gamedata.base,Рабовладельцы,-100
+14459-rebirth.mod,Старая Империя,relation,1085-gamedata.base,Песчаные ниндзя,-100
+14459-rebirth.mod,Старая Империя,relation,1088-gamedata.base,Гильдия Торговцев,-100
+14459-rebirth.mod,Старая Империя,relation,11624-Dialogue (10).mod,Королевство шеков,-100
+14459-rebirth.mod,Старая Империя,relation,1305-gamedata.base,Голодные бандиты,-100
+14459-rebirth.mod,Старая Империя,relation,200-gamedata.base,Пыльные бандиты,-100
+14459-rebirth.mod,Старая Империя,relation,42085-rebirth.mod,Старые машины,0
+14459-rebirth.mod,Старая Империя,relation,513-gamedata.base,Дохлокот,-100
+14459-rebirth.mod,Старая Империя,relation,57737-rebirth.mod,Легион скелетов,0
+14459-rebirth.mod,Старая Империя,relation,defaultEmpireFactionSID,Союзные Города,-100
+14491-rebirth.mod,Воры шиноби,relation,2607-gamedata.base,Полиция,0
+14508-gamedata.base,Охотники за наградой,legal_system,defaultEmpireFactionSID,Союзные Города,
+14508-gamedata.base,Охотники за наградой,relation,1171-gamedata.base,Наёмная полиция,100
+14508-gamedata.base,Охотники за наградой,relation,2607-gamedata.base,Полиция,100
+14508-gamedata.base,Охотники за наградой,relation,defaultEmpireFactionSID,Союзные Города,60
+1532900-__world reactions NE.mod,Мятежные мечники,coexistence,16855-gamedata.base,Охотники на людоедов,
+1532900-__world reactions NE.mod,Мятежные мечники,coexistence,18000-gamedata.base,Западный Улей,
+1532900-__world reactions NE.mod,Мятежные мечники,coexistence,42097-rebirth.mod,Кочевники,
+1532900-__world reactions NE.mod,Мятежные мечники,coexistence,96156-rebirth.mod,Бродяги,
+1532900-__world reactions NE.mod,Мятежные мечники,relation,1084-gamedata.base,Рабовладельцы,-50
+1532900-__world reactions NE.mod,Мятежные мечники,relation,1229-gamedata.base,Вольные купцы,100
+1532900-__world reactions NE.mod,Мятежные мечники,relation,14491-rebirth.mod,Воры шиноби,0
+1532900-__world reactions NE.mod,Мятежные мечники,relation,51646-Dialogue.mod,Имперские селяне,100
+1532900-__world reactions NE.mod,Мятежные мечники,relation,51707-rebirth.mod,Скитальцы,0
+1532900-__world reactions NE.mod,Мятежные мечники,relation,54297-rebirth.mod,Мятежные фермеры,100
+1532900-__world reactions NE.mod,Мятежные мечники,relation,58229-Dialogue.mod,Противники рабства,100
+1532900-__world reactions NE.mod,Мятежные мечники,relation,defaultEmpireFactionSID,Союзные Города,-100
+1533874-rebirth.mod,Изгнанники ВИ,coexistence,42085-rebirth.mod,Старые машины,
+1533874-rebirth.mod,Изгнанники ВИ,coexistence,49356-rebirth.mod,Вторая империя,
+1533874-rebirth.mod,Изгнанники ВИ,coexistence,57737-rebirth.mod,Легион скелетов,
+1533874-rebirth.mod,Изгнанники ВИ,relation,42085-rebirth.mod,Старые машины,0
+1533874-rebirth.mod,Изгнанники ВИ,relation,49356-rebirth.mod,Вторая империя,100
+1533874-rebirth.mod,Изгнанники ВИ,relation,57737-rebirth.mod,Легион скелетов,0
+1534558-rebirth.mod,Гопники,relation,51646-Dialogue.mod,Имперские селяне,0
+1534558-rebirth.mod,Гопники,relation,54297-rebirth.mod,Мятежные фермеры,0
+1534558-rebirth.mod,Гопники,relation,58229-Dialogue.mod,Противники рабства,0
+15579-Dialogue.mod,Республика Тертиус,legal_system,15579-Dialogue.mod,Республика Тертиус,
+16855-gamedata.base,Охотники на людоедов,relation,1233-gamedata.base,Техохотники,100
+16855-gamedata.base,Охотники на людоедов,relation,518-gamedata.base,Людоеды,-100
+18007-rebirth.mod,Ниндзя Чёрного Дракона,relation,18011-rebirth.mod,Клан Белой Брови,-100
+18011-rebirth.mod,Клан Белой Брови,relation,18007-rebirth.mod,Ниндзя Чёрного Дракона,-100
+18891-rebirth.mod,Безродный,relation,1083-gamedata.base,Святая Нация,-100
+18891-rebirth.mod,Безродный,relation,1233-gamedata.base,Техохотники,100
+200-gamedata.base,Пыльные бандиты,relation,2607-gamedata.base,Полиция,-100
+200-gamedata.base,Пыльные бандиты,relation,defaultEmpireFactionSID,Союзные Города,-100
+204-gamedata.base,Безымянные,relation,200-gamedata.base,Пыльные бандиты,-100
+2607-gamedata.base,Полиция,relation,1084-gamedata.base,Рабовладельцы,100
+2607-gamedata.base,Полиция,relation,1085-gamedata.base,Песчаные ниндзя,-100
+2607-gamedata.base,Полиция,relation,1088-gamedata.base,Гильдия Торговцев,100
+2607-gamedata.base,Полиция,relation,1305-gamedata.base,Голодные бандиты,-100
+2607-gamedata.base,Полиция,relation,200-gamedata.base,Пыльные бандиты,-100
+2607-gamedata.base,Полиция,relation,513-gamedata.base,Дохлокот,100
+2607-gamedata.base,Полиция,relation,518-gamedata.base,Людоеды,-100
+2607-gamedata.base,Полиция,relation,defaultEmpireFactionSID,Союзные Города,100
+3943-gamedata.base,Живность,coexistence,40544-rebirth.mod,Травоядные,
+3943-gamedata.base,Живность,relation,40544-rebirth.mod,Травоядные,0
+3943-gamedata.base,Живность,relation,51331-rebirth.mod,Пауки,100
+40544-rebirth.mod,Травоядные,relation,3943-gamedata.base,Живность,0
+41162-Dialogue.mod,Болотники,coexistence,51331-rebirth.mod,Пауки,
+41162-Dialogue.mod,Болотники,coexistence,51638-rebirth.mod,Болотные ниндзя,
+41162-Dialogue.mod,Болотники,coexistence,51652-rebirth.mod,Красные сабли,
+41162-Dialogue.mod,Болотники,coexistence,51811-rebirth.mod,Болотные твари,
+42022-rebirth.mod,Изгои Святой Нации,relation,1083-gamedata.base,Святая Нация,-100
+42085-rebirth.mod,Старые машины,coexistence,3943-gamedata.base,Живность,
+42085-rebirth.mod,Старые машины,coexistence,42088-rebirth.mod,Скелеты,
+42085-rebirth.mod,Старые машины,coexistence,49356-rebirth.mod,Вторая империя,
+42085-rebirth.mod,Старые машины,coexistence,57737-rebirth.mod,Легион скелетов,
+42085-rebirth.mod,Старые машины,coexistence,63028-Dialogue.mod,Кожаные бандиты,
+42085-rebirth.mod,Старые машины,relation,3943-gamedata.base,Живность,0
+42085-rebirth.mod,Старые машины,relation,42088-rebirth.mod,Скелеты,0
+42085-rebirth.mod,Старые машины,relation,49356-rebirth.mod,Вторая империя,0
+42085-rebirth.mod,Старые машины,relation,57737-rebirth.mod,Легион скелетов,50
+42085-rebirth.mod,Старые машины,relation,63028-Dialogue.mod,Кожаные бандиты,0
+42097-rebirth.mod,Кочевники,coexistence,200-gamedata.base,Пыльные бандиты,
+42097-rebirth.mod,Кочевники,coexistence,51812-rebirth.mod,Живоглоты,
+42097-rebirth.mod,Кочевники,coexistence,56595-Dialogue.mod,Груда костей,
+42097-rebirth.mod,Кочевники,relation,18000-gamedata.base,Западный Улей,50
+42097-rebirth.mod,Кочевники,relation,41162-Dialogue.mod,Болотники,0
+42097-rebirth.mod,Кочевники,relation,42022-rebirth.mod,Изгои Святой Нации,0
+42097-rebirth.mod,Кочевники,relation,42257-rebirth.mod,Берсерки,0
+42097-rebirth.mod,Кочевники,relation,51646-Dialogue.mod,Имперские селяне,50
+42097-rebirth.mod,Кочевники,relation,54297-rebirth.mod,Мятежные фермеры,0
+42097-rebirth.mod,Кочевники,relation,5442-gamedata.base,Изгои,0
+42097-rebirth.mod,Кочевники,relation,57740-rebirth.mod,Рабы,0
+42235-rebirth.mod,Верещащие бандиты,relation,42097-rebirth.mod,Кочевники,100
+42257-rebirth.mod,Берсерки,relation,1083-gamedata.base,Святая Нация,-100
+42257-rebirth.mod,Берсерки,relation,1084-gamedata.base,Рабовладельцы,-100
+42257-rebirth.mod,Берсерки,relation,1088-gamedata.base,Гильдия Торговцев,-100
+42257-rebirth.mod,Берсерки,relation,11624-Dialogue (10).mod,Королевство шеков,-100
+42257-rebirth.mod,Берсерки,relation,16860-gamedata.base,Кровавые налётчики,-100
+42257-rebirth.mod,Берсерки,relation,2607-gamedata.base,Полиция,-100
+42257-rebirth.mod,Берсерки,relation,42022-rebirth.mod,Изгои Святой Нации,-100
+42257-rebirth.mod,Берсерки,relation,42085-rebirth.mod,Старые машины,-100
+42257-rebirth.mod,Берсерки,relation,defaultEmpireFactionSID,Союзные Города,-100
+42264-gamedata.base,Лига Союзных Героев,relation,1083-gamedata.base,Святая Нация,0
+42264-gamedata.base,Лига Союзных Героев,relation,11624-Dialogue (10).mod,Королевство шеков,-100
+42264-gamedata.base,Лига Союзных Героев,relation,18000-gamedata.base,Западный Улей,-100
+48671-rebirth.mod,Древние руины,relation,3943-gamedata.base,Живность,0
+49356-rebirth.mod,Вторая империя,coexistence,1533874-rebirth.mod,Изгнанники ВИ,
+49356-rebirth.mod,Вторая империя,coexistence,42085-rebirth.mod,Старые машины,
+49356-rebirth.mod,Вторая империя,coexistence,57737-rebirth.mod,Легион скелетов,
+49356-rebirth.mod,Вторая империя,relation,1533874-rebirth.mod,Изгнанники ВИ,100
+49356-rebirth.mod,Вторая империя,relation,42085-rebirth.mod,Старые машины,0
+49356-rebirth.mod,Вторая империя,relation,57737-rebirth.mod,Легион скелетов,0
+49377-rebirth.mod,Ниндзя отщепенцы,relation,1083-gamedata.base,Святая Нация,-100
+49377-rebirth.mod,Ниндзя отщепенцы,relation,513-gamedata.base,Дохлокот,100
+50358-rebirth.mod,Машинисты,legal_system,defaultEmpireFactionSID,Союзные Города,
+50358-rebirth.mod,Машинисты,relation,1233-gamedata.base,Техохотники,100
+513-gamedata.base,Дохлокот,relation,200-gamedata.base,Пыльные бандиты,-50
+513-gamedata.base,Дохлокот,relation,518-gamedata.base,Людоеды,-100
+51331-rebirth.mod,Пауки,coexistence,3943-gamedata.base,Живность,
+51331-rebirth.mod,Пауки,coexistence,40544-rebirth.mod,Травоядные,
+51331-rebirth.mod,Пауки,coexistence,41162-Dialogue.mod,Болотники,
+51331-rebirth.mod,Пауки,coexistence,48814-Dialogue.mod,Гончие,
+51331-rebirth.mod,Пауки,coexistence,51811-rebirth.mod,Болотные твари,
+51331-rebirth.mod,Пауки,relation,3943-gamedata.base,Живность,0
+51331-rebirth.mod,Пауки,relation,40544-rebirth.mod,Травоядные,0
+51638-rebirth.mod,Болотные ниндзя,coexistence,14491-rebirth.mod,Воры шиноби,
+51638-rebirth.mod,Болотные ниндзя,coexistence,41162-Dialogue.mod,Болотники,
+51638-rebirth.mod,Болотные ниндзя,relation,3943-gamedata.base,Живность,0
+51638-rebirth.mod,Болотные ниндзя,relation,41162-Dialogue.mod,Болотники,0
+51638-rebirth.mod,Болотные ниндзя,relation,48743-Dialogue.mod,Черновёртыши,0
+51638-rebirth.mod,Болотные ниндзя,relation,48753-Dialogue.mod,Каменные крысы,0
+51638-rebirth.mod,Болотные ниндзя,relation,48760-Dialogue.mod,Два клинка,0
+51638-rebirth.mod,Болотные ниндзя,relation,48791-Dialogue.mod,Серодёры,0
+51638-rebirth.mod,Болотные ниндзя,relation,48814-Dialogue.mod,Гончие,0
+51638-rebirth.mod,Болотные ниндзя,relation,51652-rebirth.mod,Красные сабли,-100
+51646-Dialogue.mod,Имперские селяне,coexistence,54297-rebirth.mod,Мятежные фермеры,
+51646-Dialogue.mod,Имперские селяне,legal_system,defaultEmpireFactionSID,Союзные Города,
+51646-Dialogue.mod,Имперские селяне,relation,1083-gamedata.base,Святая Нация,-100
+51646-Dialogue.mod,Имперские селяне,relation,defaultEmpireFactionSID,Союзные Города,100
+51652-rebirth.mod,Красные сабли,coexistence,14491-rebirth.mod,Воры шиноби,
+51652-rebirth.mod,Красные сабли,coexistence,41162-Dialogue.mod,Болотники,
+51652-rebirth.mod,Красные сабли,relation,3943-gamedata.base,Живность,0
+51652-rebirth.mod,Красные сабли,relation,41162-Dialogue.mod,Болотники,0
+51652-rebirth.mod,Красные сабли,relation,48743-Dialogue.mod,Черновёртыши,0
+51652-rebirth.mod,Красные сабли,relation,48753-Dialogue.mod,Каменные крысы,0
+51652-rebirth.mod,Красные сабли,relation,48760-Dialogue.mod,Два клинка,0
+51652-rebirth.mod,Красные сабли,relation,48791-Dialogue.mod,Серодёры,0
+51652-rebirth.mod,Красные сабли,relation,48814-Dialogue.mod,Гончие,0
+51652-rebirth.mod,Красные сабли,relation,51638-rebirth.mod,Болотные ниндзя,-100
+51707-rebirth.mod,Скитальцы,relation,1233-gamedata.base,Техохотники,100
+51707-rebirth.mod,Скитальцы,relation,14491-rebirth.mod,Воры шиноби,100
+51707-rebirth.mod,Скитальцы,relation,58229-Dialogue.mod,Противники рабства,100
+51811-rebirth.mod,Болотные твари,coexistence,3943-gamedata.base,Живность,
+51811-rebirth.mod,Болотные твари,coexistence,40544-rebirth.mod,Травоядные,
+51811-rebirth.mod,Болотные твари,coexistence,41162-Dialogue.mod,Болотники,
+51811-rebirth.mod,Болотные твари,coexistence,48814-Dialogue.mod,Гончие,
+51811-rebirth.mod,Болотные твари,coexistence,51331-rebirth.mod,Пауки,
+51812-rebirth.mod,Живоглоты,coexistence,18000-gamedata.base,Западный Улей,
+51812-rebirth.mod,Живоглоты,relation,51331-rebirth.mod,Пауки,-100
+51813-rebirth.mod,Гориллы,coexistence,18000-gamedata.base,Западный Улей,
+51813-rebirth.mod,Гориллы,coexistence,40544-rebirth.mod,Травоядные,
+51813-rebirth.mod,Гориллы,coexistence,51812-rebirth.mod,Живоглоты,
+54297-rebirth.mod,Мятежные фермеры,coexistence,16855-gamedata.base,Охотники на людоедов,
+54297-rebirth.mod,Мятежные фермеры,coexistence,18000-gamedata.base,Западный Улей,
+54297-rebirth.mod,Мятежные фермеры,coexistence,42097-rebirth.mod,Кочевники,
+54297-rebirth.mod,Мятежные фермеры,coexistence,51646-Dialogue.mod,Имперские селяне,
+54297-rebirth.mod,Мятежные фермеры,coexistence,96156-rebirth.mod,Бродяги,
+54297-rebirth.mod,Мятежные фермеры,relation,1532900-__world reactions NE.mod,Мятежные мечники,100
+54297-rebirth.mod,Мятежные фермеры,relation,204-gamedata.base,Безымянные,0
+54297-rebirth.mod,Мятежные фермеры,relation,51646-Dialogue.mod,Имперские селяне,100
+54297-rebirth.mod,Мятежные фермеры,relation,58229-Dialogue.mod,Противники рабства,0
+54297-rebirth.mod,Мятежные фермеры,relation,96156-rebirth.mod,Бродяги,0
+5442-gamedata.base,Изгои,relation,1083-gamedata.base,Святая Нация,-50
+5442-gamedata.base,Изгои,relation,1085-gamedata.base,Песчаные ниндзя,-50
+5442-gamedata.base,Изгои,relation,200-gamedata.base,Пыльные бандиты,-50
+5442-gamedata.base,Изгои,relation,2607-gamedata.base,Полиция,-100
+5442-gamedata.base,Изгои,relation,defaultEmpireFactionSID,Союзные Города,-100
+54587-rebirth.mod,Охотники на людей,relation,1084-gamedata.base,Рабовладельцы,100
+55101-rebirth.mod,Охотники на рабов,relation,1084-gamedata.base,Рабовладельцы,75
+56098-rebirth.mod,Рвачи,coexistence,40544-rebirth.mod,Травоядные,
+56108-rebirth.mod,Крабы,coexistence,96359-rebirth.mod,Рыболюды,
+56108-rebirth.mod,Крабы,relation,62806-rebirth.mod,Крабовые налётчики,100
+56128-rebirth.mod,Волки,coexistence,97574-Newwworld.mod,Ползучая мышь,
+56595-Dialogue.mod,Груда костей,relation,1083-gamedata.base,Святая Нация,-100
+56595-Dialogue.mod,Груда костей,relation,1084-gamedata.base,Рабовладельцы,-100
+56595-Dialogue.mod,Груда костей,relation,1088-gamedata.base,Гильдия Торговцев,-100
+56595-Dialogue.mod,Груда костей,relation,11624-Dialogue (10).mod,Королевство шеков,-100
+56595-Dialogue.mod,Груда костей,relation,16860-gamedata.base,Кровавые налётчики,-100
+56595-Dialogue.mod,Груда костей,relation,2607-gamedata.base,Полиция,-100
+56595-Dialogue.mod,Груда костей,relation,42022-rebirth.mod,Изгои Святой Нации,-100
+56595-Dialogue.mod,Груда костей,relation,42085-rebirth.mod,Старые машины,-100
+56595-Dialogue.mod,Груда костей,relation,defaultEmpireFactionSID,Союзные Города,-100
+56777-Dialogue.mod,Южный улей,relation,18000-gamedata.base,Западный Улей,-100
+56777-Dialogue.mod,Южный улей,relation,3943-gamedata.base,Живность,0
+56777-Dialogue.mod,Южный улей,relation,56128-rebirth.mod,Волки,0
+56777-Dialogue.mod,Южный улей,relation,58229-Dialogue.mod,Противники рабства,0
+57737-rebirth.mod,Легион скелетов,coexistence,1533874-rebirth.mod,Изгнанники ВИ,
+57737-rebirth.mod,Легион скелетов,coexistence,42085-rebirth.mod,Старые машины,
+57737-rebirth.mod,Легион скелетов,coexistence,42088-rebirth.mod,Скелеты,
+57737-rebirth.mod,Легион скелетов,coexistence,49356-rebirth.mod,Вторая империя,
+57737-rebirth.mod,Легион скелетов,relation,1533874-rebirth.mod,Изгнанники ВИ,0
+57737-rebirth.mod,Легион скелетов,relation,42085-rebirth.mod,Старые машины,50
+57737-rebirth.mod,Легион скелетов,relation,42088-rebirth.mod,Скелеты,0
+57737-rebirth.mod,Легион скелетов,relation,49356-rebirth.mod,Вторая империя,0
+58229-Dialogue.mod,Противники рабства,relation,1083-gamedata.base,Святая Нация,-50
+58229-Dialogue.mod,Противники рабства,relation,1084-gamedata.base,Рабовладельцы,-100
+58229-Dialogue.mod,Противники рабства,relation,1088-gamedata.base,Гильдия Торговцев,-100
+58229-Dialogue.mod,Противники рабства,relation,1233-gamedata.base,Техохотники,70
+58229-Dialogue.mod,Противники рабства,relation,14491-rebirth.mod,Воры шиноби,50
+58229-Dialogue.mod,Противники рабства,relation,200-gamedata.base,Пыльные бандиты,-100
+58229-Dialogue.mod,Противники рабства,relation,41162-Dialogue.mod,Болотники,20
+58229-Dialogue.mod,Противники рабства,relation,42264-gamedata.base,Лига Союзных Героев,-100
+58229-Dialogue.mod,Противники рабства,relation,48814-Dialogue.mod,Гончие,0
+58229-Dialogue.mod,Противники рабства,relation,49377-rebirth.mod,Ниндзя отщепенцы,70
+58229-Dialogue.mod,Противники рабства,relation,49392-rebirth.mod,Рабы Возрождения,100
+58229-Dialogue.mod,Противники рабства,relation,51646-Dialogue.mod,Имперские селяне,70
+58229-Dialogue.mod,Противники рабства,relation,518-gamedata.base,Людоеды,-100
+58229-Dialogue.mod,Противники рабства,relation,54587-rebirth.mod,Охотники на людей,-100
+58229-Dialogue.mod,Противники рабства,relation,55101-rebirth.mod,Охотники на рабов,-100
+58229-Dialogue.mod,Противники рабства,relation,57740-rebirth.mod,Рабы,100
+58229-Dialogue.mod,Противники рабства,relation,defaultEmpireFactionSID,Союзные Города,-100
+58701-rebirth.mod,Ящеры,coexistence,40544-rebirth.mod,Травоядные,
+58701-rebirth.mod,Ящеры,relation,40544-rebirth.mod,Травоядные,0
+58701-rebirth.mod,Ящеры,relation,51331-rebirth.mod,Пауки,100
+62792-rebirth.mod,Скелетные бандиты,relation,57737-rebirth.mod,Легион скелетов,100
+62792-rebirth.mod,Скелетные бандиты,relation,62805-rebirth.mod,Разбойники,-100
+62792-rebirth.mod,Скелетные бандиты,relation,62806-rebirth.mod,Крабовые налётчики,-100
+62792-rebirth.mod,Скелетные бандиты,relation,defaultEmpireFactionSID,Союзные Города,-100
+62805-rebirth.mod,Разбойники,relation,62792-rebirth.mod,Скелетные бандиты,-100
+62805-rebirth.mod,Разбойники,relation,62806-rebirth.mod,Крабовые налётчики,-100
+62805-rebirth.mod,Разбойники,relation,63028-Dialogue.mod,Кожаные бандиты,-100
+62805-rebirth.mod,Разбойники,relation,defaultEmpireFactionSID,Союзные Города,-100
+62806-rebirth.mod,Крабовые налётчики,relation,56108-rebirth.mod,Крабы,100
+62806-rebirth.mod,Крабовые налётчики,relation,62792-rebirth.mod,Скелетные бандиты,-100
+62806-rebirth.mod,Крабовые налётчики,relation,62805-rebirth.mod,Разбойники,-100
+62806-rebirth.mod,Крабовые налётчики,relation,defaultEmpireFactionSID,Союзные Города,-100
+63028-Dialogue.mod,Кожаные бандиты,coexistence,42085-rebirth.mod,Старые машины,
+63028-Dialogue.mod,Кожаные бандиты,coexistence,96359-rebirth.mod,Рыболюды,
+63028-Dialogue.mod,Кожаные бандиты,relation,57737-rebirth.mod,Легион скелетов,100
+63028-Dialogue.mod,Кожаные бандиты,relation,62805-rebirth.mod,Разбойники,-100
+63028-Dialogue.mod,Кожаные бандиты,relation,62806-rebirth.mod,Крабовые налётчики,-100
+63028-Dialogue.mod,Кожаные бандиты,relation,defaultEmpireFactionSID,Союзные Города,-100
+65263-Newwworld.mod,Обжимка,coexistence,3943-gamedata.base,Живность,
+65263-Newwworld.mod,Обжимка,coexistence,40544-rebirth.mod,Травоядные,
+65263-Newwworld.mod,Обжимка,coexistence,42085-rebirth.mod,Старые машины,
+65263-Newwworld.mod,Обжимка,coexistence,51813-rebirth.mod,Гориллы,
+65263-Newwworld.mod,Обжимка,coexistence,56108-rebirth.mod,Крабы,
+65263-Newwworld.mod,Обжимка,coexistence,62806-rebirth.mod,Крабовые налётчики,
+66292-rebirth.mod,Ниндзя Чёрной Пустыни,coexistence,14491-rebirth.mod,Воры шиноби,
+95512-rebirth.mod,Мародёры,relation,defaultEmpireFactionSID,Союзные Города,0
+96156-rebirth.mod,Бродяги,relation,51646-Dialogue.mod,Имперские селяне,0
+96156-rebirth.mod,Бродяги,relation,54297-rebirth.mod,Мятежные фермеры,0
+96156-rebirth.mod,Бродяги,relation,58229-Dialogue.mod,Противники рабства,0
+96175-rebirth.mod,Луговые пираты,coexistence,97072-Dialogue.mod,Культ проповедника,
+96175-rebirth.mod,Луговые пираты,relation,2607-gamedata.base,Полиция,-100
+96175-rebirth.mod,Луговые пираты,relation,97072-Dialogue.mod,Культ проповедника,0
+96175-rebirth.mod,Луговые пираты,relation,defaultEmpireFactionSID,Союзные Города,-100
+96359-rebirth.mod,Рыболюды,coexistence,56108-rebirth.mod,Крабы,
+96359-rebirth.mod,Рыболюды,coexistence,63028-Dialogue.mod,Кожаные бандиты,
+96359-rebirth.mod,Рыболюды,relation,56108-rebirth.mod,Крабы,0
+96359-rebirth.mod,Рыболюды,relation,63028-Dialogue.mod,Кожаные бандиты,0
+97072-Dialogue.mod,Культ проповедника,coexistence,96175-rebirth.mod,Луговые пираты,
+97072-Dialogue.mod,Культ проповедника,relation,96175-rebirth.mod,Луговые пираты,0
+97574-Newwworld.mod,Ползучая мышь,coexistence,18000-gamedata.base,Западный Улей,
+97574-Newwworld.mod,Ползучая мышь,coexistence,40544-rebirth.mod,Травоядные,
+97574-Newwworld.mod,Ползучая мышь,coexistence,51812-rebirth.mod,Живоглоты,
+97574-Newwworld.mod,Ползучая мышь,coexistence,56128-rebirth.mod,Волки,
+97613-rebirth.mod,Хозяева невольников,coexistence,3943-gamedata.base,Живность,
+97613-rebirth.mod,Хозяева невольников,coexistence,42088-rebirth.mod,Скелеты,
+97613-rebirth.mod,Хозяева невольников,coexistence,51812-rebirth.mod,Живоглоты,
+97613-rebirth.mod,Хозяева невольников,coexistence,57737-rebirth.mod,Легион скелетов,
+97613-rebirth.mod,Хозяева невольников,relation,3943-gamedata.base,Живность,0
+97613-rebirth.mod,Хозяева невольников,relation,42088-rebirth.mod,Скелеты,0
+97613-rebirth.mod,Хозяева невольников,relation,57737-rebirth.mod,Легион скелетов,50
+defaultEmpireFactionSID,Союзные Города,legal_system,defaultEmpireFactionSID,Союзные Города,
+defaultEmpireFactionSID,Союзные Города,relation,1083-gamedata.base,Святая Нация,-100
+defaultEmpireFactionSID,Союзные Города,relation,1084-gamedata.base,Рабовладельцы,60
+defaultEmpireFactionSID,Союзные Города,relation,1088-gamedata.base,Гильдия Торговцев,100
+defaultEmpireFactionSID,Союзные Города,relation,204-gamedata.base,Безымянные,0
+defaultEmpireFactionSID,Союзные Города,relation,2607-gamedata.base,Полиция,100
