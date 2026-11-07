@@ -1,10 +1,10 @@
 # Краткая сводка: День 135, 10:49
 
-- **snapshot_id:** `sha256-f3543c7b5a548db682845e8d5e34a7abd36be1559aec05971ad36f637b3b690b`
-- **previous_snapshot_id:** `sha256-474d819db91527368f6f6afa7fe020e5e83c305aa9d34f253275fbe19abcb2f1`
+- **snapshot_id:** `sha256-781b398192623ce34bf974bf2bd1baffa960fe8b2300cb6c72002c130cb4a03d`
+- **previous_snapshot_id:** `sha256-f3543c7b5a548db682845e8d5e34a7abd36be1559aec05971ad36f637b3b690b`
 - **branch_id:** `hot-lon-chapter-x-final`
 - **game_time:** `Day 135, 10:49`
-- **generated_at:** `2026-11-07T21:11:11Z`
+- **generated_at:** `2026-11-07T22:25:47Z`
 
 ## Игровой мир
 - **Время:** День 135, время 10:49
