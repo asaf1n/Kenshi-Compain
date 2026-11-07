@@ -1,6 +1,8 @@
 # Атлас регионов Kenshi (Vanilla)
 
-Полный справочник по всем регионам из docs/reference/regions-index.md. Русские названия — приоритетно из индекса и docs/Kenshi_RU_EN.md; уникальные NPC — по полю `name_ru` из `published/current/world_state.json`. Английские термины в скобках при первом упоминании. Источники: kenshi.zone (environment-hazards, world-map, locations), Kenshi Wiki (Zones, individual region pages), regions-index.md. Vanilla only. Связь с World States — ссылками на world-states.md.
+Полный справочник по всем регионам из docs/reference/regions-index.md. Русские названия — приоритетно из индекса и docs/Kenshi_RU_EN.md; уникальные NPC — по `published/tables/unique_npcs.csv` (ранее поле `name_ru` из `published/current/world_state.json``. Английские термины в скобках при первом упоминании. Источники: kenshi.zone (environment-hazards, world-map, locations), Kenshi Wiki (Zones, individual region pages), regions-index.md. Vanilla only. Связь с World States — ссылками на world-states.md.
+
+Кто появляется в каждом регионе и городе, состав отрядов и отношения фракций между собой — `docs/reference/encounters.md`.
 
 Карта — единый континент ~870 км² без загрузочных экранов. Зоны определяют спавны врагов, сезоны и модификаторы среды. Слои (зоны, биом, ресурсы) не совпадают. Безопасность зависит от расы сильнее координат: Святая Нация (Holy Nation) убивает нелюдей и скелетов/протезы на месте.
 
