@@ -1,10 +1,10 @@
 # Краткая сводка: День 135, 10:49
 
-- **snapshot_id:** `sha256-474d819db91527368f6f6afa7fe020e5e83c305aa9d34f253275fbe19abcb2f1`
-- **previous_snapshot_id:** `sha256-487bd5b4d5f7853272408524e5158bc529891aba81299445ead568d09f8ed121`
+- **snapshot_id:** `sha256-f3543c7b5a548db682845e8d5e34a7abd36be1559aec05971ad36f637b3b690b`
+- **previous_snapshot_id:** `sha256-474d819db91527368f6f6afa7fe020e5e83c305aa9d34f253275fbe19abcb2f1`
 - **branch_id:** `hot-lon-chapter-x-final`
 - **game_time:** `Day 135, 10:49`
-- **generated_at:** `2026-11-07T21:10:42Z`
+- **generated_at:** `2026-11-07T21:11:11Z`
 
 ## Игровой мир
 - **Время:** День 135, время 10:49
@@ -238,34 +238,7 @@
 - `35.42:46-Newwworld-INGAME`: город **Ровная лагуна** (`in_location`, d = 916.7 м)
 
 ### Перемещения между снимками
-- **fx** (`ps:-843917568`): Purple Sands -> Purple Sands (прямолинейное смещение: 8448.8 м)
-- **Ану** (`ps:1359130880`): Purple Sands -> Purple Sands (прямолинейное смещение: 8456.8 м)
-- **Бип** (`ps:-1572677376`): Purple Sands -> Purple Sands (прямолинейное смещение: 8446.6 м)
-- **Вечный Суньвынь** (`ps:398315424`): Purple Sands -> Purple Sands (прямолинейное смещение: 8369.1 м)
-- **Вик** (`ps:-941451776`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 245.6 м)
-- **Вынос мозга** (`ps:1464721664`): The Swamp -> The Swamp (прямолинейное смещение: 1.8 м)
-- **Вьючный бык** (`ps:1856201216`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 6088.3 м)
-- **Вьючный бык** (`ps:35522460`): Purple Sands -> Purple Sands (прямолинейное смещение: 8410.0 м)
-- **Гигант Ранэ** (`ps:1671874944`): Purple Sands -> Purple Sands (прямолинейное смещение: 8493.2 м)
-- **Гриффин** (`ps:145629888`): Purple Sands -> Purple Sands (прямолинейное смещение: 8470.5 м)
-- **Доктор Чон** (`ps:175903328`): Purple Sands -> Purple Sands (прямолинейное смещение: 8379.1 м)
-- **Зелёный** (`ps:1758056704`): Purple Sands -> Purple Sands (прямолинейное смещение: 8441.6 м)
-- **Зелёный палец** (`ps:621948224`): The Swamp -> The Swamp (прямолинейное смещение: 83.3 м)
-- **Кан** (`ps:-1346969344`): Purple Sands -> Purple Sands (прямолинейное смещение: 8487.8 м)
-- **Крошка Джон** (`ps:-383834368`): Purple Sands -> Purple Sands (прямолинейное смещение: 8411.4 м)
-- **Мрачный Нил** (`ps:-456466432`): Purple Sands -> Purple Sands (прямолинейное смещение: 8467.3 м)
-- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 331.2 м)
-- **Ожог** (`ps:1441040000`): Purple Sands -> Purple Sands (прямолинейное смещение: 8490.9 м)
-- **Пиа** (`ps:-2041915648`): Purple Sands -> Purple Sands (прямолинейное смещение: 8476.1 м)
-- **Ридли** (`ps:1665649408`): Purple Sands -> Purple Sands (прямолинейное смещение: 8495.4 м)
-- **Рука** (`ps:-1715743744`): Purple Sands -> Purple Sands (прямолинейное смещение: 8433.4 м)
-- **Сэто** (`ps:-474044416`): Purple Sands -> Purple Sands (прямолинейное смещение: 8404.2 м)
-- **Флик** (`ps:1106567424`): Purple Sands -> Purple Sands (прямолинейное смещение: 8480.1 м)
-- **Хамут** (`ps:1223510784`): Purple Sands -> Purple Sands (прямолинейное смещение: 8470.6 м)
-- **Хоббс** (`ps:-1002242560`): Purple Sands -> Purple Sands (прямолинейное смещение: 8509.2 м)
-- **Хот Лон** (`ps:827270528`): Purple Sands -> Purple Sands (прямолинейное смещение: 8436.2 м)
-- **Чад** (`ps:2077026304`): Purple Sands -> Purple Sands (прямолинейное смещение: 8448.8 м)
-- **Шрайк** (`ps:-476241664`): Purple Sands -> Purple Sands (прямолинейное смещение: 8451.6 м)
+- Все участники оставались на прежних позициях.
 
 ## Скриншоты снимка
 
@@ -285,57 +258,7 @@
 Архивный хвост и все 30 кадров выпуска: [screenshots/index.md](screenshots/index.md).
 
 ## Ключевые изменения
-- **Казна:** 4791 -> 1585 (-3206)
-- **Перемещения предметов (6):**
-  - `Ремкомплект скелета`: от [Флик (-4)] к [Вьючный бык [ps:35522460] (+6)]
-  - `Электродетали`: от [Флик (-8)] к [Вьючный бык [ps:35522460] (+8)]
-  - `Варёные овощи`: от [Шрайк (-1)] к [Хамут (+1)]
-  - `Гохан`: от [Вечный Суньвынь (-2), Шрайк (-4)] к [Зелёный палец (+1), Пиа (+1), Хамут (+1), Чад (+1)]
-  - `Ткани`: от [Флик (-2)] к [Вик (+1), Вьючный бык [ps:35522460] (+2)]
-  - `Болты [Стандартные]`: от [Флик (-16)] к [Зелёный (+14)]
-- **Изменения навыков:** у 29 участников
-  - fx (`ps:-843917568`): Athletics: 88.71 -> 88.83, Dexterity: 50.37 -> 50.43, Martial Arts: 50.73 -> 50.81, Melee Attack: 52.46 -> 52.52, Melee Defence: 52.84 -> 53.06, Strength: 26.34 -> 26.42, Swimming: 42.81 -> 44.16, Toughness: 54.72 -> 54.75, mass combat: 38.79 -> 39.88
-  - Ану (`ps:1359130880`): Athletics: 85.86 -> 86.01, Dexterity: 47.55 -> 47.63, Dodge: 41.71 -> 41.72, Field Medic: 17.6 -> 17.63, Martial Arts: 42.24 -> 42.33, Robotics: 36.02 -> 36.06, Swimming: 38.58 -> 40.8, Toughness: 47.74 -> 47.75, mass combat: 69.6 -> 70.2
-  - Бип (`ps:-1572677376`): Athletics: 71.98 -> 72.52, Dexterity: 51.32 -> 51.46, Field Medic: 16.9 -> 17.02, Katanas: 41.68 -> 41.82, Melee Attack: 47.92 -> 48.06, Melee Defence: 46.75 -> 46.98, Robotics: 9.73 -> 9.79, Strength: 30.69 -> 30.76, Swimming: 29.24 -> 30.73, Toughness: 51.24 -> 51.27
-  - Вечный Суньвынь (`ps:398315424`): Athletics: 75.85 -> 76.18, Dexterity: 43.52 -> 43.7, Melee Attack: 49.38 -> 49.56, Melee Defence: 41.39 -> 41.81, Sabres: 43.23 -> 43.39, Strength: 28.52 -> 28.65, Swimming: 20.54 -> 22.35, Toughness: 41.08 -> 41.19
-  - Вик (`ps:-941451776`): Athletics: 68.38 -> 68.39
-  - Вынос мозга (`ps:1464721664`): Athletics: 57.64 -> 57.66, Crossbows: 62.23 -> 62.28, Dexterity: 24.63 -> 24.65, Field Medic: 15.03 -> 15.26, Perception: 44.84 -> 45.0, Strength: 13.98 -> 13.99
-  - Вьючный бык (`ps:1856201216`): Athletics: 63.63 -> 63.78
-  - Вьючный бык (`ps:35522460`): Athletics: 87.19 -> 87.22, Dexterity: 56.61 -> 56.65, Martial Arts: 52.95 -> 53.0, Melee Attack: 55.56 -> 55.61, Melee Defence: 56.68 -> 56.79, Strength: 33.16 -> 33.2, Swimming: 39.5 -> 40.01, Toughness: 54.13 -> 54.14, mass combat: 34.46 -> 35.32
-  - Гигант Ранэ (`ps:1671874944`): Athletics: 73.87 -> 74.1, Dexterity: 27.69 -> 27.8, Field Medic: 19.19 -> 19.21, Heavy Weapons: 39.38 -> 39.65, Melee Attack: 49.89 -> 50.09, Melee Defence: 49.69 -> 49.91, Robotics: 9.46 -> 9.49, Strength: 49.08 -> 49.3, Swimming: 27.15 -> 28.98, Toughness: 49.85 -> 49.88, mass combat: 67.42 -> 68.39
-  - Гриффин (`ps:145629888`): Athletics: 74.56 -> 74.84, Dexterity: 35.27 -> 35.35, Field Medic: 10.11 -> 10.29, Hackers: 39.48 -> 39.63, Melee Attack: 44.43 -> 44.55, Melee Defence: 47.1 -> 47.2, Robotics: 1.68 -> 1.81, Strength: 38.51 -> 38.89, Swimming: 26.97 -> 28.57, Toughness: 49.14 -> 49.18, mass combat: 57.04 -> 58.05
-  - Доктор Чон (`ps:175903328`): Athletics: 71.37 -> 71.82, Dexterity: 23.72 -> 23.88, Field Medic: 40.48 -> 40.49, Hackers: 36.4 -> 36.56, Melee Attack: 38.5 -> 38.7, Melee Defence: 43.99 -> 44.13, Robotics: 2.04 -> 2.09, Strength: 30.68 -> 30.87, Swimming: 22.58 -> 23.91, Toughness: 44.5 -> 44.53, mass combat: 29.9 -> 30.5
-  - Зелёный (`ps:1758056704`): Athletics: 83.17 -> 83.32, Crossbows: 82.68 -> 82.85, Dexterity: 61.79 -> 62.09, Dodge: 9.39 -> 9.44, Field Medic: 17.65 -> 17.66, Katanas: 38.48 -> 38.49, Lockpicking: 15.77 -> 17.46, Melee Attack: 34.82 -> 34.83, Melee Defence: 44.02 -> 44.08, Perception: 67.85 -> 68.16, Precision Shooting: 78.05 -> 78.32, Robotics: 14.79 -> 14.84, Strength: 24.84 -> 25.0, Swimming: 43.3 -> 44.26, Toughness: 47.46 -> 47.48
-  - Зелёный палец (`ps:621948224`): Athletics: 29.7 -> 29.71, Dexterity: 4.27 -> 4.54, Farming: 45.16 -> 45.32, Katanas: 3.74 -> 4.11, Labouring: 41.51 -> 42.25, Melee Attack: 16.47 -> 16.66, Strength: 18.51 -> 18.52
-  - Кан (`ps:-1346969344`): Athletics: 83.37 -> 83.49, Dexterity: 51.16 -> 51.29, Field Medic: 41.64 -> 41.65, Melee Attack: 64.87 -> 64.98, Melee Defence: 53.32 -> 53.37, Robotics: 16.76 -> 16.78, Sabres: 55.36 -> 55.46, Strength: 45.22 -> 45.28, Swimming: 44.54 -> 45.48, Toughness: 58.3 -> 58.32, mass combat: 194.87 -> 195.24
-  - Крошка Джон (`ps:-383834368`): Athletics: 75.27 -> 75.58, Dexterity: 46.58 -> 46.82, Field Medic: 23.38 -> 23.5, Melee Attack: 51.51 -> 51.76, Melee Defence: 43.29 -> 43.93, Robotics: 9.56 -> 9.59, Sabres: 43.48 -> 43.74, Strength: 34.83 -> 34.98, Swimming: 21.24 -> 23.36, Toughness: 48.4 -> 48.51, mass combat: 69.45 -> 69.9
-  - Мрачный Нил (`ps:-456466432`): Athletics: 84.62 -> 84.76, Dexterity: 44.87 -> 44.96, Melee Attack: 55.77 -> 55.86, Melee Defence: 56.57 -> 56.63, Polearms: 53.21 -> 53.35, Robotics: 41.01 -> 41.07, Strength: 38.27 -> 38.33, Swimming: 45.86 -> 46.63, Toughness: 54.41 -> 54.43, mass combat: 138.32 -> 139.03
-  - Мью (`ps:2093017600`): Athletics: 34.84 -> 34.91, Cooking: 12.53 -> 13.69, Dexterity: 20.67 -> 20.78, Farming: 68.68 -> 68.99, Field Medic: 16.0 -> 16.03, Melee Attack: 26.43 -> 26.55, Melee Defence: 38.34 -> 38.35, Polearms: 22.21 -> 22.41, Strength: 11.88 -> 11.93
-  - Ожог (`ps:1441040000`): Athletics: 86.83 -> 86.91, Dexterity: 49.22 -> 49.26, Dodge: 19.98 -> 20.27, Field Medic: 35.81 -> 35.82, Heavy Weapons: 56.44 -> 56.5, Melee Attack: 61.51 -> 61.56, Melee Defence: 62.18 -> 62.34, Robotics: 54.41 -> 54.48, Strength: 50.13 -> 50.23, Swimming: 53.38 -> 54.16, Toughness: 59.02 -> 59.05, mass combat: 199.59 -> 200.6
-  - Пиа (`ps:-2041915648`): Athletics: 81.88 -> 82.09, Dexterity: 50.83 -> 50.93, Dodge: 11.96 -> 12.01, Field Medic: 17.46 -> 17.57, Katanas: 44.94 -> 45.08, Melee Attack: 43.03 -> 43.16, Melee Defence: 44.23 -> 44.54, Robotics: 11.92 -> 11.93, Strength: 28.13 -> 28.18, Swimming: 40.63 -> 41.68, Toughness: 45.98 -> 46.06, mass combat: 27.98 -> 28.02
-  - Ридли (`ps:1665649408`): Athletics: 87.24 -> 87.34, Dexterity: 50.67 -> 50.86, Dodge: 17.13 -> 17.27, Field Medic: 39.41 -> 39.48, Melee Attack: 54.73 -> 54.92, Melee Defence: 50.97 -> 51.4, Robotics: 24.29 -> 24.3, Sabres: 51.78 -> 52.01, Strength: 36.04 -> 36.13, Swimming: 45.34 -> 46.12, Toughness: 50.44 -> 50.56, mass combat: 74.13 -> 75.55
-  - Рука (`ps:-1715743744`): Athletics: 82.96 -> 83.09, Dexterity: 32.36 -> 32.49, Field Medic: 29.7 -> 29.73, Hackers: 49.41 -> 49.58, Melee Attack: 52.95 -> 53.13, Melee Defence: 53.32 -> 53.54, Robotics: 13.78 -> 13.79, Strength: 46.03 -> 46.1, Swimming: 32.89 -> 34.05, Toughness: 55.97 -> 56.01, mass combat: 94.45 -> 95.2
-  - Седая тень (`ps:706176768`): Science: 14.71 -> 15.84
-  - Сэто (`ps:-474044416`): Athletics: 41.97 -> 44.11, Dexterity: 22.55 -> 22.82, Dodge: 11.16 -> 11.24, Field Medic: 23.39 -> 23.4, Hackers: 29.36 -> 29.88, Melee Attack: 32.69 -> 33.27, Melee Defence: 39.45 -> 40.4, Strength: 26.05 -> 26.16, Swimming: 28.6 -> 30.34, Toughness: 39.24 -> 39.5, mass combat: 15.38 -> 15.41
-  - Флик (`ps:1106567424`): Athletics: 89.38 -> 89.47, Crossbows: 82.51 -> 82.71, Dexterity: 71.23 -> 71.42, Dodge: 21.46 -> 21.5, Field Medic: 26.47 -> 26.54, Lockpicking: 14.57 -> 15.45, Melee Defence: 50.66 -> 50.67, Perception: 80.41 -> 80.58, Precision Shooting: 84.92 -> 85.06, Robotics: 23.67 -> 23.72, Strength: 34.37 -> 34.38, Swimming: 55.01 -> 55.63
-  - Хамут (`ps:1223510784`): Athletics: 83.19 -> 83.37, Dexterity: 45.85 -> 45.97, Dodge: 21.27 -> 21.39, Field Medic: 24.89 -> 24.95, Lockpicking: 17.21 -> 18.03, Melee Attack: 51.79 -> 51.91, Melee Defence: 51.08 -> 51.33, Polearms: 51.89 -> 52.03, Robotics: 9.09 -> 9.11, Strength: 32.51 -> 32.57, Swimming: 42.93 -> 43.9, Toughness: 47.62 -> 47.72, mass combat: 38.67 -> 42.27
-  - Хоббс (`ps:-1002242560`): Athletics: 85.85 -> 85.95, Dexterity: 41.82 -> 41.91, Field Medic: 33.33 -> 33.4, Hackers: 49.32 -> 49.42, Melee Attack: 52.84 -> 52.96, Melee Defence: 53.47 -> 53.54, Robotics: 19.4 -> 19.42, Strength: 44.98 -> 45.22, Swimming: 50.08 -> 50.84, Toughness: 59.97 -> 59.98, mass combat: 86.58 -> 86.62
-  - Хот Лон (`ps:827270528`): Athletics: 87.23 -> 87.33, Dexterity: 47.89 -> 47.93, Field Medic: 33.47 -> 33.5, Lockpicking: 51.04 -> 51.97, Melee Attack: 51.15 -> 51.21, Melee Defence: 52.46 -> 52.6, Polearms: 31.07 -> 31.61, Robotics: 24.95 -> 24.97, Strength: 39.4 -> 39.46, Swimming: 40.04 -> 40.97, Toughness: 53.2 -> 53.23
-  - Чад (`ps:2077026304`): Athletics: 88.49 -> 88.6, Dexterity: 51.94 -> 52.04, Dodge: 48.5 -> 48.55, Field Medic: 33.68 -> 33.71, Lockpicking: 40.04 -> 41.33, Martial Arts: 48.71 -> 48.82, Robotics: 20.83 -> 20.85, Swimming: 65.5 -> 65.95, Toughness: 57.41 -> 57.5, mass combat: 74.1 -> 74.25
-  - Шрайк (`ps:-476241664`): Athletics: 80.61 -> 80.82, Dexterity: 36.58 -> 36.75, Dodge: 12.95 -> 14.52, Field Medic: 15.98 -> 16.11, Martial Arts: 2.05 -> 2.35, Melee Attack: 40.15 -> 40.19, Melee Defence: 42.22 -> 43.23, Polearms: 35.47 -> 35.56, Robotics: 10.72 -> 10.97, Strength: 23.67 -> 23.73, Toughness: 40.1 -> 40.55, mass combat: 22.79 -> 26.16
-- **Изменения здоровья:** у 29 участников
-- **Изменения очереди работ:** у 4 участников
-  - `Вечный Суньвынь`: обновлены назначенные работы
-  - `Вьючный бык`: обновлены назначенные работы
-  - `Зелёный`: обновлены назначенные работы
-  - `Сэто`: обновлены назначенные работы
-- **Изменения складских запасов на базах:** 7 позиций
-  - `Складской сундук`: Стройматериалы +5
-  - `Хранение: еда`: Гохан -1
-  - `Хранение: еда`: Миска риса +2
-  - `Хранение: пенька`: Пенька +14
-  - `Переработка пеньки`: Гашиш -4
-  - ... и ещё 2 складских изменений
+- Изменений в отслеживаемых категориях не зафиксировано.
 
 ## Несравниваемые категории
 - position: географические координаты подключаются профильным артефактом в задаче 02
@@ -361,7 +284,7 @@
 - [observed] Смена статуса: Зелёный палец coma=False, Зелёный палец unconscious=False (день 134; ID: auto-487bd5b4d5f78532-02). Источники: diff: changes.md#snapshot-487bd5b4d5f7
 - [observed] Сменили отряд (2): Вынос мозга, Флик (день 134; ID: auto-52c72c49b5a15b20-01). Источники: diff: changes.md#snapshot-52c72c49b5a1
 - [observed] Казна: 51802 -&gt; 9347 (-42455) (день 134; ID: auto-52c72c49b5a15b20-02). Источники: diff: changes.md#snapshot-52c72c49b5a1
-- [observed] Казна: 4791 -&gt; 1585 (-3206) (день 135; ID: auto-474d819db9152736-01). Источники: diff: changes.json
+- [observed] Казна: 4791 -&gt; 1585 (-3206) (день 135; ID: auto-474d819db9152736-01). Источники: diff: changes.md#snapshot-474d819db915
 
 ## Связанные артефакты
 - [Расширенный снимок (extended/current.json): читать только выборочно](extended/current.json)
