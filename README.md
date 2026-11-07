@@ -40,7 +40,7 @@
 
 ## Доставка данных
 
-Игра → конвертер `kenshi-campaign-tech` → `published/` в GitHub → чтение LLM из GitHub → `[итог]` коммитом или пакетом приёма → `ingest-inbox` → GitHub `main`. Копия на Google Диске для блокнотов Gemini — дополнительный канал конвертера (`docs/gdrive-sync.md` конвертера), сейчас не используется; `prompts/` туда не копируется.
+Игра → конвертер `kenshi-campaign-tech` → `published/` в GitHub → чтение LLM из GitHub → `[итог]` коммитом или пакетом приёма → `ingest-inbox` → GitHub `main`. Конвертер также ведёт копию `published/`, `docs/`, `templates/` и `Campaign/` на Google Диске в нативных форматах Google, с сохранением `file_id` (`docs/gdrive-sync.md` конвертера): это резервная копия `main` и выгрузки, а при необходимости — источники блокнотов Gemini. Направление одно — из `main` и выгрузки на Диск; `prompts/` не копируется.
 
 Конвертер публикует технические данные без аналитики; значимость изменений, переходы и выводы определяет модель. Форматы и семантика машинных данных `published/` задаются строгим [контрактом `kenshi-campaign-tech`](https://github.com/asaf1n/kenshi-campaign-tech/blob/main/docs/data-contract.md) и связанными схемами. Наличие файлов сверяется с `manifest.json`; игровая методология в `docs/companion-guide.md` и `docs/session-protocol.md` регулирует **интерпретацию** данных и запись истории, не заменяя контракт.
 
