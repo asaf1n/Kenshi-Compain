@@ -4,7 +4,7 @@
 
 ## Источники
 
-Основу составляют `Campaign/<кампания>/Kenshi_Хронология.md`, `archive/sessions/S-YYYYMMDD-n.md`, `archive/Kenshi_Библия.md` и `archive/novel/`. Текущая арка, `published/`, изображения, справочники и `docs/Kenshi_sources.md` используются по необходимости. Основное хранилище — GitHub `main`; блокноты Gemini читают его копию на Google Диске и сдают изменения пакетом приёма (`docs/session-protocol.md`).
+Основу составляют `Campaign/<кампания>/Kenshi_Хронология.md`, `archive/sessions/S-YYYYMMDD-n.md`, `archive/Kenshi_Библия.md` и `archive/novel/`. Текущая арка, `published/`, изображения, справочники и `docs/Kenshi_sources.md` используются по необходимости. Основное хранилище — GitHub `main`; среды без записи в GitHub сдают изменения пакетом приёма (`docs/session-protocol.md`).
 
 ## Исследование и творчество
 
