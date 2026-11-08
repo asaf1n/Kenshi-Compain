@@ -4,10 +4,12 @@
 
 Кто появляется в каждом регионе и городе, состав отрядов и отношения фракций между собой — `docs/reference/encounters.md`.
 
+Положение и соседство сверены по координатам локаций `published/world_reference.json` (game_leveldata) и описаниям регионов в kenshi.wiki/kenshi.fandom: соседями считаются регионы с близкими локациями или прямо названные в источнике; растр границ регионов не использовался, поэтому у регионов без локаций и у малых регионов список может быть неполным. Соседство не означает проходимости.
+
 Карта — единый континент ~870 км² без загрузочных экранов. Зоны определяют спавны врагов, сезоны и модификаторы среды. Слои (зоны, биом, ресурсы) не совпадают. Безопасность зависит от расы сильнее координат: Святая Нация (Holy Nation) убивает нелюдей и скелетов/протезы на месте.
 
 ## Авантюра Стоба (Stobe's Gamble)
-Положение: юго-восток. Соседи: Ровная лагуна (Flats Lagoon), Сад Стоба (Stobe's Garden), Пепельные земли (Ashlands).
+Положение: юго-восток. Соседи: Ровная лагуна (Flats Lagoon), Сад Стоба (Stobe's Garden), Пепельные земли (Ashlands), Серый шельф (Greyshelf), Долина снайперов (Sniper Valley), Утёсы (The Crags).
 Среда: вулканический климат, коренная порода, пепел. Кислотный дождь в части зон. Источник: https://kenshi.zone/en/environment-hazards, https://kenshi.zone/en/world-map.
 Локации (из индекса):
 - Затерянный склад доспехов (Lost Armour Store) — ruins
@@ -22,7 +24,7 @@
 Источники: regions-index.md, https://kenshi.zone/en/locations, https://kenshi.zone/en/environment-hazards.
 
 ## Арах (Arach)
-Положение: юго-запад. Соседи: Дозорный рубеж (Watcher's Rim), Шан (Shun).
+Положение: юго-запад. Соседи: Дозорный рубеж (Watcher's Rim), Шан (Shun), Паучьи равнины (Spider Plains).
 Среда: высокая опасность, пауки. Источник: community maps / kenshi.zone locations.
 Локации:
 - Трон Хозяина Жуков (Throne of the Bugmaster) — poi
@@ -31,7 +33,7 @@
 Источники: regions-index.md, https://kenshi.fandom.com/wiki/Bugmaster, https://kenshi.zone/en/locations.
 
 ## Берег грозового ущелья (Stormgap Coast)
-Положение: восток. Соседи: Великая пустыня (The Great Desert), Дальние земли (The Outlands).
+Положение: восток. Соседи: Дальние земли (The Outlands).
 Среда: кислотные дожди в прибрежных зонах (спорадически). Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Глазница (Eyesocket) — slave_camp
@@ -42,7 +44,7 @@
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards, recruits.md.
 
 ## Берег левиафанов (Leviathan Coast)
-Положение: север. Соседи: Железный шлейф (The Iron Trail), Равнины людоедов (Cannibal Plains), Пурпурные пески (Purple Sands).
+Положение: северо-запад. Соседи: Железный шлейф (The Iron Trail), Равнины людоедов (Cannibal Plains), Пурпурные пески (Purple Sands).
 Среда: северный край. Угрозы: левиафаны, людоеды (вынос раненых). Источник: https://kenshi.zone/en/locations.
 Локации:
 - Затерянная библиотека (Lost Library) — ruins
@@ -52,7 +54,7 @@
 Вербуемые: Зелёный палец (Green Finger) в Рыбацкой деревне (Deadcat). Источники: recruits.md.
 
 ## Болото (The Swamp)
-Положение: центр-юг. Соседи: Пограничная зона (Border Zone), Сим (Shem), Южные болота (South Wetlands).
+Положение: юго-запад. Соседи: Пограничная зона (Border Zone), Сим (Shem), Южные болота (South Wetlands), Горящий лес (Burning Forest), Паучьи равнины (Spider Plains), Сетка (The Grid), Пустыня Стэнн (Stenn Desert).
 Среда: избыток воды (200 %), высокая fertility. Кислотные дожди: в проверенных источниках нет данных. Источник: https://kenshi.zone/en/world-map.
 Локации:
 - Акула (Shark) — town
@@ -70,7 +72,7 @@
 Источники: regions-index.md, https://kenshi.zone/en/world-map, recruits.md.
 
 ## Великая пустыня (The Great Desert)
-Положение: северо-восток, ядро Союзных Городов (United Cities). Соседи: Мочалка (Bast), Хэн (Heng), Рвущие пески (Skimsands).
+Положение: северо-восток, ядро Союзных Городов (United Cities). Соседи: Мочалка (Bast), Хэн (Heng), Рвущие пески (Skimsands), Синкаан (Sinkuun).
 Среда: water 20 %, fertility 75 %, ample ore. Песчаные бури. Источник: https://kenshi.zone/en/world-map, https://kenshi.zone/en/environment-hazards.
 Локации:
 - Барк (Bark) — town
@@ -86,7 +88,7 @@ NPC: Император Тэнгу (в Грузе). Вербуемые: Эллс
 Источники: regions-index.md, https://kenshi.zone/en/locations.
 
 ## Возрождение (Rebirth)
-Положение: территория Святой Нации. Соседи: Окранова гордость (Okran's Pride).
+Положение: северо-запад, территория Святой Нации. Соседи: Окранова гордость (Okran's Pride), Пойма (Floodlands), Окранов залив (Okran's Gulf), Путь (Wend).
 Среда: рабский лагерь. Источник: regions-index.md.
 Локации:
 - Возрождение (Rebirth) — slave_camp
@@ -95,7 +97,7 @@ NPC: Император Тэнгу (в Грузе). Вербуемые: Эллс
 Источники: regions-index.md, world-states.md.
 
 ## Восточные каньоны (The Pits East)
-Положение: юго-восток. Соседи: Каньоны (The Pits), Утёсы (The Crags).
+Положение: юго-восток. Соседи: Каньоны (The Pits), Утёсы (The Crags), Сад Стоба (Stobe's Garden).
 Среда: кислотные угрозы, песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Город крабов (Crab Town) — outpost · секретная
@@ -104,7 +106,7 @@ NPC: Император Тэнгу (в Грузе). Вербуемые: Эллс
 Вербуемые: Луми (Lumi) в Городе крабов. Источники: recruits.md.
 
 ## Гиблые земли (Deadlands)
-Положение: центр. Соседи: Железные долины (Iron Valleys), Чёрная пустыня (The Black Desert), Мщение (Venge).
+Положение: центр. Соседи: Железные долины (Iron Valleys), Чёрная пустыня (The Black Desert), Мщение (Venge), Скорняков край (Skinner's Roam), Сим (Shem), Серая пустыня (Grey Desert).
 Среда: постоянный кислотный дождь, кислотная земля и озёра, нет ветра. Иммунитет: скелеты, улей, рыболюды, людоеды, животные. Источник: https://kenshi.zone/en/deadlands, https://kenshi.zone/en/environment-hazards.
 Локации:
 - Затерянный арсенал (Lost Armoury) — ruins · секретная (×2)
@@ -116,7 +118,7 @@ NPC: Император Тэнгу (в Грузе). Вербуемые: Эллс
 NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источники: recruits.md, https://kenshi.zone/en/deadlands.
 
 ## Горящий лес (Burning Forest)
-Положение: юг болот. Соседи: Болото (The Swamp), Южные болота (South Wetlands).
+Положение: юг, восточнее Болота. Соседи: Болото (The Swamp), Южные болота (South Wetlands), Поля костей (Bonefields).
 Среда: кислотный дождь в сезоне Acid Forest; Blood Spiders. Источник: https://kenshi.fandom.com/wiki/Burning_Forest, https://kenshi.zone/en/environment-hazards.
 Локации:
 - Древние лабы (Ancient Labs) — ruins
@@ -124,7 +126,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md, https://kenshi.fandom.com/wiki/Burning_Forest.
 
 ## Дальние земли (The Outlands)
-Положение: восток. Соседи: Кишка (Gut), Берег грозового ущелья (Stormgap Coast).
+Положение: восток. Соседи: Кишка (Gut), Берег грозового ущелья (Stormgap Coast), Зелёный пляж (Greenbeach), Сад Стоба (Stobe's Garden).
 Среда: бандиты. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Лагерь Разбойников (Reaver Camp) — outpost
@@ -134,7 +136,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Вербуемые: Бо (Bo) в Чёрной Ссадине (должен присоединиться к Anti-Slavers). Источники: recruits.md.
 
 ## Долина снайперов (Sniper Valley)
-Положение: юго-восток. Соседи: Царская долина (Royal Valley).
+Положение: юго-восток. Соседи: Царская долина (Royal Valley), Звонкий мрак (Sonorous Dark), Серый шельф (Greyshelf), Авантюра Стоба (Stobe's Gamble).
 Среда: вулканический пояс. Источник: https://kenshi.zone/en/world-map.
 Локации:
 - Полицейские бараки (Police Barracks) — ruins · секретная
@@ -142,7 +144,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md.
 
 ## Железные долины (Iron Valleys)
-Положение: центр. Соседи: Скорняков край (Skinner's Roam), Гиблые земли (Deadlands).
+Положение: центр. Соседи: Скорняков край (Skinner's Roam), Гиблые земли (Deadlands), Окранова гордость (Okran's Pride).
 Среда: постоянный кислотный дождь и земля. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Затерянный арсенал (Lost Armoury) — ruins · секретная
@@ -150,7 +152,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
 ## Железный шлейф (The Iron Trail)
-Положение: север. Соседи: Берег левиафанов (Leviathan Coast), Равнины людоедов (Cannibal Plains), Пойма (Floodlands).
+Положение: северо-запад. Соседи: Берег левиафанов (Leviathan Coast), Равнины людоедов (Cannibal Plains), Пурпурные пески (Purple Sands).
 Среда: Iron Spiders, людоеды, кислотные дожди. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Древняя техно лаба (Ancient Tech Lab) — ruins
@@ -165,7 +167,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
 ## Звонкий мрак (Sonorous Dark)
-Положение: юго-восток. Соседи: Пепельные земли (Ashlands), Царская долина (Royal Valley).
+Положение: юго-восток. Соседи: Пепельные земли (Ashlands), Царская долина (Royal Valley), Утёсы (The Crags), Серый шельф (Greyshelf), Долина снайперов (Sniper Valley).
 Среда: кислотный дождь ~50 % времени. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Барьерная башня (Barrier Tower) — military
@@ -181,7 +183,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md.
 
 ## Каньоны (The Pits)
-Положение: юго-восток. Соседи: Утёсы (The Crags), Восточные каньоны (The Pits East).
+Положение: юго-восток. Соседи: Утёсы (The Crags), Восточные каньоны (The Pits East), Пепельные земли (Ashlands), Сад Стоба (Stobe's Garden).
 Среда: кислотные угрозы, песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Башня снайперов (Sniper Tower) — poi
@@ -190,14 +192,14 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md.
 
 ## Кишка (Gut)
-Положение: восток. Соседи: Дальние земли (The Outlands), Ревущий лабиринт (Howler Maze).
+Положение: восток. Соседи: Дальние земли (The Outlands), Ревущий лабиринт (Howler Maze), Хэн (Heng).
 Среда: Gutters, высокие уровни. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Странный лагерь (Strange Camp) — poi
 Источники: regions-index.md.
 
 ## Кратер (The Crater)
-Положение: юго-запад. Соседи: Сетка (The Grid), Крюк (The Hook).
+Положение: юго-запад. Соседи: Сетка (The Grid), Крюк (The Hook), Шан (Shun).
 Среда: высокие уровни. Источник: community maps.
 Локации:
 - Древние лабы (Ancient Labs) — ruins
@@ -206,7 +208,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md.
 
 ## Крюк (The Hook)
-Положение: юг. Соседи: Кратер (The Crater), Поля костей (Bonefields).
+Положение: юг. Соседи: Кратер (The Crater), Поля костей (Bonefields), Южные болота (South Wetlands), Шан (Shun).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - База Охотников на людей (Manhunter Base) — outpost
@@ -219,7 +221,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md.
 
 ## Мочалка (Bast)
-Положение: запад UC/HN конфликт. Соседи: Пограничная зона (Border Zone), Великая пустыня (The Great Desert), Рвущие пески (Skimsands).
+Положение: север, между Святой Нацией и Союзными Городами. Соседи: Великая пустыня (The Great Desert), Рвущие пески (Skimsands), Синкаан (Sinkuun), Окранова долина (Okran's Valley), Рука Окрана (Arm of Okran).
 Среда: поля сражений. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Дрин (Drin) — ruins
@@ -231,7 +233,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Источники: regions-index.md, world-states.md.
 
 ## Мщение (Venge)
-Положение: центр. Соседи: Гиблые земли (Deadlands), Глаз (The Eye).
+Положение: центр. Соседи: Гиблые земли (Deadlands), Глаз (The Eye), Сим (Shem), Серая пустыня (Grey Desert).
 Среда: орбитальные лучи (burns) днём, скелеты, Thrall Masters. Источник: https://kenshi.zone/en/environment-hazards, https://kenshi.zone/en/locations.
 Локации:
 - Башня Жестокости (Tower of Abuse) — ruins
@@ -241,7 +243,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Вербуемые: Ану (Agnu) в Башне Жестокости (клетка + Meitou + враждебные рядом). Источники: recruits.md, https://kenshi.fandom.com/wiki/Agnu.
 
 ## Обломки (Dreg)
-Положение: запад. Соседи: Тщета (Vain), Острова тумана (Fog Islands).
+Положение: запад. Соседи: Тщета (Vain), Острова тумана (Fog Islands), Остров Ящера (Raptor Island).
 Среда: кислота, улей, бандиты. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня Оседлых Кочевников (Settled Nomad Village) — village
@@ -250,7 +252,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 Вербуемые: Корнелиус (Cornelius) в Деревне Оседлых Кочевников. Источники: recruits.md.
 
 ## Окранов залив (Okran's Gulf)
-Положение: севернее Окрановой гордости. Соседи: Окранова гордость (Okran's Pride), Острова тумана (Fog Islands), Мочалка (Bast).
+Положение: запад, западнее Окрановой гордости. Соседи: Окранова гордость (Okran's Pride), Острова тумана (Fog Islands), Окранова долина (Okran's Valley), Пойма (Floodlands), Пограничная зона (Border Zone), Скорняков край (Skinner's Roam), Возрождение (Rebirth), Тщета (Vain).
 Среда: плоские аридные земли. Источник: https://kenshi.fandom.com/wiki/Okran%27s_Gulf.
 Локации:
 - Мёртвый улей (Deadhive Overrun) — ruins · секретная
@@ -261,7 +263,7 @@ NPC: Инквизитор Сэта (High Inquisitor Seta) в Стопке. Св�
 Источники: regions-index.md, https://kenshi.fandom.com/wiki/Okran%27s_Gulf, world-states.md.
 
 ## Окранова гордость (Okran's Pride)
-Положение: центр-запад, плодородная. Соседи: Пограничная зона (Border Zone), Окранов залив / долина, Пустыня Стэнн (Stenn Desert).
+Положение: центр-запад, плодородная. Соседи: Пограничная зона (Border Zone), Возрождение (Rebirth), Окранова долина (Okran's Valley), Окранов залив (Okran's Gulf), Железные долины (Iron Valleys), Скорняков край (Skinner's Roam), Путь (Wend).
 Среда: плодородные луга, река, River Raptors. Самый населённый регион. Источник: https://kenshi.fandom.com/wiki/Okran%27s_Pride, https://kenshi.zone/en/locations.
 Локации:
 - Бугристый Холм (Blister Hill) — town
@@ -271,7 +273,7 @@ NPC: Святой Лорд Феникс (Holy Lord Phoenix) в Бугристо�
 Источники: regions-index.md, https://kenshi.fandom.com/wiki/Okran%27s_Pride, world-states.md.
 
 ## Окранова долина (Okran's Valley)
-Положение: СН. Соседи: Окранова гордость (Okran's Pride), Окранов залив (Okran's Gulf).
+Положение: север, Святая Нация. Соседи: Окранова гордость (Okran's Pride), Окранов залив (Okran's Gulf), Рука Окрана (Arm of Okran), Путь (Wend), Северный берег (Northern Coast), Мочалка (Bast).
 Среда: фермы. Источник: https://kenshi.fandom.com/wiki/Holy_Farms.
 Локации:
 - Развалины фермы (Farm Ruins) — ruins
@@ -280,7 +282,7 @@ NPC: Святой Лорд Феникс (Holy Lord Phoenix) в Бугристо�
 Источники: regions-index.md.
 
 ## Остров Ящера (Raptor Island)
-Положение: запад. Соседи: Тщета (Vain).
+Положение: запад. Соседи: Тщета (Vain), Обломки (Dreg).
 Среда: ящеры. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Остров Ящера (Raptor Island) — poi
@@ -295,7 +297,7 @@ NPC: Святой Лорд Феникс (Holy Lord Phoenix) в Бугристо�
 NPC: Король Гурглер (King Gurgler). Источники: https://kenshi.fandom.com/wiki/King_Gurgler.
 
 ## Острова тумана (Fog Islands)
-Положение: северо-запад. Соседи: Окранов залив (Okran's Gulf), Пойма (Floodlands), Обломки (Dreg).
+Положение: запад. Соседи: Окранов залив (Okran's Gulf), Пойма (Floodlands), Обломки (Dreg).
 Среда: туманники (carry/eat). Источник: https://kenshi.fandom.com/wiki/Fogmen, https://kenshi.zone/en/locations.
 Локации:
 - Безродный (Mongrel) — town
@@ -303,7 +305,7 @@ NPC: Король Гурглер (King Gurgler). Источники: https://ken
 Источники: regions-index.md, recruits.md, https://kenshi.fandom.com/wiki/Fogmen.
 
 ## Паучьи равнины (Spider Plains)
-Положение: юг Шек. Соседи: Пустыня Стэнн (Stenn Desert), Болото (The Swamp).
+Положение: юг Шек. Соседи: Пустыня Стэнн (Stenn Desert), Болото (The Swamp), Шан (Shun), Арах (Arach).
 Среда: Skin Spiders, шеки. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня Берсерков (Berserker Village) — outpost
@@ -312,7 +314,7 @@ NPC: Король Гурглер (King Gurgler). Источники: https://ken
 NPC: Призрак (Ghost) в Деревне Берсерков. Вербуемые: Кан (Kang), Орон (Oron), Гигант Ранэ (Rane the Giant), Рука (Ruka) в Последнем Бою / Адмаге / Скуине. Источники: recruits.md, world-states.md.
 
 ## Пепельные земли (Ashlands)
-Положение: юго-восток, конец карты. Соседи: Звонкий мрак (Sonorous Dark), Авантюра Стоба (Stobe's Gamble).
+Положение: юго-восток, конец карты. Соседи: Звонкий мрак (Sonorous Dark), Авантюра Стоба (Stobe's Gamble), Тропа хитрецов (Cheaters Run), Каньоны (The Pits).
 Среда: water 0 %, fertility 0 %, iron/copper 300 %. Газ, Stormthralls, Behemoths. Источник: https://kenshi.zone/en/world-map, https://kenshi.zone/en/environment-hazards.
 Локации:
 - Пепельный купол I–IV (Ashland Dome I–IV) — ruins
@@ -321,7 +323,7 @@ NPC: Призрак (Ghost) в Деревне Берсерков. Вербуем
 NPC: Кат-Лон (Cat-Lon). Источники: https://kenshi.fandom.com/wiki/Cat-Lon, lore.md.
 
 ## Пограничная зона (Border Zone)
-Положение: центр-запад. Соседи: Окранова гордость (Okran's Pride), Пустыня Стэнн (Stenn Desert), Сим (Shem).
+Положение: центр-запад. Соседи: Окранова гордость (Okran's Pride), Пустыня Стэнн (Stenn Desert), Сим (Shem), Скорняков край (Skinner's Roam), Болото (The Swamp), Окранов залив (Okran's Gulf), Тщета (Vain).
 Среда: пыльные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - База Мятежников (Rebel Base) — poi
@@ -336,7 +338,7 @@ NPC: Кат-Лон (Cat-Lon). Источники: https://kenshi.fandom.com/wiki
 Источники: regions-index.md, recruits.md.
 
 ## Пойма (Floodlands)
-Положение: северо-запад. Соседи: Острова тумана (Fog Islands), Смирение (Obedience), Железный шлейф (The Iron Trail).
+Положение: северо-запад. Соседи: Острова тумана (Fog Islands), Смирение (Obedience), Равнины людоедов (Cannibal Plains), Окранов залив (Okran's Gulf), Скрытый лес (Hidden Forest), Возрождение (Rebirth).
 Среда: дождь, Iron Spiders, древние сооружения Первой империи. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Башня Ожога (Burn's Tower) — ruins
@@ -349,7 +351,7 @@ NPC: Кат-Лон (Cat-Lon). Источники: https://kenshi.fandom.com/wiki
 Вербуемые: Ожог (Burn) в Башне Ожога. Источники: recruits.md.
 
 ## Поля костей (Bonefields)
-Положение: юг. Соседи: Крюк (The Hook), Верхние поля костей (High Bonefields).
+Положение: юг. Соседи: Крюк (The Hook), Верхние поля костей (High Bonefields), Горящий лес (Burning Forest), Ровная лагуна (Flats Lagoon), Царская долина (Royal Valley).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Катун (Catun) — town
@@ -359,14 +361,14 @@ NPC: Кат-Лон (Cat-Lon). Источники: https://kenshi.fandom.com/wiki
 Источники: regions-index.md.
 
 ## Пурпурные пески (Purple Sands)
-Положение: северо-запад. Соседи: Верещащий лес (The Shrieking Forest), Железный шлейф (The Iron Trail).
+Положение: северо-запад. Соседи: Верещащий лес (The Shrieking Forest), Железный шлейф (The Iron Trail), Берег левиафанов (Leviathan Coast).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Не-древняя мастерская (Post-Ancient Workshop) — ruins
 Источники: regions-index.md.
 
 ## Пустыня Стэнн (Stenn Desert)
-Положение: ядро Королевства Шек (Shek Kingdom). Соседи: Пограничная зона (Border Zone), Окранова гордость (Okran's Pride), Паучьи равнины (Spider Plains).
+Положение: запад, ядро Королевства шеков (Shek Kingdom). Соседи: Пограничная зона (Border Zone), Паучьи равнины (Spider Plains), Тщета (Vain), Болото (The Swamp).
 Среда: песчаные бури ~15 %. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Адмаг (Admag) — town
@@ -381,7 +383,7 @@ NPC: Каменный Голем Эсата (Esata the Stone Golem) в Адма�
 Источники: regions-index.md, world-states.md, recruits.md.
 
 ## Путь (Wend)
-Положение: север СН. Соседи: Смирение (Obedience), Рука Окрана (Arm of Okran).
+Положение: север, Святая Нация. Соседи: Смирение (Obedience), Рука Окрана (Arm of Okran), Окранова гордость (Okran's Pride), Окранова долина (Okran's Valley), Возрождение (Rebirth).
 Среда: патрули СН, туманники. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Затерянная библиотека (Lost Library) — ruins
@@ -389,7 +391,7 @@ NPC: Каменный Голем Эсата (Esata the Stone Golem) в Адма�
 Источники: regions-index.md.
 
 ## Равнины людоедов (Cannibal Plains)
-Положение: север. Соседи: Берег левиафанов (Leviathan Coast), Скрытый лес (Hidden Forest), Железный шлейф (The Iron Trail).
+Положение: северо-запад. Соседи: Берег левиафанов (Leviathan Coast), Скрытый лес (Hidden Forest), Железный шлейф (The Iron Trail), Северный берег (Northern Coast), Пойма (Floodlands).
 Среда: людоеды (большие группы, carry/eat). Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня людоедов (Cannibal Village) — village (×3)
@@ -400,7 +402,7 @@ NPC: Каменный Голем Эсата (Esata the Stone Golem) в Адма�
 NPC: Великий шаман (Cannibal Grand Wizard). Источники: `published/tables/unique_npcs.csv`.
 
 ## Рвущие пески (Skimsands)
-Положение: восток. Соседи: Великая пустыня (The Great Desert), Мочалка (Bast).
+Положение: север, юго-западнее Великой пустыни. Соседи: Великая пустыня (The Great Desert), Мочалка (Bast), Хэн (Heng).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Логово Кактуса (Cactus Den) — poi
@@ -417,14 +419,14 @@ NPC: Великий шаман (Cannibal Grand Wizard). Источники: `pub
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
 ## Ровная лагуна (Flats Lagoon)
-Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble).
+Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble), Поля костей (Bonefields).
 Среда: Tech Hunters. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Ровная лагуна (Flats Lagoon) — town
 Вербуемые: Чад (Chad), Седая тень (Silvershade). Источники: recruits.md.
 
 ## Рука Окрана (Arm of Okran)
-Положение: север СН. Соседи: Путь (Wend), Окранова долина (Okran's Valley).
+Положение: север, Святая Нация. Соседи: Путь (Wend), Окранова долина (Okran's Valley), Скрытый лес (Hidden Forest), Северный берег (Northern Coast), Мочалка (Bast).
 Среда: военный пост. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Дозорная башня (Watchtower) — poi
@@ -434,7 +436,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md, world-states.md.
 
 ## Сад Стоба (Stobe's Garden)
-Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble).
+Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble), Утёсы (The Crags), Дальние земли (The Outlands), Восточные каньоны (The Pits East), Каньоны (The Pits).
 Среда: кислотные угрозы. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Башня пауков (Tower of Spiders) — poi · секретная
@@ -446,7 +448,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Северный берег (Northern Coast)
-Положение: север. Соседи: Тёмный палец (Darkfinger), Равнины людоедов (Cannibal Plains).
+Положение: север. Соседи: Тёмный палец (Darkfinger), Равнины людоедов (Cannibal Plains), Синкаан (Sinkuun), Скрытый лес (Hidden Forest), Окранова долина (Okran's Valley), Рука Окрана (Arm of Okran).
 Среда: людоеды. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня-призрак (Ghost Village) — village
@@ -454,14 +456,14 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Серая пустыня (Grey Desert)
-Положение: центр. Соседи: Чёрная пустыня (The Black Desert), Глаз (The Eye), Мщение (Venge).
+Положение: центр. Соседи: Чёрная пустыня (The Black Desert), Глаз (The Eye), Мщение (Venge), Гиблые земли (Deadlands).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Путевая станция (Waystation) — outpost
 Источники: regions-index.md.
 
 ## Серый шельф (Greyshelf)
-Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble).
+Положение: юго-восток. Соседи: Авантюра Стоба (Stobe's Gamble), Царская долина (Royal Valley), Звонкий мрак (Sonorous Dark), Долина снайперов (Sniper Valley).
 Среда: кислота. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Занятый роями арсенал (Hiver-Claimed Armoury) — ruins · секретная (×2)
@@ -470,14 +472,14 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Сетка (The Grid)
-Положение: юго-запад. Соседи: Шан (Shun), Кратер (The Crater).
+Положение: юго-запад. Соседи: Шан (Shun), Кратер (The Crater), Болото (The Swamp).
 Среда: высокие уровни. Источник: community maps.
 Локации:
 - Цеховый комплекс (Workshop Complex) — ruins
 Источники: regions-index.md.
 
 ## Сим (Shem)
-Положение: центр. Соседи: Пограничная зона (Border Zone), Болото (The Swamp), Мщение (Venge).
+Положение: центр. Соседи: Пограничная зона (Border Zone), Болото (The Swamp), Мщение (Venge), Гиблые земли (Deadlands).
 Среда: бандиты. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Бар контрабандистов (Smugglers Bar) — poi
@@ -485,7 +487,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Синкаан (Sinkuun)
-Положение: север. Соседи: Северный берег (Northern Coast).
+Положение: север. Соседи: Северный берег (Northern Coast), Тёмный палец (Darkfinger), Великая пустыня (The Great Desert), Мочалка (Bast).
 Среда: людоеды. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Бастион (The Bastion) — military
@@ -495,7 +497,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Скорняков край (Skinner's Roam)
-Положение: центр. Соседи: Пограничная зона (Border Zone), Железные долины (Iron Valleys), Гиблые земли (Deadlands).
+Положение: центр. Соседи: Пограничная зона (Border Zone), Железные долины (Iron Valleys), Гиблые земли (Deadlands), Окранова гордость (Okran's Pride), Окранов залив (Okran's Gulf).
 Среда: 3 сезона, песчаные бури. Источник: https://kenshi.zone/en/world-map, https://kenshi.zone/en/environment-hazards.
 Локации:
 - Развалины святой шахты (Holy Mine Ruin) — ruins (×2)
@@ -503,14 +505,14 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Скрытый лес (Hidden Forest)
-Положение: север. Соседи: Равнины людоедов (Cannibal Plains), Северный берег (Northern Coast).
+Положение: север. Соседи: Равнины людоедов (Cannibal Plains), Северный берег (Northern Coast), Пойма (Floodlands), Рука Окрана (Arm of Okran).
 Среда: людоеды. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня Отщепенцев (Flotsam Village) — village
 Вербуемые: Дина (Digna), Нож (Knife), Пиа (Pia), Рева (Reva). Источники: recruits.md.
 
 ## Тропа хитрецов (Cheaters Run)
-Положение: юго-восток. Соседи: Остров рыболюдов (Fishman Island), Пепельные земли (Ashlands).
+Положение: юго-восток. Соседи: Остров рыболюдов (Fishman Island), Пепельные земли (Ashlands), Царская долина (Royal Valley).
 Среда: кислотный дождь ~50 %. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Жуткие руины (Horrible Ruin) — ruins · секретная
@@ -519,7 +521,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
 ## Тщета (Vain)
-Положение: запад. Соседи: Обломки (Dreg), Пустыня Стэнн (Stenn Desert), Остров Ящера (Raptor Island).
+Положение: запад. Соседи: Обломки (Dreg), Пустыня Стэнн (Stenn Desert), Остров Ящера (Raptor Island), Пограничная зона (Border Zone), Окранов залив (Okran's Gulf).
 Среда: Beak Things, кислотная вода. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Башня Тумана (Tower of Fog) — poi · секретная
@@ -531,7 +533,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md, world-states.md.
 
 ## Тёмный палец (Darkfinger)
-Положение: север. Соседи: Северный берег (Northern Coast), Скрытый лес (Hidden Forest).
+Положение: север. Соседи: Северный берег (Northern Coast), Синкаан (Sinkuun).
 Среда: людоеды. Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня людоедов (Cannibal Village) — village (×2)
@@ -539,7 +541,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Утёсы (The Crags)
-Положение: юго-восток. Соседи: Сад Стоба (Stobe's Garden), Каньоны (The Pits).
+Положение: юго-восток. Соседи: Сад Стоба (Stobe's Garden), Каньоны (The Pits), Восточные каньоны (The Pits East), Звонкий мрак (Sonorous Dark), Авантюра Стоба (Stobe's Gamble).
 Среда: кислота, песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Железный штаб (Iron HQ) — outpost · секретная
@@ -547,7 +549,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md.
 
 ## Хэн (Heng)
-Положение: юг Великой пустыни. Соседи: Великая пустыня (The Great Desert), Рвущие пески (Skimsands).
+Положение: юг Великой пустыни. Соседи: Великая пустыня (The Great Desert), Рвущие пески (Skimsands), Кишка (Gut).
 Среда: песчаные бури ~68 %. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Край Торговца (Trader's Edge) — outpost
@@ -557,7 +559,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Вербуемые: Ямду (Yamdu) в Крае Торговца (WS: сдача Тинфиста). Источники: recruits.md.
 
 ## Царская долина (Royal Valley)
-Положение: юго-восток. Соседи: Звонкий мрак (Sonorous Dark).
+Положение: юго-восток. Соседи: Звонкий мрак (Sonorous Dark), Долина снайперов (Sniper Valley), Тропа хитрецов (Cheaters Run), Серый шельф (Greyshelf), Поля костей (Bonefields).
 Среда: кислотный дождь ~10 %. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Занятый роями арсенал (Hiver-Claimed Armoury) — ruins · секретная
@@ -566,7 +568,7 @@ NPC: Tech Hunters в Крае Мира. Связь с WS: Кулак Окран�
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
 ## Шан (Shun)
-Положение: юго-запад. Соседи: Арах (Arach), Кратер (The Crater).
+Положение: юго-запад. Соседи: Арах (Arach), Кратер (The Crater), Сетка (The Grid), Крюк (The Hook), Паучьи равнины (Spider Plains).
 Среда: высокие уровни. Источник: community maps.
 Локации:
 - Брошенный посёлок (Abandoned Town) — ruins
