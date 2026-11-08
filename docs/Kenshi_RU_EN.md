@@ -300,6 +300,8 @@
 | `in_region` | в регионе … |
 | `in_location` | в поселении … |
 | `near_location` | в окрестностях … (с расстоянием, если оно важно) |
+| `kind`: `town` / `village` / `outpost` / `ruins` | город / деревня / аванпост / руины |
+| `kind`: `military` / `slave_camp` / `prison` / `poi` | военная база / лагерь рабов / тюрьма / особое место |
 | `JOB_MEDIC` | лечит раненых |
 | `JOB_REPAIR_ROBOT` | чинит скелетов и протезы |
 | `BODYGUARD [имя]` | охраняет … |
