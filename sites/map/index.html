@@ -88,7 +88,21 @@ function placeName(c, regionName) {
   if (c.resolution_status === 'in_region') return c.region ? regionName(c.region.name_en) : 'нет данных';
   return 'нет данных';
 }
-function characterLine(c, regionName) { return c.name + ': ' + STATUS[c.resolution_status] + ' — ' + placeName(c, regionName); }
+// «в локации: Скуин», «рядом с локацией: Деревня Серодёров», «в регионе: Пурпурные пески»; без места — только статус.
+function statusPlace(c, regionName) {
+  const place = placeName(c, regionName);
+  return c.resolution_status === 'unknown' || place === 'нет данных' ? STATUS[c.resolution_status] : STATUS[c.resolution_status] + ': ' + place;
+}
+function groupPlace(g, chars, regionName) {
+  let place = '';
+  if (g.resolution_status === 'in_location') place = g.location?.name_ru || g.location?.name_en || '';
+  else if (g.resolution_status === 'near_location') {
+    const member = g.characters.map(m => chars.find(c => c.id === m.id)).find(c => c?.nearby_locations?.length);
+    place = member ? (member.nearby_locations[0].name_ru || member.nearby_locations[0].name_en) : '';
+  } else if (g.resolution_status === 'in_region') place = g.region ? regionName(g.region.name_en) : '';
+  return place ? STATUS[g.resolution_status] + ': ' + place : STATUS[g.resolution_status];
+}
+function characterLine(c, regionName) { return c.name + ' — ' + statusPlace(c, regionName); }
 function mainGroup(groups) { return groups.reduce((best, g) => !best || g.characters.length > best.characters.length ? g : best, null); }
 // Сводка для чата: группы с численностью и регионом; поимённо — только персонажи вне основной группы;
 // ID — только у персонажей, чьё имя встречается в выпуске более одного раза.
@@ -97,7 +111,7 @@ function buildSummary(ctx) {
   const lines = ['## ' + ctx.title, m.game_time + ' · ' + m.campaign_id + ' · ' + m.branch_id, 'world_ref_id: ' + m.world_ref_id, 'snapshot_id: ' + m.snapshot_id, 'Персонажей: ' + chars.length, 'Групп: ' + groups.length];
   for (const g of groups) {
     const n = g.characters.length;
-    lines.push('- ' + (g.label || g.group_id) + ': ' + n + ' ' + pluralRu(n, 'персонаж', 'персонажа', 'персонажей') + ' · ' + STATUS[g.resolution_status] + (g.region ? ' · ' + regionName(g.region.name_en) : ''));
+    lines.push('- ' + (g.label || g.group_id) + ': ' + n + ' ' + pluralRu(n, 'персонаж', 'персонажа', 'персонажей') + ' · ' + groupPlace(g, chars, regionName) + (g.resolution_status !== 'in_region' && g.region ? ' · регион: ' + regionName(g.region.name_en) : ''));
   }
   const main = mainGroup(groups), inMain = new Set((main?.characters || []).map(x => x.id));
   const outside = chars.filter(c => !inMain.has(c.id)), counts = {};
@@ -256,7 +270,7 @@ function render() {
   $('characters-list').replaceChildren();
   // Совпадающие имена остаются отдельными записями; ключом служит id.
   for(const row of active.locations.characters) {
-    const text=row.name+' · '+STATUS[row.resolution_status]+' · '+placeName(row,displayRegion);
+    const text=row.name+' · '+statusPlace(row,displayRegion);
     const item=textRow($('characters-list'),text);item.dataset.characterId=row.id;
     const badge=document.createElement('span');badge.className='badge '+row.resolution_status;item.prepend(badge);
     const c=row.coordinates,p=Array.isArray(c)&&c.length===3?worldToSvg(c[0],c[2]):null;
@@ -270,7 +284,7 @@ function render() {
     if(!coords.length||group.resolution_status==='unknown')continue;
     const [x,y]=[0,1].map(i=>coords.reduce((s,p)=>s+p[i],0)/coords.length);
     const marker=svgNode('path',{d:`M${x},${y-1.8}l1.8,1.8l-1.8,1.8l-1.8,-1.8Z`,fill:COLORS[group.resolution_status]||'#666',stroke:'#fff','stroke-width':.3});
-    tooltip(marker,'Вычисленный центр '+group.group_id+' ('+coords.length+'/'+members.length+')\n'+members.map(c=>c.name+' · '+STATUS[c.resolution_status]).join('\n'));$('groups').append(marker);
+    tooltip(marker,'Вычисленный центр '+group.group_id+' ('+coords.length+'/'+members.length+')\n'+members.map(c=>c.name+' · '+statusPlace(c,displayRegion)).join('\n'));$('groups').append(marker);
   }
   renderChains();
   $('disclaimer').textContent=DISCLAIMER;
