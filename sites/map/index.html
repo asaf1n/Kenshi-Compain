@@ -31,7 +31,7 @@
 <p class="note"><span class="badge in_location"></span>В локации · <span class="badge near_location"></span>Рядом · <span class="badge in_region"></span>В регионе · <span class="badge unknown"></span>Неизвестно</p>
 <div id="characters-list"></div>
 <h2>Цепочки регионов</h2>
-<p class="note">Цепочку задаёт пользователь: регионы добавляются по порядку, минимум два. Шаг — пара регионов; показана длина общей границы в растре (пар пикселей) или разрыв. Две цепочки ниже — примеры по умолчанию (глава XI: Пойма → Гиблые земли).</p>
+<p class="note">Цепочку задаёт пользователь: регионы добавляются по порядку, минимум два. Шаг — пара регионов; показана длина общей границы в растре (в парах пикселей) или разрыв. Две цепочки ниже — примеры по умолчанию (глава XI: Пойма → Гиблые земли).</p>
 <div id="corridor-options"></div><div id="corridor-report"></div>
 <details open><summary>Своя цепочка</summary>
 <label>Название<input id="chain-name" type="text" placeholder="Моя цепочка"></label>
@@ -68,6 +68,50 @@ function chainCanSave(regions) { return regions.length >= 2 ? '' : 'Цепочк
 function chainRemove(regions, index) { return regions.filter((_, i) => i !== index); }
 function isStaleRelease(manifest, current) { return Date.parse(manifest.generated_at) < Date.parse(current.generated_at); }
 </script>
+<script id="summary-logic">
+const STATUS = {in_location:'в локации',near_location:'рядом с локацией',in_region:'в регионе',unknown:'положение неизвестно'};
+// Подписи типов локаций для интерфейса; кодов (town, ruins, ...) пользователь не видит.
+const KIND_LABELS = {town:'Город',village:'Деревня',outpost:'Аванпост',ruins:'Руины',military:'Военная база',slave_camp:'Лагерь рабов',prison:'Тюрьма',poi:'Особое место'};
+function kindLabel(kind) { return KIND_LABELS[kind] || kind; }
+function pluralRu(n, one, few, many) {
+  const a = Math.abs(n) % 100, b = a % 10;
+  if (a > 10 && a < 20) return many;
+  if (b === 1) return one;
+  if (b >= 2 && b <= 4) return few;
+  return many;
+}
+function pairsText(n) { return n + ' ' + pluralRu(n, 'пара', 'пары', 'пар') + ' пикселей'; }
+// in_location и near_location — имя локации; in_region — регион; unknown — нет данных.
+function placeName(c, regionName) {
+  if (c.resolution_status === 'in_location') return c.location?.name_ru || c.location?.name_en || 'нет данных';
+  if (c.resolution_status === 'near_location') { const near = c.nearby_locations?.[0]; return near?.name_ru || near?.name_en || 'нет данных'; }
+  if (c.resolution_status === 'in_region') return c.region ? regionName(c.region.name_en) : 'нет данных';
+  return 'нет данных';
+}
+function characterLine(c, regionName) { return c.name + ': ' + STATUS[c.resolution_status] + ' — ' + placeName(c, regionName); }
+function mainGroup(groups) { return groups.reduce((best, g) => !best || g.characters.length > best.characters.length ? g : best, null); }
+// Сводка для чата: группы с численностью и регионом; поимённо — только персонажи вне основной группы;
+// ID — только у персонажей, чьё имя встречается в выпуске более одного раза.
+function buildSummary(ctx) {
+  const m = ctx.manifest, chars = ctx.locations.characters, groups = ctx.locations.spatial_groups || [], regionName = ctx.regionName;
+  const lines = ['## ' + ctx.title, m.game_time + ' · ' + m.campaign_id + ' · ' + m.branch_id, 'world_ref_id: ' + m.world_ref_id, 'snapshot_id: ' + m.snapshot_id, 'Персонажей: ' + chars.length, 'Групп: ' + groups.length];
+  for (const g of groups) {
+    const n = g.characters.length;
+    lines.push('- ' + (g.label || g.group_id) + ': ' + n + ' ' + pluralRu(n, 'персонаж', 'персонажа', 'персонажей') + ' · ' + STATUS[g.resolution_status] + (g.region ? ' · ' + regionName(g.region.name_en) : ''));
+  }
+  const main = mainGroup(groups), inMain = new Set((main?.characters || []).map(x => x.id));
+  const outside = chars.filter(c => !inMain.has(c.id)), counts = {};
+  for (const c of chars) counts[c.name] = (counts[c.name] || 0) + 1;
+  if (outside.length) {
+    lines.push('Вне основной группы' + (main ? ' («' + (main.label || main.group_id) + '»)' : '') + ':');
+    for (const c of outside) lines.push('- ' + characterLine(c, regionName) + (counts[c.name] > 1 ? ' (' + c.id + ')' : ''));
+  }
+  for (const name of Object.keys(counts).filter(n => counts[n] > 1)) lines.push('Одноимённые «' + name + '»: ' + chars.filter(c => c.name === name).map(c => c.id).join(', '));
+  for (const r of ctx.routes) { lines.push('- ' + r.name + ':'); for (const s of r.steps) lines.push('  - ' + ctx.stepText(s)); }
+  lines.push('', ctx.disclaimer);
+  return lines.join('\n');
+}
+</script>
 <script>
 'use strict';
 const DERIVED = JSON.parse(document.getElementById('derived').textContent);
@@ -80,7 +124,6 @@ const DEFAULT_CHAINS = {"Вариант А — через Возрождение
 const BORDERS = DERIVED.border_lengths;
 const defaultChains = () => Object.entries(DEFAULT_CHAINS).map(([name,regions]) => ({name,regions:[...regions]}));
 const TITLE = 'Картографическая схема Kenshi';
-const STATUS = {in_location:'в локации',near_location:'рядом с локацией',in_region:'в регионе',unknown:'положение неизвестно'};
 const COLORS = {in_location:'#19764b',near_location:'#b36a13',in_region:'#235fa4'};
 const NS = 'http://www.w3.org/2000/svg';
 const $ = id => document.getElementById(id);
@@ -174,7 +217,7 @@ function activate(manifest,world,locations) {
   active={manifest,world,locations}; routes=nextRoutes;
   $('secrets').checked=false; $('search').value='';
   for(const id of ['kind','region']) $(id).replaceChildren(new Option(id==='kind'?'Все типы':'Все регионы',''));
-  for(const kind of [...new Set(world.locations.map(l=>l.kind))].sort()) $('kind').add(new Option(kind,kind));
+  for(const kind of [...new Set(world.locations.map(l=>l.kind))].sort((a,b)=>kindLabel(a).localeCompare(kindLabel(b),'ru'))) $('kind').add(new Option(kindLabel(kind),kind));
   for(const en of Object.keys(GRAPH).sort((a,b)=>displayRegion(a).localeCompare(displayRegion(b),'ru'))) $('region').add(new Option(displayRegion(en),en));
   populateChainRegions();
   const notices=['Загружен выпуск '+manifest.game_time+' · '+manifest.branch_id+'.'];
@@ -203,7 +246,7 @@ function render() {
   $('location-count').textContent='Видимых локаций: '+list.length;
   const shapes={town:'square',outpost:'triangle',ruins:'diamond',military:'square',poi:'circle'};
   for(const row of list) {
-    const text=(row.name_ru||row.name_en)+' · '+row.kind+' · '+displayRegion(row.region);
+    const text=(row.name_ru||row.name_en)+' · '+kindLabel(row.kind)+' · '+displayRegion(row.region);
     textRow($('locations-list'),text);
     const p=worldToSvg(row.x,row.z);if(!p||!$('layer-locations').checked)continue;
     const [x,y]=p,shape=shapes[row.kind]||'circle',attrs={fill:row.is_secret?'#91354e':'#26353b',stroke:'#fff','stroke-width':.15};
@@ -213,7 +256,7 @@ function render() {
   $('characters-list').replaceChildren();
   // Совпадающие имена остаются отдельными записями; ключом служит id.
   for(const row of active.locations.characters) {
-    const text=row.name+' · '+STATUS[row.resolution_status]+' · '+(displayRegion(row.region?.name_en||'')||'нет данных');
+    const text=row.name+' · '+STATUS[row.resolution_status]+' · '+placeName(row,displayRegion);
     const item=textRow($('characters-list'),text);item.dataset.characterId=row.id;
     const badge=document.createElement('span');badge.className='badge '+row.resolution_status;item.prepend(badge);
     const c=row.coordinates,p=Array.isArray(c)&&c.length===3?worldToSvg(c[0],c[2]):null;
@@ -232,7 +275,7 @@ function render() {
   renderChains();
   $('disclaimer').textContent=DISCLAIMER;
 }
-const stepText = s => displayRegion(s.from_region)+' → '+displayRegion(s.to_region)+': '+(s.status==='border'?'общая граница, '+s.border_length+' пар пикселей':'разрыв: общей границы нет');
+const stepText = s => displayRegion(s.from_region)+' → '+displayRegion(s.to_region)+': '+(s.status==='border'?'общая граница, '+pairsText(s.border_length):'разрыв: общей границы нет');
 function populateChainRegions() {
   $('chain-region').replaceChildren();
   for(const en of Object.keys(GRAPH).sort((a,b)=>displayRegion(a).localeCompare(displayRegion(b),'ru'))) $('chain-region').add(new Option(displayRegion(en),en));
@@ -309,11 +352,8 @@ async function loadFiles(files) {
 }
 function summary() {
   if(!active) throw new Error('Выпуск не загружен');
-  const m=active.manifest;
-  const lines=['## '+TITLE,m.game_time+' · '+m.campaign_id+' · '+m.branch_id,'world_ref_id: '+m.world_ref_id,'snapshot_id: '+m.snapshot_id,'Персонажей: '+active.locations.characters.length];
-  for(const c of active.locations.characters)lines.push('- '+c.name+' ('+c.id+'): '+STATUS[c.resolution_status]+' — '+(displayRegion(c.region?.name_en||'')||'нет данных'));
-  for(const r of routes.filter(r=>selectedRoutes.has(r.name))){lines.push('- '+r.name+':');for(const s of r.steps)lines.push('  - '+stepText(s));}
-  lines.push('',DISCLAIMER);return lines.join('\n');
+  return buildSummary({title:TITLE,manifest:active.manifest,locations:active.locations,regionName:displayRegion,
+    routes:routes.filter(r=>selectedRoutes.has(r.name)),stepText,disclaimer:DISCLAIMER});
 }
 function exportSvg() {
   const clone=$('map').cloneNode(true);clone.setAttribute('width','1024');
