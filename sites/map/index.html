@@ -164,6 +164,11 @@ function svgNode(tag, attrs={}, text=null) {
 function textRow(parent,text,cls='row') {
   const node=document.createElement('div'); node.className=cls; node.textContent=text; parent.append(node); return node;
 }
+// Невидимая область наведения вокруг маркера: цель крупнее самого значка.
+function hitArea(x,y,r,text,layer) {
+  const hit=svgNode('circle',{cx:x,cy:y,r,fill:'transparent',stroke:'none','pointer-events':'all'});
+  tooltip(hit,text);layer.append(hit);
+}
 function tooltip(node,text) {
   node.append(svgNode('title',{},text));
   node.addEventListener('pointerenter',() => {$('tooltip').textContent=text;});
@@ -263,9 +268,9 @@ function render() {
     const text=(row.name_ru||row.name_en)+' · '+kindLabel(row.kind)+' · '+displayRegion(row.region);
     textRow($('locations-list'),text);
     const p=worldToSvg(row.x,row.z);if(!p||!$('layer-locations').checked)continue;
-    const [x,y]=p,shape=shapes[row.kind]||'circle',attrs={fill:row.is_secret?'#91354e':'#26353b',stroke:'#fff','stroke-width':.15};
-    const marker=shape==='square'?svgNode('rect',{...attrs,x:x-.6,y:y-.6,width:1.2,height:1.2}):shape==='circle'?svgNode('circle',{...attrs,cx:x,cy:y,r:.65}):svgNode('path',{...attrs,d:shape==='triangle'?`M${x},${y-.85}l.8,1.4h-1.6Z`:`M${x},${y-.85}l.7,.85l-.7,.85l-.7,-.85Z`});
-    tooltip(marker,text);$('locations').append(marker);
+    const [x,y]=p,shape=shapes[row.kind]||'circle',attrs={fill:row.is_secret?'#91354e':'#26353b',stroke:'#fff','stroke-width':.25,'pointer-events':'none'};
+    const marker=shape==='square'?svgNode('rect',{...attrs,x:x-1.1,y:y-1.1,width:2.2,height:2.2}):shape==='circle'?svgNode('circle',{...attrs,cx:x,cy:y,r:1.2}):svgNode('path',{...attrs,d:shape==='triangle'?`M${x},${y-1.5}l1.4,2.5h-2.8Z`:`M${x},${y-1.6}l1.3,1.6l-1.3,1.6l-1.3,-1.6Z`});
+    $('locations').append(marker);hitArea(x,y,2.4,text,$('locations'));
   }
   $('characters-list').replaceChildren();
   // Совпадающие имена остаются отдельными записями; ключом служит id.
@@ -275,15 +280,15 @@ function render() {
     const badge=document.createElement('span');badge.className='badge '+row.resolution_status;item.prepend(badge);
     const c=row.coordinates,p=Array.isArray(c)&&c.length===3?worldToSvg(c[0],c[2]):null;
     if(!p||row.resolution_status==='unknown'||!$('layer-characters').checked)continue;
-    const marker=svgNode('circle',{cx:p[0],cy:p[1],r:.85,fill:COLORS[row.resolution_status],stroke:'#fff','stroke-width':.2});
-    tooltip(marker,text+'\n'+row.id);$('characters').append(marker);
+    const marker=svgNode('circle',{cx:p[0],cy:p[1],r:1.5,fill:COLORS[row.resolution_status],stroke:'#fff','stroke-width':.3,'pointer-events':'none'});
+    $('characters').append(marker);hitArea(p[0],p[1],2.6,text+'\n'+row.id,$('characters'));
   }
   if($('layer-groups').checked) for(const group of active.locations.spatial_groups) {
     const members=group.characters.map(m=>active.locations.characters.find(c=>c.id===m.id)).filter(Boolean);
     const coords=members.filter(c=>c.resolution_status!=='unknown'&&Array.isArray(c.coordinates)&&c.coordinates.length===3&&worldToSvg(c.coordinates[0],c.coordinates[2])).map(c=>worldToSvg(c.coordinates[0],c.coordinates[2]));
     if(!coords.length||group.resolution_status==='unknown')continue;
     const [x,y]=[0,1].map(i=>coords.reduce((s,p)=>s+p[i],0)/coords.length);
-    const marker=svgNode('path',{d:`M${x},${y-1.8}l1.8,1.8l-1.8,1.8l-1.8,-1.8Z`,fill:COLORS[group.resolution_status]||'#666',stroke:'#fff','stroke-width':.3});
+    const marker=svgNode('path',{d:`M${x},${y-2.8}l2.8,2.8l-2.8,2.8l-2.8,-2.8Z`,fill:COLORS[group.resolution_status]||'#666',stroke:'#fff','stroke-width':.4});
     tooltip(marker,'Вычисленный центр '+group.group_id+' ('+coords.length+'/'+members.length+')\n'+members.map(c=>c.name+' · '+statusPlace(c,displayRegion)).join('\n'));$('groups').append(marker);
   }
   renderChains();
@@ -394,12 +399,12 @@ function zoom(factor,cx=view[0]+view[2]/2,cy=view[1]+view[3]/2) {
 function pointerToMap(event) {
   return new DOMPoint(event.clientX,event.clientY).matrixTransform($('map').getScreenCTM().inverse());
 }
-$('map').addEventListener('wheel',event=>{event.preventDefault();const p=pointerToMap(event);zoom(event.deltaY<0?.85:1/.85,p.x,p.y);},{passive:false});
+$('map').addEventListener('wheel',event=>{event.preventDefault();const p=pointerToMap(event);zoom(Math.exp(Math.max(-120,Math.min(120,event.deltaY))*0.0007),p.x,p.y);},{passive:false});
 let drag=null;
 $('map').addEventListener('pointerdown',event=>{if(event.button!==0)return;drag={x:event.clientX,y:event.clientY,view:[...view],matrix:$('map').getScreenCTM().inverse()};$('map').setPointerCapture(event.pointerId);});
 $('map').addEventListener('pointermove',event=>{if(!drag)return;const start=new DOMPoint(drag.x,drag.y).matrixTransform(drag.matrix),end=new DOMPoint(event.clientX,event.clientY).matrixTransform(drag.matrix);view=[drag.view[0]+start.x-end.x,drag.view[1]+start.y-end.y,drag.view[2],drag.view[3]];applyView();});
 for(const type of ['pointerup','pointercancel','lostpointercapture'])$('map').addEventListener(type,()=>{drag=null;});
-$('zoom-in').onclick=()=>zoom(.8);$('zoom-out').onclick=()=>zoom(1.25);$('reset').onclick=()=>{view=[0,0,256,256];applyView();};
+$('zoom-in').onclick=()=>zoom(.88);$('zoom-out').onclick=()=>zoom(1/.88);$('reset').onclick=()=>{view=[0,0,256,256];applyView();};
 for(const id of ['search','kind','region','secrets','layer-regions','layer-locations','layer-characters','layer-groups','layer-corridors'])$(id).addEventListener(id==='search'?'input':'change',render);
 $('files').onchange=event=>loadFiles(event.target.files);
 document.addEventListener('dragover',event=>event.preventDefault());
