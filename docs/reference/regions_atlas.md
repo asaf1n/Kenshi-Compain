@@ -44,7 +44,7 @@
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards, recruits.md.
 
 ## Берег левиафанов (Leviathan Coast)
-Положение: северо-запад. Соседи: Равнины людоедов (Cannibal Plains), Железный шлейф (The Iron Trail).
+Положение: северо-запад. Соседи: Равнины людоедов (Cannibal Plains), Железный шельф (The Iron Trail).
 Среда: северный край. Угрозы: левиафаны, людоеды (вынос раненых). Источник: https://kenshi.zone/en/locations.
 Локации:
 - Затерянная библиотека (Lost Library) — ruins
@@ -151,7 +151,7 @@ NPC: Мрачный Нил (Sadneil) в Чёрной Пустыне. Источ�
 - Ловушка Нарко (Narko's Trap) — military
 Источники: regions-index.md, https://kenshi.zone/en/environment-hazards.
 
-## Железный шлейф (The Iron Trail)
+## Железный шельф (The Iron Trail)
 Положение: северо-запад. Соседи: Берег левиафанов (Leviathan Coast), Пурпурные пески (Purple Sands), Равнины людоедов (Cannibal Plains).
 Среда: Iron Spiders, людоеды, кислотные дожди. Источник: https://kenshi.zone/en/locations.
 Локации:
@@ -361,7 +361,7 @@ NPC: Кат-Лон (Cat-Lon). Источники: https://kenshi.fandom.com/wiki
 Источники: regions-index.md.
 
 ## Пурпурные пески (Purple Sands)
-Положение: северо-запад. Соседи: Железный шлейф (The Iron Trail), Верещащий лес (The Shrieking Forest), Страна Берсерков (Berserker Country), Равнины людоедов (Cannibal Plains), Пойма (Floodlands).
+Положение: северо-запад. Соседи: Железный шельф (The Iron Trail), Верещащий лес (The Shrieking Forest), Страна Берсерков (Berserker Country), Равнины людоедов (Cannibal Plains), Пойма (Floodlands).
 Среда: песчаные бури. Источник: https://kenshi.zone/en/environment-hazards.
 Локации:
 - Не-древняя мастерская (Post-Ancient Workshop) — ruins
@@ -391,7 +391,7 @@ NPC: Каменный Голем Эсата (Esata the Stone Golem) в Адма�
 Источники: regions-index.md.
 
 ## Равнины людоедов (Cannibal Plains)
-Положение: северо-запад. Соседи: Берег левиафанов (Leviathan Coast), Пойма (Floodlands), Скрытый лес (Hidden Forest), Железный шлейф (The Iron Trail), Северный берег (Northern Coast), Пурпурные пески (Purple Sands).
+Положение: северо-запад. Соседи: Берег левиафанов (Leviathan Coast), Пойма (Floodlands), Скрытый лес (Hidden Forest), Железный шельф (The Iron Trail), Северный берег (Northern Coast), Пурпурные пески (Purple Sands).
 Среда: людоеды (большие группы, carry/eat). Источник: https://kenshi.zone/en/locations.
 Локации:
 - Деревня людоедов (Cannibal Village) — village (×3)

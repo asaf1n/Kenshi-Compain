@@ -93,7 +93,7 @@
 - Затерянный арсенал (Lost Armoury) — ruins · секретная
 - Ловушка Нарко (Narko's Trap) — military
 
-## Железный шлейф (The Iron Trail)
+## Железный шельф (The Iron Trail)
 - Древняя техно лаба (Ancient Tech Lab) — ruins
 
 ## Запретный остров (Forbidden Isle)
