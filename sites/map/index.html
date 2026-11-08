@@ -6,6 +6,7 @@
 <style>
 :root{color-scheme:dark;--bg:#141c20;--panel:#1e292e;--text:#e8e6da;--muted:#adbbb9;--accent:#e0b96f}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,sans-serif}h1{font-size:21px;margin:0}h2{font-size:16px;margin:18px 0 8px}header{padding:14px 20px;border-bottom:1px solid #3d4b50;display:flex;gap:20px;justify-content:space-between;align-items:center}header p{margin:3px 0;color:var(--muted)}main{display:grid;grid-template-columns:330px minmax(0,1fr);height:calc(100vh - 95px)}aside{padding:16px;overflow:auto;background:var(--panel)}label{display:block;margin:8px 0}input[type=search],select{width:100%;background:#101a1f;color:var(--text);border:1px solid #607078;border-radius:4px;padding:8px}button,.file-label{background:#35464c;color:var(--text);border:1px solid #71817c;border-radius:4px;padding:8px 10px;cursor:pointer;font:inherit}button:hover,.file-label:hover{background:#4a5c61}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent)}.buttons{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}.file-label{display:block}input[type=file]{max-width:100%;margin-top:7px}.muted{color:var(--muted)}.note{font-size:12px;color:var(--muted)}#stage{position:relative;min-height:400px;background:#bcc6bc;overflow:hidden}#map{width:100%;height:100%;touch-action:none;cursor:grab;display:block}#map:active{cursor:grabbing}#message{white-space:pre-line;font-size:13px;padding:8px 0;color:#f3cd82}#tooltip{position:absolute;max-width:340px;max-height:65%;overflow:auto;z-index:3;left:16px;top:16px;background:#142027f5;color:var(--text);padding:12px;border:1px solid #c1b589;border-radius:4px;white-space:pre-line;pointer-events:none}#tooltip:empty{display:none}#locations-list,#characters-list{max-height:240px;overflow:auto}ul{padding-left:18px}.row{padding:5px 0;border-bottom:1px solid #435056}.badge{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}.in_location{background:#47da99}.near_location{background:#ffb64b}.in_region{background:#70b1ff}.unknown{background:#999}.corridor{padding:8px;border-left:3px solid var(--accent);margin:10px 0}.stamp{overflow-wrap:anywhere}.map-controls{position:absolute;right:12px;top:12px;display:flex;gap:4px}.legend{position:absolute;bottom:12px;left:12px;padding:7px 10px;background:#142027ed;max-width:calc(100% - 24px);font-size:12px}dialog{max-width:700px;width:90%;background:var(--panel);color:var(--text);border:1px solid var(--accent)}textarea{width:100%;height:50vh;background:var(--bg);color:var(--text)}@media(max-width:800px){header{display:block}main{height:auto;grid-template-columns:1fr}#stage{height:75vh;grid-row:1}aside{max-height:none}h1{font-size:18px}}
+.mk{cursor:pointer}.mk .ico{transform-box:fill-box;transform-origin:center;transition:transform .12s ease-out}.mk:hover .ico{transform:scale(1.6)}
 </style>
 <header><div><h1>Картографическая схема Kenshi</h1><p id="release-label"></p></div><div class="buttons"><button id="export">Экспорт SVG</button><button id="copy">Копировать сводку для чата</button></div></header>
 <main>
@@ -26,7 +27,7 @@
 <label>Тип<select id="kind"><option value="">Все типы</option></select></label>
 <label>Регион<select id="region"><option value="">Все регионы</option></select></label>
 <label><input id="secrets" type="checkbox"> Показать секретные локации</label>
-<p id="location-count" class="muted"></p><div id="locations-list"></div>
+<div id="kind-legend" class="note" aria-label="Условные знаки"></div><p id="location-count" class="muted"></p><div id="locations-list"></div>
 <h2>Положение отряда</h2>
 <p class="note"><span class="badge in_location"></span>В локации · <span class="badge near_location"></span>Рядом · <span class="badge in_region"></span>В регионе · <span class="badge unknown"></span>Неизвестно</p>
 <div id="characters-list"></div>
@@ -164,10 +165,38 @@ function svgNode(tag, attrs={}, text=null) {
 function textRow(parent,text,cls='row') {
   const node=document.createElement('div'); node.className=cls; node.textContent=text; parent.append(node); return node;
 }
-// Невидимая область наведения вокруг маркера: цель крупнее самого значка.
-function hitArea(x,y,r,text,layer) {
-  const hit=svgNode('circle',{cx:x,cy:y,r,fill:'transparent',stroke:'none','pointer-events':'all'});
-  tooltip(hit,text);layer.append(hit);
+// Типы локаций: цвет и форма значка (координаты относительно центра, полуразмер ≈ 2).
+const KIND_STYLE = {
+  town:{color:'#1f4e79',d:'M-2.2,2.2V-1H-1.3V-2.2H-0.45V-1H0.45V-2.2H1.3V-1H2.2V2.2Z'},                                   // Город — крепостная стена
+  village:{color:'#2e7d32',d:'M-2,0.3L0,-2L2,0.3V2.1H-2Z'},                                                              // Деревня — дом
+  outpost:{color:'#6a1b9a',d:'M0,-2.4L2.2,1.9H-2.2Z'},                                                                    // Аванпост — вышка
+  ruins:{color:'#7b5a3a',d:'M-2.2,2.2V-0.4L-1.1,-0.4L-0.6,-2.2L0.3,-0.7L1.1,-1.7L2.2,0V2.2Z'},                            // Руины — обломок стены
+  military:{color:'#b71c1c',d:'M-2,-2H2V0.4Q2,1.9 0,2.4Q-2,1.9 -2,0.4Z'},                                                  // Военная база — щит
+  slave_camp:{color:'#e65100',d:'M-2.2,-1.3L-1.3,-2.2L0,-0.9L1.3,-2.2L2.2,-1.3L0.9,0L2.2,1.3L1.3,2.2L0,0.9L-1.3,2.2L-2.2,1.3L-0.9,0Z'}, // Лагерь рабов — крест
+  prison:{color:'#37474f',d:'M-2,-2H2V2H-2Z',bars:'M-0.7,-2V2M0.7,-2V2'},                                                // Тюрьма — решётка
+  poi:{color:'#00838f',d:'M0,-2.5L0.75,-0.8L2.5,-0.7L1.15,0.45L1.6,2.3L0,1.3L-1.6,2.3L-1.15,0.45L-2.5,-0.7L-0.75,-0.8Z'}  // Особое место — звезда
+};
+function kindIcon(kind,x,y,secret) {
+  const style=KIND_STYLE[kind]||KIND_STYLE.poi, tr='translate('+x+' '+y+') scale(1.25)';
+  const nodes=[svgNode('path',{d:style.d,transform:tr,fill:secret?'#91354e':style.color,stroke:'#fff','stroke-width':.38,'stroke-linejoin':'round','pointer-events':'none'})];
+  if(style.bars) nodes.push(svgNode('path',{d:style.bars,transform:tr,fill:'none',stroke:'#fff','stroke-width':.4,'pointer-events':'none'}));
+  if(secret) nodes.push(svgNode('path',{d:style.d,transform:tr,fill:'none',stroke:'#f3cd82','stroke-width':.3,'stroke-dasharray':'.6 .4','pointer-events':'none'}));
+  return nodes;
+}
+// Маркер: значок (.ico увеличивается при наведении) и невидимая область наведения крупнее значка.
+function renderKindLegend() {
+  $('kind-legend').replaceChildren();
+  for(const kind of Object.keys(KIND_STYLE)) {
+    const item=document.createElement('span'), icon=svgNode('svg',{viewBox:'-3 -3 6 6',width:16,height:16,'aria-hidden':'true'});
+    icon.append(...kindIcon(kind,0,0,false));item.style.cssText='display:inline-flex;align-items:center;gap:4px;margin:2px 10px 2px 0';
+    item.append(icon,document.createTextNode(kindLabel(kind)));$('kind-legend').append(item);
+  }
+}
+function addMarker(layer,x,y,shapes,hitRadius,text) {
+  const group=svgNode('g',{class:'mk'}), icon=svgNode('g',{class:'ico'});
+  icon.append(...shapes);group.append(icon);
+  group.append(svgNode('circle',{cx:x,cy:y,r:hitRadius,fill:'transparent','pointer-events':'all'}));
+  tooltip(group,text);layer.append(group);
 }
 function tooltip(node,text) {
   node.append(svgNode('title',{},text));
@@ -263,14 +292,11 @@ function render() {
   }
   const list=visibleLocations();$('locations-list').replaceChildren();
   $('location-count').textContent='Видимых локаций: '+list.length;
-  const shapes={town:'square',outpost:'triangle',ruins:'diamond',military:'square',poi:'circle'};
   for(const row of list) {
     const text=(row.name_ru||row.name_en)+' · '+kindLabel(row.kind)+' · '+displayRegion(row.region);
     textRow($('locations-list'),text);
     const p=worldToSvg(row.x,row.z);if(!p||!$('layer-locations').checked)continue;
-    const [x,y]=p,shape=shapes[row.kind]||'circle',attrs={fill:row.is_secret?'#91354e':'#26353b',stroke:'#fff','stroke-width':.25,'pointer-events':'none'};
-    const marker=shape==='square'?svgNode('rect',{...attrs,x:x-1.1,y:y-1.1,width:2.2,height:2.2}):shape==='circle'?svgNode('circle',{...attrs,cx:x,cy:y,r:1.2}):svgNode('path',{...attrs,d:shape==='triangle'?`M${x},${y-1.5}l1.4,2.5h-2.8Z`:`M${x},${y-1.6}l1.3,1.6l-1.3,1.6l-1.3,-1.6Z`});
-    $('locations').append(marker);hitArea(x,y,2.4,text,$('locations'));
+    addMarker($('locations'),p[0],p[1],kindIcon(row.kind,p[0],p[1],row.is_secret),3.4,text);
   }
   $('characters-list').replaceChildren();
   // Совпадающие имена остаются отдельными записями; ключом служит id.
@@ -280,16 +306,15 @@ function render() {
     const badge=document.createElement('span');badge.className='badge '+row.resolution_status;item.prepend(badge);
     const c=row.coordinates,p=Array.isArray(c)&&c.length===3?worldToSvg(c[0],c[2]):null;
     if(!p||row.resolution_status==='unknown'||!$('layer-characters').checked)continue;
-    const marker=svgNode('circle',{cx:p[0],cy:p[1],r:1.5,fill:COLORS[row.resolution_status],stroke:'#fff','stroke-width':.3,'pointer-events':'none'});
-    $('characters').append(marker);hitArea(p[0],p[1],2.6,text+'\n'+row.id,$('characters'));
+    addMarker($('characters'),p[0],p[1],[svgNode('circle',{cx:p[0],cy:p[1],r:2.3,fill:COLORS[row.resolution_status],stroke:'#fff','stroke-width':.4,'pointer-events':'none'})],3.4,text+'\n'+row.id);
   }
   if($('layer-groups').checked) for(const group of active.locations.spatial_groups) {
     const members=group.characters.map(m=>active.locations.characters.find(c=>c.id===m.id)).filter(Boolean);
     const coords=members.filter(c=>c.resolution_status!=='unknown'&&Array.isArray(c.coordinates)&&c.coordinates.length===3&&worldToSvg(c.coordinates[0],c.coordinates[2])).map(c=>worldToSvg(c.coordinates[0],c.coordinates[2]));
     if(!coords.length||group.resolution_status==='unknown')continue;
     const [x,y]=[0,1].map(i=>coords.reduce((s,p)=>s+p[i],0)/coords.length);
-    const marker=svgNode('path',{d:`M${x},${y-2.8}l2.8,2.8l-2.8,2.8l-2.8,-2.8Z`,fill:COLORS[group.resolution_status]||'#666',stroke:'#fff','stroke-width':.4});
-    tooltip(marker,'Вычисленный центр '+group.group_id+' ('+coords.length+'/'+members.length+')\n'+members.map(c=>c.name+' · '+statusPlace(c,displayRegion)).join('\n'));$('groups').append(marker);
+    addMarker($('groups'),x,y,[svgNode('path',{d:`M${x},${y-3.6}l3.6,3.6l-3.6,3.6l-3.6,-3.6Z`,fill:COLORS[group.resolution_status]||'#666',stroke:'#fff','stroke-width':.5,'pointer-events':'none'})],4.4,
+      'Вычисленный центр '+group.group_id+' ('+coords.length+'/'+members.length+')\n'+members.map(c=>c.name+' · '+statusPlace(c,displayRegion)).join('\n'));
   }
   renderChains();
   $('disclaimer').textContent=DISCLAIMER;
@@ -399,12 +424,12 @@ function zoom(factor,cx=view[0]+view[2]/2,cy=view[1]+view[3]/2) {
 function pointerToMap(event) {
   return new DOMPoint(event.clientX,event.clientY).matrixTransform($('map').getScreenCTM().inverse());
 }
-$('map').addEventListener('wheel',event=>{event.preventDefault();const p=pointerToMap(event);zoom(Math.exp(Math.max(-120,Math.min(120,event.deltaY))*0.0007),p.x,p.y);},{passive:false});
+$('map').addEventListener('wheel',event=>{event.preventDefault();const p=pointerToMap(event);zoom(Math.exp(Math.max(-120,Math.min(120,event.deltaY))*0.0013),p.x,p.y);},{passive:false});
 let drag=null;
 $('map').addEventListener('pointerdown',event=>{if(event.button!==0)return;drag={x:event.clientX,y:event.clientY,view:[...view],matrix:$('map').getScreenCTM().inverse()};$('map').setPointerCapture(event.pointerId);});
 $('map').addEventListener('pointermove',event=>{if(!drag)return;const start=new DOMPoint(drag.x,drag.y).matrixTransform(drag.matrix),end=new DOMPoint(event.clientX,event.clientY).matrixTransform(drag.matrix);view=[drag.view[0]+start.x-end.x,drag.view[1]+start.y-end.y,drag.view[2],drag.view[3]];applyView();});
 for(const type of ['pointerup','pointercancel','lostpointercapture'])$('map').addEventListener(type,()=>{drag=null;});
-$('zoom-in').onclick=()=>zoom(.88);$('zoom-out').onclick=()=>zoom(1/.88);$('reset').onclick=()=>{view=[0,0,256,256];applyView();};
+$('zoom-in').onclick=()=>zoom(.84);$('zoom-out').onclick=()=>zoom(1/.84);$('reset').onclick=()=>{view=[0,0,256,256];applyView();};
 for(const id of ['search','kind','region','secrets','layer-regions','layer-locations','layer-characters','layer-groups','layer-corridors'])$(id).addEventListener(id==='search'?'input':'change',render);
 $('files').onchange=event=>loadFiles(event.target.files);
 document.addEventListener('dragover',event=>event.preventDefault());
@@ -412,7 +437,7 @@ document.addEventListener('drop',event=>{event.preventDefault();loadFiles(event.
 $('export').onclick=downloadSvg;
 $('copy').onclick=async()=>{if(!active){$('message').textContent='Выпуск не загружен: сводка недоступна.';return;}try{await navigator.clipboard.writeText(summary());$('message').textContent='Сводка скопирована.';}catch{ $('summary-text').value=summary();$('copy-dialog').showModal();$('summary-text').select(); }};
 $('close-dialog').onclick=()=>$('copy-dialog').close();
-refreshChains();populateChainRegions();
+refreshChains();populateChainRegions();renderKindLegend();
 // Текущий published; без сервера (file://) выпуск выбирается вручную. Встроенных снимков нет.
 (async()=>{
   try {
