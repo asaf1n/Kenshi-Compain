@@ -4,7 +4,7 @@
 - **previous_snapshot_id:** `sha256-781b398192623ce34bf974bf2bd1baffa960fe8b2300cb6c72002c130cb4a03d`
 - **branch_id:** `hot-lon-chapter-x-final`
 - **game_time:** `Day 135, 10:49`
-- **generated_at:** `2026-11-07T23:17:41Z`
+- **generated_at:** `2026-11-07T23:17:41.000001Z`
 
 ## Игровой мир
 - **Время:** День 135, время 10:49
