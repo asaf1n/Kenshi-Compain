@@ -7,7 +7,7 @@
 :root{color-scheme:dark;--bg:#141c20;--panel:#1e292e;--text:#e8e6da;--muted:#adbbb9;--accent:#e0b96f}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,sans-serif}h1{font-size:21px;margin:0}h2{font-size:16px;margin:18px 0 8px}header{padding:14px 20px;border-bottom:1px solid #3d4b50;display:flex;gap:20px;justify-content:space-between;align-items:center}header p{margin:3px 0;color:var(--muted)}main{display:grid;grid-template-columns:330px minmax(0,1fr);height:calc(100vh - 95px)}aside{padding:16px;overflow:auto;background:var(--panel)}label{display:block;margin:8px 0}input[type=search],select{width:100%;background:#101a1f;color:var(--text);border:1px solid #607078;border-radius:4px;padding:8px}button,.file-label{background:#35464c;color:var(--text);border:1px solid #71817c;border-radius:4px;padding:8px 10px;cursor:pointer;font:inherit}button:hover,.file-label:hover{background:#4a5c61}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent)}.buttons{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}.file-label{display:block}input[type=file]{max-width:100%;margin-top:7px}.muted{color:var(--muted)}.note{font-size:12px;color:var(--muted)}#stage{position:relative;min-height:400px;background:#bcc6bc;overflow:hidden}#map{width:100%;height:100%;touch-action:none;cursor:grab;display:block}#map:active{cursor:grabbing}#message{white-space:pre-line;font-size:13px;padding:8px 0;color:#f3cd82}#tooltip{position:absolute;max-width:340px;max-height:65%;overflow:auto;z-index:3;left:16px;top:16px;background:#142027f5;color:var(--text);padding:12px;border:1px solid #c1b589;border-radius:4px;white-space:pre-line;pointer-events:none}#tooltip:empty{display:none}#locations-list,#characters-list{max-height:240px;overflow:auto}ul{padding-left:18px}.row{padding:5px 0;border-bottom:1px solid #435056}.badge{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}.in_location{background:#47da99}.near_location{background:#ffb64b}.in_region{background:#70b1ff}.unknown{background:#999}.corridor{padding:8px;border-left:3px solid var(--accent);margin:10px 0}.stamp{overflow-wrap:anywhere}.map-controls{position:absolute;right:12px;top:12px;display:flex;gap:4px}.legend{position:absolute;bottom:12px;left:12px;padding:7px 10px;background:#142027ed;max-width:calc(100% - 24px);font-size:12px}dialog{max-width:700px;width:90%;background:var(--panel);color:var(--text);border:1px solid var(--accent)}textarea{width:100%;height:50vh;background:var(--bg);color:var(--text)}@media(max-width:800px){header{display:block}main{height:auto;grid-template-columns:1fr}#stage{height:75vh;grid-row:1}aside{max-height:none}h1{font-size:18px}}
 .mk{cursor:pointer}.mk .ico{transform-box:fill-box;transform-origin:center;transition:transform .12s ease-out}.mk:hover .ico{transform:scale(1.6)}
-.location-status{display:inline-block;margin-left:6px;font-size:12px;color:var(--muted)}.discovery-mark{color:#f3cd82}
+.location-status{display:inline-block;margin-left:6px;font-size:12px;color:var(--muted)}
 </style>
 <header><div><h1>Картографическая схема Kenshi</h1><p id="release-label"></p></div><div class="buttons"><button id="export">Экспорт SVG</button><button id="copy">Копировать сводку для чата</button></div></header>
 <main>
@@ -142,11 +142,13 @@ const BORDERS = DERIVED.border_lengths;
 const defaultChains = () => Object.entries(DEFAULT_CHAINS).map(([name,regions]) => ({name,regions:[...regions]}));
 const TITLE = 'Картографическая схема Kenshi';
 const COLORS = {in_location:'#19764b',near_location:'#b36a13',in_region:'#235fa4'};
-const VISIT = {
-  no_evidence:{label:'Нет сведений',color:'#656e73',rank:0},
-  visited:{label:'Посещён',color:'#be2534',rank:1},
-  explored:{label:'Исследован',color:'#167444',rank:2},
+// Состояние места: открыто ли на игровой карте (discovered из сейва) и отметка зачистки при [итог].
+const MARK = {
+  unknown:{label:'Неизвестно',color:'#656e73'},
+  known:{label:'Открыт',color:null},
+  cleared:{label:'Зачищено',color:null,ring:'#f3cd82'},
 };
+const locationState = row => row.cleared ? 'cleared' : row.discovered===true ? 'known' : 'unknown';
 const RELEASE_FILES = ['manifest.json','world_reference.json','locations.json'];
 const REGISTRY_FILE = 'location_registry.json';
 const PROGRESS_FILE = 'locations_progress.json';
@@ -187,13 +189,13 @@ const KIND_STYLE = {
   prison:{color:'#37474f',d:'M-2,-2H2V2H-2Z',bars:'M-0.7,-2V2M0.7,-2V2'},                                                // Тюрьма — решётка
   poi:{color:'#00838f',d:'M0,-2.5L0.75,-0.8L2.5,-0.7L1.15,0.45L1.6,2.3L0,1.3L-1.6,2.3L-1.15,0.45L-2.5,-0.7L-0.75,-0.8Z'}  // Особое место — звезда
 };
-function kindIcon(kind,x,y,secret,status=null,discovered=false) {
+function kindIcon(kind,x,y,secret,state=null) {
   const style=KIND_STYLE[kind]||KIND_STYLE.poi, tr='translate('+x+' '+y+') scale(1.25)';
-  const fill=status?VISIT[status].color:(secret?'#91354e':style.color);
+  const fill=state&&MARK[state].color?MARK[state].color:(secret?'#91354e':style.color);
   const nodes=[svgNode('path',{d:style.d,transform:tr,fill,stroke:'#fff','stroke-width':.38,'stroke-linejoin':'round','pointer-events':'none'})];
+  if(state&&MARK[state].ring) nodes.push(svgNode('circle',{cx:x,cy:y,r:3.6,fill:'none',stroke:MARK[state].ring,'stroke-width':.7,'pointer-events':'none'}));
   if(style.bars) nodes.push(svgNode('path',{d:style.bars,transform:tr,fill:'none',stroke:'#fff','stroke-width':.4,'pointer-events':'none'}));
   if(secret) nodes.push(svgNode('path',{d:style.d,transform:tr,fill:'none',stroke:'#f3cd82','stroke-width':.3,'stroke-dasharray':'.6 .4','pointer-events':'none'}));
-  if(discovered) nodes.push(svgNode('circle',{cx:x+2.5,cy:y-2.5,r:.85,fill:'#f3cd82',stroke:'#142027','stroke-width':.35,'pointer-events':'none'}));
   return nodes;
 }
 // Маркер: значок (.ico увеличивается при наведении) и невидимая область наведения крупнее значка.
@@ -201,24 +203,21 @@ function renderKindLegend(registry=false) {
   $('kind-legend').replaceChildren();
   for(const kind of Object.keys(KIND_STYLE)) {
     const item=document.createElement('span'), icon=svgNode('svg',{viewBox:'-3 -3 6 6',width:16,height:16,'aria-hidden':'true'});
-    icon.append(...kindIcon(kind,0,0,false,registry?'no_evidence':null));item.style.cssText='display:inline-flex;align-items:center;gap:4px;margin:2px 10px 2px 0';
+    icon.append(...kindIcon(kind,0,0,false));item.style.cssText='display:inline-flex;align-items:center;gap:4px;margin:2px 10px 2px 0';
     item.append(icon,document.createTextNode(kindLabel(kind)));$('kind-legend').append(item);
   }
   const legend=$('location-status-legend');
   legend.replaceChildren();
   legend.hidden=!registry;
   if(!registry) return;
-  for(const {color,label} of Object.values(VISIT)) {
+  for(const {color,ring,label} of Object.values(MARK)) {
     const badge=document.createElement('span');
-    badge.className='badge';badge.style.backgroundColor=color;badge.setAttribute('aria-hidden','true');
-    legend.append(badge,document.createTextNode(label+' · '));
+    badge.className='badge';badge.setAttribute('aria-hidden','true');
+    if(color) badge.style.backgroundColor=color;
+    else if(ring) badge.style.cssText='background:transparent;border:2px solid '+ring;
+    if(color||ring) legend.append(badge);
+    legend.append(document.createTextNode(label+(color||ring?'':' — цвет типа')+' · '));
   }
-  legend.append(discoveryMark());
-}
-function discoveryMark() {
-  const mark=document.createElement('span');
-  mark.className='discovery-mark';mark.textContent='● Обнаружен';
-  return mark;
 }
 function addMarker(layer,x,y,shapes,hitRadius,text) {
   const group=svgNode('g',{class:'mk'}), icon=svgNode('g',{class:'ico'});
@@ -273,7 +272,7 @@ function hasRegistry(manifest) {
 }
 function registryLocations(manifest,world,registry) {
   if(!hasRegistry(manifest)) return world.locations;
-  if(!['kenshi-location-registry/1','kenshi-location-registry/2'].includes(registry?.format)) throw new Error('Неверный формат реестра локаций');
+  if(registry?.format!=='kenshi-location-registry/3') throw new Error('Неверный формат реестра локаций');
   for(const key of ['campaign_id','snapshot_id','world_ref_id','game_time']) {
     if(registry[key]!==manifest[key]) throw new Error('Реестр локаций не соответствует выпуску: '+key);
   }
@@ -284,8 +283,8 @@ function registryLocations(manifest,world,registry) {
     const reference=byId.get(row?.instance_id);
     if(!reference || staticFields.some(key=>(row[key]??null)!==(reference[key]??null))) throw new Error('Локация реестра не совпадает со справочником');
     byId.delete(row.instance_id);
-    if(!Object.hasOwn(VISIT,row.status) || ('discovered' in row && typeof row.discovered!=='boolean'))
-      throw new Error('Некорректный статус локации в реестре');
+    if(('discovered' in row && typeof row.discovered!=='boolean') || ('cleared' in row && !validMark(row.cleared)))
+      throw new Error('Некорректное состояние локации в реестре');
   }
   return registry.locations;
 }
@@ -293,39 +292,29 @@ function gameMinutes(value,allowSingleDigitHour=false) {
   const parts=typeof value==='string'&&/^Day (\d+) ([0-9]|[01][0-9]|2[0-3]):([0-5][0-9])$/.exec(value);
   return parts && (allowSingleDigitHour||parts[2].length===2) ? Number(parts[1])*1440+Number(parts[2])*60+Number(parts[3]) : null;
 }
+const validMark = mark => Boolean(mark) && typeof mark.evidence==='string' && Boolean(mark.evidence.trim()) &&
+  Object.keys(mark).every(key=>key==='evidence'||key==='game_time') && (!('game_time' in mark) || gameMinutes(mark.game_time)!==null);
 function mergeProgress(rows,manifest,progress) {
-  // /2: ключ instance_id. /1 (с branch_id) читается: ветка игнорируется, при повторе берётся высший статус.
-  const legacy=progress?.format==='kenshi-location-progress/1';
-  if(!(legacy || progress?.format==='kenshi-location-progress/2') || progress.campaign_id!==manifest.campaign_id ||
+  // Отметки зачистки (kenshi-location-progress/3): ключ instance_id, не позже игрового времени выпуска.
+  if(progress?.format!=='kenshi-location-progress/3' || progress.campaign_id!==manifest.campaign_id ||
      typeof progress.world_ref_id!=='string' || !progress.world_ref_id || !Array.isArray(progress.locations))
     throw new Error('Ручные отметки не соответствуют кампании или формату');
-  const ids=new Set(rows.map(row=>row.instance_id)), seen=new Set(), overlay=new Map();
+  const ids=new Set(rows.map(row=>row.instance_id)), overlay=new Map();
   const cutoff=gameMinutes(manifest.game_time,true);
-  // /1 сворачивается как в конвертере (upgrade_progress): высший статус, при равенстве первая запись; затем фильтр по времени.
-  const entries=[];
   for(const entry of progress.locations) {
-    if(!entry || !['instance_id','evidence'].every(key=>typeof entry[key]==='string'&&entry[key].trim()) ||
-       !['visited','explored'].includes(entry.status) ||
-       (legacy ? typeof entry.branch_id!=='string'||!entry.branch_id : 'branch_id' in entry)) throw new Error('Некорректная ручная отметка');
-    if(seen.has(entry.instance_id) && !legacy) throw new Error('Дубли ручных отметок');
-    seen.add(entry.instance_id);
-    const prior=legacy && entries.find(e=>e.instance_id===entry.instance_id);
-    if(!prior) entries.push(entry);
-    else if(VISIT[entry.status].rank>VISIT[prior.status].rank) entries[entries.indexOf(prior)]=entry;
-  }
-  for(const entry of entries) {
-    const time=gameMinutes(entry.game_time);
-    if('game_time' in entry && time===null) throw new Error('Некорректное игровое время ручной отметки');
-    if(!ids.has(entry.instance_id)) {
+    const {instance_id,...mark}=entry||{};
+    if(typeof instance_id!=='string' || !instance_id.trim() || !validMark(mark)) throw new Error('Некорректная ручная отметка');
+    if(overlay.has(instance_id)) throw new Error('Дубли ручных отметок');
+    if(!ids.has(instance_id)) {
       if(progress.world_ref_id===manifest.world_ref_id) throw new Error('Локация ручной отметки вне справочника');
       continue;
     }
-    if(time===null||cutoff===null||time<=cutoff) overlay.set(entry.instance_id,entry);
+    const time=gameMinutes(mark.game_time);
+    overlay.set(instance_id,time===null||cutoff===null||time<=cutoff?mark:null);
   }
   const merged=rows.map(row=>{
-    const entry=overlay.get(row.instance_id);
-    return entry && VISIT[entry.status].rank>VISIT[row.status].rank
-      ? {...row,status:entry.status,status_source:'manual'} : row;
+    const mark=overlay.get(row.instance_id);
+    return mark && JSON.stringify(mark)!==JSON.stringify(row.cleared) ? {...row,cleared:mark} : row;
   });
   return merged.some((row,i)=>row!==rows[i])?merged:rows;
 }
@@ -395,20 +384,16 @@ function render() {
   $('location-count').textContent='Видимых локаций: '+list.length;
   for(const row of list) {
     const text=(row.name_ru||row.name_en)+' · '+kindLabel(row.kind)+' · '+displayRegion(row.region);
-    const item=textRow($('locations-list'),text), status=active.hasRegistry?row.status:null;
+    const item=textRow($('locations-list'),text), state=active.hasRegistry?locationState(row):null;
     let detail=text;
-    if(status) {
+    if(state) {
       const label=document.createElement('span');
-      label.className='location-status';label.textContent=VISIT[status].label;
+      label.className='location-status';label.textContent=MARK[state].label;
       item.append(label);
-      detail+='\n'+VISIT[status].label;
-      if(row.discovered===true) {
-        const mark=discoveryMark();mark.classList.add('location-status');item.append(mark);
-        detail+=' · Обнаружен';
-      } else if(row.discovered===false) detail+=' · Не обнаружен в сейве';
+      detail+='\n'+MARK[state].label+(row.cleared?': '+row.cleared.evidence:'');
     }
     const p=worldToSvg(row.x,row.z);if(!p||!$('layer-locations').checked)continue;
-    addMarker($('locations'),p[0],p[1],kindIcon(row.kind,p[0],p[1],row.is_secret,status,Boolean(status && row.discovered)),3.4,detail);
+    addMarker($('locations'),p[0],p[1],kindIcon(row.kind,p[0],p[1],row.is_secret,state),3.4,detail);
   }
   $('characters-list').replaceChildren();
   // Совпадающие имена остаются отдельными записями; ключом служит id.

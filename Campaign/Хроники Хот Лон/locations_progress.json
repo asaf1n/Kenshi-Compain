@@ -1,187 +1,67 @@
 {
-  "format": "kenshi-location-progress/2",
+  "format": "kenshi-location-progress/3",
   "campaign_id": "hot-lon",
   "world_ref_id": "sha256-4de10504d03d87e137cf00707bd235011a6991966151058f36b9165e0851c155",
   "locations": [
     {
       "instance_id": "104-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, день 95: Старая тюрьма зачищена"
     },
     {
       "instance_id": "108-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 99–100: штурм Башни Жестокости"
     },
     {
-      "instance_id": "111-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 86: Траур"
-    },
-    {
-      "instance_id": "113-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 53: Бар контрабандистов в Симе"
-    },
-    {
       "instance_id": "12-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Day 135 20:54–21:54, screenshot_550–551: бой и зачистка в Деревне людоедов, подтверждение игрока (9.11.2026); по умолчанию исследовано",
       "game_time": "Day 135 21:54"
     },
     {
       "instance_id": "13-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 120–127: Затерянная библиотека на Берегу левиафанов зачищена"
     },
     {
       "instance_id": "132-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, день 97: лаборатория в Горящем лесу, 12 древних книг"
     },
     {
       "instance_id": "14-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Day 134, screenshot_498–499 и подтверждение игрока (9.11.2026): осмотр и добыча мастерского арбалета «Диверсант» в Не-древней мастерской Пурпурных песков"
     },
     {
-      "instance_id": "144-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 7: путь через Дрин"
-    },
-    {
       "instance_id": "15-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, день 117: зачищена древняя лаборатория Поймы"
     },
     {
-      "instance_id": "153-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 100: Пон и Ложный крикун сданы в Грани"
-    },
-    {
-      "instance_id": "157-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, гл. I: прибытие в Стоат; архив скриншотов"
-    },
-    {
       "instance_id": "17-Dialogue-INGAME",
-      "status": "explored",
       "evidence": "Хронология, до дня 71: Новая Кралия зачищена"
     },
     {
       "instance_id": "18-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, день 119: Подозрительная лаба зачищена"
     },
     {
-      "instance_id": "186-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, до дня 71: Деревня Берсерков"
-    },
-    {
-      "instance_id": "22-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 8: Край Мира"
-    },
-    {
-      "instance_id": "23-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, дни 119–120: Деревня Отщепенцев"
-    },
-    {
       "instance_id": "26-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 122–123: исследование Столицы людоедов (бывший Дохлокот), захват Великого шамана и сдача за 40 000 катов; исследование подтверждено игроком (9.11.2026)"
     },
     {
-      "instance_id": "3-Newwworld-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 107: Безродный"
-    },
-    {
-      "instance_id": "36-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 120: в Рыбацкой деревне нанят Зелёный палец"
-    },
-    {
-      "instance_id": "38-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 45: Акула"
-    },
-    {
-      "instance_id": "4-Newwworld-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 117: Чад на Бугристом Холме"
-    },
-    {
-      "instance_id": "4-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, дни 120–127: Старая имперская башня осмотрена (экземпляр с discovered=true)"
-    },
-    {
-      "instance_id": "41-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, дни 86–95: Катун — база восстановления"
-    },
-    {
-      "instance_id": "43-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 117: Адмаг, передача Феникса"
-    },
-    {
-      "instance_id": "49-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, до дня 71: Старая линия фронта"
-    },
-    {
-      "instance_id": "5-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, к дню 11: восстановление через Клонящуюся башню"
-    },
-    {
-      "instance_id": "51-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, до дня 71: Последний Бой"
-    },
-    {
-      "instance_id": "6-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, к дню 11: найдена Башня Ожога, Ожог присоединяется"
-    },
-    {
-      "instance_id": "60-Newwworld-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, гл. IV: убит Пыльный Король; архив скриншотов"
-    },
-    {
       "instance_id": "61-Newwworld-INGAME",
-      "status": "explored",
       "evidence": "Хронология, гл. IV: зачищена башня Ниндзя Чёрного Дракона"
     },
     {
       "instance_id": "87-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 110–111: бой в Древних лабах Смирения, 10 древних книг"
     },
     {
-      "instance_id": "94-rebirth-INGAME",
-      "status": "visited",
-      "evidence": "Хронология, день 92: Рабские рынки, нанята Вынос мозга"
-    },
-    {
       "instance_id": "96-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, гл. VI–VII: Затерянная библиотека в Тщете; архив скриншотов"
     },
     {
       "instance_id": "98-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 40–45: исследована Заболоченная лаборатория"
     },
     {
       "instance_id": "99-rebirth-INGAME",
-      "status": "explored",
       "evidence": "Хронология, дни 40–45: исследована Заражённая лаборатория"
     }
   ]
