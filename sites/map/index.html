@@ -14,7 +14,7 @@
 <aside>
 <div class="file-label">Загрузить полный выпуск
 <input id="files" type="file" accept=".json,application/json" multiple aria-label="Файлы выпуска и ручных отметок"></div>
-<p class="note">По умолчанию загружается текущий published/ через HTTP-сервер из корня репозитория. Для ручной загрузки выберите manifest.json, world_reference.json, locations.json и, если указан в манифесте, location_registry.json. Можно добавить locations_progress.json. Замена выпуска другой кампании, ветки или снимка требует подтверждения.</p>
+<p class="note">По умолчанию загружается текущий published/ через HTTP-сервер из корня репозитория. Для ручной загрузки выберите manifest.json, world_reference.json, locations.json и, если указан в манифесте, location_registry.json. Можно добавить locations_progress.json. Замена выпуска другой кампании или снимка требует подтверждения.</p>
 <div id="message" role="status" aria-live="polite"></div>
 <h2>Слои</h2>
 <label><input id="layer-regions" type="checkbox" checked> Регионы</label>
@@ -111,7 +111,7 @@ function mainGroup(groups) { return groups.reduce((best, g) => !best || g.charac
 // ID — только у персонажей, чьё имя встречается в выпуске более одного раза.
 function buildSummary(ctx) {
   const m = ctx.manifest, chars = ctx.locations.characters, groups = ctx.locations.spatial_groups || [], regionName = ctx.regionName;
-  const lines = ['## ' + ctx.title, m.game_time + ' · ' + m.campaign_id + ' · ' + m.branch_id, 'world_ref_id: ' + m.world_ref_id, 'snapshot_id: ' + m.snapshot_id, 'Персонажей: ' + chars.length, 'Групп: ' + groups.length];
+  const lines = ['## ' + ctx.title, m.game_time + ' · ' + m.campaign_id, 'world_ref_id: ' + m.world_ref_id, 'snapshot_id: ' + m.snapshot_id, 'Персонажей: ' + chars.length, 'Групп: ' + groups.length];
   for (const g of groups) {
     const n = g.characters.length;
     lines.push('- ' + (g.label || g.group_id) + ': ' + n + ' ' + pluralRu(n, 'персонаж', 'персонажа', 'персонажей') + ' · ' + groupPlace(g, chars, regionName) + (g.resolution_status !== 'in_region' && g.region ? ' · регион: ' + regionName(g.region.name_en) : ''));
@@ -234,17 +234,18 @@ function tooltip(node,text) {
 }
 function validateRelease(manifest,world,locations) {
   const errors=[];
-  for(const [name,doc,format] of [['manifest',manifest,'kenshi-publication/1'],['world_reference',world,'kenshi-world-reference/1'],['locations',locations,'kenshi-locations/1']])
-    if(!doc || typeof doc!=='object' || doc.format!==format) errors.push(name+': неподдерживаемый format');
+  // Старые выпуски kenshi-publication/1 читаются; их branch_id игнорируется.
+  for(const [name,doc,formats] of [['manifest',manifest,['kenshi-publication/1','kenshi-publication/2']],['world_reference',world,['kenshi-world-reference/1']],['locations',locations,['kenshi-locations/1']]])
+    if(!doc || typeof doc!=='object' || !formats.includes(doc.format)) errors.push(name+': неподдерживаемый format');
   if(errors.length) return errors;
   if(manifest.validation?.status!=='passed') errors.push('validation.status должен быть passed');
-  for(const key of ['snapshot_id','world_ref_id','branch_id','campaign_id','game_time','generated_at'])
+  for(const key of ['snapshot_id','world_ref_id','campaign_id','game_time','generated_at'])
     if(typeof manifest[key]!=='string' || !manifest[key]) errors.push('Отсутствует '+key);
   if(manifest.world_ref_id!==world.world_ref_id || manifest.world_ref_id!==locations.world_ref_id) errors.push('Несовпадение world_ref_id');
   if(manifest.world_ref_id!==WORLD_ID) errors.push('world_ref_id не соответствует геометрии');
   if(manifest.snapshot_id!==locations.snapshot_id) errors.push('Несовпадение snapshot_id');
-  for(const key of ['branch_id','campaign_id']) for(const doc of [world,locations])
-    if(key in doc && doc[key]!==manifest[key]) errors.push('Несовпадение '+key);
+  for(const doc of [world,locations])
+    if('campaign_id' in doc && doc.campaign_id!==manifest.campaign_id) errors.push('Несовпадение campaign_id');
   for(const [doc,key,id] of [[world,'locations','instance_id'],[world,'regions','index'],[locations,'characters','id'],[locations,'spatial_groups','group_id']]) {
     const rows=doc[key];
     if(!Array.isArray(rows) || rows.some(r=>!r || typeof r!=='object' || (id==='index'?!Number.isInteger(r[id]):typeof r[id]!=='string'||!r[id]))) errors.push('Некорректный список '+key);
@@ -272,8 +273,8 @@ function hasRegistry(manifest) {
 }
 function registryLocations(manifest,world,registry) {
   if(!hasRegistry(manifest)) return world.locations;
-  if(registry?.format!=='kenshi-location-registry/1') throw new Error('Неверный формат реестра локаций');
-  for(const key of ['campaign_id','branch_id','snapshot_id','world_ref_id','game_time']) {
+  if(!['kenshi-location-registry/1','kenshi-location-registry/2'].includes(registry?.format)) throw new Error('Неверный формат реестра локаций');
+  for(const key of ['campaign_id','snapshot_id','world_ref_id','game_time']) {
     if(registry[key]!==manifest[key]) throw new Error('Реестр локаций не соответствует выпуску: '+key);
   }
   const byId=new Map(world.locations.map(row=>[row.instance_id,row]));
@@ -293,24 +294,33 @@ function gameMinutes(value,allowSingleDigitHour=false) {
   return parts && (allowSingleDigitHour||parts[2].length===2) ? Number(parts[1])*1440+Number(parts[2])*60+Number(parts[3]) : null;
 }
 function mergeProgress(rows,manifest,progress) {
-  if(progress?.format!=='kenshi-location-progress/1' || progress.campaign_id!==manifest.campaign_id ||
+  // /2: ключ instance_id. /1 (с branch_id) читается: ветка игнорируется, при повторе берётся высший статус.
+  const legacy=progress?.format==='kenshi-location-progress/1';
+  if(!(legacy || progress?.format==='kenshi-location-progress/2') || progress.campaign_id!==manifest.campaign_id ||
      typeof progress.world_ref_id!=='string' || !progress.world_ref_id || !Array.isArray(progress.locations))
     throw new Error('Ручные отметки не соответствуют кампании или формату');
   const ids=new Set(rows.map(row=>row.instance_id)), seen=new Set(), overlay=new Map();
   const cutoff=gameMinutes(manifest.game_time,true);
+  // /1 сворачивается как в конвертере (upgrade_progress): высший статус, при равенстве первая запись; затем фильтр по времени.
+  const entries=[];
   for(const entry of progress.locations) {
-    if(!entry || !['instance_id','branch_id','evidence'].every(key=>typeof entry[key]==='string'&&entry[key].trim()) ||
-       !['visited','explored'].includes(entry.status)) throw new Error('Некорректная ручная отметка');
-    const key=JSON.stringify([entry.branch_id,entry.instance_id]);
-    if(seen.has(key)) throw new Error('Дубли ручных отметок');
-    seen.add(key);
+    if(!entry || !['instance_id','evidence'].every(key=>typeof entry[key]==='string'&&entry[key].trim()) ||
+       !['visited','explored'].includes(entry.status) ||
+       (legacy ? typeof entry.branch_id!=='string'||!entry.branch_id : 'branch_id' in entry)) throw new Error('Некорректная ручная отметка');
+    if(seen.has(entry.instance_id) && !legacy) throw new Error('Дубли ручных отметок');
+    seen.add(entry.instance_id);
+    const prior=legacy && entries.find(e=>e.instance_id===entry.instance_id);
+    if(!prior) entries.push(entry);
+    else if(VISIT[entry.status].rank>VISIT[prior.status].rank) entries[entries.indexOf(prior)]=entry;
+  }
+  for(const entry of entries) {
     const time=gameMinutes(entry.game_time);
     if('game_time' in entry && time===null) throw new Error('Некорректное игровое время ручной отметки');
     if(!ids.has(entry.instance_id)) {
       if(progress.world_ref_id===manifest.world_ref_id) throw new Error('Локация ручной отметки вне справочника');
       continue;
     }
-    if(entry.branch_id===manifest.branch_id && (time===null||cutoff===null||time<=cutoff)) overlay.set(entry.instance_id,entry);
+    if(time===null||cutoff===null||time<=cutoff) overlay.set(entry.instance_id,entry);
   }
   const merged=rows.map(row=>{
     const entry=overlay.get(row.instance_id);
@@ -335,8 +345,8 @@ function getCorridors() {
 function staleNotice(manifest) {
   if(!currentManifest || manifest.snapshot_id===currentManifest.snapshot_id) return '';
   return isStaleRelease(manifest,currentManifest)
-    ? 'Предупреждение: устаревший снимок. Выбранный выпуск старше текущего published ('+currentManifest.game_time+'): '+manifest.game_time+', ветка '+manifest.branch_id+'.'
-    : 'Предупреждение: выбран не текущий published ('+currentManifest.game_time+'): '+manifest.game_time+', ветка '+manifest.branch_id+'.';
+    ? 'Предупреждение: устаревший снимок. Выбранный выпуск старше текущего published ('+currentManifest.game_time+'): '+manifest.game_time+'.'
+    : 'Предупреждение: выбран не текущий published ('+currentManifest.game_time+'): '+manifest.game_time+'.';
 }
 function activate(manifest,world,locations,registry,progress,progressIssue='') {
   const errors=validateRelease(manifest,world,locations);
@@ -356,17 +366,17 @@ function activate(manifest,world,locations,registry,progress,progressIssue='') {
   for(const kind of [...new Set(mapLocations.map(l=>l.kind))].sort((a,b)=>kindLabel(a).localeCompare(kindLabel(b),'ru'))) $('kind').add(new Option(kindLabel(kind),kind));
   for(const en of Object.keys(GRAPH).sort((a,b)=>displayRegion(a).localeCompare(displayRegion(b),'ru'))) $('region').add(new Option(displayRegion(en),en));
   populateChainRegions();
-  const notices=['Загружен выпуск '+manifest.game_time+' · '+manifest.branch_id+'.'];
+  const notices=['Загружен выпуск '+manifest.game_time+' · '+manifest.campaign_id+'.'];
+  if(manifest.reload) notices.push('Перезагрузка: снимок после '+manifest.reload.from_game_time+' откатился по игровому времени; более поздние снимки исключены.');
   if(previous && previous.campaign_id!==manifest.campaign_id) notices.push('Сменена кампания: '+manifest.campaign_id);
-  if(previous && previous.branch_id!==manifest.branch_id) notices.push('Сменена ветка: '+manifest.branch_id);
   if(previous && previous.snapshot_id!==manifest.snapshot_id) notices.push('Сменён снимок. Слои двух выпусков не объединяются.');
   const stale=staleNotice(manifest); if(stale) notices.push(stale);
   if(!registry) notices.push('В этом выпуске нет реестра локаций.');
   if(progressIssue) notices.push('Ручные отметки пропущены. '+progressIssue);
   $('message').textContent=notices.join('\n');
-  $('release-label').textContent=manifest.game_time+' · '+manifest.campaign_id+' · '+manifest.branch_id;
+  $('release-label').textContent=manifest.game_time+' · '+manifest.campaign_id;
   $('stamps').replaceChildren();
-  for(const key of ['world_ref_id','snapshot_id','branch_id','game_time']) textRow($('stamps'),key+': '+manifest[key]);
+  for(const key of ['world_ref_id','snapshot_id','game_time']) textRow($('stamps'),key+': '+manifest[key]);
   renderKindLegend(active.hasRegistry);
   render();
 }
@@ -504,8 +514,8 @@ async function loadFiles(files) {
       catch(error) {progressIssue=error.message;}
     }
     const cur=active?.manifest;
-    if(cur && (cur.snapshot_id!==manifest.snapshot_id||cur.branch_id!==manifest.branch_id||cur.campaign_id!==manifest.campaign_id) &&
-       !confirm('Заменить выпуск '+cur.game_time+' · '+cur.branch_id+' на '+manifest.game_time+' · '+manifest.branch_id+'? Выпуски не объединяются.')) {
+    if(cur && (cur.snapshot_id!==manifest.snapshot_id||cur.campaign_id!==manifest.campaign_id) &&
+       !confirm('Заменить выпуск '+cur.game_time+' · '+cur.campaign_id+' на '+manifest.game_time+' · '+manifest.campaign_id+'? Выпуски не объединяются.')) {
       $('message').textContent='Замена отменена. Активный набор сохранён.';return;
     }
     activate(manifest,world,locations,registry,progress,progressIssue);
@@ -523,9 +533,9 @@ function exportSvg() {
   const sources=[...RELEASE_FILES];
   if(active.hasRegistry) sources.push(REGISTRY_FILE);
   if(active.progressApplied) sources.push(PROGRESS_FILE);
-  const metadata={world_ref_id:m.world_ref_id,snapshot_id:m.snapshot_id,branch_id:m.branch_id,game_time:m.game_time,campaign_id:m.campaign_id,source:sources.join(' + '),filters};
+  const metadata={world_ref_id:m.world_ref_id,snapshot_id:m.snapshot_id,game_time:m.game_time,campaign_id:m.campaign_id,source:sources.join(' + '),filters};
   clone.prepend(svgNode('metadata',{},JSON.stringify(metadata)));
-  const labels=[TITLE,'Источник: '+metadata.source,...['world_ref_id','snapshot_id','branch_id','game_time'].map(k=>k+': '+m[k]),'Фильтры: поиск='+filters.query+'; тип='+filters.kind+'; регион='+displayRegion(filters.region)+'; секретные='+filters.show_secrets,'Слои: '+Object.entries(filters.layers).filter(([,v])=>v).map(([k])=>k).join(', '),DISCLAIMER];
+  const labels=[TITLE,'Источник: '+metadata.source,...['world_ref_id','snapshot_id','game_time'].map(k=>k+': '+m[k]),'Фильтры: поиск='+filters.query+'; тип='+filters.kind+'; регион='+displayRegion(filters.region)+'; секретные='+filters.show_secrets,'Слои: '+Object.entries(filters.layers).filter(([,v])=>v).map(([k])=>k).join(', '),DISCLAIMER];
   for(const r of routes.filter(r=>selectedRoutes.has(r.name))) labels.splice(-1,0,r.name,...r.steps.map(s=>'  '+stepText(s)));
   const height=262+labels.length*4;clone.setAttribute('viewBox','0 0 256 '+height);clone.setAttribute('height',String(height*4));
   clone.append(svgNode('rect',{x:0,y:256,width:256,height:height-256,fill:'#fff'}));
