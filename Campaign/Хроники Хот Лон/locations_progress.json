@@ -24,6 +24,12 @@
       "evidence": "Хронология, день 53: Бар контрабандистов в Симе"
     },
     {
+      "instance_id": "12-rebirth-INGAME",
+      "status": "explored",
+      "evidence": "Day 135 20:54–21:54, screenshot_550–551: бой и зачистка в Деревне людоедов, подтверждение игрока (9.11.2026); по умолчанию исследовано",
+      "game_time": "Day 135 21:54"
+    },
+    {
       "instance_id": "13-rebirth-INGAME",
       "status": "explored",
       "evidence": "Хронология, дни 120–127: Затерянная библиотека на Берегу левиафанов зачищена"
@@ -32,6 +38,11 @@
       "instance_id": "132-rebirth-INGAME",
       "status": "explored",
       "evidence": "Хронология, день 97: лаборатория в Горящем лесу, 12 древних книг"
+    },
+    {
+      "instance_id": "14-rebirth-INGAME",
+      "status": "explored",
+      "evidence": "Day 134, screenshot_498–499 и подтверждение игрока (9.11.2026): осмотр и добыча мастерского арбалета «Диверсант» в Не-древней мастерской Пурпурных песков"
     },
     {
       "instance_id": "144-rebirth-INGAME",
@@ -77,6 +88,11 @@
       "instance_id": "23-rebirth-INGAME",
       "status": "visited",
       "evidence": "Хронология, дни 119–120: Деревня Отщепенцев"
+    },
+    {
+      "instance_id": "26-rebirth-INGAME",
+      "status": "explored",
+      "evidence": "Хронология, дни 122–123: исследование Столицы людоедов (бывший Дохлокот), захват Великого шамана и сдача за 40 000 катов; исследование подтверждено игроком (9.11.2026)"
     },
     {
       "instance_id": "3-Newwworld-INGAME",
