@@ -1,0 +1,182 @@
+sid,name_en,name_ru,category,status,level,tech_level_upgrade,blueprint_only,paid,progress_raw,completed_level,max_repeats,time_hours,money_cost,cost_items,requirements,missing_requirements,enable_buildings,improve_buildings,building_improvements,enable_crafts_count
+46044-rebirth.mod,_Low Start,_Low Start,Core,locked_blueprint,0,,true,,,0,1,12,,,,,Спальник; Костёр; Малый научный стенд; Овощная ферма L; Колодец; Сарайчик; Факел; Овощная ферма S; Овощная ферма M,,,1
+5359-gamedata.base,_Default Start,_Default Start,Core,completed,0,,true,,,1,1,12,,,,,Каменоломня; Спальник; Костёр; Ручная обработка камня; Малый научный стенд; Овощная ферма L; Колодец; Сарайчик; Факел; Овощная ферма S; Овощная ферма M,,,1
+1886-gamedata.base,Item Storage,Хранение вещей,Core,completed,1,,,true,,1,1,4,,,,,Складской сундук; Железный сундук; Складские коробки; Кормушка для животных; Хранение: еда,,,
+1892-gamedata.base,Small House,Маленький дом,Core,completed,1,,,true,,1,1,6,,Книга: 2,,,Крепкий дом,,,
+2008-gamedata.base,Tech Level 2,Тех. уровень 2,Core,completed,1,true,,true,,1,1,4,,Книга: 6,Маленький дом,,Научный стенд II,,,
+2051-gamedata.base,Public Sales,Открытые продажи,Core,completed,1,,,true,,1,1,4,,,,,Прилавок,,,
+46043-rebirth.mod,_start- freedom seekers,_start- freedom seekers,Core,locked_blueprint,1,,true,,,0,1,12,,,,,Хранение: пшеница; Крепкий дом; Пшеничная ферма S,,,
+96564-rebirth.mod,Camp Shelter,Походное жильё,Core,completed,1,,true,,,1,1,2,200,,,,Плоский навес,,,
+96565-rebirth.mod,Scrap Tent,Кустарный тент,Core,locked_blueprint,1,,true,,,0,1,2,200,,,,Кустарный тент,,,
+96566-rebirth.mod,Mercenary Tent,Тент наёмников,Core,completed,1,,true,,,1,1,2,300,,,,Тент наёмников,,,
+97245-rebirth.mod,Gear Storage,Хранение снаряжения,Core,completed,1,,,true,,1,1,4,,,,,Арбалетный шкаф; Оружейный шкаф; Оружейний стенд; Хранение: доспехи; Болткоробка,,,
+1879-gamedata.base,Medium Building Shells,Каркасы средних зданий,Core,queued,2,,,true,0,0,1,6,,Книга: 6,Маленький дом,,Жукодом; Г-дом; Длиннодом,,,
+2090-gamedata.base,Tech Level 3,Тех. уровень 3,Core,completed,2,true,,true,,1,1,10,,Книга: 10,Тех. уровень 2,,Научный стенд III,,,
+42179-rebirth.mod,Beds,Кровати,Core,completed,2,,,true,,1,1,5,,Книга: 2,,,Кровать,,,
+62165-rebirth.mod,Basic Furniture,Простая мебель,Core,completed,2,,true,,,1,1,3,500,,,,Ящик-стул; Скамья; Табурет; Стеллаж; Малый стол; Стол; Круглый барный стол; Подушка-сидушка; Железный стол; Круглый стол,,,
+62167-rebirth.mod,Random Furniture,Разная мебель,Core,locked_blueprint,2,,true,,,0,1,3,500,,,,Стенд для трофеев; Уборная; Ржавая раковина; Перегородка: металл; Опорная балка 3; Опорная балка 1; Опорная балка 2; Перегородка,,,
+1878-gamedata.base,Large Building Shells,Каркасы больших зданий,Core,locked_prereq,3,,,,,0,1,6,,Инженерные исследования: 1,Каркасы средних зданий,Каркасы средних зданий,У-Дом; Дом-улитка; Дом-ступенька; Постовое здание; Дозорная башня,,,
+1880-gamedata.base,Outpost Type III,Застава тип-III,Core,locked_prereq,3,,,,,0,1,6,,Инженерные исследования: 2,Чертежи продвинутого форпоста; Фундамент тяжелых зданий,Чертежи продвинутого форпоста,Застава с-III,,,
+1887-gamedata.base,Advanced Outpost Blueprints,Чертежи продвинутого форпоста,Core,locked_prereq,3,,true,,,0,1,6,15000,,Каркасы больших зданий; Каркасы средних зданий,Каркасы больших зданий; Каркасы средних зданий,,,,
+2091-gamedata.base,Tech Level 4,Тех. уровень 4,Core,completed,3,true,,true,,1,1,16,,Древняя научная книга: 4,Тех. уровень 3,,Научный стенд IV,,,
+2995-gamedata.base,Heavy Building Foundations,Фундамент тяжелых зданий,Core,completed,3,,,true,,1,1,6,,Инженерные исследования: 1,,,,,,
+1881-gamedata.base,Outpost Type IV,Застава тип-IV,Core,locked_prereq,4,,,,,0,1,6,,Инженерные исследования: 2,Застава тип-III; Фундамент тяжелых зданий,Застава тип-III,Застава с-IV,,,
+2092-gamedata.base,Tech Level 5,Тех. уровень 5,Core,completed,4,true,,true,,1,1,24,,Древняя научная книга: 8,Тех. уровень 4,,Научный стенд V,,,
+50020-rebirth.mod,Copper Alloys,Медные сплавы,Core,completed,4,,,true,,1,1,8,,Инженерные исследования: 1,,,Верстак для меди; Хранение: сплавы меди,,,
+2093-gamedata.base,Tech Level 6,Тех. уровень 6,Core,completed,5,true,,true,,1,1,32,,Ядро ИИ: 2,Тех. уровень 5,,Научный стенд VI,,,
+2025-gamedata.base,Fabric Manufacture,Производство ткани,Crafting,queued,1,,,true,0,0,1,6,,Книга: 1,,,Ткацкий станок (хлопок); Ящик для ткани,,,
+2263-gamedata.base,Basic First Aid Kits,Простые аптечки,Crafting,completed,2,,,true,,1,1,2,,Книга: 2,,,Простой медицинский стенд; Медикоробка,,,1
+47239-rebirth.mod,Hemp-Based Fabric,Пеньковая ткань,Crafting,available,2,,,,,0,1,6,,Книга: 2,,,Ткацкий станок (пенька); Ящик для ткани,,,
+56646-rebirth.mod,Sleeping Bags,Спальные мешки,Crafting,completed,2,,,true,,1,1,2,,Книга: 1,,,Простой медицинский стенд,,,1
+1534079-rebirth.mod,Skeleton-Human Transformation Bible,Библия трансформации скелета в человека,Crafting,locked_blueprint,3,,true,,,0,1,8,,,,,Шелушильня,,,1
+43924-rebirth.mod,Robotics,Робототехника,Crafting,completed,3,,,true,,1,1,8,,Древняя научная книга: 1,Стальные слитки; Изготовление электрики,,Роботехнический верстак; Хранение: роботехника,,,5
+1533518-rebirth.mod,Hiver Skeleton Legs,Скелетные ноги Роев,Crafting,completed,4,,,true,,1,1,6,,Древняя научная книга: 6,Робототехника,,Верстак для протезов,,,2
+1533519-rebirth.mod,Hiver Skeleton Arms,Скелетные руки Роев,Crafting,completed,4,,,true,,1,1,6,,Древняя научная книга: 4,Скелетные ноги Роев,,,,,2
+62380-rebirth.mod,Automatic Loom (Hemp),Ткацкий автостанок (Пенька),Crafting,locked_prereq,4,,,,,0,1,6,,Древняя научная книга: 1,Пеньковая ткань,Пеньковая ткань,Ткацкий автостанок (пенька),,,
+62381-rebirth.mod,Automatic Loom (Cotton),Ткацкий автостанок (Хлопок),Crafting,locked_prereq,4,,,,,0,1,6,,Книга: 3; Древняя научная книга: 1,Производство ткани,Производство ткани,Ткацкий автостанок (хлопок),,,
+1533520-rebirth.mod,Skeleton Legs,Скелетные ноги,Crafting,available,5,,,,,0,1,12,,Ядро ИИ: 2,Скелетные руки Роев,,,,,2
+1533521-rebirth.mod,Skeleton Arms,Скелетные руки,Crafting,available,5,,,,,0,1,12,,Ядро ИИ: 2,Скелетные руки Роев,,,,,2
+1533522-rebirth.mod,High-Speed Legs,Скоростные ноги,Crafting,locked_prereq,6,,,,,0,1,12,,Ядро ИИ: 2,Скелетные ноги,Скелетные ноги,,,,2
+1533523-rebirth.mod,Stealth Legs,Скрытные ноги,Crafting,locked_prereq,6,,,,,0,1,12,,Ядро ИИ: 2,Скелетные ноги,Скелетные ноги,,,,2
+1533524-rebirth.mod,Extra Durable Legs,Сверхпрочные ноги,Crafting,locked_prereq,6,,,,,0,1,12,,Ядро ИИ: 2,Скелетные ноги,Скелетные ноги,,,,2
+1533525-rebirth.mod,Durable Arms,Прочные руки,Crafting,locked_prereq,6,,,,,0,1,12,,Ядро ИИ: 2,Скелетные руки,Скелетные руки,,,,2
+1533526-rebirth.mod,Extra Strong Arms,Сверхсильне руки,Crafting,locked_prereq,6,,,,,0,1,12,,Ядро ИИ: 2,Скелетные руки,Скелетные руки,,,,2
+2910-gamedata.base,Makeshift Walls,Кустарные стены,Defence,queued,1,,,true,0,0,1,8,,Книга: 2,,,Кустарный забор; Кустарные ворота,,,
+2838-gamedata.base,Mounted Crossbows,Арбалетные турели,Defence,completed,2,,,true,,1,1,8,,Книга: 4,,,Арбалет-турель,,,
+2889-gamedata.base,Crossbow Turret Strings,Тросы арбалет-турели,Defence,completed,2,,,true,,1,1,8,,Книга: 2,Арбалетные турели,,,Арбалет-турель; Арбалет-турель МкII,prod_mult=1.1,
+2915-gamedata.base,Defensive Walls,Защитные стены,Defence,queued,2,,,true,0,0,1,6,,Книга: 6,Кустарные стены,Кустарные стены,Пандус защитной стены II; Защитная стена II; Защитные ворота II,,,
+3965-gamedata.base,Corpse Disposal,Уборка трупов,Defence,available,2,,,,,0,1,8,,,,,Крематорий,,,
+2793-gamedata.base,Imprisonment,Лишение свободы,Defence,completed,3,,,true,,1,1,6,,Книга: 1,,,Тюремная клетка,,,
+2888-gamedata.base,Mounted Crossbows II,Арбалетные турели II,Defence,in_progress,3,,,true,98.91,0,1,6,,Древняя научная книга: 1,Арбалетные турели,,Арбалет-турель МкII,,,
+2890-gamedata.base,Composite Runners,Композитные салазки,Defence,completed,3,,,true,,1,1,8,,Книга: 1,,,,Арбалет-турель; Арбалет-турель МкII,prod_mult=1.05,
+3002-gamedata.base,Prototype Harpoon Turrets,Прототип гарпунных турелей,Defence,completed,3,,,true,,1,1,4,,Древняя научная книга: 1,Арбалетные турели,,Гарпун-турель,,,
+47762-rebirth.mod,Crossbow Turret Spotlight Fitting,Фара на арбалет-турель,Defence,queued,3,,,true,0,0,1,2,,Книга: 1,Арбалетные турели II,Арбалетные турели II,Арбалет-турель MкII [свет],,,
+3007-gamedata.base,Harpoon Turrets mkII,Гарпун-турели МкII,Defence,queued,4,,,true,0,0,1,5,,Древняя научная книга: 2,Прототип гарпунных турелей,,Гарпун-турель MкII,,,
+3008-gamedata.base,Advanced Harpoonery,Продвинутое гарпунёрство,Defence,locked_prereq,4,,,,,0,1,6,25000,Древняя научная книга: 1,Гарпун-турели МкII,Гарпун-турели МкII,,,,
+3009-gamedata.base,Double-Barrel Harpoon Turret,Двуствольная гарпун-турель,Defence,locked_prereq,4,,,,,0,1,8,,Ядро ИИ: 1; Древняя научная книга: 2,Продвинутое гарпунёрство,Продвинутое гарпунёрство,Двуствольная гарпун-турель,,,
+47760-rebirth.mod,Harpoon Turret Spotlight Fitting,Фара на гарпун-турель,Defence,locked_prereq,4,,,,,0,1,2,,Книга: 2,Гарпун-турели МкII,Гарпун-турели МкII,Гарпун-турель MкII [свет],,,
+47761-rebirth.mod,Double-Barrel Turret Spotlight Fitting,Фара двуствольной гарпун-турели,Defence,locked_prereq,4,,,,,0,1,2,,Книга: 1,Двуствольная гарпун-турель,Двуствольная гарпун-турель,Двуствольная гарпун-турель [свет],,,
+2994-gamedata.base,Large Defensive Walls,Большие защитные стены,Defence,locked_prereq,5,,,,,0,1,8,,Инженерные исследования: 3,Защитные стены; Фундамент тяжелых зданий,Защитные стены,Защитная стена III; Защитные ворота III; Пандус защитной стены III,,,
+3010-gamedata.base,Revolving-Barrel Harpoon Turret,Револьверная гарпун-турель,Defence,locked_prereq,5,,,,,0,1,8,,Ядро ИИ: 4,Продвинутое гарпунёрство; Двуствольная гарпун-турель,Продвинутое гарпунёрство; Двуствольная гарпун-турель,Многоствольная гарпун-турель,,,
+2996-gamedata.base,Strong Defensive Walls,Крепкие защитные стены,Defence,locked_prereq,6,,,,,0,1,8,,Инженерные исследования: 4,Большие защитные стены,Большие защитные стены,Защитные ворота IV; Защитная стена IV; Пандус защитной стены IV,,,
+2224-gamedata.base,Wind Generator Theory,Теория ветрогенераторов,Electrics,completed,1,,,true,,1,1,4,,Книга: 2,,,Ветрогенератор,,,
+42175-rebirth.mod,Fuel Generator Theory,Топливные генераторы,Electrics,available,1,,,,,0,1,6,,Книга: 4,,,Малый генератор,,,
+5346-gamedata.base,Indoor Lighting,Свет в помещении,Electrics,completed,1,,,true,,1,1,4,,Книга: 1,,,Подвесная лампа-вентилятор; Подвесная лампа; Электрический фонарь,,,
+14444-gamedata.base,Light Post,Фонарный столб,Electrics,available,2,,,,,0,1,6,,Книга: 1,Свет в помещении,,Фонарь I,,,
+43913-rebirth.mod,Biofuel,Биотопливо,Electrics,available,2,,,,,0,1,3,,Книга: 2,,,Хранение: топливо; Перегон биотоплива (солома); Перегон биотоплива (зеленофрукт),,,
+46967-rebirth.mod,Light Wind Generator Theory,Лёгкие ветрогенераторы,Electrics,completed,2,,,true,,1,1,6,,Книга: 4,Теория ветрогенераторов,,Малый ветряк,,,
+5360-gamedata.base,Basic Exterior Lighting,Простое уличное освещение,Electrics,queued,2,,,true,0,0,1,6,,Книга: 1,,,Софит,,,
+14445-gamedata.base,Light Post Efficiency,КПД фонарного столба,Electrics,locked_prereq,3,,,,,0,1,6,,Книга: 1,Фонарный столб,Фонарный столб,Фонарь III,,,
+2050-gamedata.base,Upgraded Small Generators,Улучш. мал. генераторы,Electrics,locked_prereq,3,,,,,0,2,6,,Книга: 3,Топливные генераторы,Топливные генераторы,,Малый генератор,power+15,
+42191-rebirth.mod,Heavy Generator Theory,Мощный генератор,Electrics,locked_prereq,3,,,,,0,1,8,,Древняя научная книга: 2,Улучш. мал. генераторы; Топливные генераторы,Улучш. мал. генераторы; Топливные генераторы,Генератор II,,,
+43921-rebirth.mod,Electrical Crafting,Изготовление электрики,Electrics,completed,3,,,true,,1,1,8,,Книга: 4,,,Верстак для электрики; Хранение: электрика,,,1
+43923-rebirth.mod,Batteries,Батареи,Electrics,completed,3,,,true,,1,1,8,,Книга: 4,,,Блок аккумуляторов,,,
+43972-rebirth.mod,Battery Power,Мощность батарей,Electrics,queued,3,,,true,0,0,4,8,,Книга: 2,Батареи,,,Блок аккумуляторов,power+10,
+43973-rebirth.mod,Battery Capacity,Ёмкость батарей,Electrics,queued,3,,,true,0,0,4,8,,Книга: 3,Батареи,,,Блок аккумуляторов,capacity+60,
+50923-rebirth.mod,Hemp Oil Biofuel,Биотопливо из пеньки,Electrics,locked_prereq,3,,,,,0,1,3,,Книга: 3,Биотопливо,Биотопливо,Перегонка биотоплива (пенька),,,
+5366-gamedata.base,Search Lights,Прожекторы,Electrics,queued,3,,,true,0,0,1,8,,,Свет в помещении; Простое уличное освещение,Простое уличное освещение,Прожектор,,,
+64616-rebirth.mod,Skeleton Repair Beds,Ремкровати скелетов,Electrics,completed,3,,,true,,1,1,4,,Инженерные исследования: 2,,,Ремкровать,,,
+47920-rebirth.mod,Advanced Wind Generator Theory,Улучш. ветрогенераторы,Electrics,completed,4,,,true,,1,1,4,,Древняя научная книга: 2,Теория ветрогенераторов; Лёгкие ветрогенераторы,,Ветрогенератор II,,,
+43981-rebirth.mod,Amplified Generators,Усиление геренаторов,Electrics,locked_prereq,5,,,,,0,2,6,,Древняя научная книга: 1,Топливные генераторы,Топливные генераторы,,Генератор II,power+15,
+43982-rebirth.mod,Advanced Battery Capacity,Сверхъёмкие батареи,Electrics,queued,5,,,true,0,1,6,8,,Древняя научная книга: 1,Батареи,,,Блок аккумуляторов,capacity+60,
+43983-rebirth.mod,Advanced Battery Power,Сверхмощные батареи,Electrics,available,5,,,true,,1,6,8,,Древняя научная книга: 1,Батареи,,,Блок аккумуляторов,power+10,
+1962-gamedata.base,Baking,Хлебопечение,Farming,available,1,,,,,0,1,4,,Книга: 2,,,Зерномолка; Мешки для муки; Хлебная печь; Хлебная корзина,,,
+2225-gamedata.base,Wheatstraw Farming,Выращивание пшеницы,Farming,available,1,,,,,0,1,6,,Книга: 2; Пшеница: 2,,,Хранение: пшеница; Пшеничная ферма S; Пшеничная ферма M; Пшеничная ферма L; Пшеничная ферма XL,,,
+42176-rebirth.mod,Cotton Farming,Выращивание хлопка,Farming,available,1,,,,,0,1,4,,Книга: 2; Хлопок: 2,,,Хлопковая ферма XL; Хранение: хлопок; Хлопковая ферма L; Хлопковая ферма M; Хлопковая ферма S,,,
+43317-rebirth.mod,Cactus Farming,Выращивание кактусов,Farming,locked_prereq,1,,,,,0,1,6,,Книга: 2; Кактус: 2,Выращивание пшеницы,Выращивание пшеницы,Кактусовая ферма XL; Хранение: кактус; Кактусовая ферма M; Кактусовая ферма L; Кактусовая ферма S,,,
+43318-rebirth.mod,Riceweed Farming,Выращивание риса,Farming,completed,1,,,true,,1,1,6,,Книга: 2; Рисовая трава: 2,,,Рисовая ферма L; Хранение: рис; Рисовая ферма S; Рисовая ферма M,,,
+43962-rebirth.mod,Cooking,Готовка,Farming,completed,1,,,true,,1,1,4,,Книга: 1,,,Кухонная плита,,,2
+1938-gamedata.base,Rum Brewing,Перегонка рома,Farming,available,2,,,,,0,1,4,,Книга: 6,,,Дистиллятор рома; Бочки для рома,,,
+2024-gamedata.base,Hemp Farming,Выращивание пеньки,Farming,completed,2,,,true,,1,1,4,,Книга: 2; Пенька: 2,,,Пеньковая ферма L; Хранение: пенька; Пеньковая ферма S; Пеньковая ферма M,,,
+43963-rebirth.mod,Desert Cooking,Готовка в пустыне,Farming,available,2,,,,,0,1,4,,Книга: 3,,,,,,2
+43964-rebirth.mod,Advanced Cooking,Поварское дело,Farming,completed,2,,,true,,1,1,4,,Книга: 2,,,,,,3
+52161-rebirth.mod,Sake Distillation,Перегонка сакэ,Farming,available,2,,,,,0,1,4,,Книга: 6,,,Бочки для сакэ; Дистиллятор сакэ,,,
+52281-rebirth.mod,Grog Distillation,Перегонка грога,Farming,available,2,,,,,0,1,4,,Книга: 6,,,Бочки для грога; Гроговая машина,,,
+55235-rebirth.mod,Hashish Production,Производство гашиша,Farming,completed,3,,,true,,1,1,6,,Инженерные исследования: 1,,,Переработка пеньки; Хранение: гашиш,,,
+1533315-rebirth.mod,Automatic Flour Grinding,Автоизмельчение муки,Farming,locked_prereq,4,,,,,0,1,6,,Древняя научная книга: 4,Хлебопечение,Хлебопечение,Автозерномолка,,,
+50023-rebirth.mod,Hydroponics,Гидропоника,Farming,available,5,,,,,0,1,6,,Ядро ИИ: 1,,,,,,
+50024-rebirth.mod,Hydroponic Hemp,Парник для пеньки,Farming,locked_prereq,5,,,,,0,1,6,,Древняя научная книга: 4,Выращивание пеньки; Гидропоника,Гидропоника,Парник для пеньки,,,
+50025-rebirth.mod,Hydroponic Riceweed,Парник для риса,Farming,locked_prereq,5,,,,,0,1,6,,Древняя научная книга: 4,Выращивание риса; Гидропоника,Гидропоника,Парник для риса,,,
+50027-rebirth.mod,Hydroponic Vegetables,Парник для овощей,Farming,locked_prereq,5,,,,,0,1,6,,Древняя научная книга: 4,Гидропоника,Гидропоника,Парник для овощей,,,
+50028-rebirth.mod,Hydroponic Wheatstraw,Парник для пшеницы,Farming,locked_prereq,5,,,,,0,1,6,,Древняя научная книга: 2,Выращивание пшеницы; Гидропоника,Выращивание пшеницы; Гидропоника,Парник для пшеницы,,,
+1884-gamedata.base,Storage Boxes,Складские ящики,Industry,completed,1,,,true,,1,1,2,,,,,Хранение: камни; Хранение: стройматериалы,,,
+2087-gamedata.base,Improved Stone Mining,Улучш. добыча камня,Industry,available,1,,,,,0,3,4,,Книга: 3,,,Каменоломня II; Каменоломня III; Каменоломня IV,,,
+2948-gamedata.base,Storage Boxes: Ore,Ящики под руду,Industry,completed,1,,,true,,1,1,2,,,,,Хранение: руда; Хранение: слитки стали; Хранение: листы железа; Хранение: медь,,,
+2949-gamedata.base,Storage Boxes: Farming,Ящики под фермерство,Industry,completed,1,,,true,,1,1,2,,,,,Водный бак; Мешки для муки; Хранение: зеленофрукт,,,
+42185-rebirth.mod,Iron Plates,Железные листы,Industry,queued,1,,,true,0,0,4,8,,Книга: 1,,,Обработка железа; Обработка железа II; Обработка железа III; Ручная обработка железа,,,
+46045-rebirth.mod,Building Materials,Стройматериалы,Industry,completed,1,,,,,1,1,4,,,,,Каменоломня; Ручная обработка камня,,,
+1890-gamedata.base,Stone Refinery Upgrade,Улучш. обработка камня,Industry,locked_prereq,2,,,,,0,3,8,,Книга: 4,Электрообработка камня,Электрообработка камня,Обработка камня III; Обработка камня IV; Обработка камня V,,,
+1928-gamedata.base,Wells II,Колодцы II,Industry,queued,2,,,true,0,0,1,6,,Книга: 2,,,Колодец II,,,
+2947-gamedata.base,Storage Boxes: Crafting,Ящики под ремесло,Industry,completed,2,,,true,,1,1,2,,,,,Хранение: кольчуга; Хранение: кожа; Хранение: латы; Хранение: шкуры; Хранение: мясо; Ящик для ткани,,,
+42174-rebirth.mod,Powered Stone Refinery,Электрообработка камня,Industry,queued,2,,,true,0,0,1,6,,Книга: 3,,,Обработка камня II,,,
+1929-gamedata.base,Wells III,Колодцы III,Industry,locked_prereq,3,,,,,0,1,8,,Древняя научная книга: 1,Колодцы II,Колодцы II,Колодец III,,,
+2089-gamedata.base,Automated Mining Tech,Технология автодобычи,Industry,locked_prereq,3,,,,,0,1,6,,Ядро ИИ: 1,Улучш. добыча камня,Улучш. добыча камня,,,,
+2099-gamedata.base,Ore Drill,Бур для руды,Industry,queued,3,,,true,0,0,2,6,,Древняя научная книга: 2,,,Бур для руды,,,
+2120-gamedata.base,Steel Bars,Стальные слитки,Industry,available,3,,,true,,1,3,8,,Древняя научная книга: 1,,,Обработка стали; Обработка стали II; Обработка стали III,,,
+97859-rebirth.mod,Rain Collector,Дождевой коллектор,Industry,locked_prereq,3,,,,,0,1,8,,Книга: 3,Колодцы II,Колодцы II,Дождевой коллектор,,,
+2088-gamedata.base,Advanced Stone Mining,Продвин. добыча камня,Industry,locked_prereq,4,,,,,0,2,8,,Древняя научная книга: 1,Улучш. добыча камня; Технология автодобычи,Улучш. добыча камня; Технология автодобычи,Каменоломня V; Каменоломня VI,,,
+64563-rebirth.mod,Semi-Automatic Ore Drill,Полуавтобур для руды,Industry,locked_prereq,4,,,,,0,1,12,,Древняя научная книга: 4,Технология автодобычи; Бур для руды,Технология автодобычи; Бур для руды,Рудный бур II,,,
+1532832-rebirth.mod,Iron Plates IV,Железные листы IV,Industry,locked_prereq,5,,,,,0,1,6,,Древняя научная книга: 4,Железные листы (ур. 3),Железные листы,Обработка железа IV,,,
+43968-rebirth.mod,Hybrid Stone Mine,Гибридная каменоломня,Industry,locked_prereq,5,,,,,0,1,12,,Ядро ИИ: 1; Древняя научная книга: 4,Улучш. обработка камня; Продвин. добыча камня,Улучш. обработка камня; Продвин. добыча камня,Гибридная каменоломня,,,
+64562-rebirth.mod,Fully Automatic Ore Drill,Автобур для руды,Industry,locked_prereq,5,,,,,0,1,12,,Ядро ИИ: 2; Древняя научная книга: 2,Технология автодобычи; Полуавтобур для руды,Технология автодобычи; Полуавтобур для руды,Рудный бур III (Авто),,,
+43965-rebirth.mod,Automated Hybrid Mine,Гибридная автокаменоломня,Industry,locked_prereq,6,,,,,0,1,6,,Ядро ИИ: 2,Гибридная каменоломня,Гибридная каменоломня,Гибридная каменоломня II,,,
+2058-gamedata.base,Basic Weapon Grades,Простые классы оружия,Smithing,locked_prereq,1,,,,,0,5,4,,Книга: 2,Ковка простого оружия,Ковка простого оружия,,,,5
+2932-gamedata.base,Clothing Manufacture,Производство одежды,Smithing,available,1,,,,,0,1,6,,Книга: 1,,,Швейный верстак,,,3
+2933-gamedata.base,Simple Clothing Types,Простые виды одежды,Smithing,locked_prereq,1,,,,,0,1,6,,Книга: 1,Производство одежды,Производство одежды,,,,9
+52323-rebirth.mod,Basic Weapon Smithing,Ковка простого оружия,Smithing,available,1,,,,,0,1,4,,Книга: 2,,,Оружейная кузня,,,3
+52332-rebirth.mod,Hats and Headgear,Шляпы и головные уборы,Smithing,locked_prereq,1,,,,,0,1,6,,Книга: 2,Производство одежды,Производство одежды,,,,7
+RESEARCH_TEMPLATE,RESEARCH_TEMPLATE,RESEARCH_TEMPLATE,Smithing,locked_blueprint,1,,true,,,0,1,12,,,,,,,,
+1532660-rebirth.mod,Toppers,Топперы,Smithing,locked_blueprint,2,,true,,,0,1,6,6000,,,,,,,1
+2026-gamedata.base,Leather Armour Crafting,Выделка кожаных доспехов,Smithing,available,2,,,,,0,1,8,,Книга: 4,,,Верстак кожевника; Стенд дубления шкур,,,1
+2062-gamedata.base,Sabres,Сабли,Smithing,locked_blueprint,2,,true,,,0,1,8,1500,,,,,,,1
+2107-gamedata.base,Wakizashis,Вакидзаси,Smithing,completed,2,,true,,,1,1,6,5000,,,,,,,1
+2108-gamedata.base,Polearms,Древки,Smithing,locked_blueprint,2,,true,,,0,1,4,3000,,,,,,,2
+2109-gamedata.base,Ringed Sabres,Сабли с кольцами,Smithing,locked_blueprint,2,,true,,,0,1,4,6000,,,,,,,1
+2111-gamedata.base,The Plank,Доска,Smithing,locked_prereq,2,,true,,,0,1,4,4000,,Тяжелое оружие,Тяжелое оружие,,,,1
+2112-gamedata.base,Long Cleavers,Длинные тесаки,Smithing,locked_blueprint,2,,true,,,0,1,4,5000,,,,,,,1
+2228-gamedata.base,Katanas,Катаны,Smithing,locked_blueprint,2,,true,,,0,1,6,10000,,,,,,,2
+2229-gamedata.base,Nodachi,Нодати,Smithing,locked_prereq,2,,true,,,0,1,6,15000,,Катаны,Катаны,,,,1
+2230-gamedata.base,Naginatas,Нагинаты,Smithing,completed,2,,true,,,1,1,6,8000,,,,,,,2
+2231-gamedata.base,Ninja Blades,Клинки ниндзя,Smithing,locked_blueprint,2,,true,,,0,1,4,2500,,,,,,,1
+2233-gamedata.base,Heavy Weapons,Тяжелое оружие,Smithing,available,2,,,,,0,1,4,,Книга: 6,,,,,,2
+2234-gamedata.base,Fragment Axe,Составной топор,Smithing,locked_prereq,2,,true,,,0,1,4,8000,,Тяжелое оружие,Тяжелое оружие,,,,1
+3961-gamedata.base,Weapon Melting,Переплавка оружия,Smithing,available,2,,,,,0,1,8,,Книга: 1,,,Печь,,,
+52311-rebirth.mod,Holed Sabres,Сабли с отверстиями,Smithing,locked_blueprint,2,,true,,,0,1,4,3500,,,,,,,1
+52313-rebirth.mod,Paladin's Cross,Крест паладина,Smithing,locked_blueprint,2,,true,,,0,1,4,5000,,,,,,,1
+52314-rebirth.mod,Desert Sabres,Пустынные сабли,Smithing,locked_blueprint,2,,true,,,0,1,4,12000,,,,,,,1
+52315-rebirth.mod,Cleavers,Тесаки,Smithing,locked_blueprint,2,,true,,,0,1,4,2000,,,,,,,2
+52316-rebirth.mod,Foreign Sabres,Иноземные сабли,Smithing,locked_blueprint,2,,true,,,0,1,4,14000,,,,,,,1
+52317-rebirth.mod,Jittes,Дзюттэ,Smithing,locked_blueprint,2,,true,,,0,1,4,6000,,,,,,,2
+52321-rebirth.mod,Combat Cleaver,Боевой тесак,Smithing,locked_blueprint,2,,true,,,0,1,12,5000,,,,,,,1
+52322-rebirth.mod,Exotic Weapons,Экзотическое оружие,Smithing,locked_blueprint,2,,true,,,0,1,12,20000,,,,,,,1
+97084-rebirth.mod,Crossbow Bolts,Болты,Smithing,available,2,,,,,0,1,6,,Книга: 6,,,Стрелодельный верстак; Хранение: детали арбалетов,,,2
+97085-rebirth.mod,Bolts: Regulars,Болты: Стандартные,Smithing,locked_blueprint,2,,true,,,0,1,2,400,,,,,,,1
+2106-gamedata.base,Advanced Weapon Smithing,Продвинутая ковка оружия,Smithing,available,3,,,,,0,2,4,,Древняя научная книга: 1,,,Оружейная кузня II; Оружейная кузня III,,,
+2232-gamedata.base,Longswords,Мечи,Smithing,locked_blueprint,3,,true,,,0,1,4,3000,,,,,,,1
+2270-gamedata.base,Medicine,Медицина,Smithing,available,3,,,,,0,1,4,,Книга: 6,Простые аптечки,,Медицинский стол,,,1
+2297-gamedata.base,Plate Armour Crafting,Ковка латных доспехов,Smithing,available,3,,,,,0,1,8,,Инженерные исследования: 1,,,Кузня тяжелых доспехов; Листобойный верстак,,,3
+3064-gamedata.base,Splints,Мед. шины,Smithing,available,3,,,,,0,1,6,,Книга: 4,Простые аптечки,,,,,1
+97086-rebirth.mod,Bolts: Heavies,Болты: Тяжелые,Smithing,locked_blueprint,3,,true,,,0,1,2,1000,,,,,,,1
+97087-rebirth.mod,Bolts: Longs,Болты: Длинные,Smithing,locked_blueprint,3,,true,,,0,1,2,1000,,,,,,,1
+97088-rebirth.mod,Crossbow Crafting,Арбалеты,Smithing,locked_prereq,3,,,,,0,1,8,,Инженерные исследования: 1,Болты,Болты,Арбалетный верстак,,,3
+98802-rebirth.mod,Short-Cleaver,Короткий тесак,Smithing,locked_blueprint,3,,true,,,0,1,12,5000,,,,,,,1
+2271-gamedata.base,Advanced Medicine,Продвинутая медицина,Smithing,locked_prereq,4,,,,,0,1,6,,Древняя научная книга: 1,Медицина,Медицина,,,,1
+2298-gamedata.base,Chain Armour Crafting,Изготовление кольчуг,Smithing,available,4,,,,,0,1,6,,Древняя научная книга: 3,,,Верстак для кольчужных полотен; Верстак для плетения кольчуг,,,
+3065-gamedata.base,Advanced Splints,Улучшенные шины,Smithing,locked_prereq,4,,,,,0,1,6,,Древняя научная книга: 1,Мед. шины,Мед. шины,,,,1
+52310-rebirth.mod,Advanced Weapon Grades,Продвинутые классы оружия,Smithing,locked_prereq,4,,,,,0,5,4,,Древняя научная книга: 1,Простые классы оружия,Простые классы оружия,Оружейная кузня,,,5
+53083-rebirth.mod,Edgewalkers,Идущие по Клинку,Smithing,locked_prereq,6,,,,,0,1,6,,Ядро ИИ: 4,Продвинутая ковка оружия; Продвинутые классы оружия,Продвинутая ковка оружия; Продвинутые классы оружия,,,,1
+1889-gamedata.base,Simple Training Dummies,Простые манекены,Training,completed,1,,,true,,1,1,4,,Книга: 2,,,Учебный манекен МкI,,,
+2729-gamedata.base,Lockpick Training,Обучение взлому,Training,completed,1,,,true,,1,1,5,,Книга: 3,,,Запертый сундук,,,
+1897-gamedata.base,Better Training Dummies,Улучшенные манекены,Training,completed,2,,,true,,1,1,8,,Книга: 4,Простые манекены,,Учебный манекен МкII,,,
+2731-gamedata.base,Lockpick Training II,Обучение взлому II,Training,completed,2,,,true,,1,1,6,,Книга: 4,Обучение взлому,,Запертый сундук; Запертый сундук II,,,
+3001-gamedata.base,Turret Training,Обучение турелям,Training,completed,2,,,true,,1,1,4,,Книга: 2,,,Учебная турель,,,
+3005-gamedata.base,Turret Training II,Обучение турелям II,Training,completed,2,,,true,,1,1,8,,Книга: 2,Обучение турелям,,Учебная турель МкII,,,
+43874-rebirth.mod,Assassin Training,Обучение убийцы,Training,completed,2,,,true,,1,1,5,,Книга: 2,,,Манекен для убийств,,,
+97504-rebirth.mod,Thievery Training,Обучение вора,Training,completed,2,,,true,,1,1,6,,Книга: 2,,,Тренировка вора,,,
+1898-gamedata.base,Advanced Training Dummies,Улучшенные манекены,Training,completed,3,,,true,,1,1,3,,Книга: 6,Улучшенные манекены,,Учебный манекен МкIII,,,
+3006-gamedata.base,Turret Training III,Обучение турелям III,Training,available,3,,,,,0,1,8,,Книга: 4,Обучение турелям II,,Учебная турель МкIII,,,
+43875-rebirth.mod,Assassin Training II,Обучение убийцы II,Training,available,3,,,,,0,1,5,,Книга: 4,Обучение убийцы,,Манекен для убийств II,,,
+97505-rebirth.mod,Thievery Training II,Обучение вора II,Training,completed,3,,,true,,1,1,6,,Книга: 4,Обучение вора,,Тренировка вора II,,,
+43876-rebirth.mod,Assassin Training III,Обучение убийцы III,Training,locked_prereq,4,,,,,0,1,5,,Книга: 6,Обучение убийцы II,Обучение убийцы II,Манекен для убийств III,,,
+97502-rebirth.mod,Lockpick Training III,Обучение взлому III,Training,completed,4,,,true,,1,1,6,,Книга: 6,Обучение взлому II,,Запертый сундук; Запертый сундук II; Запертый сундук III,,,
+97506-rebirth.mod,Thievery Training III,Обучение вора III,Training,completed,4,,,true,,1,1,6,,Книга: 8,Обучение вора II,,Тренировка вора III,,,

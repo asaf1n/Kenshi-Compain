@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-4e8d91ae5cc0d84ed85371f97df352493db5c9f3c5c487bce221a34e7f6e7412`
+- snapshot_id: `sha256-5288e2f4040c8b723bc8c944d7f99cc2a9397a7cfa526c05e8dc0538be6d5172`
 - Игровое время: День 135, 21:56
 - Формат: CSV, UTF-8 без BOM, LF, RFC 4180, разделитель - запятая; первая строка - заголовок.
 - Пустая ячейка - значение отсутствует или не применимо; числа с точкой без разделителей разрядов, булевы `true`/`false`; списки в ячейке разделены `; `.
@@ -15,6 +15,10 @@
 | `equipment.csv` | 257 | location_kind, character_id / здание, kind, slot, sid, level, quality | Все экземпляры оружия, брони и протезов (надетые, запасные у персонажей, на складах): значения шаблона, множители и итоговые `calc_*` |
 | `inventory.csv` | 442 | character_id, container, slot, base_sid, level, dup_no | Все предметы персонажей отряда поэкземплярно: надетое, пояс, рюкзаки, инвентарь |
 | `storage.csv` | 225 | location_key, zone, building_id, container, item, item_sid | Предметы в хранилищах зданий игрока: строка на запись сейва (стопка), экземпляры разного уровня раздельно |
+| `buildings.csv` | 176 | location_key, zone, parent_instance_id, instance_id | Все постройки, интерьерные станки, турели, генераторы, контейнеры и разрабатываемые рудные жилы игрока |
+| `research.csv` | 181 | category, level, sid | Полное дерево технологий игры (RESEARCH) со статусом изучения в кампании, стоимостью, предпосылками и открываемыми объектами |
+| `build_catalog.csv` | 229 | building_category, sid | Каталог и смета всех строящихся объектов игры (BUILDING): статус открытия, стройматериалы, энергобаланс, входы/выходы и апгрейды |
+| `biome_resources.csv` | 74 | biome_sid | Ресурсный, климатический и ветровой профиль регионов (BIOME_GROUP + ENVIRONMENT_RESOURCES + SEASON/WEATHER) для оценки площадок под форпост |
 | `item_prices.csv` | 594 | sid | Базовые цены записей игры без торговых коэффициентов |
 | `trade_modifiers.csv` | 1533 | group, record_sid, field, ref_sid | Сырые торговые записи игры без вычисленных цен продажи и покупки |
 | `unique_npcs.csv` | 79 | sid | Уникальные NPC мира и их состояние |
@@ -34,7 +38,7 @@
 ## Недоступные и неопубликованные поля
 
 Колонки `calc_*` в `equipment.csv` - значения по формулам конвертера (itemstats.py, prosthetics.py). `calc_status` = verified означает, что в строке сверены с карточкой игры все публикуемые `calc_*`; при остальных статусах все `calc_*` пусты, а `calc_status` объясняет причину. Значения публикуются без округления; совпадение с карточкой - равенство после округления до точности интерфейса (усечение целой части для сопротивлений, веса и нижней границы урона арбалета; округление для верхней границы урона и скорости выстрела); в CSV числа записываются с точностью до 6 знаков без хвостовых нулей (это не округление интерфейса); шаблоны берутся после применения модов снимка. verified только для сверенных сочетаний: броня - лёгкий и средний класс x кожа, кольчуга; средний x латы; тяжёлый x латы; оружие ближнего боя - катаны (Идущие по Клинку, Скелеты-кузнецы), сабли (Идущие по Клинку, Крест, Скелеты-кузнецы), древковое (Идущие по Клинку, Крест), тяжёлое (Катунский Кулибин), рубачи (Идущие по Клинку, Крест); арбалеты; протезы ног. Прочие сочетания получают `unverified_class`: в частности вес не сошёлся у тяжёлого оружия Скелетов-кузнецов (Падающее солнце: карточка 23, расчёт 24.0), рубачей Древних (карточка 5, расчёт 6) и катан Катунского Кулибина (карточка 9, расчёт 8.0). Колонок цены в `calc_*` нет: базовые цены - в `item_prices.csv`. Не подтверждено: порог скрытия атлетики на карточке; граница 59.x у брони Высокого уровня (подбор level; blunt и гарпун карточки на 1 ниже расчёта при level 60); грейды брони 5 «Прото» и 20 «Низкий»; множители протезов публикуются только для атлетики, плавания и скрытности. Значения шаблона (`tpl_*`), множители производителя и поправки грейда даны отдельными колонками.
-- Предметы персонажей поэкземплярно - `inventory.csv` (контейнеры body, belt, backpack, inventory; ключ сравнения снимков (character_id, base_sid, level, slot, dup_no), `item_sid` действует внутри снимка). Оружие, броня и протезы независимо от места - `equipment.csv` (`location_kind`). Вес экземпляров и параметры рюкзаков, здоровье по частям тела, сведения о построенных зданиях и исследованиях в таблицы не входят.
+- Предметы персонажей поэкземплярно - `inventory.csv` (контейнеры body, belt, backpack, inventory; ключ сравнения снимков (character_id, base_sid, level, slot, dup_no), `item_sid` действует внутри снимка). Оружие, броня и протезы независимо от места - `equipment.csv` (`location_kind`). Вес экземпляров и параметры рюкзаков, здоровье по частям тела в таблицы не входят. Построенные здания, интерьерные станки, очереди крафта и разрабатываемые жилы - `buildings.csv`; полное дерево технологий со статусом изучения - `research.csv`; смета стройматериалов и ТТХ всех построек меню строительства - `build_catalog.csv`; ресурсно-климатический профиль регионов (плодородие, вода, руды, ветер, кислотность) - `biome_resources.csv` (локальные пятна кнопки «Разведка» в рантайме вычисляются процедурным шумом и в сохранение не записываются).
 - `races.csv`: поля записей RACE после слияния файлов в порядке загрузки; пустая ячейка - поле не хранится (действует значение по умолчанию fcs.def). Расшифровка кодов погоды 1-4 сверена с карточками брони, прочие не расшифрованы.
 - Смысл `v[1]`, `v[2]` у ссылок `world state`/`NPC is` в документах игры не описан; значения публикуются без трактовки.
 - Справочник юнитов (`unit_templates.csv`, `unit_template_gear.csv`, `squad_templates.csv`, `squad_members.csv`, `squad_spawns.csv`, `faction_relations.csv`, `faction_hostility.csv`): значения шаблонов как хранятся в данных набора модов снимка, без вычисленных оценок; итоговые навыки персонажа игра получает с разбросом `stats_randomise`. Не публикуется: враждебность по расе, полу и протезам (в данных такого поля нет), привязка групп биомов к зонам карты (в записях её нет), имена кодов `NPC class`, `armour grade`, `fundamental type`, `slave` (перечисления не заданы в данных).
@@ -292,6 +296,138 @@
 | `charges` | charges как в сейве (для еды - питательность на единицу) |
 | `stolen` | true - краденый; пусто - нет |
 | `unique` | Признак unique из сейва |
+
+### buildings.csv
+
+| Колонка | Значение |
+|---|---|
+| `settlement` | Поселение; пусто, если не определено |
+| `location_key` | Ключ места: поселение или «зона N (поселение не определено)» |
+| `settlement_status` | Способ привязки: in_location, town, near_location, zone_location, zone |
+| `zone` | Зона карты |
+| `instance_id` | ID экземпляра постройки или жилы в сохранении |
+| `parent_instance_id` | ID родительского здания для интерьерного объекта; пусто у верхнего уровня |
+| `parent_name` | Название родительского здания |
+| `name` | Название постройки/станка/жилы (ru) |
+| `template_sid` | sid шаблона BUILDING в данных игры |
+| `category` | Категория постройки (`building category`: Production, Research, Crafting, Power, Storage, Mining, Training, Turret...) |
+| `is_interior` | true - объект внутри здания (`interior`); false - верхний уровень |
+| `floor` | Этаж внутри здания (`floornum`) |
+| `complete` | true - постройка завершена; false - недострой |
+| `destroyed` | true - разрушена |
+| `broken` | true - сломана (`broken`) |
+| `construction_progress_raw` | Сырой прогресс постройки из сохранения |
+| `construction_materials` | Смета и фактически вложенные материалы по слотам (`Материал: вложено/требуется`), через `; ` |
+| `power_on` | Питание включено (`power on`) |
+| `gets_battery` | Подключено к сети/аккумуляторам (`gets battery`) |
+| `battery_charge` | Текущий заряд аккумулятора в сейве (`batterycharge`) |
+| `tpl_power_output` | Паспортная выработка (>0) или потребление (<0) энергии из шаблона BUILDING (`power output`) |
+| `tpl_power_capacity` | Паспортная ёмкость аккумулятора из шаблона BUILDING (`power capacity`) |
+| `is_paused` | Работа приостановлена (`pause`) |
+| `is_repeat` | Включён повтор очереди крафта (`repeat`) |
+| `production_progress` | Сырой прогресс цикла производства (`production amount`) |
+| `resource_mult` | Качество ресурсной жилы (`resource mult`, 0..1 для MINING) |
+| `mining_resource_level` | Уровень ресурса разработки (`mining resource level`) |
+| `active_craft` | Активная очередь крафта станка `предмет (прогресс%)` из `current0..N`, через `; ` |
+| `partial_ingredients` | Вложенные в станок незавершённые ингредиенты `предмет: количество` из `craft partial item`, через `; ` |
+| `stored_items_count` | Суммарное количество предметов во внутреннем контейнере объекта; подробно - storage.csv |
+| `assigned_workers` | Назначенные на этот объект работники отряда `Имя (ЗАДАЧА)` по совпадению target_handle |
+| `upgrades_to` | Следующая ступень улучшения постройки из шаблона BUILDING (`upgrades to`) |
+
+### research.csv
+
+| Колонка | Значение |
+|---|---|
+| `sid` | sid записи RESEARCH (тип 21) |
+| `name_en` | Название технологии (en) |
+| `name_ru` | Название технологии (ru) |
+| `category` | Технологическая ветка (`category`: Core, Farming, Mining, Power, Defence, Smithing, Robotics...) |
+| `status` | Статус у игрока: completed (изучена), in_progress (изучается сейчас), queued (в очереди стенда), available (доступна к изучению), locked_prereq (не выполнены requirements), locked_tech_level (нужен стенд выше текущего tech_level), locked_blueprint (нужен чертёж) |
+| `level` | Требуемый уровень научного стенда (`level`) |
+| `tech_level_upgrade` | true - повышает технологический уровень (`is level upgrade`) |
+| `blueprint_only` | true - открывается только применением чертежа (`blueprint only`) |
+| `paid` | true - ресурсы за исследование уже вложены в стенд (`paid#`) |
+| `progress_raw` | Сырой прогресс изучения из сохранения (`current_progress`) |
+| `completed_level` | Изученный уровень (0 - не изучена; 1..max_repeats для многократных исследований) |
+| `max_repeats` | Максимальное число уровней изучения (`repeats`; 1 для однократных) |
+| `time_hours` | Базовое время изучения, ч (`time`) |
+| `money_cost` | Денежная стоимость, кат. (`money`) |
+| `cost_items` | Предметы, расходуемые на изучение (`refs:cost`: `предмет: количество`), через `; ` |
+| `requirements` | Предшествующие технологии (`refs:requirements`), через `; ` |
+| `missing_requirements` | Неизученные предшествующие технологии из `requirements`, блокирующие запуск |
+| `enable_buildings` | Открываемые постройки и станки (`refs:enable buildings`), через `; ` |
+| `improve_buildings` | Улучшаемые постройки (`refs:improve buildings`), через `; ` |
+| `building_improvements` | Бонусы улучшения построек (`power increase`, `power capacity increase`, `production mult`) |
+| `enable_crafts_count` | Число открываемых рецептов крафта предметов, оружия, брони, арбалетов, рюкзаков и протезов |
+
+### build_catalog.csv
+
+| Колонка | Значение |
+|---|---|
+| `sid` | sid записи BUILDING (тип 0) |
+| `name_en` | Название постройки (en) |
+| `name_ru` | Название постройки (ru) |
+| `building_category` | Категория в меню строительства (`building category`) |
+| `is_interior` | true - устанавливается только внутри зданий (`is interior furniture`); false - наружная постройка |
+| `is_node` | true - природный ресурсный узел (`is node`) |
+| `unlock_status` | Статус доступности игроку: unlocked (открыта и доступна к постройке), in_queue (технология в очереди), locked (технология не изучена), world_or_town (городское здание или природная жила) |
+| `unlocked_by` | Открывающие технологии из RESEARCH (`enable buildings`) |
+| `built_complete_count` | Количество уже достроенных экземпляров у игрока в текущем сохранении |
+| `built_incomplete_count` | Количество заложенных (недостроенных) экземпляров у игрока |
+| `construction_materials` | Точная смета постройки 1 единицы (`refs:construction` либо стандартные Стройматериалы по `build materials`), через `; ` |
+| `build_materials_total` | Поле `build materials` шаблона |
+| `build_speed_mult` | Множитель времени строительства (`build speed mult`) |
+| `build_hours` | Базовое время строительства, ч (`build materials * build speed mult`) |
+| `power_output` | Выработка (>0) или потребление (<0) энергии (`power output`) |
+| `power_capacity` | Ёмкость хранения энергии в секундах (`power capacity`) |
+| `max_operators` | Максимальное число операторов (`max operators`) |
+| `output_rate` | Базовая скорость/выход (`output rate`) |
+| `production_mult` | Множитель скорости производства или расхода топлива (`production mult` из BUILDING_FUNCTIONALITY) |
+| `function_code` | Код функции `function` из BUILDING_FUNCTIONALITY (BuildingFunction) |
+| `stat_used_code` | Код используемого навыка `stat used` из BUILDING_FUNCTIONALITY (StatsEnumerated) |
+| `world_resource_mining` | Код подземного ресурса `world resource mining` (0 - нет, 1+ - вода/плодородие/руда/камень/топливо) |
+| `consumes` | Потребляемое сырьё (`refs:consumes` или расход воды фермы) |
+| `produces` | Производимый ресурс для автоматических/добывающих построек (`refs:produces`) |
+| `crafts_count` | Число доступных рецептов крафта на станке (`* crafts`) |
+| `farm_profile` | Параметры ферм из FARM_DATA: климат (`arid/green/swamp`), `min_fert`, `growth`, `plants` |
+| `upgrades_to` | Следующая ступень улучшения (`refs:upgrades to`) |
+
+### biome_resources.csv
+
+| Колонка | Значение |
+|---|---|
+| `biome_sid` | sid записи BIOME_GROUP (тип 95) |
+| `name_en` | Название региона (en) |
+| `name_ru` | Название региона (ru) |
+| `color_index` | Цветовой код региона на карте (`index`) |
+| `locations_total` | Всего стационарных локаций в регионе по справочнику мира (`world_reference.json`) |
+| `locations_discovered` | Открыто локаций игроком (`discovered = true` в `quick.save`) |
+| `player_buildings_count` | Число верхнеуровневых построек и рудных точек игрока в регионе |
+| `player_mining_nodes` | Уже разрабатываемые игроком рудные точки (`MINING`) в регионе с их `resource_mult` |
+| `climate_arid` | Доля засушливого климата (`arid` из ENVIRONMENT_RESOURCES) |
+| `climate_green` | Доля зелёного климата (`green` из ENVIRONMENT_RESOURCES) |
+| `climate_swamp` | Доля болотного климата (`swamp` из ENVIRONMENT_RESOURCES) |
+| `farming_min` | Минимальное плодородие почвы в регионе (`farming min`) |
+| `farming_mult` | Максимальный множитель плодородия почвы (`farming mult`) |
+| `farming_altitude_min` | Нижняя граница высоты плодородия (`farming altitude min`) |
+| `farming_altitude_max` | Верхняя граница высоты плодородия (`farming altitude max`) |
+| `water_min` | Минимальный уровень грунтовых вод (`water min`) |
+| `water_mult` | Максимальный множитель грунтовых вод (`water mult`) |
+| `water_altitude_min` | Нижняя граница высоты грунтовых вод (`water altitude min`) |
+| `water_altitude_max` | Верхняя граница высоты грунтовых вод (`water altitude max`) |
+| `farm_water_usage` | Множитель расхода воды фермами в регионе (`farm water usage`) |
+| `iron_mult` | Множитель железной руды в регионе (`iron mult`) |
+| `copper_mult` | Множитель медной руды в регионе (`copper mult`) |
+| `stone_mult` | Множитель камня в регионе (`stone mult`) |
+| `stone_noise_cutoff` | Порог Perlin-шума пятен камня (`stone noise cutoff`; меньше — крупнее пятна) |
+| `carbon_mult` | Множитель углерода/топлива (`carbon mult`) |
+| `wind_speed_min` | Минимальная скорость ветра по сезонам региона (`wind speed min` из WEATHER) |
+| `wind_speed_max` | Максимальная скорость ветра по сезонам региона (`wind speed max` из WEATHER) |
+| `wind_speed_weighted_avg` | Средневзвешенная скорость ветра по длительности сезонов и вероятностям погоды |
+| `acidic_ground` | Кислотность почвы (`acidic ground`, 0..1: обжигает ноги без обуви) |
+| `acidic_water` | Кислотность воды (`acidic water`, 0..1) |
+| `weather_affect_codes` | Коды погодных угроз в сезонах региона (`affect type` из WEATHER и WEATHER_EFFECT) |
+| `weather_hazards` | Расшифровка погодных угроз (1 песчаная буря, 2 кислотный дождь, 3 жара/лучи, 4 газ; сопоставимо с `races.csv`) |
 
 ### item_prices.csv
 

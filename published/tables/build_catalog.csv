@@ -1,0 +1,230 @@
+sid,name_en,name_ru,building_category,is_interior,is_node,unlock_status,unlocked_by,built_complete_count,built_incomplete_count,construction_materials,build_materials_total,build_speed_mult,build_hours,power_output,power_capacity,max_operators,output_rate,production_mult,function_code,stat_used_code,world_resource_mining,consumes,produces,crafts_count,farm_profile,upgrades_to
+1111-gamedata.base,Outpost s-IV,Застава с-IV,BUILDINGS,false,,locked,Застава тип-IV (1881-gamedata.base),0,0,Пластины медного сплава: 30; Стройматериалы: 30,150,1,150,0,0,,1,,,,,,,,,
+3384-TwoStorey.mod,Storm House,Крепкий дом,BUILDINGS,false,,unlocked,Маленький дом (1892-gamedata.base); _start- freedom seekers (46043-rebirth.mod),1,0,Стройматериалы: 16,16,1,16,0,0,,1,,,,,,,,,
+3795-TwoStorey.mod,Bughouse,Жукодом,BUILDINGS,false,,in_queue,Каркасы средних зданий (1879-gamedata.base),0,0,Стройматериалы: 35,35,1,35,0,0,,1,,,,,,,,,
+3809-TwoStorey.mod,Y-House,У-Дом,BUILDINGS,false,,locked,Каркасы больших зданий (1878-gamedata.base),0,0,Стройматериалы: 35,35,1,35,0,0,,1,,,,,,,,,
+4014-TwoStorey.mod,L-House,Г-дом,BUILDINGS,false,,in_queue,Каркасы средних зданий (1879-gamedata.base),0,0,Стройматериалы: 35,35,1,35,-1,0,,1,,,,,,,,,
+4028-TwoStorey.mod,Longhouse,Длиннодом,BUILDINGS,false,,in_queue,Каркасы средних зданий (1879-gamedata.base),3,0,Стройматериалы: 24,24,1,24,-1,0,,1,,,,,,,,,
+4030-TwoStorey.mod,Snailhouse,Дом-улитка,BUILDINGS,false,,locked,Каркасы больших зданий (1878-gamedata.base),0,0,Стройматериалы: 40,40,1,40,0,0,,1,,,,,,,,,
+40560-Newwworld.mod,Outhouse,Уборная,BUILDINGS,false,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,1,1,1,17,0,0,,,,,
+4063-TwoStorey.mod,Stephouse,Дом-ступенька,BUILDINGS,false,,locked,Каркасы больших зданий (1878-gamedata.base),0,0,Стройматериалы: 30,30,1,30,0,0,,1,,,,,,,,,
+4078-D-TwoStorey.mod,Stationhouse,Постовое здание,BUILDINGS,false,,locked,Каркасы больших зданий (1878-gamedata.base),0,0,Стройматериалы: 40,40,1,40,0,0,,1,,,,,,,,,
+4092-TwoStorey.mod,Small Shack,Сарайчик,BUILDINGS,false,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),1,0,Стройматериалы: 5,5,3,15,0,0,,1,,,,,,,,,
+4104-D-TwoStorey.mod,Watchtower,Дозорная башня,BUILDINGS,false,,locked,Каркасы больших зданий (1878-gamedata.base),0,0,Стройматериалы: 60; Железные листы: 10,40,1,40,0,0,,1,,,,,,,,,
+5183-TwoStorey.mod,Swamp Shack,Болотная хижина,BUILDINGS,false,,world_or_town,,2,0,Железные листы: 5,50,1,50,0,0,,1,,,,,,,,,
+5212-TwoStorey.mod,Swamp House,Болотный дом,BUILDINGS,false,,world_or_town,,1,0,Железные листы: 20,50,1,50,0,0,,1,,,,,,,,,
+727-gamedata.base,Outpost s-III,Застава с-III,BUILDINGS,false,,locked,Застава тип-III (1880-gamedata.base),0,0,Пластины медного сплава: 20; Стройматериалы: 20,100,1,100,0,0,,1,,,,,,,,,
+16845-nodes_otto1.mod,Camp Bed,Спальник,CAMPING,true,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),6,0,Спальный мешок: 1,1,1000,1000,0,0,1,4,1,6,0,0,,,,,
+16848-nodes_otto1.mod,Campfire,Костёр,CAMPING,true,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),34,0,,0,10,,0,0,0,1,192,4,13,0,Сырое мясо (rate=100%),Вяленое мясо,,,
+18026-small_changes_otto.mod,Flat Shelter,Плоский навес,CAMPING,true,,unlocked,Походное жильё (96564-rebirth.mod),0,0,Ткани: 1,3,5,15,0,0,,1,,,,,,,,,
+18027-small_changes_otto.mod,Scrap Tent,Кустарный тент,CAMPING,true,,locked,Кустарный тент (96565-rebirth.mod),0,0,Шкура животного: 1,3,1,3,0,0,,1,,,,,,,,,
+18028-small_changes_otto.mod,Mercenary Tent,Тент наёмников,CAMPING,true,,unlocked,Тент наёмников (96566-rebirth.mod),0,0,Ткани: 1,3,1,3,0,0,,1,,,,,,,,,
+1966-gamedata.base,Basic Medical Workbench,Простой медицинский стенд,CRAFTING,true,,unlocked,Простые аптечки (2263-gamedata.base); Спальные мешки (56646-rebirth.mod),0,0,Железные листы: 3,4,1,4,-5,0,1,1,1,10,9,0,Ткани (rate=100%),,2,,Медицинский стол
+2016-gamedata.base,Fabric Loom (hemp),Ткацкий станок (пенька),CRAFTING,true,,locked,Пеньковая ткань (47239-rebirth.mod),0,0,Железные листы: 4,4,1,4,0,0,1,1,48,4,3,0,Пенька (rate=300%),Ткани,,,Ткацкий автостанок (пенька)
+2033-gamedata.base,Weapon Smith,Оружейная кузня,CRAFTING,true,,locked,Продвинутые классы оружия (52310-rebirth.mod); Ковка простого оружия (52323-rebirth.mod),0,0,Железные листы: 6,6,1,6,-8,0,1,1,1,10,7,0,Железные листы (rate=100%),,5,,Оружейная кузня II
+2102-gamedata.base,Weapon Smith II,Оружейная кузня II,CRAFTING,true,,locked,Продвинутая ковка оружия (2106-gamedata.base),0,0,Железные листы: 20,20,1,20,-12,0,1,1.5,1,10,7,0,Железные листы (rate=100%); Ткани (rate=100%),,7,,Оружейная кузня III
+2105-gamedata.base,Weapon Smith III,Оружейная кузня III,CRAFTING,true,,locked,Продвинутая ковка оружия (2106-gamedata.base),0,0,Железные листы: 35,35,1,35,-30,0,1,2,1,10,7,0,Слитки стали (rate=100%); Ткани (rate=100%),,11,,
+2257-gamedata.base,Heavy Armour Smithy,Кузня тяжелых доспехов,CRAFTING,true,,locked,Ковка латных доспехов (2297-gamedata.base),0,0,Железные листы: 10; Стройматериалы: 5,15,1,15,-10,0,1,1,1,10,8,0,Латы (rate=100%); Ткани (rate=100%),,35,,
+2260-gamedata.base,Chainmail Sheet Fabrication Bench,Верстак для кольчужных полотен,CRAFTING,true,,locked,Изготовление кольчуг (2298-gamedata.base),0,0,Железные листы: 6,8,1,8,-8,0,1,1,12,4,8,0,Слитки стали (rate=200%),Кольчужное полотно,,,
+2261-gamedata.base,Plate Beating Station,Листобойный верстак,CRAFTING,true,,locked,Ковка латных доспехов (2297-gamedata.base),0,0,Железные листы: 4,4,1,4,0,0,1,1,12,4,8,0,Железо (rate=200%),Латы,,,
+2262-gamedata.base,Leather Armour Crafting Bench,Верстак кожевника,CRAFTING,true,,locked,Выделка кожаных доспехов (2026-gamedata.base),0,0,Железные листы: 8,10,1,10,-5,0,1,1,1,10,8,0,Кожа (rate=100%); Ткани (rate=100%),,27,,
+2267-gamedata.base,Medical Workbench,Медицинский стол,CRAFTING,true,,locked,Медицина (2270-gamedata.base),0,0,Железные листы: 6,10,1,10,-10,0,1,1,1,10,9,0,Пенька (rate=100%); Ткани (rate=100%),,6,,
+2299-gamedata.base,Chain Armour Crafting Bench,Верстак для плетения кольчуг,CRAFTING,true,,locked,Изготовление кольчуг (2298-gamedata.base),0,0,Железные листы: 7,8,1,8,-10,0,1,1,1,10,8,0,Кольчужное полотно (rate=100%); Ткани (rate=100%),,18,,
+2927-gamedata.base,Leather Tanning Bench,Стенд дубления шкур,CRAFTING,true,,locked,Выделка кожаных доспехов (2026-gamedata.base),0,0,Железные листы: 3,8,1,8,-4,0,1,1,24,4,8,0,Шкура животного (rate=50%),Кожа,,,
+2929-gamedata.base,Clothing Bench,Швейный верстак,CRAFTING,true,,locked,Производство одежды (2932-gamedata.base),0,0,Железные листы: 3,7,1,7,-4,0,1,1,1,10,8,0,Ткани (rate=100%),,50,,
+3959-gamedata.base,Item Furnace,Печь,CRAFTING,false,,locked,Переплавка оружия (3961-gamedata.base),0,0,Железные листы: 4,10,1,10,0,0,0,1,0.25,14,3,0,,Железо,,,
+42166-gamedata.base,Electrical Workbench,Верстак для электрики,CRAFTING,true,,unlocked,Изготовление электрики (43921-rebirth.mod),0,0,Железные листы: 10,5,1,5,-10,0,1,1,24,4,4,0,Медь (rate=100%),Электродетали,,,
+42183-rebirth.mod,Fabric Loom (cotton),Ткацкий станок (хлопок),CRAFTING,true,,in_queue,Производство ткани (2025-gamedata.base),0,0,Железные листы: 4,4,1,4,0,0,1,1,32,4,3,0,Хлопок (rate=600%),Ткани,,,Ткацкий автостанок (хлопок)
+43881-Newwworld.mod,Robotics Bench,Роботехнический верстак,CRAFTING,true,,unlocked,Робототехника (43924-rebirth.mod),1,0,Электродетали: 1; Железные листы: 4,10,1,10,-5,0,1,1,1,10,6,0,Медь (rate=50%); Железные листы (rate=200%),,9,,
+50018-rebirth.mod,Copper Alloy Bench,Верстак для меди,CRAFTING,true,,unlocked,Медные сплавы (50020-rebirth.mod),0,0,Железные листы: 4,4,1,4,-5,0,1,1,48,4,5,0,Медь (rate=100%); Железные листы (rate=100%),Пластины медного сплава,,,
+62378-rebirth.mod,Cotton Auto-Loom,Ткацкий автостанок (хлопок),CRAFTING,true,,locked,Ткацкий автостанок (Хлопок) (62381-rebirth.mod),0,0,Железные листы: 8; Электродетали: 2,4,1,4,-10,0,0,1,32,4,3,0,Хлопок (rate=600%),Ткани,,,
+62379-rebirth.mod,Hemp Auto-Loom,Ткацкий автостанок (пенька),CRAFTING,true,,locked,Ткацкий автостанок (Пенька) (62380-rebirth.mod),0,0,Электродетали: 2; Железные листы: 8,4,1,4,-10,0,0,1,48,4,3,0,Пенька (rate=300%),Ткани,,,
+96183-Newwworld.mod,Crossbow Crafting Bench,Арбалетный верстак,CRAFTING,true,,locked,Арбалеты (97088-rebirth.mod),0,0,Железные листы: 8,8,1,8,-10,0,1,1,1,10,38,0,Слитки стали (rate=800%); Части арбалета (rate=400%),,7,,
+96184-Newwworld.mod,Arrow Making Bench ,Стрелодельный верстак,CRAFTING,true,,locked,Болты (97084-rebirth.mod),0,0,Железные листы: 4,8,1,8,-10,0,1,1,1,10,38,0,Хлеб (rate=100%),,7,,Инженерный верстак
+96365-Newwworld.mod,Skeleton Limb Bench,Верстак для протезов,CRAFTING,true,,unlocked,Скелетные ноги Роев (1533518-rebirth.mod),1,0,Электродетали: 10; Железные листы: 5,10,1,10,-10,0,1,1,1,10,6,0,Электродетали (rate=1000%); Части роботов (rate=400%),,20,,
+2069-gamedata.base,Harpoon Turret MkII,Гарпун-турель MкII,DEFENCE,true,,in_queue,Гарпун-турели МкII (3007-gamedata.base),0,0,Слитки стали: 3; Медь: 4; Железные листы: 10,16,1,16,-5,0,1,90,1,12,11,0,,,,,Гарпун-турель MкII [свет]
+2869-gamedata.base,Double-Barrel Harpoon Turret,Двуствольная гарпун-турель,DEFENCE,true,,locked,Двуствольная гарпун-турель (3009-gamedata.base),0,0,Слитки стали: 6; Пластины медного сплава: 6; Электродетали: 6,18,1,18,-5,0,1,80,1,12,11,0,,,,,Двуствольная гарпун-турель [свет]
+2870-gamedata.base,Harpoon Turret,Гарпун-турель,DEFENCE,true,,unlocked,Прототип гарпунных турелей (3002-gamedata.base),0,5,Слитки стали: 3; Железные листы: 7; Медь: 3,13,1,13,-3,0,1,75,1,12,11,0,,,,,Гарпун-турель MкII
+2874-gamedata.base,Multi-Barrel Harpoon Turret,Многоствольная гарпун-турель,DEFENCE,true,,locked,Револьверная гарпун-турель (3010-gamedata.base),0,0,Слитки стали: 8; Пластины медного сплава: 8; Электродетали: 8,22,1,22,-10,0,1,50,1,12,11,0,,,,,
+2881-gamedata.base,Mounted Crossbow,Арбалет-турель,DEFENCE,true,,unlocked,Арбалетные турели (2838-gamedata.base),0,1,Железные листы: 6,7,1,7,0,0,1,55,1,12,11,0,,,,,
+2887-gamedata.base,Mounted Crossbow mkII,Арбалет-турель МкII,DEFENCE,true,,in_queue,Арбалетные турели II (2888-gamedata.base),0,0,Железные листы: 8,10,1,10,0,0,1,75,1,12,11,0,,,,,Арбалет-турель MкII [свет]
+47751-rebirth.mod,Harpoon Turret MkII  [light],Гарпун-турель MкII [свет],DEFENCE,true,,locked,Фара на гарпун-турель (47760-rebirth.mod),0,0,Слитки стали: 3; Медь: 4; Железные листы: 10; Электродетали: 1,16,1,16,-9,0,1,90,1,12,11,0,,,,,
+47752-rebirth.mod,Double-Barrel Harpoon Turret [light],Двуствольная гарпун-турель [свет],DEFENCE,true,,locked,Фара двуствольной гарпун-турели (47761-rebirth.mod),0,0,Слитки стали: 6; Пластины медного сплава: 6; Электродетали: 6,18,1,18,-9,0,1,80,1,12,11,0,,,,,
+47753-rebirth.mod,Mounted Crossbow mkII  [light],Арбалет-турель MкII [свет],DEFENCE,true,,in_queue,Фара на арбалет-турель (47762-rebirth.mod),0,0,Железные листы: 8; Электродетали: 1,10,1,10,-4,0,1,75,1,12,11,0,,,,,
+12840-nodes_otto.mod,Water Tank,Водный бак,FARMING,true,,unlocked,Ящики под фермерство (2949-gamedata.base),0,0,Железные листы: 3,3,1,3,0,0,0,1,1,2,0,0,,,,,
+18968-small_changes_otto.mod,Vegetable Farm L,Овощная ферма L,FARMING,false,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Зеленофрукт: 40,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Зеленофрукт,,green=1; min_fert=0.25; growth=20h; plants=49,
+18988-small_changes_otto.mod,Cotton Farm XL,Хлопковая ферма XL,FARMING,false,,locked,Выращивание хлопка (42176-rebirth.mod),0,0,Хлопок: 60,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Хлопок,,green=1; min_fert=0; growth=26h; plants=121,
+1921-gamedata.base,Well,Колодец,FARMING,false,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Стройматериалы: 5,5,2,10,0,0,1,0.75,48,1,3,5,,Вода,,,Колодец II
+1924-gamedata.base,Well III,Колодец III,FARMING,false,,locked,Колодцы III (1929-gamedata.base),0,0,Стройматериалы: 9; Железные листы: 6,15,1,15,-10,0,0,1.25,48,1,3,5,,Вода,,,
+1925-gamedata.base,Well II,Колодец II,FARMING,false,,in_queue,Колодцы II (1928-gamedata.base),0,0,Стройматериалы: 6; Железные листы: 4,10,1,10,-8,0,0,1,48,1,3,5,,Вода,,,Колодец III
+2021-gamedata.base,Hemp Farm L,Пеньковая ферма L,FARMING,false,,unlocked,Выращивание пеньки (2024-gamedata.base),0,0,Пенька: 30,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=50%); Вода (consumption rate=5/сут),Пенька,,arid=0.4/green=1/swamp=1; min_fert=0; growth=18h; plants=64,
+40546-small_changes_otto.mod,Cactus Farm XL,Кактусовая ферма XL,FARMING,false,,locked,Выращивание кактусов (43317-rebirth.mod),0,0,Кактус: 40,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=100%); Вода (consumption rate=2/сут),Кактус,,arid=1; min_fert=0; growth=24h; plants=64,
+40547-small_changes_otto.mod,Riceweed Farm L,Рисовая ферма L,FARMING,false,,unlocked,Выращивание риса (43318-rebirth.mod),0,0,Рисовая трава: 50,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=400%); Вода (consumption rate=10/сут),Рисовая трава,,swamp=1; min_fert=0; growth=15h; plants=81,
+40548-small_changes_otto.mod,Wheat Farm S,Пшеничная ферма S,FARMING,false,,locked,Выращивание пшеницы (2225-gamedata.base); _start- freedom seekers (46043-rebirth.mod),0,0,Пшеница: 10,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=2/сут),Пшеница,,arid=0.5/green=1; min_fert=0; growth=22h; plants=25,Пшеничная ферма M
+40550-small_changes_otto.mod,Hydroponic Vegetables,Парник для овощей,FARMING,true,,locked,Парник для овощей (50027-rebirth.mod),0,0,Зеленофрукт: 10; Железные листы: 4; Электродетали: 2,1,1,1,-10,0,1,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=5/сут),Зеленофрукт,,arid=1/green=1/swamp=1; min_fert=-1; growth=15h; plants=20,
+40560-small_changes_otto.mod,Hydroponic Riceweed,Парник для риса,FARMING,true,,locked,Парник для риса (50025-rebirth.mod),0,0,Рисовая трава: 10; Электродетали: 2; Железные листы: 4,1,1,1,-10,0,1,1,48,1,12,6,Вода (rate=400%); Вода (consumption rate=10/сут),Рисовая трава,,arid=1/green=1/swamp=1; min_fert=-1; growth=10h; plants=20,
+40561-small_changes_otto.mod,Hydroponic Wheatstraw,Парник для пшеницы,FARMING,true,,locked,Парник для пшеницы (50028-rebirth.mod),0,0,Пшеница: 10; Железные листы: 4; Электродетали: 2,1,1,1,-10,0,1,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=5/сут),Пшеница,,arid=1/green=1/swamp=1; min_fert=-1; growth=14h; plants=20,
+40569-small_changes_otto.mod,Hydroponic Hemp,Парник для пеньки,FARMING,true,,locked,Парник для пеньки (50024-rebirth.mod),0,0,Пенька: 10; Электродетали: 2; Железные листы: 4,1,1,1,-10,0,1,1,48,1,12,6,Вода (rate=50%); Вода (consumption rate=5/сут),Пенька,,arid=1/green=1/swamp=1; min_fert=-1; growth=10h; plants=10,
+56893-farm.mod,Wheat Farm M,Пшеничная ферма M,FARMING,false,,locked,Выращивание пшеницы (2225-gamedata.base),0,0,Пшеница: 25,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=3/сут),Пшеница,,arid=0.5/green=1; min_fert=0; growth=22h; plants=50,Пшеничная ферма L
+56897-farm.mod,Wheat Farm L,Пшеничная ферма L,FARMING,false,,locked,Выращивание пшеницы (2225-gamedata.base),0,0,Пшеница: 40,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=4/сут),Пшеница,,arid=0.5/green=1; min_fert=0; growth=22h; plants=75,Пшеничная ферма XL
+56898-farm.mod,Wheat Farm XL,Пшеничная ферма XL,FARMING,false,,locked,Выращивание пшеницы (2225-gamedata.base),0,0,Пшеница: 60,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=5/сут),Пшеница,,arid=0.5/green=1; min_fert=0; growth=22h; plants=100,
+56899-farm.mod,Vegetable Farm S,Овощная ферма S,FARMING,false,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Зеленофрукт: 10,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Зеленофрукт,,green=1; min_fert=0.25; growth=20h; plants=20,Овощная ферма M
+56900-farm.mod,Vegetable Farm M,Овощная ферма M,FARMING,false,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Зеленофрукт: 25,1,20,20,0,0,4,1,64,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Зеленофрукт,,green=1; min_fert=0.25; growth=20h; plants=35,Овощная ферма L
+56903-rebirth.mod,Riceweed Farm S,Рисовая ферма S,FARMING,false,,unlocked,Выращивание риса (43318-rebirth.mod),0,0,Рисовая трава: 10,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=400%); Вода (consumption rate=10/сут),Рисовая трава,,swamp=1; min_fert=0; growth=15h; plants=25,Рисовая ферма M
+56904-rebirth.mod,Riceweed Farm M,Рисовая ферма M,FARMING,false,,unlocked,Выращивание риса (43318-rebirth.mod),0,0,Рисовая трава: 30,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=400%); Вода (consumption rate=10/сут),Рисовая трава,,swamp=1; min_fert=0; growth=15h; plants=55,Рисовая ферма L
+56910-rebirth.mod,Cactus Farm M,Кактусовая ферма M,FARMING,false,,locked,Выращивание кактусов (43317-rebirth.mod),0,0,Кактус: 20,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=100%); Вода (consumption rate=2/сут),Кактус,,arid=1; min_fert=0; growth=24h; plants=32,Кактусовая ферма L
+56911-rebirth.mod,Cactus Farm L,Кактусовая ферма L,FARMING,false,,locked,Выращивание кактусов (43317-rebirth.mod),0,0,Кактус: 30,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=100%); Вода (consumption rate=2/сут),Кактус,,arid=1; min_fert=0; growth=24h; plants=48,Кактусовая ферма XL
+56912-rebirth.mod,Cactus Farm S,Кактусовая ферма S,FARMING,false,,locked,Выращивание кактусов (43317-rebirth.mod),0,0,Кактус: 10,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=100%); Вода (consumption rate=2/сут),Кактус,,arid=1; min_fert=0; growth=24h; plants=16,Кактусовая ферма M
+56918-rebirth.mod,Hemp Farm S,Пеньковая ферма S,FARMING,false,,unlocked,Выращивание пеньки (2024-gamedata.base),0,0,Пенька: 10,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=50%); Вода (consumption rate=5/сут),Пенька,,arid=0.4/green=1/swamp=1; min_fert=0; growth=18h; plants=25,Пеньковая ферма M
+56919-rebirth.mod,Hemp Farm M,Пеньковая ферма M,FARMING,false,,unlocked,Выращивание пеньки (2024-gamedata.base),0,0,Пенька: 20,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=50%); Вода (consumption rate=5/сут),Пенька,,arid=0.4/green=1/swamp=1; min_fert=0; growth=18h; plants=40,Пеньковая ферма L
+56920-rebirth.mod,Cotton Farm L,Хлопковая ферма L,FARMING,false,,locked,Выращивание хлопка (42176-rebirth.mod),0,0,Хлопок: 40,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Хлопок,,green=1; min_fert=0; growth=26h; plants=90,Хлопковая ферма XL
+56921-rebirth.mod,Cotton Farm M,Хлопковая ферма M,FARMING,false,,locked,Выращивание хлопка (42176-rebirth.mod),0,0,Хлопок: 25,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Хлопок,,green=1; min_fert=0; growth=26h; plants=60,Хлопковая ферма L
+56922-rebirth.mod,Cotton Farm S,Хлопковая ферма S,FARMING,false,,locked,Выращивание хлопка (42176-rebirth.mod),0,0,Хлопок: 10,1,20,20,0,0,4,1,48,1,12,6,Вода (rate=200%); Вода (consumption rate=10/сут),Хлопок,,green=1; min_fert=0; growth=26h; plants=30,Хлопковая ферма M
+97583-Newwworld.mod,Rain Collector,Дождевой коллектор,FARMING,true,,locked,Дождевой коллектор (97859-rebirth.mod),0,0,Железные листы: 4,3,1,3,0,0,0,1,48,26,3,0,,Вода,,,
+1533314-rebirth.mod,Automatic Grain Silo,Автозерномолка,FOOD,false,,locked,Автоизмельчение муки (1533315-rebirth.mod),0,0,Железные листы: 8; Электродетали: 6,3,2,6,-20,0,0,1,72,4,12,0,Пшеница (rate=100%),Мука,,,
+1930-gamedata.base,Grain Silo,Зерномолка,FOOD,false,,locked,Хлебопечение (1962-gamedata.base),0,0,Железные листы: 4,3,2,6,0,0,1,1,72,4,12,0,Пшеница (rate=100%),Мука,,,Автозерномолка
+1936-gamedata.base,Rum Still,Дистиллятор рома,FOOD,true,,locked,Перегонка рома (1938-gamedata.base),0,0,Железные листы: 3,4,1,4,-10,0,1,1,24,4,13,0,Вода (rate=200%); Кактус (rate=200%),Кактусовый ром,,,
+1944-gamedata.base,Cooking Stove,Кухонная плита,FOOD,true,,unlocked,Готовка (43962-rebirth.mod),1,0,Железные листы: 2,4,1,4,-2,0,1,1,2,10,13,0,,,9,,
+52162-rebirth.mod,Sake Still,Дистиллятор сакэ,FOOD,true,,locked,Перегонка сакэ (52161-rebirth.mod),0,0,Железные листы: 3,4,1,4,-10,0,1,1,24,4,13,0,Вода (rate=200%); Рисовая трава (rate=200%),Сакэ,,,
+52163-rebirth.mod,Hemp Processor,Переработка пеньки,FOOD,true,,unlocked,Производство гашиша (55235-rebirth.mod),1,1,Пластины медного сплава: 3; Электродетали: 1,4,1,4,-20,0,1,1,24,4,4,0,Вода (rate=100%); Пенька (rate=500%),Гашиш,,,
+52280-rebirth.mod,Grog Machine,Гроговая машина,FOOD,true,,locked,Перегонка грога (52281-rebirth.mod),0,0,Железные листы: 3,4,1,4,-10,0,1,1,24,4,13,0,Пшеница (rate=200%); Вода (rate=200%),Грог,,,
+5368-furniture_otto.mod,Bread Oven,Хлебная печь,FOOD,true,,locked,Хлебопечение (1962-gamedata.base),0,0,Стройматериалы: 4,4,1,4,0,0,0,1,24,4,13,0,Вода (rate=100%); Мука (rate=100%),Хлеб,,,
+16858-nodes_otto1.mod,Sitting Box,Ящик-стул,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.2,0.2,0,0,1,1,1,17,0,0,,,,,
+1783-gamedata.base,Prisoner Cage,Тюремная клетка,INTERIOR,true,,unlocked,Лишение свободы (2793-gamedata.base),0,0,Железные листы: 5,4,1,4,0,0,1,1,1,8,0,0,,,,,
+3460-otto.mod,Bed,Кровать,INTERIOR,true,,unlocked,Кровати (42179-rebirth.mod),19,9,Стройматериалы: 1; Ткани: 4,4,1,4,0,0,1,8,1,6,0,0,,,,,
+3461-otto.mod,Bench,Скамья,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,1,1,1,17,0,0,,,,,
+3465-otto.mod,Display Stand,Стенд для трофеев,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,5,1,1,13,0,0,,,,,
+3468-otto.mod,Stool,Табурет,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,1,1,1,17,0,0,,,,,
+3470-otto.mod,Shelf,Стеллаж,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,,1,,,,,,,,,
+3471-otto.mod,Small Table,Малый стол,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,0,1,1,16,0,0,,,,,
+3472-otto.mod,Table,Стол,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,0,1,1,16,0,0,,,,,
+50645-Newwworld.mod,Rusty Sink,Ржавая раковина,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Железные листы: 1,4,0.5,2,0,0,,1,,,,,,,,,
+52211-Newwworld.mod,Interior Wall: Metal,Перегородка: металл,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Железные листы: 1,4,0.7,2.8,0,0,,1,,,,,,,,,
+52213-Newwworld.mod,Round Bar Table,Круглый барный стол,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,0,1,1,16,0,0,,,,,
+52215-Newwworld.mod,Support Beam 3,Опорная балка 3,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,0.5,0.5,0,0,,1,,,,,,,,,
+5359-furniture_otto.mod,Sitting Pillow,Подушка-сидушка,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Ткани: 1,1,0.5,0.5,0,0,1,1,1,17,0,0,,,,,
+5361-furniture_otto.mod,Support Beam 1,Опорная балка 1,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,,1,,,,,,,,,
+5362-furniture_otto.mod,Support Beam 2,Опорная балка 2,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,,1,,,,,,,,,
+5431-new_furniture_otto.mod,Interior Wall,Перегородка,INTERIOR,true,,locked,Разная мебель (62167-rebirth.mod),0,0,Стройматериалы: 1,1,0.6,0.6,0,0,,1,,,,,,,,,
+64614-rebirth.mod,Skeleton Repair Bed,Ремкровать,INTERIOR,true,,unlocked,Ремкровати скелетов (64616-rebirth.mod),4,0,Электродетали: 5; Железные листы: 4; Медь: 2,4,1,4,-10,0,1,8,1,25,0,0,,,,,
+668-gamedata.base,Metal Table,Железный стол,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Железные листы: 1,1,0.5,0.5,0,0,0,1,1,16,0,0,,,,,
+900-gamedata.base,Round table,Круглый стол,INTERIOR,true,,unlocked,Простая мебель (62165-rebirth.mod),0,0,Железные листы: 1,1,0.5,0.5,0,0,0,1,1,16,0,0,,,,,
+14442-gamedata.base,Light Post III,Фонарь III,LIGHTS,false,,locked,КПД фонарного столба (14445-gamedata.base),0,0,Электродетали: 1; Железные листы: 3,3,1,3,-2,0,0,1,1,15,0,0,,,,,
+14443-gamedata.base,Light Post I,Фонарь I,LIGHTS,false,,locked,Фонарный столб (14444-gamedata.base),0,0,Электродетали: 1; Железные листы: 3,3,1,3,-4,0,0,1,1,15,0,0,,,,,
+45551-changes_otto.mod,Ceiling Fan Lamp,Подвесная лампа-вентилятор,LIGHTS,true,,unlocked,Свет в помещении (5346-gamedata.base),13,1,Железные листы: 1,2,1,2,-2,0,0,1,1,15,0,0,,,,,
+5361-gamedata.base,Spotlight,Софит,LIGHTS,true,,in_queue,Простое уличное освещение (5360-gamedata.base),0,0,Электродетали: 1; Железные листы: 2,1,4,4,-4,0,0,1,1,15,0,0,,,,,
+5363-gamedata.base,Searchlight,Прожектор,LIGHTS,true,,in_queue,Прожекторы (5366-gamedata.base),0,0,Железные листы: 4; Электродетали: 2,5,3,15,-8,0,0,1,1,15,0,0,,,,,
+5418-lights_otto.mod,Ceiling Lamp,Подвесная лампа,LIGHTS,true,,unlocked,Свет в помещении (5346-gamedata.base),0,0,Железные листы: 1,2,1,2,-2,0,0,1,1,15,0,0,,,,,
+5437-new_furniture_otto.mod,Torch Post,Факел,LIGHTS,true,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Стройматериалы: 1,1,5,5,0,0,0,1,1,15,0,0,,,,,
+5438-new_furniture_otto.mod,Electrical Torch Post,Электрический фонарь,LIGHTS,true,,unlocked,Свет в помещении (5346-gamedata.base),0,0,Железные листы: 1,1,1,1,-1,0,0,1,1,15,0,0,,,,,
+1509-gamedata.base,Stone Mine,Каменоломня,MINING,false,,unlocked,Стройматериалы (46045-rebirth.mod); _Default Start (базовая),0,0,Стройматериалы: 3,3,1.5,4.5,0,0,3,0.8,128,1,3,2,,Камень,,,Каменоломня II
+1532831-rebirth.mod,Iron Refinery IV,Обработка железа IV,MINING,false,,locked,Железные листы IV (1532832-rebirth.mod),0,0,Железные листы: 50,50,1,50,-40,0,0,1.4,48,4,3,0,Железо (rate=200%),Железные листы,,,
+1863-gamedata.base,Manual Stone Processor,Ручная обработка камня,MINING,false,,unlocked,Стройматериалы (46045-rebirth.mod); _Default Start (базовая),0,0,Железные листы: 6,10,2,20,0,0,3,0.4,64,4,3,0,Камень (rate=200%),Стройматериалы,,,Обработка камня II
+1903-gamedata.base,Stone Processor II,Обработка камня II,MINING,false,,in_queue,Электрообработка камня (42174-rebirth.mod),0,0,Железные листы: 15,20,1,20,-10,0,2,0.6,64,4,3,0,Камень (rate=200%),Стройматериалы,,,Обработка камня III
+1904-gamedata.base,Stone Processor III,Обработка камня III,MINING,false,,locked,Улучш. обработка камня (1890-gamedata.base),0,0,Железные листы: 30,30,1,30,-15,0,1,0.8,64,4,3,0,Камень (rate=200%),Стройматериалы,,,Обработка камня IV
+1905-gamedata.base,Stone Processor IV,Обработка камня IV,MINING,false,,locked,Улучш. обработка камня (1890-gamedata.base),0,0,Железные листы: 30; Электродетали: 5,40,1,40,-20,0,1,1,64,4,3,0,Камень (rate=200%),Стройматериалы,,,Обработка камня V
+1906-gamedata.base,Stone Processor V,Обработка камня V,MINING,false,,locked,Улучш. обработка камня (1890-gamedata.base),0,0,Железные листы: 40; Электродетали: 10,50,1,50,-30,0,1,1.2,64,4,3,0,Камень (rate=200%),Стройматериалы,,,
+2071-gamedata.base,Stone Mine II,Каменоломня II,MINING,false,,locked,Улучш. добыча камня (2087-gamedata.base),0,0,Стройматериалы: 5,5,1,5,0,0,2,0.8,128,1,3,2,,Камень,,,Каменоломня III
+2072-gamedata.base,Stone Mine III,Каменоломня III,MINING,false,,locked,Улучш. добыча камня (2087-gamedata.base),0,0,Стройматериалы: 6,6,1,6,0,0,2,0.9,128,1,3,2,,Камень,,,Каменоломня IV
+2073-gamedata.base,Stone Mine IV,Каменоломня IV,MINING,false,,locked,Улучш. добыча камня (2087-gamedata.base),0,0,Стройматериалы: 7,7,1,7,0,0,2,1,128,1,3,2,,Камень,,,
+2074-gamedata.base,Stone Mine V,Каменоломня V,MINING,false,,locked,Продвин. добыча камня (2088-gamedata.base),0,0,Стройматериалы: 8,8,1,8,-20,0,1,1,128,1,3,2,,Камень,,,Каменоломня VI
+2075-gamedata.base,Stone Mine VI,Каменоломня VI,MINING,false,,locked,Продвин. добыча камня (2088-gamedata.base),0,0,Стройматериалы: 20,20,1,20,-20,0,1,1.1,128,1,3,2,,Камень,,,Каменоломня VII
+2078-gamedata.base,Hybrid Stone Mine,Гибридная каменоломня,MINING,false,,locked,Гибридная каменоломня (43968-rebirth.mod),0,0,Стройматериалы: 35,35,1,35,-35,0,1,1,64,1,3,2,,Стройматериалы,,,Гибридная каменоломня II
+2096-gamedata.base,Ore Drill,Бур для руды,MINING,false,,in_queue,Бур для руды (2099-gamedata.base),0,0,Стройматериалы: 25,25,1,25,-20,0,2,1.25,64,1,3,1,,Железо,,,Рудный бур II
+2097-gamedata.base,Ore Drill II,Рудный бур II,MINING,false,,locked,Полуавтобур для руды (64563-rebirth.mod),0,0,Стройматериалы: 20; Железные листы: 10,30,1,30,-25,0,1,1.4,64,1,3,1,,Железо,,,Рудный бур III (Авто)
+2098-gamedata.base,Ore Drill III (Automated),Рудный бур III (Авто),MINING,false,,locked,Автобур для руды (64562-rebirth.mod),0,0,Железные листы: 20; Стройматериалы: 15; Электродетали: 10,40,1,40,-35,0,0,1.4,64,1,3,1,,Железо,,,
+2116-gamedata.base,Steel Refinery,Обработка стали,MINING,false,,unlocked,Стальные слитки (2120-gamedata.base),0,0,Железные листы: 20,25,1,25,-10,0,2,0.5,48,4,3,0,Железные листы (rate=200%),Слитки стали,,,Обработка стали II
+2118-gamedata.base,Steel Refinery II,Обработка стали II,MINING,false,,unlocked,Стальные слитки (2120-gamedata.base),0,0,Железные листы: 30,40,1,40,-20,0,1,0.75,48,4,3,0,Железные листы (rate=200%),Слитки стали,,,Обработка стали III
+2119-gamedata.base,Steel Refinery III,Обработка стали III,MINING,false,,unlocked,Стальные слитки (2120-gamedata.base),0,0,Железные листы: 40,50,1,50,-40,0,0,1.1,48,4,3,0,Железные листы (rate=200%),Слитки стали,,,
+42167-gamedata.base,Iron Refinery,Обработка железа,MINING,false,,in_queue,Железные листы (42185-rebirth.mod),0,0,Железные листы: 10,25,1,25,-10,0,2,0.9,48,4,3,0,Железо (rate=200%),Железные листы,,,Обработка железа II
+42168-gamedata.base,Iron Refinery II,Обработка железа II,MINING,false,,in_queue,Железные листы (42185-rebirth.mod),0,0,Железные листы: 22,40,1,40,-20,0,1,1,48,4,3,0,Железо (rate=200%),Железные листы,,,Обработка железа III
+42169-gamedata.base,Iron Refinery III,Обработка железа III,MINING,false,,in_queue,Железные листы (42185-rebirth.mod),0,0,Железные листы: 35,50,1,50,-30,0,0,1.2,48,4,3,0,Железо (rate=200%),Железные листы,,,Обработка железа IV
+42248-gamedata.base,Iron Resource,Залежи железа,MINING,false,,world_or_town,,1,0,Стройматериалы: 2,2,1,2,0,0,3,1.2,64,1,3,1,,Железо,,,
+42249-gamedata.base,Copper Resource,Залежи меди,MINING,false,,world_or_town,,2,0,Стройматериалы: 3,3,1.5,4.5,0,0,2,1,72,1,3,3,,Медь,,,
+43967-rebirth.mod,Hybrid Stone Mine II,Гибридная каменоломня II,MINING,false,,locked,Гибридная автокаменоломня (43965-rebirth.mod),0,0,Стройматериалы: 35,35,1,35,-40,0,0,1,64,1,3,2,,Стройматериалы,,,
+47237-rebirth.mod,Manual Iron Refinery,Ручная обработка железа,MINING,false,,in_queue,Железные листы (42185-rebirth.mod),0,0,Железные листы: 6,10,2,20,0,0,3,0.75,48,4,3,0,Железо (rate=200%),Железные листы,,,
+99106-Boneyard Wolf.mod,Small Copper Resource,Небольшие залежи меди,MINING,false,,world_or_town,,1,0,Стройматериалы: 3,3,1.5,4.5,0,0,1,0.5,72,1,3,3,,Медь,,,
+1855-gamedata.base,Battery Bank,Блок аккумуляторов,POWER,true,,unlocked,Батареи (43923-rebirth.mod),2,0,Железные листы: 2; Электродетали: 4,3,1,3,40,60,0,1,0.00125,23,0,0,,,,,
+1976-gamedata.base,Small Generator,Малый генератор,POWER,true,,locked,Топливные генераторы (42175-rebirth.mod),0,0,Железные листы: 4; Медь: 4,5,1.5,7.5,40,0,0,1,0.00125,5,0,0,Топливо (rate=100%),,,,
+1978-gamedata.base,Generator II,Генератор II,POWER,true,,locked,Мощный генератор (42191-rebirth.mod),0,0,Железные листы: 6; Электродетали: 10,15,1,15,100,0,0,1,0.00125,5,0,0,Топливо (rate=100%),,,,
+1999-gamedata.base,Wind Generator,Ветрогенератор,POWER,false,,unlocked,Теория ветрогенераторов (2224-gamedata.base),0,0,Железные листы: 8; Медь: 5,6,1,6,50,0,0,1,1,5,0,0,,,,,Ветрогенератор II
+3962-gamedata.base,Corpse Furnace,Крематорий,POWER,false,,locked,Уборка трупов (3965-gamedata.base),0,0,Железные листы: 8,8,0.8,6.4,0,0,1,1,1,11,0,0,,,,,
+40636-Newwworld.mod,Small Wind Generator,Малый ветряк,POWER,true,,unlocked,Лёгкие ветрогенераторы (46967-rebirth.mod),0,0,Электродетали: 4; Железные листы: 7,1,1,1,25,0,0,1,1,5,0,0,,,,,
+42188-rebirth.mod,Wind Generator II,Ветрогенератор II,POWER,false,,unlocked,Улучш. ветрогенераторы (47920-rebirth.mod),0,0,Железные листы: 10; Электродетали: 8,6,1,6,100,0,0,1,1,5,0,0,,,,,
+43914-rebirth.mod,Biofuel Distillery (Wheatstraw),Перегон биотоплива (солома),POWER,true,,locked,Биотопливо (43913-rebirth.mod),0,0,Железные листы: 6,10,1,10,0,0,1,0.9,32,4,3,0,Пшеница (rate=400%),Топливо,,,
+43918-rebirth.mod,Biofuel Distillery (Greenfruit),Перегон биотоплива (зеленофрукт),POWER,true,,locked,Биотопливо (43913-rebirth.mod),0,0,Железные листы: 6,10,1,10,0,0,1,0.9,32,4,3,0,Зеленофрукт (rate=400%),Топливо,,,
+50922-rebirth.mod,Biofuel Distillery (Hemp),Перегонка биотоплива (пенька),POWER,true,,locked,Биотопливо из пеньки (50923-rebirth.mod),0,0,Железные листы: 6,10,1,10,0,0,1,0.9,64,4,3,0,Пенька (rate=400%),Топливо,,,
+1459-gamedata.base,General Storage Chest,Складской сундук,STORAGE,true,,unlocked,Хранение вещей (1886-gamedata.base),11,1,Стройматериалы: 1,1,1,1,0,0,5,1,1,13,0,0,,,,,
+1532622-rebirth.mod,Crossbow Locker,Арбалетный шкаф,STORAGE,true,,unlocked,Хранение снаряжения (97245-rebirth.mod),0,0,Железные листы: 1,2,1,2,0,0,0,1,1,2,0,0,,,,,
+1865-gamedata.base,Storage: Fuel,Хранение: топливо,STORAGE,true,,locked,Биотопливо (43913-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+1941-gamedata.base,Flour Storage,Мешки для муки,STORAGE,true,,unlocked,Хлебопечение (1962-gamedata.base); Ящики под фермерство (2949-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2266-gamedata.base,Medicrate,Медикоробка,STORAGE,true,,unlocked,Простые аптечки (2263-gamedata.base),1,0,Железные листы: 1,2,1,2,0,0,0,1,1,2,0,0,,,,,
+2938-gamedata.base,Storage: Stones,Хранение: камни,STORAGE,true,,unlocked,Складские ящики (1884-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2939-gamedata.base,Storage: Ore,Хранение: руда,STORAGE,true,,unlocked,Ящики под руду (2948-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2940-gamedata.base,Storage: Building Materials,Хранение: стройматериалы,STORAGE,true,,unlocked,Складские ящики (1884-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2941-gamedata.base,Storage: Steel Bars,Хранение: слитки стали,STORAGE,true,,unlocked,Ящики под руду (2948-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2942-gamedata.base,Storage: Chainmail,Хранение: кольчуга,STORAGE,true,,unlocked,Ящики под ремесло (2947-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2943-gamedata.base,Storage: Leather,Хранение: кожа,STORAGE,true,,unlocked,Ящики под ремесло (2947-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2944-gamedata.base,Storage: Armour Plate,Хранение: латы,STORAGE,true,,unlocked,Ящики под ремесло (2947-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2945-gamedata.base,Storage: Wheatstraw,Хранение: пшеница,STORAGE,true,,locked,Выращивание пшеницы (2225-gamedata.base); _start- freedom seekers (46043-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+2946-gamedata.base,Storage: Hemp,Хранение: пенька,STORAGE,true,,unlocked,Выращивание пеньки (2024-gamedata.base),8,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+3462-otto.mod,Weapon Cabinet,Оружейный шкаф,STORAGE,true,,unlocked,Хранение снаряжения (97245-rebirth.mod),2,0,Стройматериалы: 2,2,1,2,0,0,0,1,1,2,0,0,,,,,
+3466-otto.mod,Metal Chest,Железный сундук,STORAGE,true,,unlocked,Хранение вещей (1886-gamedata.base),0,0,Железные листы: 1,4,1,4,0,0,5,1,1,13,0,0,,,,,
+3469-otto.mod,Shop Counter,Прилавок,STORAGE,true,,unlocked,Открытые продажи (2051-gamedata.base),4,0,Стройматериалы: 4,4,1,4,0,0,0,1,1,9,0,0,,,,,
+42186-rebirth.mod,Storage: Cotton,Хранение: хлопок,STORAGE,true,,locked,Выращивание хлопка (42176-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+42187-rebirth.mod,Storage: Iron Plates,Хранение: листы железа,STORAGE,true,,unlocked,Ящики под руду (2948-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+43389-rebirth.mod,Storage: Skins,Хранение: шкуры,STORAGE,true,,unlocked,Ящики под ремесло (2947-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+43390-rebirth.mod,Storage: Copper,Хранение: медь,STORAGE,true,,unlocked,Ящики под руду (2948-gamedata.base),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+43909-rebirth.mod,Storage: Cactus,Хранение: кактус,STORAGE,true,,locked,Выращивание кактусов (43317-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+43911-rebirth.mod,Storage: Greenfruit,Хранение: зеленофрукт,STORAGE,true,,unlocked,Ящики под фермерство (2949-gamedata.base),1,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+43912-rebirth.mod,Storage: Riceweed,Хранение: рис,STORAGE,true,,unlocked,Выращивание риса (43318-rebirth.mod),2,1,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+47240-rebirth.mod,Storage: Meat,Хранение: мясо,STORAGE,true,,unlocked,Ящики под ремесло (2947-gamedata.base),1,1,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+48465-rebirth.mod,Storage: Electricals,Хранение: электрика,STORAGE,true,,unlocked,Изготовление электрики (43921-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+50022-rebirth.mod,Storage: Copper Alloys,Хранение: сплавы меди,STORAGE,true,,unlocked,Медные сплавы (50020-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+5193-TwoStorey.mod,General Storage Boxes,Складские коробки,STORAGE,true,,unlocked,Хранение вещей (1886-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,5,1,1,13,0,0,,,,,
+52159-rebirth.mod,Grog Barrels,Бочки для грога,STORAGE,true,,locked,Перегонка грога (52281-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+52160-rebirth.mod,Sake Barrels,Бочки для сакэ,STORAGE,true,,locked,Перегонка сакэ (52161-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+5353-furniture_otto.mod,Rum Barrels,Бочки для рома,STORAGE,true,,locked,Перегонка рома (1938-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+55236-rebirth.mod,Storage: Hashish,Хранение: гашиш,STORAGE,true,,unlocked,Производство гашиша (55235-rebirth.mod),7,1,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+56129-rebirth.mod,Storage: Robotics,Хранение: роботехника,STORAGE,true,,unlocked,Робототехника (43924-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+64596-rebirth.mod,Animal Feeder,Кормушка для животных,STORAGE,false,,unlocked,Хранение вещей (1886-gamedata.base),0,0,Стройматериалы: 1,1,2,2,0,0,0,1,1,2,0,0,,,,,
+660-gamedata.base,Weapon Stand,Оружейний стенд,STORAGE,true,,unlocked,Хранение снаряжения (97245-rebirth.mod),0,0,Стройматериалы: 2,2,1,2,0,0,0,1,1,2,0,0,,,,,
+858-gamedata.base,Fabric Chest,Ящик для ткани,STORAGE,true,,unlocked,Производство ткани (2025-gamedata.base); Ящики под ремесло (2947-gamedata.base); Пеньковая ткань (47239-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+868-gamedata.base,Bread Basket,Хлебная корзина,STORAGE,true,,locked,Хлебопечение (1962-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+870-gamedata.base,Armour Storage,Хранение: доспехи,STORAGE,true,,unlocked,Хранение снаряжения (97245-rebirth.mod),4,0,Стройматериалы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+882-gamedata.base,Food Store,Хранение: еда,STORAGE,true,,unlocked,Хранение вещей (1886-gamedata.base),6,1,Стройматериалы: 1,1,2,2,0,0,0,1,1,2,0,0,,,,,
+97243-rebirth.mod,Storage: Crossbow Parts,Хранение: детали арбалетов,STORAGE,true,,locked,Болты (97084-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+97246-rebirth.mod,Boltbox,Болткоробка,STORAGE,true,,unlocked,Хранение снаряжения (97245-rebirth.mod),0,0,Железные листы: 1,1,1,1,0,0,0,1,1,2,0,0,,,,,
+1875-gamedata.base,Small Research Bench,Малый научный стенд,TECH,true,,unlocked,_Low Start (46044-rebirth.mod); _Default Start (базовая),0,0,Стройматериалы: 3,3,2,6,0,0,1,0.85,1,3,4,0,,,,,
+2006-gamedata.base,Research Bench II,Научный стенд II,TECH,true,,unlocked,Тех. уровень 2 (2008-gamedata.base),0,0,Железные листы: 10,15,1.5,22.5,0,0,1,0.9,1,3,4,0,,,,,Научный стенд III
+2079-gamedata.base,Research Bench III,Научный стенд III,TECH,true,,unlocked,Тех. уровень 3 (2090-gamedata.base),0,0,Железные листы: 20,20,1,20,-10,0,1,0.95,1,3,4,0,,,,,Научный стенд IV
+2084-gamedata.base,Research Bench IV,Научный стенд IV,TECH,true,,unlocked,Тех. уровень 4 (2091-gamedata.base),0,0,Железные листы: 25,25,1,25,-15,0,1,1,1,3,4,0,,,,,Научный стенд V
+2085-gamedata.base,Research Bench V,Научный стенд V,TECH,true,,unlocked,Тех. уровень 5 (2092-gamedata.base),0,0,Железные листы: 30,30,1,30,-25,0,1,1.05,1,3,4,0,,,,,Научный стенд VI
+2086-gamedata.base,Research Bench VI,Научный стенд VI,TECH,true,,unlocked,Тех. уровень 6 (2093-gamedata.base),1,0,Железные листы: 35,35,1,35,-30,0,1,1.1,1,3,4,0,,,,,
+1893-gamedata.base,Training Dummy MkII,Учебный манекен МкII,TRAINING,true,,unlocked,Улучшенные манекены (1897-gamedata.base),0,0,Железные листы: 3; Слитки стали: 1,10,1,10,0,0,1,11,1,7,2,0,,,,,Учебный манекен МкIII
+1896-gamedata.base,Training Dummy MkIII,Учебный манекен МкIII,TRAINING,true,,unlocked,Улучшенные манекены (1898-gamedata.base),9,0,Железные листы: 3; Электродетали: 1; Слитки стали: 1,15,1,15,0,0,1,16,1,7,2,0,,,,,
+2727-gamedata.base,Locksmith Training Box,Запертый сундук,TRAINING,true,,unlocked,Обучение взлому (2729-gamedata.base); Обучение взлому II (2731-gamedata.base); Обучение взлому III (97502-rebirth.mod),0,0,Железные листы: 2,3,1,3,0,0,1,11,1,7,37,0,,,,,Запертый сундук II
+2730-gamedata.base,Locksmith Training Box II,Запертый сундук II,TRAINING,true,,unlocked,Обучение взлому II (2731-gamedata.base); Обучение взлому III (97502-rebirth.mod),1,0,Железные листы: 4,3,1,3,0,0,1,21,1,7,37,0,,,,,Запертый сундук III
+2999-gamedata.base,Training Turret,Учебная турель,TRAINING,true,,unlocked,Обучение турелям (3001-gamedata.base),0,0,Железные листы: 2,5,1,5,0,0,1,11,1,7,11,0,,,,,Учебная турель МкII
+3003-gamedata.base,Training Turret MkII,Учебная турель МкII,TRAINING,true,,unlocked,Обучение турелям II (3005-gamedata.base),1,0,Железные листы: 6,7,1,7,0,0,1,21,1,7,11,0,,,,,Учебная турель МкIII
+3004-gamedata.base,Training Turret MkIII,Учебная турель МкIII,TRAINING,true,,locked,Обучение турелям III (3006-gamedata.base),0,0,Железные листы: 10; Электродетали: 1,10,1,10,-1,0,1,31,1,7,11,0,,,,,
+43868-rebirth.mod,Assassination Dummy,Манекен для убийств,TRAINING,true,,unlocked,Обучение убийцы (43874-rebirth.mod),0,0,Кожа: 5,5,1,5,0,0,1,10,1,7,22,0,,,,,Манекен для убийств II
+43872-rebirth.mod,Assassination Dummy II,Манекен для убийств II,TRAINING,true,,locked,Обучение убийцы II (43875-rebirth.mod),0,0,Кожа: 4; Сырое мясо: 4,5,1,5,0,0,1,20,1,7,22,0,,,,,Манекен для убийств III
+43873-rebirth.mod,Assassination Dummy III,Манекен для убийств III,TRAINING,true,,locked,Обучение убийцы III (43876-rebirth.mod),0,0,Кожа: 6; Сырое мясо: 4,5,1,5,0,0,1,30,1,7,22,0,,,,,
+898-gamedata.base,Training Dummy MkI,Учебный манекен МкI,TRAINING,true,,unlocked,Простые манекены (1889-gamedata.base),0,0,Железные листы: 4,5,1,5,0,0,1,6,1,7,2,0,,,,,Учебный манекен МкII
+97498-rebirth.mod,Thief Training Boxes,Тренировка вора,TRAINING,true,,unlocked,Обучение вора (97504-rebirth.mod),0,0,Железные листы: 3,1,1,1,0,0,1,11,1,7,10,0,,,,,Тренировка вора II
+97500-rebirth.mod,Thief Training Boxes II,Тренировка вора II,TRAINING,true,,unlocked,Обучение вора II (97505-rebirth.mod),0,0,Железные листы: 4; Инструменты: 1; Чашка: 1,1,1,1,0,0,1,21,1,7,10,0,,,,,Тренировка вора III
+97501-rebirth.mod,Thief Training Boxes III,Тренировка вора III,TRAINING,true,,unlocked,Обучение вора III (97506-rebirth.mod),0,1,Железные листы: 5; Инструменты: 1; Чашка: 1; Жемчужная чашка: 1; Жемчужная ваза: 1,1,1,1,0,0,1,31,1,7,10,0,,,,,
+97503-rebirth.mod,Locksmith Training Box III,Запертый сундук III,TRAINING,true,,unlocked,Обучение взлому III (97502-rebirth.mod),0,0,Железные листы: 3; Шарнир: 3; Слитки стали: 1; Пружинная сталь: 1,3,1,3,0,0,1,31,1,7,37,0,,,,,
+2829-Walls.mod,Defensive Wall Ramp II,Пандус защитной стены II,WALLS,false,,in_queue,Защитные стены (2915-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,,1,,,,,,,,,
+2916-Walls2.mod,Defensive Wall III,Защитная стена III,WALLS,false,,locked,Большие защитные стены (2994-gamedata.base),0,0,Стройматериалы: 3,3,1,3,0,0,,10,,,,,,,,,Защитная стена IV
+2932-Walls2.mod,Defensive Gate III,Защитные ворота III,WALLS,false,,locked,Большие защитные стены (2994-gamedata.base),0,0,Стройматериалы: 15,15,1,15,0,0,,1,,,,,,,,,Защитные ворота IV
+2934-Walls2.mod,Defensive Gate IV,Защитные ворота IV,WALLS,false,,locked,Крепкие защитные стены (2996-gamedata.base),0,0,Стройматериалы: 20,20,1,20,0,0,,1,,,,,,,,,Защитные ворота V
+2939-Walls2.mod,Defensive Wall IV,Защитная стена IV,WALLS,false,,locked,Крепкие защитные стены (2996-gamedata.base),0,0,Стройматериалы: 4,4,1,4,0,0,,20,,,,,,,,,Защитная стена V
+2988-gamedata.base,Defensive Wall Ramp III,Пандус защитной стены III,WALLS,false,,locked,Большие защитные стены (2994-gamedata.base),0,0,Стройматериалы: 2,2,1,2,0,0,,1,,,,,,,,,Пандус защитной стены IV
+2992-gamedata.base,Defensive Wall Ramp IV,Пандус защитной стены IV,WALLS,false,,locked,Крепкие защитные стены (2996-gamedata.base),0,0,Стройматериалы: 3,3,1,3,0,0,,1,,,,,,,,,Пандус защитной стены V
+3004-Walls.mod,Defensive Wall II,Защитная стена II,WALLS,false,,in_queue,Защитные стены (2915-gamedata.base),0,0,Стройматериалы: 2,2,1,2,0,0,,0,,,,,,,,,
+3005-Walls.mod,Makeshift Wall,Кустарный забор,WALLS,false,,in_queue,Кустарные стены (2910-gamedata.base),0,0,Стройматериалы: 1,1,1,1,0,0,,1,,,,,,,,,Защитная стена II
+3006-Walls.mod,Defensive Gate II,Защитные ворота II,WALLS,false,,in_queue,Защитные стены (2915-gamedata.base),0,0,Стройматериалы: 10,10,1,10,0,0,,1,,,,,,,,,
+3007-Walls.mod,Makeshift Gate,Кустарные ворота,WALLS,false,,in_queue,Кустарные стены (2910-gamedata.base),0,0,Стройматериалы: 5,5,1,5,0,0,,1,,,,,,,,,Защитные ворота II
+96396-Newwworld.mod,Peeler Machine,Шелушильня,labs,true,,locked,Библия трансформации скелета в человека (1534079-rebirth.mod),0,0,Стройматериалы: 1,1,1,1,0,0,1,1,1,8,0,0,,Шкура животного,,,
