@@ -301,19 +301,26 @@ function mergeProgress(rows,manifest,progress) {
     throw new Error('Ручные отметки не соответствуют кампании или формату');
   const ids=new Set(rows.map(row=>row.instance_id)), seen=new Set(), overlay=new Map();
   const cutoff=gameMinutes(manifest.game_time,true);
+  // /1 сворачивается как в конвертере (upgrade_progress): высший статус, при равенстве первая запись; затем фильтр по времени.
+  const entries=[];
   for(const entry of progress.locations) {
     if(!entry || !['instance_id','evidence'].every(key=>typeof entry[key]==='string'&&entry[key].trim()) ||
-       !['visited','explored'].includes(entry.status) || (!legacy && 'branch_id' in entry)) throw new Error('Некорректная ручная отметка');
+       !['visited','explored'].includes(entry.status) ||
+       (legacy ? typeof entry.branch_id!=='string'||!entry.branch_id : 'branch_id' in entry)) throw new Error('Некорректная ручная отметка');
     if(seen.has(entry.instance_id) && !legacy) throw new Error('Дубли ручных отметок');
     seen.add(entry.instance_id);
+    const prior=legacy && entries.find(e=>e.instance_id===entry.instance_id);
+    if(!prior) entries.push(entry);
+    else if(VISIT[entry.status].rank>VISIT[prior.status].rank) entries[entries.indexOf(prior)]=entry;
+  }
+  for(const entry of entries) {
     const time=gameMinutes(entry.game_time);
     if('game_time' in entry && time===null) throw new Error('Некорректное игровое время ручной отметки');
     if(!ids.has(entry.instance_id)) {
       if(progress.world_ref_id===manifest.world_ref_id) throw new Error('Локация ручной отметки вне справочника');
       continue;
     }
-    const prior=overlay.get(entry.instance_id);
-    if((time===null||cutoff===null||time<=cutoff) && (!prior || VISIT[entry.status].rank>VISIT[prior.status].rank)) overlay.set(entry.instance_id,entry);
+    if(time===null||cutoff===null||time<=cutoff) overlay.set(entry.instance_id,entry);
   }
   const merged=rows.map(row=>{
     const entry=overlay.get(row.instance_id);
