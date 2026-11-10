@@ -1,7 +1,7 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-9f47dae6fafa887c4e11f5456905e491aac3a3ee596128c352a5e716676a505f`
-- Игровое время: День 136, 17:23
+- snapshot_id: `sha256-33154aa2ec30657c4aeddc617095b06b771e341dde4399077673324d0df28ec4`
+- Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8 без BOM, LF, RFC 4180, разделитель - запятая; первая строка - заголовок.
 - Пустая ячейка - значение отсутствует или не применимо; числа с точкой без разделителей разрядов, булевы `true`/`false`; списки в ячейке разделены `; `.
 - Строки отсортированы по ключу; меток времени в таблицах нет; связи между таблицами - по идентификаторам (sid, id), не по именам.
@@ -13,7 +13,7 @@
 |---|---|---|---|
 | `squad.csv` | 30 | character_id | Один персонаж отряда игрока в строке |
 | `equipment.csv` | 252 | location_kind, character_id / здание, kind, slot, sid, level, quality | Все экземпляры оружия, брони и протезов (надетые, запасные у персонажей, на складах): значения шаблона, множители и итоговые `calc_*` |
-| `inventory.csv` | 448 | character_id, container, slot, base_sid, level, dup_no | Все предметы персонажей отряда поэкземплярно: надетое, пояс, рюкзаки, инвентарь |
+| `inventory.csv` | 456 | character_id, container, slot, base_sid, level, dup_no | Все предметы персонажей отряда поэкземплярно: надетое, пояс, рюкзаки, инвентарь |
 | `storage.csv` | 224 | location_key, zone, building_id, container, item, item_sid | Предметы в хранилищах зданий игрока: строка на запись сейва (стопка), экземпляры разного уровня раздельно |
 | `buildings.csv` | 176 | location_key, zone, parent_instance_id, instance_id | Все постройки, интерьерные станки, турели, генераторы, контейнеры и разрабатываемые рудные жилы игрока |
 | `research.csv` | 181 | category, level, sid | Полное дерево технологий игры (RESEARCH) со статусом изучения в кампании, стоимостью, предпосылками и открываемыми объектами |
@@ -21,7 +21,7 @@
 | `biome_resources.csv` | 74 | biome_sid | Ресурсный, климатический и ветровой профиль регионов (BIOME_GROUP + ENVIRONMENT_RESOURCES + SEASON/WEATHER) для оценки площадок под форпост |
 | `item_prices.csv` | 594 | sid | Базовые цены записей игры без торговых коэффициентов |
 | `trade_modifiers.csv` | 1533 | group, record_sid, field, ref_sid | Сырые торговые записи игры без вычисленных цен продажи и покупки |
-| `unique_npcs.csv` | 79 | sid | Уникальные NPC мира и их состояние |
+| `unique_npcs.csv` | 78 | sid | Уникальные NPC мира и их состояние |
 | `town_overrides.csv` | 9 | replacement_sid, town | Города, заменённые записями override |
 | `diplomacy.csv` | 103 | faction_sid | Отношения фракций с игроком без классификации |
 | `world_reactions.csv` | 310 | town_sid, override_sid, world_state_sid, condition, subject_sid | Условия вариантов городов: одна строка на условие World State |
