@@ -1,467 +1,449 @@
 character_id,character_name,container,slot,backpack_name,backpack_sid,item_name,item_type,base_sid,item_sid,level,quality,grade,quantity,stolen,charges,unique,unresolved,dup_no
-ps:-1002242560,Хоббс,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,647068-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:-1002242560,Хоббс,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,647078-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1002242560,Хоббс,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,647066-Безымянные_0.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:-1002242560,Хоббс,body,head,,,Шлем самурая,ARMOUR,2145-gamedata.base,647067-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1002242560,Хоббс,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,647079-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1002242560,Хоббс,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,647077-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-1002242560,Хоббс,body,weapon_back,,,Лунный тесак,WEAPON,52300-rebirth.mod,647065-Безымянные_0.platoon-INGAME,75,100,Тип лезвия 2,1,,1,,,1
-ps:-1002242560,Хоббс,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,647080-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,647072-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,647074-Безымянные_0.platoon-INGAME,0,100,,1,,421.5,,,2
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,647071-Безымянные_0.platoon-INGAME,0,50,,1,,58.37,,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,647075-Безымянные_0.platoon-INGAME,0,50,,1,true,465.47,,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Простая аптечка,ITEM,209-gamedata.base,647076-Безымянные_0.platoon-INGAME,0,5,,1,true,72.39,,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Тесак для мяса,WEAPON,2606-gamedata.base,647070-Безымянные_0.platoon-INGAME,55,100,Мк II,1,true,1,true,,1
-ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Инструменты,ITEM,43404-changes_otto.mod,647073-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:-1346969344,Кан,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,646985-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:-1346969344,Кан,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,646992-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
-ps:-1346969344,Кан,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,646983-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,,,1
-ps:-1346969344,Кан,body,head,,,Шлем самурая,ARMOUR,2145-gamedata.base,646984-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-1346969344,Кан,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,646993-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:-1346969344,Кан,body,shirt,,,Воронёная кольчуга,ARMOUR,2211-gamedata.base,646991-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-1346969344,Кан,body,weapon_back,,,Иноземная сабля,WEAPON,52304-rebirth.mod,646982-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:-1346969344,Кан,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,646994-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
-ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,646990-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
-ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,646988-Безымянные_0.platoon-INGAME,0,100,,1,,597.06,,,2
-ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,646989-Безымянные_0.platoon-INGAME,0,50,,1,true,92.46,,,1
-ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,646987-Безымянные_0.platoon-INGAME,0,50,,1,true,436.97,,,1
-ps:-1346969344,Кан,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,646995-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:-1572677376,Бип,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,353800-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:-1572677376,Бип,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,353806-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1572677376,Бип,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,353799-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-1572677376,Бип,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,353807-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1572677376,Бип,body,shirt,,,Воронёная кольчуга улья,ARMOUR,1534061-Newwworld Plus.mod,353805-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-1572677376,Бип,body,weapon_back,,,Топпер,WEAPON,474-gamedata.base,353798-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
-ps:-1572677376,Бип,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,353808-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
-ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,353803-Безымянные_4.platoon-INGAME,0,25,,1,,94.38,,,1
-ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,353804-Безымянные_4.platoon-INGAME,0,50,,1,,20.64,,,1
-ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,353802-Безымянные_4.platoon-INGAME,0,50,,1,,500,,,2
-ps:-1572677376,Бип,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,353809-Безымянные_4.platoon-INGAME,0,100,,1,,432.19,,,1
-ps:-1715743744,Рука,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,647006-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:-1715743744,Рука,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,647014-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1715743744,Рука,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,647004-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-1715743744,Рука,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,647005-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-1715743744,Рука,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,647015-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-1715743744,Рука,body,shirt,,,Ржавая кольчужная рубаха,ARMOUR,18018-small_changes_otto.mod,647013-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-1715743744,Рука,body,weapon_back,,,Боевой тесак,WEAPON,52292-rebirth.mod,647003-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,647011-Безымянные_0.platoon-INGAME,0,100,,1,,939.5,,,1
-ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,647009-Безымянные_0.platoon-INGAME,0,25,,1,,75.16,,,1
-ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,647008-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
-ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,647010-Безымянные_0.platoon-INGAME,0,50,,1,true,424.57,,,1
-ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Простая аптечка,ITEM,209-gamedata.base,647012-Безымянные_0.platoon-INGAME,0,5,,1,true,142,,,1
-ps:-1715743744,Рука,inventory,main,,,Стройматериалы,ITEM,580-gamedata.base,647016-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:-2041915648,Пиа,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,307660-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
-ps:-2041915648,Пиа,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,307671-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-2041915648,Пиа,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,307658-Безымянные_1.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:-2041915648,Пиа,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,307659-Безымянные_1.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-2041915648,Пиа,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,307672-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-2041915648,Пиа,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,307670-Безымянные_1.platoon-INGAME,80,100,Специальный,1,true,1,,,1
-ps:-2041915648,Пиа,body,weapon_back,,,Нодати,WEAPON,922-gamedata.base,307657-Безымянные_1.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:-2041915648,Пиа,body,weapon_hip,,,Вакидзаси,WEAPON,1020-gamedata.base,307656-Безымянные_1.platoon-INGAME,60,100,Мк III,1,,1,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,307662-Безымянные_1.platoon-INGAME,0,100,,1,,795.57,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,307663-Безымянные_1.platoon-INGAME,0,50,,1,,93.85,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,307664-Безымянные_1.platoon-INGAME,0,50,,1,,148.55,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Съедобный брикет,ITEM,43959-rebirth.mod,307669-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,307667-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,307668-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,2
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,307665-Безымянные_1.platoon-INGAME,0,40,,1,true,292.44,,,1
-ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,307666-Безымянные_1.platoon-INGAME,0,40,,1,true,400,,,2
-ps:-2041915648,Пиа,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,307673-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
-ps:-2041915648,Пиа,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,307674-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,2
-ps:-383834368,Крошка Джон,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,353782-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:-383834368,Крошка Джон,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,353788-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-383834368,Крошка Джон,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,353780-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
-ps:-383834368,Крошка Джон,body,head,,,Шлем с забралом,ARMOUR,2202-gamedata.base,353781-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-383834368,Крошка Джон,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,353789-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-383834368,Крошка Джон,body,shirt,,,Кольчуга,ARMOUR,2210-gamedata.base,353787-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-383834368,Крошка Джон,body,weapon_back,,,Сабля с отверстием,WEAPON,52287-rebirth.mod,353779-Безымянные_4.platoon-INGAME,100,100,Мейто,1,,1,,,1
-ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353785-Безымянные_4.platoon-INGAME,0,100,,1,,856.04,,,1
-ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,353786-Безымянные_4.platoon-INGAME,0,25,,1,,100,,,1
-ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,353784-Безымянные_4.platoon-INGAME,0,50,,1,true,449.86,,,1
-ps:-456466432,Мрачный Нил,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,646945-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:-456466432,Мрачный Нил,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,646951-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-456466432,Мрачный Нил,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,646952-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-456466432,Мрачный Нил,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,646944-Безымянные_0.platoon-INGAME,100,100,Мейто,1,,1,,,1
-ps:-456466432,Мрачный Нил,body,weapon_hip,,,Железная палка,WEAPON,2064-gamedata.base,646943-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
-ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,646947-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
-ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,646948-Безымянные_0.platoon-INGAME,0,25,,1,true,84.58,,,1
-ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,646950-Безымянные_0.platoon-INGAME,0,50,,1,,358.84,,,1
-ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Стандартная аптечка,ITEM,515-gamedata.base,646949-Безымянные_0.platoon-INGAME,0,40,,1,,391.24,,,1
-ps:-456466432,Мрачный Нил,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,646953-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:-474044416,Сэто,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,353820-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:-474044416,Сэто,body,body,,,Белая куртка с латами,ARMOUR,53301-rebirth.mod,353826-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-474044416,Сэто,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,353818-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-474044416,Сэто,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,353819-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:-474044416,Сэто,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,353827-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-474044416,Сэто,body,shirt,,,Кольчужная рубаха,ARMOUR,544-gamedata.base,353825-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
-ps:-474044416,Сэто,body,weapon_back,,,Тесак для мяса,WEAPON,2606-gamedata.base,353817-Безымянные_4.platoon-INGAME,55,100,Мк II,1,,1,,,1
-ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353824-Безымянные_4.platoon-INGAME,0,100,,1,true,694.57,,,1
-ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353823-Безымянные_4.platoon-INGAME,0,100,,1,true,913.31,,,2
-ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,353822-Безымянные_4.platoon-INGAME,0,50,,1,,467.5,,,1
-ps:-476241664,Шрайк,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,307715-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
-ps:-476241664,Шрайк,body,body,,,Чёрная куртка с латами,ARMOUR,53299-rebirth.mod,307727-Безымянные_1.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-476241664,Шрайк,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,307713-Безымянные_1.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:-476241664,Шрайк,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,307714-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:-476241664,Шрайк,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,307728-Безымянные_1.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-476241664,Шрайк,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,307726-Безымянные_1.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
-ps:-476241664,Шрайк,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,307712-Безымянные_1.platoon-INGAME,55,100,Мк II,1,,1,true,,1
-ps:-476241664,Шрайк,body,weapon_back,,,Нагината,WEAPON,52308-rebirth.mod,307711-Безымянные_1.platoon-INGAME,60,100,Мк III,1,,1,true,,1
-ps:-476241664,Шрайк,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,307710-Безымянные_1.platoon-INGAME,50,100,Мк I,1,,1,,,1
-ps:-476241664,Шрайк,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,307729-Безымянные_1.platoon-INGAME,0,20,,1,,80,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,307717-Безымянные_1.platoon-INGAME,0,100,,1,true,545.83,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,307724-Безымянные_1.platoon-INGAME,0,25,,1,true,42.93,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,307725-Безымянные_1.platoon-INGAME,0,50,,1,,185,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,307719-Безымянные_1.platoon-INGAME,0,1,,1,,15,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,307720-Безымянные_1.platoon-INGAME,0,1,,1,,15,,,2
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Варёные овощи,ITEM,43955-rebirth.mod,307718-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,307722-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,307721-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:-476241664,Шрайк,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Настоящий ремкомплект,ITEM,97903-rebirth.mod,307723-Безымянные_1.platoon-INGAME,0,20,,1,,42.43,,,1
-ps:-843917568,fx,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,353855-Безымянные_4.platoon-INGAME,0,1,,1,,1,,,1
-ps:-843917568,fx,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,353857-Безымянные_4.platoon-INGAME,0,1,,3,,15,,,1
-ps:-843917568,fx,inventory,main,,,Зуб животного,ITEM,42315-changes_otto.mod,353856-Безымянные_4.platoon-INGAME,0,1,,4,,1,,,1
-ps:-941451776,Вик,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,61327-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
-ps:-941451776,Вик,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,61329-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:-941451776,Вик,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,61330-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:-941451776,Вик,body,weapon_back,,,Глефа,WEAPON,52301-rebirth.mod,61326-Безымянные_5.platoon-INGAME,55,100,Мк II,1,,1,true,,1
-ps:-941451776,Вик,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,61334-Безымянные_5.platoon-INGAME,0,100,,1,,492.81,,,1
-ps:-941451776,Вик,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,61331-Безымянные_5.platoon-INGAME,0,50,,1,,94.04,,,1
-ps:-941451776,Вик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,61337-Безымянные_5.platoon-INGAME,0,50,,1,,500,,,1
-ps:-941451776,Вик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,61336-Безымянные_5.platoon-INGAME,0,50,,1,,87.29,,,2
-ps:-941451776,Вик,inventory,main,,,Сухой паёк,ITEM,42337-changes_otto.mod,61332-Безымянные_5.platoon-INGAME,0,1,,1,,125,,,1
-ps:-941451776,Вик,inventory,main,,,Сухой паёк,ITEM,42337-changes_otto.mod,61333-Безымянные_5.platoon-INGAME,0,1,,1,,125,,,2
-ps:-941451776,Вик,inventory,main,,,Ножовка,ITEM,581-gamedata.base,61335-Безымянные_5.platoon-INGAME,0,1,,1,,1,,,1
-ps:1006225600,Кот,body,backpack,,,Рюкзак,CONTAINER,635-gamedata.base,134862-Безымянные_3.platoon-INGAME,0,100,,1,,1,,,1
-ps:1006225600,Кот,body,body,,,Пальто,ARMOUR,2165-gamedata.base,134871-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1006225600,Кот,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,134860-Безымянные_3.platoon-INGAME,20,100,Низкий,1,,1,,,1
-ps:1006225600,Кот,body,head,,,Треуголка,ARMOUR,1415-gamedata.base,134861-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1006225600,Кот,body,legs,,,Кожаные штаны скитальца,ARMOUR,2305-clothes_v1.mod,134872-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1006225600,Кот,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,134870-Безымянные_3.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:1006225600,Кот,body,weapon_back,,,Сабля с кольцами,WEAPON,903-gamedata.base,134859-Безымянные_3.platoon-INGAME,60,100,Мк III,1,,1,true,,1
-ps:1006225600,Кот,body,weapon_hip,,,Вакидзаси,WEAPON,1020-gamedata.base,134858-Безымянные_3.platoon-INGAME,50,100,Мк I,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Брюки карго [хитрая кольчуга],ARMOUR,1392-gamedata.base,134868-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Штаны самурая,ARMOUR,2159-gamedata.base,134869-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Пальто,ARMOUR,2165-gamedata.base,134866-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Кожаный доспех наёмника,ARMOUR,2283-gamedata.base,134867-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Медь,ITEM,42158-gamedata.base,134883-Безымянные_3.platoon-INGAME,0,1,,5,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Железные листы,ITEM,42159-gamedata.base,134884-Безымянные_3.platoon-INGAME,0,1,,5,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Пластины медного сплава,ITEM,42160-gamedata.base,134882-Безымянные_3.platoon-INGAME,0,1,,3,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Электродетали,ITEM,42164-gamedata.base,134885-Безымянные_3.platoon-INGAME,0,1,,5,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,134881-Безымянные_3.platoon-INGAME,0,1,,1,,25,,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Сабля с отверстием,WEAPON,52287-rebirth.mod,134865-Безымянные_3.platoon-INGAME,70,100,Тип лезвия 1,1,,1,true,,1
-ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Тяжелый дзюттэ,WEAPON,52290-rebirth.mod,134864-Безымянные_3.platoon-INGAME,40,100,Катун No.3,1,,1,,,1
-ps:1006225600,Кот,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Слитки стали,ITEM,579-gamedata.base,134880-Безымянные_3.platoon-INGAME,0,1,,1,,1,,,1
-ps:1006225600,Кот,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,134874-Безымянные_3.platoon-INGAME,0,100,,1,,940.68,,,1
-ps:1006225600,Кот,inventory,main,,,Набор шин,ITEM,1435-gamedata.base,134875-Безымянные_3.platoon-INGAME,0,25,,1,,95.13,,,1
-ps:1006225600,Кот,inventory,main,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,134876-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1006225600,Кот,inventory,main,,,Кожаный доспех наёмника,ARMOUR,2283-gamedata.base,134877-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:1006225600,Кот,inventory,main,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,134878-Безымянные_3.platoon-INGAME,0,100,,1,,1,,,1
-ps:1006225600,Кот,inventory,main,,,Настоящий ремкомплект,ITEM,97903-rebirth.mod,134873-Безымянные_3.platoon-INGAME,0,20,,1,,100,,,1
-ps:1106567424,Флик,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,353723-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:1106567424,Флик,body,body,,,Обноски ниндзя,ARMOUR,2151-gamedata.base,353729-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:1106567424,Флик,body,head,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,353722-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1106567424,Флик,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,353730-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1106567424,Флик,body,shirt,,,Кожаная майка улья,ARMOUR,1534050-Newwworld.mod,353728-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:1106567424,Флик,body,weapon_back,,,Старый балет MкII,CROSSBOW,53643-rebirth.mod,353721-Безымянные_4.platoon-INGAME,80,100,,1,,1,true,,1
-ps:1106567424,Флик,body,weapon_hip,,,Клинок ниндзя,WEAPON,924-gamedata.base,353720-Безымянные_4.platoon-INGAME,100,100,Мейто,1,true,1,,,1
-ps:1106567424,Флик,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,353731-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
-ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353727-Безымянные_4.platoon-INGAME,0,100,,2,,1000,,,1
-ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353725-Безымянные_4.platoon-INGAME,0,100,,2,,30,,,1
-ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353726-Безымянные_4.platoon-INGAME,0,100,,9,,30,,,2
-ps:1106567424,Флик,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,353733-Безымянные_4.platoon-INGAME,0,100,,1,,493.11,,,1
-ps:1106567424,Флик,inventory,main,,,Набор шин,ITEM,1435-gamedata.base,353732-Безымянные_4.platoon-INGAME,0,25,,1,,45.87,,,1
-ps:1106567424,Флик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,353734-Безымянные_4.platoon-INGAME,0,50,,1,,340.38,,,1
-ps:1223510784,Хамут,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,307686-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
-ps:1223510784,Хамут,body,body,,,Пальто,ARMOUR,2165-gamedata.base,307697-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1223510784,Хамут,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,307684-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1223510784,Хамут,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,307685-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1223510784,Хамут,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,307698-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1223510784,Хамут,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,307696-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:1223510784,Хамут,body,weapon_back,,,Нагината катана,WEAPON,52309-rebirth.mod,307683-Безымянные_1.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:1223510784,Хамут,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,307682-Безымянные_1.platoon-INGAME,70,100,Тип лезвия 1,1,true,1,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,307688-Безымянные_1.platoon-INGAME,0,50,,1,,42.1,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,307690-Безымянные_1.platoon-INGAME,0,50,,1,,130.95,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Гохан,ITEM,43957-rebirth.mod,307695-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Съедобный брикет,ITEM,43959-rebirth.mod,307694-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,307692-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,307693-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,2
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,307689-Безымянные_1.platoon-INGAME,0,40,,1,,2.54,,,1
-ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,307691-Безымянные_1.platoon-INGAME,0,40,,1,,400,,,2
-ps:1223510784,Хамут,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,307700-Безымянные_1.platoon-INGAME,0,100,,1,,811.06,,,1
-ps:1223510784,Хамут,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,307699-Безымянные_1.platoon-INGAME,0,50,,1,,346.05,,,1
-ps:1223510784,Хамут,inventory,main,,,Варёные овощи,ITEM,43955-rebirth.mod,307701-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
-ps:1223510784,Хамут,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,307702-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:1359130880,Ану,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,353742-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:1359130880,Ану,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,353749-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,,,1
-ps:1359130880,Ану,body,legs,,,Латная рваная юбка (цветная),ARMOUR,42260-rebirth.mod,353750-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
-ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,353748-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
-ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,353747-Безымянные_4.platoon-INGAME,0,25,,1,,88.96,,,1
-ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,353746-Безымянные_4.platoon-INGAME,0,50,,1,,500,,,1
-ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,353744-Безымянные_4.platoon-INGAME,0,50,,1,,86.87,,,2
-ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,353745-Безымянные_4.platoon-INGAME,0,40,,1,,377.95,,,1
-ps:1441040000,Ожог,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,646925-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:1441040000,Ожог,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,646931-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1441040000,Ожог,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,646932-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,,,1
-ps:1441040000,Ожог,body,weapon_back,,,Падающее солнце,WEAPON,52306-rebirth.mod,646924-Безымянные_0.platoon-INGAME,60,100,Мк III,1,true,1,true,,1
-ps:1441040000,Ожог,body,weapon_hip,,,Шипастая дубина,WEAPON,52297-rebirth.mod,646923-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,,,1
-ps:1441040000,Ожог,belt,belt,,,Фонарь,ITEM,5348-gamedata.base,646933-Безымянные_0.platoon-INGAME,0,25,,1,,200,,,1
-ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,646929-Безымянные_0.platoon-INGAME,0,100,,1,,980.78,,,1
-ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,646930-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
-ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,646928-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
-ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ножовка,ITEM,581-gamedata.base,646927-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:1441040000,Ожог,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,646935-Безымянные_0.platoon-INGAME,0,50,,1,,480.84,,,1
-ps:1441040000,Ожог,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,646934-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:145629888,Гриффин,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,647050-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:145629888,Гриффин,body,body,,,Святой нагрудник,ARMOUR,2166-gamedata.base,647056-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
-ps:145629888,Гриффин,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,647048-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:145629888,Гриффин,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,647049-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:145629888,Гриффин,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,647057-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:145629888,Гриффин,body,shirt,,,Воронёная кольчуга,ARMOUR,2211-gamedata.base,647055-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:145629888,Гриффин,body,weapon_back,,,Крест паладина,WEAPON,52299-rebirth.mod,647047-Безымянные_0.platoon-INGAME,100,100,Мейто,1,true,1,,,1
-ps:145629888,Гриффин,body,weapon_hip,,,Меч,WEAPON,901-gamedata.base,647046-Безымянные_0.platoon-INGAME,50,100,Мк I,1,true,1,true,,1
-ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,647052-Безымянные_0.platoon-INGAME,0,100,,1,true,950.95,,,1
-ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,647054-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
-ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,647053-Безымянные_0.platoon-INGAME,0,50,,1,,496.57,,,1
-ps:1464721664,Вынос мозга,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,61264-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
-ps:1464721664,Вынос мозга,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,61274-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:1464721664,Вынос мозга,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,61262-Безымянные_5.platoon-INGAME,20,100,Низкий,1,,1,,,1
-ps:1464721664,Вынос мозга,body,head,,,Шляпа из ротанга,ARMOUR,2185-gamedata.base,61263-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1464721664,Вынос мозга,body,legs,,,Капри [стёганые],ARMOUR,554-gamedata.base,61275-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1464721664,Вынос мозга,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,61273-Безымянные_5.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:1464721664,Вынос мозга,body,weapon_back,,,Рессоробой,CROSSBOW,95764-rebirth.mod,61261-Безымянные_5.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:1464721664,Вынос мозга,body,weapon_hip,,,Катана,WEAPON,476-gamedata.base,61260-Безымянные_5.platoon-INGAME,50,100,Мк I,1,,1,,,1
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,61268-Безымянные_5.platoon-INGAME,0,100,,1,true,1000,,,1
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,61266-Безымянные_5.platoon-INGAME,0,100,,1,,242.51,,,2
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,61267-Безымянные_5.platoon-INGAME,0,25,,1,,78.67,,,1
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,61272-Безымянные_5.platoon-INGAME,0,1,,1,,75,,,1
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,61271-Безымянные_5.platoon-INGAME,0,100,,1,,20,,,1
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,61270-Безымянные_5.platoon-INGAME,0,100,,9,,20,,,2
-ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,61269-Безымянные_5.platoon-INGAME,0,100,,7,,9,,,3
-ps:1665649408,Ридли,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,646964-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:1665649408,Ридли,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,646971-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1665649408,Ридли,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,646962-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1665649408,Ридли,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,646963-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1665649408,Ридли,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,646972-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1665649408,Ридли,body,shirt,,,Кожаная водолазка,ARMOUR,2213-gamedata.base,646970-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1665649408,Ридли,body,weapon_back,,,Пустынная сабля,WEAPON,52305-rebirth.mod,646961-Безымянные_0.platoon-INGAME,75,100,Тип лезвия 2,1,,1,,,1
-ps:1665649408,Ридли,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,646973-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
-ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,646968-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
-ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,646966-Безымянные_0.platoon-INGAME,0,100,,1,,917.43,,,2
-ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,646967-Безымянные_0.platoon-INGAME,0,50,,1,,83.87,,,1
-ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Стандартная аптечка,ITEM,515-gamedata.base,646969-Безымянные_0.platoon-INGAME,0,40,,1,,34.3,,,1
-ps:1665649408,Ридли,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,646974-Безымянные_0.platoon-INGAME,0,50,,1,,493.08,,,1
-ps:1671874944,Гигант Ранэ,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,647028-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:1671874944,Гигант Ранэ,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,647034-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1671874944,Гигант Ранэ,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,647026-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1671874944,Гигант Ранэ,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,647027-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:1671874944,Гигант Ранэ,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,647035-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:1671874944,Гигант Ранэ,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,647033-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1671874944,Гигант Ранэ,body,weapon_back,,,Доска,WEAPON,902-gamedata.base,647025-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
-ps:1671874944,Гигант Ранэ,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,647024-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
-ps:1671874944,Гигант Ранэ,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,647036-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
-ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,647030-Безымянные_0.platoon-INGAME,0,100,,1,,688.84,,,1
-ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,647032-Безымянные_0.platoon-INGAME,0,25,,1,,95.15,,,1
-ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,647031-Безымянные_0.platoon-INGAME,0,50,,1,,155.02,,,1
-ps:1758056704,Зелёный,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,353682-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:1758056704,Зелёный,body,body,,,Обноски ниндзя,ARMOUR,2151-gamedata.base,353700-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
-ps:1758056704,Зелёный,body,head,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,353681-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1758056704,Зелёный,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,353701-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:1758056704,Зелёный,body,shirt,,,Кожаная майка улья,ARMOUR,1534050-Newwworld.mod,353699-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:1758056704,Зелёный,body,weapon_back,,,Диверсант,CROSSBOW,66169-Newwworld.mod,353680-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:1758056704,Зелёный,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,353679-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
-ps:1758056704,Зелёный,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,353702-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353685-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353686-Безымянные_4.platoon-INGAME,0,100,,1,,196,,,2
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,353687-Безымянные_4.platoon-INGAME,0,25,,1,,77.71,,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,353697-Безымянные_4.platoon-INGAME,0,50,,1,true,472.16,,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Орлиный крест,CROSSBOW,66290-Newwworld.mod,353698-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353694-Безымянные_4.platoon-INGAME,0,100,,1,true,18,,,1
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353690-Безымянные_4.platoon-INGAME,0,100,,1,true,25,,,2
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353695-Безымянные_4.platoon-INGAME,0,100,,1,,26,,,3
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353684-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,4
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353688-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,5
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353691-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,6
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353692-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,7
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353693-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,8
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,353696-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,9
-ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Длинные],ITEM,96000-Newwworld.mod,353689-Безымянные_4.platoon-INGAME,0,100,,1,,3,,,1
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353706-Безымянные_4.platoon-INGAME,0,100,,1,,21,,,1
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353703-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,2
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353704-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,3
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353705-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,4
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353707-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,5
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353708-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,6
-ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,353709-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,7
-ps:175903328,Доктор Чон,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,353762-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:175903328,Доктор Чон,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,353770-Безымянные_4.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:175903328,Доктор Чон,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,353760-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:175903328,Доктор Чон,body,head,,,Маска Болотного Ниндзя,ARMOUR,18033-small_changes_otto.mod,353761-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:175903328,Доктор Чон,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,353771-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:175903328,Доктор Чон,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,353769-Безымянные_4.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:175903328,Доктор Чон,body,weapon_back,,,Тесак для мяса,WEAPON,2606-gamedata.base,353759-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
-ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353766-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
-ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353768-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,2
-ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353764-Безымянные_4.platoon-INGAME,0,100,,1,,942.57,,,3
-ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,353767-Безымянные_4.platoon-INGAME,0,50,,1,,100,,,1
-ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,353765-Безымянные_4.platoon-INGAME,0,50,,1,true,42.17,,,1
-ps:1856201216,Вьючный бык,body,backpack,,,Бычий вьюк,CONTAINER,43948-rebirth.mod,61283-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,61293-Безымянные_5.platoon-INGAME,0,1,,3,,1,,,1
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,61289-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,2
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,61290-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,3
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,61291-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,4
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,61292-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,5
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,61287-Безымянные_5.platoon-INGAME,0,100,,3,,1000,,,1
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Инструменты,ITEM,43404-changes_otto.mod,61286-Безымянные_5.platoon-INGAME,0,1,,4,,1,,,1
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,61288-Безымянные_5.platoon-INGAME,0,1,,2,,50,,,1
-ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Спальный мешок,ITEM,56645-rebirth.mod,61285-Безымянные_5.platoon-INGAME,0,1,,3,,1,,,1
-ps:1856201216,Вьючный бык,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,61294-Безымянные_5.platoon-INGAME,0,1,,4,,1,,,1
-ps:1856201216,Вьючный бык,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,61295-Безымянные_5.platoon-INGAME,0,1,,10,,15,,,1
-ps:1856201216,Вьючный бык,inventory,main,,,Рог животного,ITEM,42314-changes_otto.mod,61296-Безымянные_5.platoon-INGAME,0,1,,2,,1,,,1
-ps:2077026304,Чад,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,307634-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
-ps:2077026304,Чад,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,307643-Безымянные_1.platoon-INGAME,95,100,Мастерский,1,,1,,,1
-ps:2077026304,Чад,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,307632-Безымянные_1.platoon-INGAME,20,100,Низкий,1,true,1,,,1
-ps:2077026304,Чад,body,head,,,Кусари зукин,ARMOUR,2229-chris_r.mod,307633-Безымянные_1.platoon-INGAME,95,100,Мастерский,1,,1,,,1
-ps:2077026304,Чад,body,legs,,,Латная рваная юбка (цветная),ARMOUR,42260-rebirth.mod,307644-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:2077026304,Чад,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,307642-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,true,,1
-ps:2077026304,Чад,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,307645-Безымянные_1.platoon-INGAME,0,20,,1,,200,true,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,307637-Безымянные_1.platoon-INGAME,0,100,,1,,485.59,,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,307636-Безымянные_1.platoon-INGAME,0,50,,1,,75.88,,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,307638-Безымянные_1.platoon-INGAME,0,50,,1,,138.86,,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,307641-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,307639-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,1
-ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,307640-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,2
-ps:2077026304,Чад,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,307646-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
-ps:2077026304,Чад,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,307647-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,2
-ps:2093017600,Мью,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,61222-Безымянные_5.platoon-INGAME,0,100,,1,true,1,,,1
-ps:2093017600,Мью,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,61226-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:2093017600,Мью,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,61220-Безымянные_5.platoon-INGAME,20,100,Низкий,1,,1,,,1
-ps:2093017600,Мью,body,head,,,Латная маска,ARMOUR,18962-gamedata.base,61221-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:2093017600,Мью,body,legs,,,Капри [прочные],ARMOUR,1311-gamedata.base,61227-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:2093017600,Мью,body,shirt,,,Кожаная майка,ARMOUR,2212-gamedata.base,61225-Безымянные_5.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:2093017600,Мью,body,weapon_back,,,Нагината,WEAPON,52308-rebirth.mod,61219-Безымянные_5.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:2093017600,Мью,body,weapon_hip,,,Катана,WEAPON,476-gamedata.base,61218-Безымянные_5.platoon-INGAME,30,100,Катун No.1,1,,1,,,1
-ps:2093017600,Мью,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,61224-Безымянные_5.platoon-INGAME,0,50,,1,,406.98,,,1
-ps:2093017600,Мью,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,61228-Безымянные_5.platoon-INGAME,0,100,,1,true,117.09,,,1
-ps:2093017600,Мью,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,61229-Безымянные_5.platoon-INGAME,0,50,,1,,84.56,,,1
-ps:2093017600,Мью,inventory,main,,,Стандартная аптечка,ITEM,515-gamedata.base,61230-Безымянные_5.platoon-INGAME,0,40,,1,true,400,,,1
-ps:35522460,Вьючный бык,body,backpack,,,Бычий вьюк,CONTAINER,43948-rebirth.mod,647088-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647112-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647114-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647116-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,3
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647118-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,4
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647119-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,5
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,647125-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,6
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Книга,ITEM,16855-nodes_otto1.mod,647127-Безымянные_0.platoon-INGAME,0,1,,2,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,647121-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,647117-Безымянные_0.platoon-INGAME,0,50,,5,,500,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хлеб,ITEM,1946-gamedata.base,647126-Безымянные_0.platoon-INGAME,0,1,,1,,30,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хлеб,ITEM,1946-gamedata.base,647123-Безымянные_0.platoon-INGAME,0,1,,5,,30,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железная палка,WEAPON,2064-gamedata.base,647096-Безымянные_0.platoon-INGAME,30,100,Катун No.1,1,,1,true,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железная палка,WEAPON,2064-gamedata.base,647092-Безымянные_0.platoon-INGAME,40,100,Катун No.3,1,,1,true,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Кусари зукин,ARMOUR,2229-chris_r.mod,647110-Безымянные_0.platoon-INGAME,5,100,Прото,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Голова Туманника-Принца,ITEM,42083-rebirth.mod,647103-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Медь,ITEM,42158-gamedata.base,647122-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Медь,ITEM,42158-gamedata.base,647115-Безымянные_0.platoon-INGAME,0,1,,2,true,1,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железные листы,ITEM,42159-gamedata.base,647104-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железные листы,ITEM,42159-gamedata.base,647102-Безымянные_0.platoon-INGAME,0,1,,3,true,1,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Электродетали,ITEM,42164-gamedata.base,647124-Безымянные_0.platoon-INGAME,0,1,,3,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Электродетали,ITEM,42164-gamedata.base,647113-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ядро генератора,ITEM,42189-rebirth.mod,647105-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,647136-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,647135-Безымянные_0.platoon-INGAME,0,1,,2,true,15,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,647129-Безымянные_0.platoon-INGAME,0,1,,5,true,15,,,3
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,647131-Безымянные_0.platoon-INGAME,0,1,,5,true,15,,,4
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,647134-Безымянные_0.platoon-INGAME,0,1,,4,,15,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,647130-Безымянные_0.platoon-INGAME,0,1,,5,,15,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,647133-Безымянные_0.platoon-INGAME,0,1,,5,,15,,,3
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,647132-Безымянные_0.platoon-INGAME,0,1,,2,true,15,,,4
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Пресс,ITEM,43399-changes_otto.mod,647120-Безымянные_0.platoon-INGAME,0,1,,3,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Инструменты,ITEM,43404-changes_otto.mod,647107-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Инженерные исследования,ITEM,43951-rebirth.mod,647128-Безымянные_0.platoon-INGAME,0,1,,4,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,647111-Безымянные_0.platoon-INGAME,0,1,,3,,75,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,647108-Безымянные_0.platoon-INGAME,0,1,,2,,50,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,647106-Безымянные_0.platoon-INGAME,0,1,,5,,50,,,2
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Катана,WEAPON,476-gamedata.base,647095-Безымянные_0.platoon-INGAME,50,100,Мк I,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Составной топор,WEAPON,477-gamedata.base,647090-Безымянные_0.platoon-INGAME,15,100,Средненький лом,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Слитки стали,ITEM,579-gamedata.base,647137-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Стройматериалы,ITEM,580-gamedata.base,647098-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Части роботов,ITEM,583-gamedata.base,647101-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ткани,ITEM,584-gamedata.base,647109-Безымянные_0.platoon-INGAME,0,1,,2,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Диверсант,CROSSBOW,66169-Newwworld.mod,647093-Безымянные_0.platoon-INGAME,80,100,,1,,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Нодати,WEAPON,922-gamedata.base,647091-Безымянные_0.platoon-INGAME,35,100,Катун No.2,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Катана без цубы,WEAPON,923-gamedata.base,647094-Безымянные_0.platoon-INGAME,30,100,Катун No.1,1,,1,true,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука вора (правая),LIMB_REPLACEMENT,95870-rebirth.mod,647099-Безымянные_0.platoon-INGAME,80,100,Специальный,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука промгрузчика (правая),LIMB_REPLACEMENT,96024-Newwworld.mod,647097-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
-ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука серии КЛР (левая),LIMB_REPLACEMENT,96186-Newwworld.mod,647100-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
-ps:35522460,Вьючный бык,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,647138-Безымянные_0.platoon-INGAME,0,1,,4,,1,,,1
-ps:35522460,Вьючный бык,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,647139-Безымянные_0.platoon-INGAME,0,1,,10,,15,,,1
-ps:35522460,Вьючный бык,inventory,main,,,Рог животного,ITEM,42314-changes_otto.mod,647140-Безымянные_0.platoon-INGAME,0,1,,2,,1,,,1
-ps:398315424,Вечный Суньвынь,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,353838-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
-ps:398315424,Вечный Суньвынь,body,body,,,Пальто,ARMOUR,2165-gamedata.base,353846-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:398315424,Вечный Суньвынь,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,353836-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:398315424,Вечный Суньвынь,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,353837-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:398315424,Вечный Суньвынь,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,353847-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:398315424,Вечный Суньвынь,body,shirt,,,Ржавая кольчужная рубаха,ARMOUR,18018-small_changes_otto.mod,353845-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
-ps:398315424,Вечный Суньвынь,body,weapon_back,,,Конеруб,WEAPON,475-gamedata.base,353835-Безымянные_4.platoon-INGAME,100,100,Мейто,1,true,1,,,1
-ps:398315424,Вечный Суньвынь,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,353840-Безымянные_4.platoon-INGAME,0,100,,1,,826.43,,,1
-ps:398315424,Вечный Суньвынь,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,353844-Безымянные_4.platoon-INGAME,0,25,,2,,89.45,,,1
-ps:398315424,Вечный Суньвынь,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,353841-Безымянные_4.platoon-INGAME,0,50,,1,,495.93,,,1
-ps:398315424,Вечный Суньвынь,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,353843-Безымянные_4.platoon-INGAME,0,1,,2,,15,,,1
-ps:398315424,Вечный Суньвынь,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,353842-Безымянные_4.platoon-INGAME,0,1,,3,,75,,,1
-ps:621948224,Зелёный палец,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,61241-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
-ps:621948224,Зелёный палец,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,61247-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
-ps:621948224,Зелёный палец,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,61240-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:621948224,Зелёный палец,body,legs,,,Кожаные штаны скитальца,ARMOUR,2305-clothes_v1.mod,61248-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
-ps:621948224,Зелёный палец,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,61246-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
-ps:621948224,Зелёный палец,body,weapon_back,,,Катана,WEAPON,476-gamedata.base,61239-Безымянные_5.platoon-INGAME,40,100,Катун No.3,1,,1,,,1
-ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,61244-Безымянные_5.platoon-INGAME,0,1,,1,,125,,,1
-ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,61243-Безымянные_5.platoon-INGAME,0,1,,1,,25,,,1
-ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Стройматериалы,ITEM,580-gamedata.base,61245-Безымянные_5.platoon-INGAME,0,1,,1,,1,,,1
-ps:621948224,Зелёный палец,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,61250-Безымянные_5.platoon-INGAME,0,100,,1,,759.88,,,1
-ps:621948224,Зелёный палец,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,61252-Безымянные_5.platoon-INGAME,0,50,,1,true,100,,,1
-ps:621948224,Зелёный палец,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,61251-Безымянные_5.platoon-INGAME,0,50,,1,,486.56,,,1
-ps:621948224,Зелёный палец,inventory,main,,,Простая аптечка,ITEM,209-gamedata.base,61249-Безымянные_5.platoon-INGAME,0,5,,1,true,102.38,,,1
-ps:706176768,Седая тень,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,61307-Безымянные_5.platoon-INGAME,0,100,,1,true,1,,,1
-ps:706176768,Седая тень,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,61310-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:706176768,Седая тень,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,61306-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:706176768,Седая тень,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,61311-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
-ps:706176768,Седая тень,body,shirt,,,Кольчуга Роев,ARMOUR,1534053-Newwworld Plus.mod,61309-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
-ps:706176768,Седая тень,body,weapon_back,,,Нодати,WEAPON,922-gamedata.base,61305-Безымянные_5.platoon-INGAME,60,100,Мк III,1,,1,,,1
-ps:706176768,Седая тень,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,61304-Безымянные_5.platoon-INGAME,35,100,Катун No.2,1,,1,,,1
-ps:706176768,Седая тень,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,61318-Безымянные_5.platoon-INGAME,0,100,,1,,922.04,,,1
-ps:706176768,Седая тень,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,61317-Безымянные_5.platoon-INGAME,0,50,,1,,100,,,1
-ps:706176768,Седая тень,inventory,main,,,Хлеб,ITEM,1946-gamedata.base,61313-Безымянные_5.platoon-INGAME,0,1,,1,,30,,,1
-ps:706176768,Седая тень,inventory,main,,,Хлеб,ITEM,1946-gamedata.base,61314-Безымянные_5.platoon-INGAME,0,1,,1,,30,,,2
-ps:706176768,Седая тень,inventory,main,,,Шаурма,ITEM,43960-rebirth.mod,61315-Безымянные_5.platoon-INGAME,0,1,,1,,50,,,1
-ps:706176768,Седая тень,inventory,main,,,Шаурма,ITEM,43960-rebirth.mod,61316-Безымянные_5.platoon-INGAME,0,1,,1,,50,,,2
-ps:706176768,Седая тень,inventory,main,,,Стандартная аптечка,ITEM,515-gamedata.base,61312-Безымянные_5.platoon-INGAME,0,40,,1,,201.55,,,1
-ps:827270528,Хот Лон,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,646891-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
-ps:827270528,Хот Лон,body,body,,,Белая куртка с латами,ARMOUR,53301-rebirth.mod,646905-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:827270528,Хот Лон,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,646889-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
-ps:827270528,Хот Лон,body,head,,,Латная маска,ARMOUR,18962-gamedata.base,646890-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
-ps:827270528,Хот Лон,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,646906-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
-ps:827270528,Хот Лон,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,646904-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
-ps:827270528,Хот Лон,body,weapon_back,,,Топпер,WEAPON,474-gamedata.base,646888-Безымянные_0.platoon-INGAME,30,100,Катун No.1,1,true,1,,,1
-ps:827270528,Хот Лон,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,646887-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
-ps:827270528,Хот Лон,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,646886-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,true,1,,,1
-ps:827270528,Хот Лон,belt,belt,,,Фонарь,ITEM,5348-gamedata.base,646907-Безымянные_0.platoon-INGAME,0,25,,1,,200,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,646896-Безымянные_0.platoon-INGAME,0,100,,1,,950.89,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,646893-Безымянные_0.platoon-INGAME,0,50,,1,,76.37,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Книга,ITEM,16855-nodes_otto1.mod,646903-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,646894-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Сырое мясо,ITEM,42243-rebirth.mod,646898-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Сырое мясо,ITEM,42243-rebirth.mod,646899-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,2
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Сырое мясо,ITEM,42243-rebirth.mod,646900-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,3
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Сырое мясо,ITEM,42243-rebirth.mod,646901-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,4
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Сырое мясо,ITEM,42243-rebirth.mod,646902-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,5
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ножовка,ITEM,581-gamedata.base,646897-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
-ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Настоящий ремкомплект,ITEM,97903-rebirth.mod,646895-Безымянные_0.platoon-INGAME,0,20,,1,,87.22,,,1
-ps:827270528,Хот Лон,inventory,main,,,Обноски убийцы,ARMOUR,2154-gamedata.base,646915-Безымянные_0.platoon-INGAME,60,100,Высокий,1,true,1,,,1
-ps:827270528,Хот Лон,inventory,main,,,Медь,ITEM,42158-gamedata.base,646914-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:827270528,Хот Лон,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,646910-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,1
-ps:827270528,Хот Лон,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,646911-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,2
-ps:827270528,Хот Лон,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,646912-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,3
-ps:827270528,Хот Лон,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,646913-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,4
-ps:827270528,Хот Лон,inventory,main,,,Слитки стали,ITEM,579-gamedata.base,646908-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
-ps:827270528,Хот Лон,inventory,main,,,Клинок ниндзя,WEAPON,924-gamedata.base,646909-Безымянные_0.platoon-INGAME,50,100,Мк I,1,true,1,,,1
+ps:-1002242560,Хоббс,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,654184-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:-1002242560,Хоббс,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,654195-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1002242560,Хоббс,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,654182-Безымянные_0.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:-1002242560,Хоббс,body,head,,,Шлем самурая,ARMOUR,2145-gamedata.base,654183-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1002242560,Хоббс,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654196-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1002242560,Хоббс,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,654194-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-1002242560,Хоббс,body,weapon_back,,,Лунный тесак,WEAPON,52300-rebirth.mod,654181-Безымянные_0.platoon-INGAME,75,100,Тип лезвия 2,1,,1,,,1
+ps:-1002242560,Хоббс,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,654197-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654188-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654190-Безымянные_0.platoon-INGAME,0,100,,1,,421.5,,,2
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,654187-Безымянные_0.platoon-INGAME,0,50,,1,,58.37,,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654191-Безымянные_0.platoon-INGAME,0,50,,1,true,465.47,,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Простая аптечка,ITEM,209-gamedata.base,654192-Безымянные_0.platoon-INGAME,0,5,,1,true,71.86,,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Тесак для мяса,WEAPON,2606-gamedata.base,654186-Безымянные_0.platoon-INGAME,55,100,Мк II,1,true,1,true,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,654193-Безымянные_0.platoon-INGAME,0,1,,1,,75,,,1
+ps:-1002242560,Хоббс,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Инструменты,ITEM,43404-changes_otto.mod,654189-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:-1346969344,Кан,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,654101-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:-1346969344,Кан,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,654108-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
+ps:-1346969344,Кан,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,654099-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,,,1
+ps:-1346969344,Кан,body,head,,,Шлем самурая,ARMOUR,2145-gamedata.base,654100-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-1346969344,Кан,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654109-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:-1346969344,Кан,body,shirt,,,Воронёная кольчуга,ARMOUR,2211-gamedata.base,654107-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-1346969344,Кан,body,weapon_back,,,Иноземная сабля,WEAPON,52304-rebirth.mod,654098-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:-1346969344,Кан,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,654110-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
+ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,654106-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
+ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,654104-Безымянные_0.platoon-INGAME,0,100,,1,,597.06,,,2
+ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,654105-Безымянные_0.platoon-INGAME,0,50,,1,true,92.46,,,1
+ps:-1346969344,Кан,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,654103-Безымянные_0.platoon-INGAME,0,50,,1,true,436.4,,,1
+ps:-1346969344,Кан,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,654111-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:-1572677376,Бип,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,359672-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:-1572677376,Бип,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,359678-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1572677376,Бип,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,359671-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-1572677376,Бип,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,359679-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1572677376,Бип,body,shirt,,,Воронёная кольчуга улья,ARMOUR,1534061-Newwworld Plus.mod,359677-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-1572677376,Бип,body,weapon_back,,,Топпер,WEAPON,474-gamedata.base,359670-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
+ps:-1572677376,Бип,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,359680-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
+ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,359675-Безымянные_4.platoon-INGAME,0,25,,1,,94.38,,,1
+ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359676-Безымянные_4.platoon-INGAME,0,50,,1,,20.64,,,1
+ps:-1572677376,Бип,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359674-Безымянные_4.platoon-INGAME,0,50,,1,,500,,,2
+ps:-1572677376,Бип,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,359681-Безымянные_4.platoon-INGAME,0,100,,1,,432.19,,,1
+ps:-1715743744,Рука,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,654122-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:-1715743744,Рука,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,654130-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1715743744,Рука,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,654120-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-1715743744,Рука,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,654121-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-1715743744,Рука,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654131-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-1715743744,Рука,body,shirt,,,Ржавая кольчужная рубаха,ARMOUR,18018-small_changes_otto.mod,654129-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-1715743744,Рука,body,weapon_back,,,Боевой тесак,WEAPON,52292-rebirth.mod,654119-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,654127-Безымянные_0.platoon-INGAME,0,100,,1,,939.5,,,1
+ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,654125-Безымянные_0.platoon-INGAME,0,25,,1,,75.16,,,1
+ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,654124-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
+ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,654126-Безымянные_0.platoon-INGAME,0,50,,1,true,424.32,,,1
+ps:-1715743744,Рука,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Простая аптечка,ITEM,209-gamedata.base,654128-Безымянные_0.platoon-INGAME,0,5,,1,true,142,,,1
+ps:-1715743744,Рука,inventory,main,,,Стройматериалы,ITEM,580-gamedata.base,654132-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:-2041915648,Пиа,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,359713-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:-2041915648,Пиа,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,359724-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-2041915648,Пиа,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,359711-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:-2041915648,Пиа,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,359712-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-2041915648,Пиа,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,359725-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-2041915648,Пиа,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,359723-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
+ps:-2041915648,Пиа,body,weapon_back,,,Нодати,WEAPON,922-gamedata.base,359710-Безымянные_4.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:-2041915648,Пиа,body,weapon_hip,,,Вакидзаси,WEAPON,1020-gamedata.base,359709-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,359715-Безымянные_4.platoon-INGAME,0,100,,1,,795.57,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,359716-Безымянные_4.platoon-INGAME,0,50,,1,,93.85,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359717-Безымянные_4.platoon-INGAME,0,50,,1,,148.5,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Съедобный брикет,ITEM,43959-rebirth.mod,359722-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,359720-Безымянные_4.platoon-INGAME,0,1,,1,,50,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,359721-Безымянные_4.platoon-INGAME,0,1,,1,,50,,,2
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,359718-Безымянные_4.platoon-INGAME,0,40,,1,true,291.53,,,1
+ps:-2041915648,Пиа,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,359719-Безымянные_4.platoon-INGAME,0,40,,1,true,400,,,2
+ps:-2041915648,Пиа,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,359726-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:-383834368,Крошка Джон,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,359654-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:-383834368,Крошка Джон,body,body,,,Доспех самурая,ARMOUR,2122-gamedata.base,359660-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-383834368,Крошка Джон,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,359652-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
+ps:-383834368,Крошка Джон,body,head,,,Шлем с забралом,ARMOUR,2202-gamedata.base,359653-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-383834368,Крошка Джон,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,359661-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-383834368,Крошка Джон,body,shirt,,,Кольчуга,ARMOUR,2210-gamedata.base,359659-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-383834368,Крошка Джон,body,weapon_back,,,Сабля с отверстием,WEAPON,52287-rebirth.mod,359651-Безымянные_4.platoon-INGAME,100,100,Мейто,1,,1,,,1
+ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359657-Безымянные_4.platoon-INGAME,0,100,,1,,856.04,,,1
+ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,359658-Безымянные_4.platoon-INGAME,0,25,,1,,100,,,1
+ps:-383834368,Крошка Джон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,359656-Безымянные_4.platoon-INGAME,0,50,,1,true,449.86,,,1
+ps:-456466432,Мрачный Нил,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,654061-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:-456466432,Мрачный Нил,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,654067-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-456466432,Мрачный Нил,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654068-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-456466432,Мрачный Нил,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,654060-Безымянные_0.platoon-INGAME,100,100,Мейто,1,,1,,,1
+ps:-456466432,Мрачный Нил,body,weapon_hip,,,Железная палка,WEAPON,2064-gamedata.base,654059-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
+ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654063-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
+ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,654064-Безымянные_0.platoon-INGAME,0,25,,1,true,84.58,,,1
+ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654066-Безымянные_0.platoon-INGAME,0,50,,1,,358.68,,,1
+ps:-456466432,Мрачный Нил,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Стандартная аптечка,ITEM,515-gamedata.base,654065-Безымянные_0.platoon-INGAME,0,40,,1,,391.24,,,1
+ps:-456466432,Мрачный Нил,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,654069-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:-474044416,Сэто,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,359692-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:-474044416,Сэто,body,body,,,Белая куртка с латами,ARMOUR,53301-rebirth.mod,359698-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:-474044416,Сэто,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,359690-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-474044416,Сэто,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,359691-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-474044416,Сэто,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,359699-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-474044416,Сэто,body,shirt,,,Кольчужная рубаха,ARMOUR,544-gamedata.base,359697-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
+ps:-474044416,Сэто,body,weapon_back,,,Тесак для мяса,WEAPON,2606-gamedata.base,359689-Безымянные_4.platoon-INGAME,55,100,Мк II,1,,1,,,1
+ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359696-Безымянные_4.platoon-INGAME,0,100,,1,true,694.57,,,1
+ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359695-Безымянные_4.platoon-INGAME,0,100,,1,true,913.31,,,2
+ps:-474044416,Сэто,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,359694-Безымянные_4.platoon-INGAME,0,50,,1,,467.5,,,1
+ps:-474044416,Сэто,inventory,main,,,Белая куртка с латами,ARMOUR,53301-rebirth.mod,359700-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-476241664,Шрайк,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,310096-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
+ps:-476241664,Шрайк,body,body,,,Чёрная куртка с латами,ARMOUR,53299-rebirth.mod,310108-Безымянные_1.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-476241664,Шрайк,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,310094-Безымянные_1.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:-476241664,Шрайк,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,310095-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-476241664,Шрайк,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,310109-Безымянные_1.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:-476241664,Шрайк,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,310107-Безымянные_1.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
+ps:-476241664,Шрайк,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,310093-Безымянные_1.platoon-INGAME,55,100,Мк II,1,,1,true,,1
+ps:-476241664,Шрайк,body,weapon_back,,,Нагината,WEAPON,52308-rebirth.mod,310092-Безымянные_1.platoon-INGAME,60,100,Мк III,1,,1,true,,1
+ps:-476241664,Шрайк,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,310091-Безымянные_1.platoon-INGAME,50,100,Мк I,1,,1,,,1
+ps:-476241664,Шрайк,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,310110-Безымянные_1.platoon-INGAME,0,20,,1,,80,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,310104-Безымянные_1.platoon-INGAME,0,1,,3,,1,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,310100-Безымянные_1.platoon-INGAME,0,1,,9,,1,,,2
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,310101-Безымянные_1.platoon-INGAME,0,1,,9,,1,,,3
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,310102-Безымянные_1.platoon-INGAME,0,1,,9,,1,,,4
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,310098-Безымянные_1.platoon-INGAME,0,100,,1,,826.43,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,310106-Безымянные_1.platoon-INGAME,0,25,,2,,89.45,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,310099-Безымянные_1.platoon-INGAME,0,50,,1,,495.93,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,310105-Безымянные_1.platoon-INGAME,0,1,,2,,15,,,1
+ps:-476241664,Шрайк,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,310103-Безымянные_1.platoon-INGAME,0,1,,2,,75,,,1
+ps:-843917568,fx,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,359787-Безымянные_4.platoon-INGAME,0,1,,1,,1,,,1
+ps:-843917568,fx,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,359789-Безымянные_4.platoon-INGAME,0,1,,3,,15,,,1
+ps:-843917568,fx,inventory,main,,,Зуб животного,ITEM,42315-changes_otto.mod,359788-Безымянные_4.platoon-INGAME,0,1,,4,,1,,,1
+ps:-941451776,Вик,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,64923-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
+ps:-941451776,Вик,body,body,,,Кожаный доспех наёмника,ARMOUR,2283-gamedata.base,64930-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:-941451776,Вик,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,64931-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:-941451776,Вик,body,weapon_back,,,Тяжелый дзюттэ,WEAPON,52290-rebirth.mod,64922-Безымянные_5.platoon-INGAME,40,100,Катун No.3,1,,1,,,1
+ps:-941451776,Вик,body,weapon_back,,,Глефа,WEAPON,52301-rebirth.mod,64921-Безымянные_5.platoon-INGAME,55,100,Мк II,1,,1,true,,1
+ps:-941451776,Вик,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Медь,ITEM,42158-gamedata.base,64928-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,1
+ps:-941451776,Вик,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Железные листы,ITEM,42159-gamedata.base,64926-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,1
+ps:-941451776,Вик,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Пластины медного сплава,ITEM,42160-gamedata.base,64925-Безымянные_5.platoon-INGAME,0,1,,3,,1,,,1
+ps:-941451776,Вик,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Электродетали,ITEM,42164-gamedata.base,64929-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,1
+ps:-941451776,Вик,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Слитки стали,ITEM,579-gamedata.base,64927-Безымянные_5.platoon-INGAME,0,1,,1,,1,,,1
+ps:-941451776,Вик,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,64934-Безымянные_5.platoon-INGAME,0,100,,1,,465.11,,,1
+ps:-941451776,Вик,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,64932-Безымянные_5.platoon-INGAME,0,50,,1,,93.97,,,1
+ps:-941451776,Вик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,64937-Безымянные_5.platoon-INGAME,0,50,,1,,500,,,1
+ps:-941451776,Вик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,64936-Безымянные_5.platoon-INGAME,0,50,,1,,57.05,,,2
+ps:-941451776,Вик,inventory,main,,,Кожаный доспех наёмника,ARMOUR,2283-gamedata.base,64938-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:-941451776,Вик,inventory,main,,,Сухой паёк,ITEM,42337-changes_otto.mod,64933-Безымянные_5.platoon-INGAME,0,1,,1,,125,,,1
+ps:-941451776,Вик,inventory,main,,,Ножовка,ITEM,581-gamedata.base,64935-Безымянные_5.platoon-INGAME,0,1,,1,,1,,,1
+ps:1006225600,Кот,body,backpack,,,Рюкзак,CONTAINER,635-gamedata.base,135845-Безымянные_3.platoon-INGAME,0,100,,1,,1,,,1
+ps:1006225600,Кот,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,135851-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1006225600,Кот,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,135843-Безымянные_3.platoon-INGAME,20,100,Низкий,1,,1,,,1
+ps:1006225600,Кот,body,head,,,Латная маска,ARMOUR,18962-gamedata.base,135844-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1006225600,Кот,body,legs,,,Кожаные штаны скитальца,ARMOUR,2305-clothes_v1.mod,135852-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1006225600,Кот,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,135850-Безымянные_3.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:1006225600,Кот,body,weapon_back,,,Сабля с кольцами,WEAPON,903-gamedata.base,135842-Безымянные_3.platoon-INGAME,60,100,Мк III,1,,1,true,,1
+ps:1006225600,Кот,body,weapon_hip,,,Вакидзаси,WEAPON,1020-gamedata.base,135841-Безымянные_3.platoon-INGAME,50,100,Мк I,1,,1,,,1
+ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,135849-Безымянные_3.platoon-INGAME,0,100,,1,true,32.48,,,1
+ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Брюки карго [хитрая кольчуга],ARMOUR,1392-gamedata.base,135847-Безымянные_3.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1006225600,Кот,backpack,backpack_content,Рюкзак,635-gamedata.base,Треуголка,ARMOUR,1415-gamedata.base,135848-Безымянные_3.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1006225600,Кот,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,135854-Безымянные_3.platoon-INGAME,0,100,,1,,926.52,,,1
+ps:1006225600,Кот,inventory,main,,,Набор шин,ITEM,1435-gamedata.base,135855-Безымянные_3.platoon-INGAME,0,25,,1,,95.13,,,1
+ps:1006225600,Кот,inventory,main,,,Сухой паёк,ITEM,42337-changes_otto.mod,135856-Безымянные_3.platoon-INGAME,0,1,,1,,125,,,1
+ps:1006225600,Кот,inventory,main,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,135857-Безымянные_3.platoon-INGAME,0,100,,1,,1,,,1
+ps:1006225600,Кот,inventory,main,,,Настоящий ремкомплект,ITEM,97903-rebirth.mod,135853-Безымянные_3.platoon-INGAME,0,20,,1,,100,,,1
+ps:1106567424,Флик,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,359593-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:1106567424,Флик,body,body,,,Обноски ниндзя,ARMOUR,2151-gamedata.base,359600-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:1106567424,Флик,body,head,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,359592-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1106567424,Флик,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,359601-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1106567424,Флик,body,shirt,,,Кожаная майка улья,ARMOUR,1534050-Newwworld.mod,359599-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:1106567424,Флик,body,weapon_back,,,Старый балет MкII,CROSSBOW,53643-rebirth.mod,359591-Безымянные_4.platoon-INGAME,80,100,,1,,1,true,,1
+ps:1106567424,Флик,body,weapon_hip,,,Клинок ниндзя,WEAPON,924-gamedata.base,359590-Безымянные_4.platoon-INGAME,100,100,Мейто,1,true,1,,,1
+ps:1106567424,Флик,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,359602-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
+ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359597-Безымянные_4.platoon-INGAME,0,100,,2,,1000,,,1
+ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,359598-Безымянные_4.platoon-INGAME,0,1,,1,,125,,,1
+ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359595-Безымянные_4.platoon-INGAME,0,100,,5,,10,,,1
+ps:1106567424,Флик,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359596-Безымянные_4.platoon-INGAME,0,100,,9,,30,,,2
+ps:1106567424,Флик,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,359604-Безымянные_4.platoon-INGAME,0,100,,1,,493.11,,,1
+ps:1106567424,Флик,inventory,main,,,Набор шин,ITEM,1435-gamedata.base,359603-Безымянные_4.platoon-INGAME,0,25,,1,,45.87,,,1
+ps:1106567424,Флик,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,359605-Безымянные_4.platoon-INGAME,0,50,,1,,340.38,,,1
+ps:1223510784,Хамут,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,359763-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:1223510784,Хамут,body,body,,,Пальто,ARMOUR,2165-gamedata.base,359774-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1223510784,Хамут,body,boots,,,Ботинки скитальца,ARMOUR,2306-clothes_v1.mod,359761-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1223510784,Хамут,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,359762-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1223510784,Хамут,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,359775-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1223510784,Хамут,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,359773-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:1223510784,Хамут,body,weapon_back,,,Нагината катана,WEAPON,52309-rebirth.mod,359760-Безымянные_4.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:1223510784,Хамут,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,359759-Безымянные_4.platoon-INGAME,70,100,Тип лезвия 1,1,true,1,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,359765-Безымянные_4.platoon-INGAME,0,50,,1,,42.1,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359767-Безымянные_4.platoon-INGAME,0,50,,1,,130.95,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Гохан,ITEM,43957-rebirth.mod,359772-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Съедобный брикет,ITEM,43959-rebirth.mod,359771-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,359769-Безымянные_4.platoon-INGAME,0,1,,1,,50,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Шаурма,ITEM,43960-rebirth.mod,359770-Безымянные_4.platoon-INGAME,0,1,,1,,50,,,2
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,359766-Безымянные_4.platoon-INGAME,0,40,,1,,2.54,,,1
+ps:1223510784,Хамут,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,359768-Безымянные_4.platoon-INGAME,0,40,,1,,400,,,2
+ps:1223510784,Хамут,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,359777-Безымянные_4.platoon-INGAME,0,100,,1,,809.74,,,1
+ps:1223510784,Хамут,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,359776-Безымянные_4.platoon-INGAME,0,50,,1,,346.05,,,1
+ps:1223510784,Хамут,inventory,main,,,Варёные овощи,ITEM,43955-rebirth.mod,359778-Безымянные_4.platoon-INGAME,0,1,,1,,25,,,1
+ps:1223510784,Хамут,inventory,main,,,Гохан,ITEM,43957-rebirth.mod,359779-Безымянные_4.platoon-INGAME,0,1,,1,,25,,,1
+ps:1359130880,Ану,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,359613-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:1359130880,Ану,body,body,,,Обноски убийцы,ARMOUR,2154-gamedata.base,359620-Безымянные_4.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:1359130880,Ану,body,legs,,,Латная рваная юбка (цветная),ARMOUR,42260-rebirth.mod,359621-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
+ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,359619-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
+ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Набор шин,ITEM,1435-gamedata.base,359618-Безымянные_4.platoon-INGAME,0,25,,1,,88.96,,,1
+ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359617-Безымянные_4.platoon-INGAME,0,50,,1,,500,,,1
+ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,359615-Безымянные_4.platoon-INGAME,0,50,,1,,86.87,,,2
+ps:1359130880,Ану,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Стандартная аптечка,ITEM,515-gamedata.base,359616-Безымянные_4.platoon-INGAME,0,40,,1,,377.77,,,1
+ps:1441040000,Ожог,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,654041-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:1441040000,Ожог,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,654047-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1441040000,Ожог,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654048-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,,,1
+ps:1441040000,Ожог,body,weapon_back,,,Падающее солнце,WEAPON,52306-rebirth.mod,654040-Безымянные_0.platoon-INGAME,60,100,Мк III,1,true,1,true,,1
+ps:1441040000,Ожог,body,weapon_hip,,,Шипастая дубина,WEAPON,52297-rebirth.mod,654039-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,,,1
+ps:1441040000,Ожог,belt,belt,,,Фонарь,ITEM,5348-gamedata.base,654049-Безымянные_0.platoon-INGAME,0,25,,1,,200,,,1
+ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654045-Безымянные_0.platoon-INGAME,0,100,,1,,980.78,,,1
+ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,654046-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
+ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654044-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
+ps:1441040000,Ожог,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ножовка,ITEM,581-gamedata.base,654043-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:1441040000,Ожог,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,654051-Безымянные_0.platoon-INGAME,0,50,,1,,480.84,,,1
+ps:1441040000,Ожог,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,654050-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:145629888,Гриффин,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,654166-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:145629888,Гриффин,body,body,,,Святой нагрудник,ARMOUR,2166-gamedata.base,654172-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
+ps:145629888,Гриффин,body,boots,,,Боты самурая,ARMOUR,549-gamedata.base,654164-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:145629888,Гриффин,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,654165-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:145629888,Гриффин,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654173-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:145629888,Гриффин,body,shirt,,,Воронёная кольчуга,ARMOUR,2211-gamedata.base,654171-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:145629888,Гриффин,body,weapon_back,,,Крест паладина,WEAPON,52299-rebirth.mod,654163-Безымянные_0.platoon-INGAME,100,100,Мейто,1,true,1,,,1
+ps:145629888,Гриффин,body,weapon_hip,,,Меч,WEAPON,901-gamedata.base,654162-Безымянные_0.platoon-INGAME,50,100,Мк I,1,true,1,true,,1
+ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,654168-Безымянные_0.platoon-INGAME,0,100,,1,true,946.37,,,1
+ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,654170-Безымянные_0.platoon-INGAME,0,50,,1,,100,,,1
+ps:145629888,Гриффин,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,654169-Безымянные_0.platoon-INGAME,0,50,,1,,496.29,,,1
+ps:1464721664,Вынос мозга,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,64862-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
+ps:1464721664,Вынос мозга,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,64872-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:1464721664,Вынос мозга,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,64860-Безымянные_5.platoon-INGAME,20,100,Низкий,1,,1,,,1
+ps:1464721664,Вынос мозга,body,head,,,Шляпа из ротанга,ARMOUR,2185-gamedata.base,64861-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1464721664,Вынос мозга,body,legs,,,Капри [стёганые],ARMOUR,554-gamedata.base,64873-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1464721664,Вынос мозга,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,64871-Безымянные_5.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:1464721664,Вынос мозга,body,weapon_back,,,Рессоробой,CROSSBOW,95764-rebirth.mod,64859-Безымянные_5.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:1464721664,Вынос мозга,body,weapon_hip,,,Катана,WEAPON,476-gamedata.base,64858-Безымянные_5.platoon-INGAME,50,100,Мк I,1,,1,,,1
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,64866-Безымянные_5.platoon-INGAME,0,100,,1,true,1000,,,1
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,64864-Безымянные_5.platoon-INGAME,0,100,,1,,139.2,,,2
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,64865-Безымянные_5.platoon-INGAME,0,25,,1,,74.44,,,1
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,64870-Безымянные_5.platoon-INGAME,0,1,,1,,25,,,1
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,64869-Безымянные_5.platoon-INGAME,0,100,,1,,20,,,1
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,64868-Безымянные_5.platoon-INGAME,0,100,,9,,20,,,2
+ps:1464721664,Вынос мозга,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Болты [Тяжёлые],ITEM,95872-Newwworld.mod,64867-Безымянные_5.platoon-INGAME,0,100,,7,,9,,,3
+ps:1665649408,Ридли,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,654080-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:1665649408,Ридли,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,654087-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1665649408,Ридли,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,654078-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1665649408,Ридли,body,head,,,Шлем с маской,ARMOUR,2201-gamedata.base,654079-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1665649408,Ридли,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,654088-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1665649408,Ридли,body,shirt,,,Кожаная водолазка,ARMOUR,2213-gamedata.base,654086-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1665649408,Ридли,body,weapon_back,,,Пустынная сабля,WEAPON,52305-rebirth.mod,654077-Безымянные_0.platoon-INGAME,75,100,Тип лезвия 2,1,,1,,,1
+ps:1665649408,Ридли,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,654089-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
+ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654084-Безымянные_0.platoon-INGAME,0,100,,1,,1000,,,1
+ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654082-Безымянные_0.platoon-INGAME,0,100,,1,,917.43,,,2
+ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,654083-Безымянные_0.platoon-INGAME,0,50,,1,,83.87,,,1
+ps:1665649408,Ридли,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Стандартная аптечка,ITEM,515-gamedata.base,654085-Безымянные_0.platoon-INGAME,0,40,,1,,34.3,,,1
+ps:1665649408,Ридли,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,654090-Безымянные_0.platoon-INGAME,0,50,,1,,492.88,,,1
+ps:1671874944,Гигант Ранэ,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,654144-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:1671874944,Гигант Ранэ,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,654150-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1671874944,Гигант Ранэ,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,654142-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1671874944,Гигант Ранэ,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,654143-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:1671874944,Гигант Ранэ,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,654151-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:1671874944,Гигант Ранэ,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,654149-Безымянные_0.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1671874944,Гигант Ранэ,body,weapon_back,,,Доска,WEAPON,902-gamedata.base,654141-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
+ps:1671874944,Гигант Ранэ,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,654140-Безымянные_0.platoon-INGAME,55,100,Мк II,1,,1,true,,1
+ps:1671874944,Гигант Ранэ,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,654152-Безымянные_0.platoon-INGAME,0,20,,1,,200,true,,1
+ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,654146-Безымянные_0.platoon-INGAME,0,100,,1,,675.29,,,1
+ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,654148-Безымянные_0.platoon-INGAME,0,25,,1,,95.15,,,1
+ps:1671874944,Гигант Ранэ,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654147-Безымянные_0.platoon-INGAME,0,50,,1,,154.76,,,1
+ps:1758056704,Зелёный,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,359552-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:1758056704,Зелёный,body,body,,,Обноски ниндзя,ARMOUR,2151-gamedata.base,359570-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
+ps:1758056704,Зелёный,body,head,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,359551-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1758056704,Зелёный,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,359571-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:1758056704,Зелёный,body,shirt,,,Кожаная майка улья,ARMOUR,1534050-Newwworld.mod,359569-Безымянные_4.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:1758056704,Зелёный,body,weapon_back,,,Диверсант,CROSSBOW,66169-Newwworld.mod,359550-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:1758056704,Зелёный,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,359549-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
+ps:1758056704,Зелёный,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,359572-Безымянные_4.platoon-INGAME,0,20,,1,,200,true,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359555-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359556-Безымянные_4.platoon-INGAME,0,100,,1,,196,,,2
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,359557-Безымянные_4.platoon-INGAME,0,25,,1,,77.71,,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,359567-Безымянные_4.platoon-INGAME,0,50,,1,true,472.16,,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Орлиный крест,CROSSBOW,66290-Newwworld.mod,359568-Безымянные_4.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359564-Безымянные_4.platoon-INGAME,0,100,,1,true,18,,,1
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359560-Безымянные_4.platoon-INGAME,0,100,,1,true,25,,,2
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359565-Безымянные_4.platoon-INGAME,0,100,,1,,26,,,3
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359554-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,4
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359558-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,5
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359561-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,6
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359562-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,7
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359563-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,8
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Стандартные],ITEM,95781-rebirth.mod,359566-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,9
+ps:1758056704,Зелёный,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Болты [Длинные],ITEM,96000-Newwworld.mod,359559-Безымянные_4.platoon-INGAME,0,100,,1,,3,,,1
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359576-Безымянные_4.platoon-INGAME,0,100,,1,,21,,,1
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359573-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,2
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359574-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,3
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359575-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,4
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359577-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,5
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359578-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,6
+ps:1758056704,Зелёный,inventory,main,,,Болты [Стандартные],ITEM,95781-rebirth.mod,359579-Безымянные_4.platoon-INGAME,0,100,,1,,30,,,7
+ps:175903328,Доктор Чон,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,359633-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:175903328,Доктор Чон,body,body,,,Доспех наёмника,ARMOUR,2148-gamedata.base,359642-Безымянные_4.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:175903328,Доктор Чон,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,359631-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:175903328,Доктор Чон,body,head,,,Маска Болотного Ниндзя,ARMOUR,18033-small_changes_otto.mod,359632-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:175903328,Доктор Чон,body,legs,,,Латные штаны скитальца,ARMOUR,1532813-Newwworld.mod,359643-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:175903328,Доктор Чон,body,shirt,,,Ржавая кольчуга,ARMOUR,18019-small_changes_otto.mod,359641-Безымянные_4.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:175903328,Доктор Чон,body,weapon_back,,,Тесак для мяса,WEAPON,2606-gamedata.base,359630-Безымянные_4.platoon-INGAME,60,100,Мк III,1,,1,true,,1
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359637-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,1
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359639-Безымянные_4.platoon-INGAME,0,100,,1,,1000,,,2
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359635-Безымянные_4.platoon-INGAME,0,100,,1,,942.57,,,3
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,359638-Безымянные_4.platoon-INGAME,0,50,,1,,100,,,1
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,359636-Безымянные_4.platoon-INGAME,0,50,,1,true,42.17,,,1
+ps:175903328,Доктор Чон,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,359640-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:1856201216,Вьючный бык,body,backpack,,,Бычий вьюк,CONTAINER,43948-rebirth.mod,64881-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,64891-Безымянные_5.platoon-INGAME,0,1,,3,,1,,,1
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,64887-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,2
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,64888-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,3
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,64889-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,4
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Гашиш,ITEM,1230-gamedata.base,64890-Безымянные_5.platoon-INGAME,0,1,,5,,1,,,5
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,64885-Безымянные_5.platoon-INGAME,0,100,,3,,1000,,,1
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Инструменты,ITEM,43404-changes_otto.mod,64884-Безымянные_5.platoon-INGAME,0,1,,4,,1,,,1
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,64886-Безымянные_5.platoon-INGAME,0,1,,1,,50,,,1
+ps:1856201216,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Спальный мешок,ITEM,56645-rebirth.mod,64883-Безымянные_5.platoon-INGAME,0,1,,3,,1,,,1
+ps:1856201216,Вьючный бык,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,64892-Безымянные_5.platoon-INGAME,0,1,,4,,1,,,1
+ps:1856201216,Вьючный бык,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,64893-Безымянные_5.platoon-INGAME,0,1,,10,,15,,,1
+ps:1856201216,Вьючный бык,inventory,main,,,Рог животного,ITEM,42314-changes_otto.mod,64894-Безымянные_5.platoon-INGAME,0,1,,2,,1,,,1
+ps:2077026304,Чад,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,310069-Безымянные_1.platoon-INGAME,0,100,,1,,1,,,1
+ps:2077026304,Чад,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,310081-Безымянные_1.platoon-INGAME,95,100,Мастерский,1,,1,,,1
+ps:2077026304,Чад,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,310067-Безымянные_1.platoon-INGAME,20,100,Низкий,1,true,1,,,1
+ps:2077026304,Чад,body,head,,,Кусари зукин,ARMOUR,2229-chris_r.mod,310068-Безымянные_1.platoon-INGAME,95,100,Мастерский,1,,1,,,1
+ps:2077026304,Чад,body,legs,,,Латная рваная юбка (цветная),ARMOUR,42260-rebirth.mod,310082-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:2077026304,Чад,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,310080-Безымянные_1.platoon-INGAME,80,100,Специальный,1,,1,true,,1
+ps:2077026304,Чад,belt,belt,,,Сияющий фонарь,ITEM,47185-Dialogue.mod,310083-Безымянные_1.platoon-INGAME,0,20,,1,,200,true,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,310079-Безымянные_1.platoon-INGAME,0,100,,1,,1000,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,310072-Безымянные_1.platoon-INGAME,0,100,,1,,466.52,,,2
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хороший набор шин,ITEM,1436-gamedata.base,310071-Безымянные_1.platoon-INGAME,0,50,,1,,75.88,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,310073-Безымянные_1.platoon-INGAME,0,50,,1,,138.86,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,310078-Безымянные_1.platoon-INGAME,0,1,,1,,25,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,310077-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,2
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,310076-Безымянные_1.platoon-INGAME,0,1,,1,,75,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,310074-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,1
+ps:2077026304,Чад,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,310075-Безымянные_1.platoon-INGAME,0,1,,1,,50,,,2
+ps:2093017600,Мью,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,64816-Безымянные_5.platoon-INGAME,0,100,,1,true,1,,,1
+ps:2093017600,Мью,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,64822-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:2093017600,Мью,body,boots,,,Деревянные сандали,ARMOUR,557-gamedata.base,64814-Безымянные_5.platoon-INGAME,20,100,Низкий,1,,1,,,1
+ps:2093017600,Мью,body,head,,,Воронёный тагельмуст,ARMOUR,1533852-rebirth.mod,64815-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:2093017600,Мью,body,legs,,,Капри [прочные],ARMOUR,1311-gamedata.base,64823-Безымянные_5.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:2093017600,Мью,body,shirt,,,Кожаная майка,ARMOUR,2212-gamedata.base,64821-Безымянные_5.platoon-INGAME,60,100,Высокий,1,true,1,,,1
+ps:2093017600,Мью,body,weapon_back,,,Нагината,WEAPON,52308-rebirth.mod,64813-Безымянные_5.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:2093017600,Мью,body,weapon_hip,,,Катана,WEAPON,476-gamedata.base,64812-Безымянные_5.platoon-INGAME,30,100,Катун No.1,1,,1,,,1
+ps:2093017600,Мью,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Штаны самурая,ARMOUR,2159-gamedata.base,64819-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:2093017600,Мью,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Пальто,ARMOUR,2165-gamedata.base,64820-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:2093017600,Мью,backpack,backpack_content,Деревянный рюкзак торговца,45555-changes_otto.mod,Сабля с отверстием,WEAPON,52287-rebirth.mod,64818-Безымянные_5.platoon-INGAME,70,100,Тип лезвия 1,1,,1,true,,1
+ps:2093017600,Мью,inventory,main,,,Миска риса,ITEM,1016-gamedata.base,64824-Безымянные_5.platoon-INGAME,0,1,,1,,25,,,1
+ps:2093017600,Мью,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,64827-Безымянные_5.platoon-INGAME,0,50,,1,,78.7,,,1
+ps:2093017600,Мью,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,64826-Безымянные_5.platoon-INGAME,0,50,,1,,350.75,,,1
+ps:2093017600,Мью,inventory,main,,,Пальто,ARMOUR,2165-gamedata.base,64828-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:2093017600,Мью,inventory,main,,,Стандартная аптечка,ITEM,515-gamedata.base,64825-Безымянные_5.platoon-INGAME,0,40,,1,true,400,,,1
+ps:35522460,Вьючный бык,body,backpack,,,Бычий вьюк,CONTAINER,43948-rebirth.mod,654205-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Книга,ITEM,16855-nodes_otto1.mod,654236-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Книга,ITEM,16855-nodes_otto1.mod,654242-Безымянные_0.platoon-INGAME,0,1,,2,true,1,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654231-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,654230-Безымянные_0.platoon-INGAME,0,50,,5,,500,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хлеб,ITEM,1946-gamedata.base,654228-Безымянные_0.platoon-INGAME,0,1,,1,,30,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Хлеб,ITEM,1946-gamedata.base,654219-Безымянные_0.platoon-INGAME,0,1,,5,,30,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Медь,ITEM,42158-gamedata.base,654218-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Медь,ITEM,42158-gamedata.base,654229-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Медь,ITEM,42158-gamedata.base,654225-Безымянные_0.platoon-INGAME,0,1,,2,true,1,,,3
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железные листы,ITEM,42159-gamedata.base,654215-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Железные листы,ITEM,42159-gamedata.base,654214-Безымянные_0.platoon-INGAME,0,1,,3,true,1,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Электродетали,ITEM,42164-gamedata.base,654226-Безымянные_0.platoon-INGAME,0,1,,3,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Электродетали,ITEM,42164-gamedata.base,654224-Безымянные_0.platoon-INGAME,0,1,,5,,1,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654243-Безымянные_0.platoon-INGAME,0,1,,1,true,15,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654244-Безымянные_0.platoon-INGAME,0,1,,2,true,15,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654235-Безымянные_0.platoon-INGAME,0,1,,3,true,15,,,3
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654245-Безымянные_0.platoon-INGAME,0,1,,4,true,15,,,4
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654237-Безымянные_0.platoon-INGAME,0,1,,5,true,15,,,5
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сырое мясо,ITEM,42243-rebirth.mod,654240-Безымянные_0.platoon-INGAME,0,1,,5,true,15,,,6
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,654246-Безымянные_0.platoon-INGAME,0,1,,4,,15,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,654233-Безымянные_0.platoon-INGAME,0,1,,5,,15,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,654241-Безымянные_0.platoon-INGAME,0,1,,5,,15,,,3
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,654234-Безымянные_0.platoon-INGAME,0,1,,2,true,15,,,4
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,654238-Безымянные_0.platoon-INGAME,0,1,,4,,125,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Инженерные исследования,ITEM,43951-rebirth.mod,654239-Безымянные_0.platoon-INGAME,0,1,,4,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Варёные овощи,ITEM,43955-rebirth.mod,654222-Безымянные_0.platoon-INGAME,0,1,,5,,25,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,654232-Безымянные_0.platoon-INGAME,0,1,,3,,25,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,654217-Безымянные_0.platoon-INGAME,0,1,,5,,75,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,654223-Безымянные_0.platoon-INGAME,0,1,,4,,50,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Шаурма,ITEM,43960-rebirth.mod,654220-Безымянные_0.platoon-INGAME,0,1,,5,,50,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Слитки стали,ITEM,579-gamedata.base,654208-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Слитки стали,ITEM,579-gamedata.base,654209-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,2
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Стройматериалы,ITEM,580-gamedata.base,654211-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ножовка,ITEM,581-gamedata.base,654216-Безымянные_0.platoon-INGAME,0,1,,1,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Ткани,ITEM,584-gamedata.base,654221-Безымянные_0.platoon-INGAME,0,1,,2,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Диверсант,CROSSBOW,66169-Newwworld.mod,654207-Безымянные_0.platoon-INGAME,80,100,,1,,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука вора (правая),LIMB_REPLACEMENT,95870-rebirth.mod,654210-Безымянные_0.platoon-INGAME,80,100,Специальный,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука промгрузчика (правая),LIMB_REPLACEMENT,96024-Newwworld.mod,654213-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Рука серии КЛР (левая),LIMB_REPLACEMENT,96186-Newwworld.mod,654212-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
+ps:35522460,Вьючный бык,backpack,backpack_content,Бычий вьюк,43948-rebirth.mod,Настоящий ремкомплект,ITEM,97903-rebirth.mod,654227-Безымянные_0.platoon-INGAME,0,20,,1,,87.22,,,1
+ps:35522460,Вьючный бык,inventory,main,,,Шкура животного,ITEM,42241-rebirth.mod,654247-Безымянные_0.platoon-INGAME,0,1,,4,,1,,,1
+ps:35522460,Вьючный бык,inventory,main,,,Сырое мясо,ITEM,42243-rebirth.mod,654248-Безымянные_0.platoon-INGAME,0,1,,10,,15,,,1
+ps:35522460,Вьючный бык,inventory,main,,,Рог животного,ITEM,42314-changes_otto.mod,654249-Безымянные_0.platoon-INGAME,0,1,,2,,1,,,1
+ps:398315424,Вечный Суньвынь,body,backpack,,,Воровской рюкзак,CONTAINER,46036-rebirth.mod,359737-Безымянные_4.platoon-INGAME,0,100,,1,,1,,,1
+ps:398315424,Вечный Суньвынь,body,body,,,Пальто,ARMOUR,2165-gamedata.base,359750-Безымянные_4.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:398315424,Вечный Суньвынь,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,359735-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:398315424,Вечный Суньвынь,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,359736-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:398315424,Вечный Суньвынь,body,legs,,,Ножные латы самурая,ARMOUR,2150-gamedata.base,359751-Безымянные_4.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:398315424,Вечный Суньвынь,body,shirt,,,Ржавая кольчужная рубаха,ARMOUR,18018-small_changes_otto.mod,359749-Безымянные_4.platoon-INGAME,80,100,Специальный,1,true,1,,,1
+ps:398315424,Вечный Суньвынь,body,weapon_back,,,Конеруб,WEAPON,475-gamedata.base,359734-Безымянные_4.platoon-INGAME,100,100,Мейто,1,true,1,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Хорошая аптечка,ITEM,1359-gamedata.base,359739-Безымянные_4.platoon-INGAME,0,100,,1,true,545.83,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Набор шин,ITEM,1435-gamedata.base,359746-Безымянные_4.platoon-INGAME,0,25,,1,true,42.93,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Ремкомплект скелета,ITEM,18020-gamedata.base,359747-Безымянные_4.platoon-INGAME,0,50,,1,,185,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,359741-Безымянные_4.platoon-INGAME,0,1,,1,,15,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Вяленое мясо,ITEM,42334-changes_otto.mod,359742-Безымянные_4.platoon-INGAME,0,1,,1,,15,,,2
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,359748-Безымянные_4.platoon-INGAME,0,1,,1,,125,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Варёные овощи,ITEM,43955-rebirth.mod,359740-Безымянные_4.platoon-INGAME,0,1,,1,,25,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,359744-Безымянные_4.platoon-INGAME,0,1,,1,,25,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Съедобный брикет,ITEM,43959-rebirth.mod,359743-Безымянные_4.platoon-INGAME,0,1,,1,,75,,,1
+ps:398315424,Вечный Суньвынь,backpack,backpack_content,Воровской рюкзак,46036-rebirth.mod,Настоящий ремкомплект,ITEM,97903-rebirth.mod,359745-Безымянные_4.platoon-INGAME,0,20,,1,,42.43,,,1
+ps:621948224,Зелёный палец,body,backpack,,,Деревянный рюкзак,CONTAINER,46042-rebirth.mod,64839-Безымянные_5.platoon-INGAME,0,100,,1,,1,,,1
+ps:621948224,Зелёный палец,body,body,,,Косуха скитальца,ARMOUR,2304-clothes_v1.mod,64845-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
+ps:621948224,Зелёный палец,body,head,,,Железная шляпа,ARMOUR,2227-chris_r.mod,64838-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:621948224,Зелёный палец,body,legs,,,Кожаные штаны скитальца,ARMOUR,2305-clothes_v1.mod,64846-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
+ps:621948224,Зелёный палец,body,shirt,,,Рубаха тёмной кожи,ARMOUR,2214-gamedata.base,64844-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,true,1,,,1
+ps:621948224,Зелёный палец,body,weapon_back,,,Катана,WEAPON,476-gamedata.base,64837-Безымянные_5.platoon-INGAME,40,100,Катун No.3,1,,1,,,1
+ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Сухой паёк,ITEM,42337-changes_otto.mod,64842-Безымянные_5.platoon-INGAME,0,1,,1,,125,,,1
+ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Гохан,ITEM,43957-rebirth.mod,64841-Безымянные_5.platoon-INGAME,0,1,,1,,25,,,1
+ps:621948224,Зелёный палец,backpack,backpack_content,Деревянный рюкзак,46042-rebirth.mod,Стройматериалы,ITEM,580-gamedata.base,64843-Безымянные_5.platoon-INGAME,0,1,,1,,1,,,1
+ps:621948224,Зелёный палец,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,64848-Безымянные_5.platoon-INGAME,0,100,,1,,759.88,,,1
+ps:621948224,Зелёный палец,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,64850-Безымянные_5.platoon-INGAME,0,50,,1,true,92.92,,,1
+ps:621948224,Зелёный палец,inventory,main,,,Ремкомплект скелета,ITEM,18020-gamedata.base,64849-Безымянные_5.platoon-INGAME,0,50,,1,,475.73,,,1
+ps:621948224,Зелёный палец,inventory,main,,,Простая аптечка,ITEM,209-gamedata.base,64847-Безымянные_5.platoon-INGAME,0,5,,1,true,102.13,,,1
+ps:706176768,Седая тень,body,backpack,,,Деревянный рюкзак торговца,CONTAINER,45555-changes_otto.mod,64905-Безымянные_5.platoon-INGAME,0,100,,1,true,1,,,1
+ps:706176768,Седая тень,body,body,,,Куртка с латами,ARMOUR,2182-gamedata.base,64908-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:706176768,Седая тень,body,head,,,Латный капюшон,ARMOUR,2200-gamedata.base,64904-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:706176768,Седая тень,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,64909-Безымянные_5.platoon-INGAME,60,100,Высокий,1,,1,,,1
+ps:706176768,Седая тень,body,shirt,,,Кольчуга Роев,ARMOUR,1534053-Newwworld Plus.mod,64907-Безымянные_5.platoon-INGAME,40,100,Стандартный,1,,1,,,1
+ps:706176768,Седая тень,body,weapon_back,,,Нодати,WEAPON,922-gamedata.base,64903-Безымянные_5.platoon-INGAME,60,100,Мк III,1,,1,,,1
+ps:706176768,Седая тень,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,64902-Безымянные_5.platoon-INGAME,35,100,Катун No.2,1,,1,,,1
+ps:706176768,Седая тень,inventory,main,,,Хорошая аптечка,ITEM,1359-gamedata.base,64913-Безымянные_5.platoon-INGAME,0,100,,1,,922.04,,,1
+ps:706176768,Седая тень,inventory,main,,,Хороший набор шин,ITEM,1436-gamedata.base,64912-Безымянные_5.platoon-INGAME,0,50,,1,,100,,,1
+ps:706176768,Седая тень,inventory,main,,,Хлеб,ITEM,1946-gamedata.base,64911-Безымянные_5.platoon-INGAME,0,1,,1,,30,,,1
+ps:706176768,Седая тень,inventory,main,,,Стандартная аптечка,ITEM,515-gamedata.base,64910-Безымянные_5.platoon-INGAME,0,40,,1,,201.55,,,1
+ps:827270528,Хот Лон,body,backpack,,,Воровской ранец,CONTAINER,1288-gamedata.base,654022-Безымянные_0.platoon-INGAME,0,100,,1,,1,,,1
+ps:827270528,Хот Лон,body,body,,,Пыльник,ARMOUR,3061-gamedata.base,654028-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,,,1
+ps:827270528,Хот Лон,body,boots,,,Латные сапоги,ARMOUR,556-gamedata.base,654020-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,,,1
+ps:827270528,Хот Лон,body,head,,,Латная маска,ARMOUR,18962-gamedata.base,654021-Безымянные_0.platoon-INGAME,80,100,Специальный,1,,1,,,1
+ps:827270528,Хот Лон,body,legs,,,Штаны самурая,ARMOUR,2159-gamedata.base,654029-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,,1,true,,1
+ps:827270528,Хот Лон,body,shirt,,,Кожаная рубашка,ARMOUR,1169-gamedata.base,654027-Безымянные_0.platoon-INGAME,95,100,Мастерский,1,true,1,true,,1
+ps:827270528,Хот Лон,body,weapon_back,,,Бердыш,WEAPON,52307-rebirth.mod,654019-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,,1,,,1
+ps:827270528,Хот Лон,body,weapon_hip,,,Катана без цубы,WEAPON,923-gamedata.base,654018-Безымянные_0.platoon-INGAME,80,100,Тип лезвия 3,1,true,1,,,1
+ps:827270528,Хот Лон,belt,belt,,,Фонарь,ITEM,5348-gamedata.base,654030-Безымянные_0.platoon-INGAME,0,25,,1,,200,,,1
+ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хорошая аптечка,ITEM,1359-gamedata.base,654025-Безымянные_0.platoon-INGAME,0,100,,1,,949.77,,,1
+ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Хороший набор шин,ITEM,1436-gamedata.base,654024-Безымянные_0.platoon-INGAME,0,50,,1,,76.37,,,1
+ps:827270528,Хот Лон,backpack,backpack_content,Воровской ранец,1288-gamedata.base,Ремкомплект скелета,ITEM,18020-gamedata.base,654026-Безымянные_0.platoon-INGAME,0,50,,1,,500,,,1
+ps:827270528,Хот Лон,inventory,main,,,Инструменты,ITEM,43404-changes_otto.mod,654031-Безымянные_0.platoon-INGAME,0,1,,1,true,1,,,1
