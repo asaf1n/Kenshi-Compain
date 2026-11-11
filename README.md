@@ -28,7 +28,7 @@
 | `Campaign/` | Материалы прохождений: Хронология, текущая арка, билды, Библия, архив |
 | `published/` | Автоматическая публикация состояния сохранения и скриншотов; только чтение |
 | `templates/template-session.md` | Формат архивной записи зафиксированного периода |
-| `prompts/` | Тексты инструкций для вставки в настройки сред: `project-*.md` — проекты ChatGPT; инструкции приостановленных блокнотов Gemini находятся в [архиве Google Drive](https://drive.google.com/drive/folders/1Wpttto7Tg6IuLFrcSTajoTdENRqzgMxR); источниками не подключаются |
+| `prompts/` | Инструкции для настроек: `project-*.md` — проекты ChatGPT; `gamedata-export-message.md` — текст автоматического уведомления AutoHotkey. Инструкции Gemini перенесены в [архив Google Drive](https://drive.google.com/drive/folders/1Wpttto7Tg6IuLFrcSTajoTdENRqzgMxR). Сами инструкции не подключаются как игровые источники |
 | `sites/map/index.html` | Картографическая схема: регионы, локации, положение отряда, цепочки регионов; решение — `docs/adr/0001-cartography.md` |
 | [Архив проектных планов](https://drive.google.com/drive/folders/1Wpttto7Tg6IuLFrcSTajoTdENRqzgMxR) | План возможного развития интерфейса перенесён из `sites/ROADMAP.md` |
 
