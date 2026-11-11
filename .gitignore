@@ -9,10 +9,6 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Техническое описание и инструкции агентов: только локально, в GitHub и контекст LLM не попадают
+# Локальные инструкции агентов
 AGENTS.md
 CLAUDE.md
-GEMINI.md
-docs/CHRONOLOGY.md
-orchestrate_workflow/
-mirror/
