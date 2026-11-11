@@ -1,13 +1,14 @@
-# Краткая сводка: День 136, 20:21
+# Краткая сводка: День 136, 20:14
 
-- **snapshot_id:** `sha256-33154aa2ec30657c4aeddc617095b06b771e341dde4399077673324d0df28ec4`
-- **previous_snapshot_id:** `sha256-9f47dae6fafa887c4e11f5456905e491aac3a3ee596128c352a5e716676a505f`
+- **snapshot_id:** `sha256-dd133320b82ddac11581b266649f0d350754f3c32b7fa779b411899a6401469b`
+- **previous_snapshot_id:** `sha256-33154aa2ec30657c4aeddc617095b06b771e341dde4399077673324d0df28ec4`
 - **campaign_id:** `hot-lon`
-- **game_time:** `Day 136, 20:21`
-- **generated_at:** `2026-11-10T05:47:05Z`
+- **reload:** перезагрузка: игровое время откатилось с `Day 136 20:21` до `Day 136, 20:14`; снимки позже `Day 136, 20:14` исключены из цепочки
+- **game_time:** `Day 136, 20:14`
+- **generated_at:** `2026-11-11T04:27:59Z`
 
 ## Игровой мир
-- **Время:** День 136, время 20:21
+- **Время:** День 136, время 20:14
 - **Баланс:** 31 651 кат.
 
 ## Состав отряда
@@ -251,92 +252,18 @@
 - `35.42:46-Newwworld-INGAME`: город **Ровная лагуна** (`in_location`, d = 916.7 м)
 
 ### Перемещения между снимками
-- **fx** (`ps:-843917568`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12178.9 м)
-- **Ану** (`ps:1359130880`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12189.0 м)
-- **Бип** (`ps:-1572677376`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12177.8 м)
-- **Вечный Суньвынь** (`ps:398315424`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12124.4 м)
-- **Вик** (`ps:-941451776`): The Swamp -> The Swamp (прямолинейное смещение: 11980.6 м)
-- **Вынос мозга** (`ps:1464721664`): The Swamp -> The Swamp (прямолинейное смещение: 259.7 м)
-- **Вьючный бык** (`ps:1856201216`): The Swamp -> Burning Forest (прямолинейное смещение: 23774.5 м)
-- **Вьючный бык** (`ps:35522460`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 13137.9 м)
-- **Гигант Ранэ** (`ps:1671874944`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12213.4 м)
-- **Гриффин** (`ps:145629888`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12179.8 м)
-- **Доктор Чон** (`ps:175903328`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12180.3 м)
-- **Зелёный** (`ps:1758056704`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12216.2 м)
-- **Кан** (`ps:-1346969344`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12226.3 м)
-- **Кот** (`ps:1006225600`): The Swamp -> Border Zone (прямолинейное смещение: 11466.6 м)
-- **Крошка Джон** (`ps:-383834368`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12206.1 м)
-- **Мрачный Нил** (`ps:-456466432`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12214.8 м)
-- **Мью** (`ps:2093017600`): The Swamp -> The Swamp (прямолинейное смещение: 9367.0 м)
-- **Ожог** (`ps:1441040000`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12173.2 м)
-- **Пиа** (`ps:-2041915648`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12172.4 м)
-- **Ридли** (`ps:1665649408`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12166.6 м)
-- **Рука** (`ps:-1715743744`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12145.5 м)
-- **Седая тень** (`ps:706176768`): Flats Lagoon -> Flats Lagoon (прямолинейное смещение: 309.9 м)
-- **Сэто** (`ps:-474044416`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12177.1 м)
-- **Флик** (`ps:1106567424`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12222.1 м)
-- **Хамут** (`ps:1223510784`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12163.1 м)
-- **Хоббс** (`ps:-1002242560`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12193.2 м)
-- **Хот Лон** (`ps:827270528`): Hidden Forest -> Cannibal Plains (прямолинейное смещение: 12211.8 м)
-- **Шрайк** (`ps:-476241664`): Okran's Valley -> The Great Desert (прямолинейное смещение: 25524.4 м)
+- Базовое сравнение перемещений отсутствует (`valid: false`, game_time_regression).
 
 ## Скриншоты снимка
 
-Новых кадров текущего снимка: 7. Их визуальный анализ обязателен на шаге `[ход]`. Первичная разметка — автоматические ориентиры по файловому времени и OCR интерфейса, а не подтверждённые события; содержание кадра определяется только по изображению.
-
-| ID кадра | Файл | sha256 | modified_at (системное время файла, не игровое) | Снимок / интервал | Первичная разметка | Raw | Путь (GitHub и Google Диск) |
-|---|---|---|---|---|---|---|---|
-| `screenshot_570` | `screenshot_570-5e80da27.jpg` | `7dc6199b` `7dc6199b2f4abb1e62c22e5a0836a83ba632d3b3ca52fd5c914ba837c49ec3a7` | `2026-11-10T05:40:18Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 18:30, Хот Лон, Медик, Роботехника | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_570-5e80da27.jpg) | `published/screenshots/screenshot_570-5e80da27.jpg` |
-| `screenshot_571` | `screenshot_571-bc6bf6e8.jpg` | `5f47405d` `5f47405d9d24e565fc7d559c017e60657835c176821da30188b2a41a5bba6cf5` | `2026-11-10T05:40:27Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 18:30, Чад, Медик, Роботехника | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_571-bc6bf6e8.jpg) | `published/screenshots/screenshot_571-bc6bf6e8.jpg` |
-| `screenshot_572` | `screenshot_572-d3b8fb0f.jpg` | `abf62dc3` `abf62dc344c77cf68223a7b18ae93ef7c18aa9d493b978d209e3763d57153c55` | `2026-11-10T05:40:53Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 18:30, Охранять: Вьючный бык, Быть рядом: Вьючный бык | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_572-d3b8fb0f.jpg) | `published/screenshots/screenshot_572-d3b8fb0f.jpg` |
-| `screenshot_573` | `screenshot_573-884f030a.jpg` | `87c2bdd5` `87c2bdd50e6ccfce5cc06b49dccfe732b27f0c0440f8a9bdc695918f2a10f631` | `2026-11-10T05:41:40Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 18:50, Работа с машиной: Переработка пеньки, Тащить в: Хранение: гашиш | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_573-884f030a.jpg) | `published/screenshots/screenshot_573-884f030a.jpg` |
-| `screenshot_574` | `screenshot_574-7d5bd7c9.jpg` | `5372773c` `5372773c1dd4d2393456330163e31e0c3edf44698718ffb781e153f97767e0db` | `2026-11-10T05:42:25Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 19:14, Медик | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_574-7d5bd7c9.jpg) | `published/screenshots/screenshot_574-7d5bd7c9.jpg` |
-| `screenshot_575` | `screenshot_575-3193b0ad.jpg` | `dd4b5f9a` `dd4b5f9ab971d1b3936bdaf4654eb2b5adb471b416be8119816dd7c9e80a41e4` | `2026-11-10T05:42:32Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 19:17, Медик, Роботехника | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_575-3193b0ad.jpg) | `published/screenshots/screenshot_575-3193b0ad.jpg` |
-| `screenshot_576` | `screenshot_576-2755813b.jpg` | `893cff0c` `893cff0c5563ade6982c198e2320b2dd17684ff37838659d592e55c452c836e7` | `2026-11-10T05:44:53Z` | Day 136, 17:23 (sha256-9f47dae6) → Day 136, 20:21 (sha256-33154aa2) | группы на Day 136, 20:21: Регион Равнины людоедов (21), Окрестности Деревня Серодёров (3), Регион Болото (1) · дельта интервала: Изменены отношения с фракциями (1): Верещащие бандиты; Изменения World States: 1 · OCR: День 136, 20:07, Медик, Роботехника | [raw](https://raw.githubusercontent.com/asaf1n/Kenshi-Compain/main/published/screenshots/screenshot_576-2755813b.jpg) | `published/screenshots/screenshot_576-2755813b.jpg` |
+Новых кадров после предыдущего снимка нет.
 
 Архивный хвост и все 30 кадров выпуска: [screenshots/index.md](screenshots/index.md).
 
 ## Ключевые изменения
-- **Изменения навыков:** у 28 участников
-  - fx (`ps:-843917568`): Athletics: 89.01 -> 89.05, Melee Attack: 52.62 -> 52.63, Strength: 26.56 -> 26.57, Toughness: 54.77 -> 54.79
-  - Ану (`ps:1359130880`): Athletics: 86.25 -> 86.28, Dexterity: 47.8 -> 47.86, Martial Arts: 42.55 -> 42.62, Robotics: 36.25 -> 36.29, Toughness: 47.77 -> 47.81
-  - Бип (`ps:-1572677376`): Athletics: 73.33 -> 73.45, Dexterity: 51.82 -> 51.86, Dodge: 11.92 -> 12.06, Katanas: 42.17 -> 42.2, Melee Attack: 48.43 -> 48.47, Strength: 31.0 -> 31.01, Toughness: 51.28 -> 51.32
-  - Вечный Суньвынь (`ps:398315424`): Athletics: 76.67 -> 76.75, Dexterity: 43.8 -> 43.85, Dodge: 12.0 -> 12.27, Field Medic: 15.88 -> 15.89, Melee Attack: 49.66 -> 49.71, Sabres: 43.49 -> 43.55, Strength: 28.84 -> 28.85, Toughness: 41.22 -> 41.39
-  - Вик (`ps:-941451776`): Athletics: 69.2 -> 69.33, Dexterity: 22.61 -> 22.71, Dodge: 27.94 -> 28.03, Melee Attack: 36.12 -> 36.26, Melee Defence: 45.38 -> 45.53, Polearms: 32.89 -> 33.11, Strength: 32.1 -> 32.19, Toughness: 48.6 -> 48.76, mass combat: 30.03 -> 30.11
-  - Вынос мозга (`ps:1464721664`): Athletics: 57.7 -> 57.75, Dexterity: 26.24 -> 26.31, Perception: 49.13 -> 49.32, Strength: 14.05 -> 14.07, Turrets: 57.53 -> 57.63
-  - Вьючный бык (`ps:1856201216`): Athletics: 66.31 -> 66.67, Dexterity: 35.74 -> 35.81, Martial Arts: 24.42 -> 24.54, Melee Attack: 28.1 -> 28.21
-  - Вьючный бык (`ps:35522460`): Athletics: 87.42 -> 87.46
-  - Гигант Ранэ (`ps:1671874944`): Athletics: 74.61 -> 74.68, Dexterity: 27.99 -> 28.0, Dodge: 10.87 -> 11.1, Field Medic: 19.37 -> 19.38, Heavy Weapons: 40.1 -> 40.12, Melee Attack: 50.41 -> 50.43, Strength: 49.72 -> 49.75, Toughness: 50.24 -> 50.33
-  - Гриффин (`ps:145629888`): Athletics: 75.31 -> 75.39, Dodge: 14.13 -> 14.41, Field Medic: 10.42 -> 10.64, Melee Defence: 47.21 -> 47.22, Robotics: 1.87 -> 1.93, Strength: 39.74 -> 39.79, Toughness: 49.19 -> 49.29, mass combat: 58.31 -> 58.35
-  - Доктор Чон (`ps:175903328`): Athletics: 72.53 -> 72.63, Dexterity: 24.15 -> 24.21, Dodge: 13.13 -> 13.24, Hackers: 36.82 -> 36.87, Melee Attack: 39.03 -> 39.11, Melee Defence: 44.14 -> 44.18, Robotics: 2.14 -> 2.16, Strength: 31.16 -> 31.19, Toughness: 44.54 -> 44.61
-  - Зелёный (`ps:1758056704`): Athletics: 83.6 -> 83.65, Crossbows: 83.12 -> 83.18, Dexterity: 62.59 -> 62.68, Dodge: 9.48 -> 9.73, Field Medic: 17.66 -> 17.68, Perception: 68.79 -> 68.96, Precision Shooting: 78.67 -> 78.7, Toughness: 47.49 -> 47.61
-  - Кан (`ps:-1346969344`): Athletics: 83.72 -> 83.75, Dodge: 18.52 -> 18.62, Field Medic: 41.67 -> 41.69, Melee Defence: 53.38 -> 53.39, Toughness: 58.32 -> 58.36
-  - Кот (`ps:1006225600`): Athletics: 45.37 -> 45.63, Strength: 14.46 -> 14.69
-  - Крошка Джон (`ps:-383834368`): Athletics: 76.12 -> 76.2, Dexterity: 46.93 -> 47.03, Dodge: 10.67 -> 10.95, Field Medic: 23.5 -> 23.52, Melee Attack: 51.87 -> 51.97, Robotics: 9.59 -> 9.6, Sabres: 43.84 -> 43.93, Strength: 35.18 -> 35.2, Toughness: 48.51 -> 48.57
-  - Мрачный Нил (`ps:-456466432`): Athletics: 85.02 -> 85.06, Dexterity: 45.13 -> 45.14, Dodge: 32.62 -> 32.66, Field Medic: 26.69 -> 26.74, Melee Attack: 56.02 -> 56.04, Polearms: 53.53 -> 53.56, Robotics: 41.18 -> 41.19, Strength: 38.5 -> 38.51, Toughness: 54.45 -> 54.46
-  - Мью (`ps:2093017600`): Athletics: 37.12 -> 37.42, Farming: 69.73 -> 69.83, Field Medic: 17.24 -> 17.25, Robotics: 9.18 -> 9.21, Strength: 12.05 -> 12.17
-  - Ожог (`ps:1441040000`): Athletics: 87.07 -> 87.09, Dexterity: 49.35 -> 49.37, Dodge: 20.32 -> 20.48, Field Medic: 35.85 -> 35.86, Heavy Weapons: 56.62 -> 56.63, Melee Attack: 61.64 -> 61.66, Strength: 50.41 -> 50.43, Toughness: 59.07 -> 59.11
-  - Пиа (`ps:-2041915648`): Athletics: 82.44 -> 82.49, Dexterity: 51.19 -> 51.22, Dodge: 12.05 -> 12.27, Katanas: 45.41 -> 45.46, Melee Attack: 43.51 -> 43.55, Melee Defence: 44.56 -> 44.58, Strength: 28.47 -> 28.49, Toughness: 46.07 -> 46.2
-  - Ридли (`ps:1665649408`): Athletics: 87.52 -> 87.54, Dexterity: 50.94 -> 50.98, Dodge: 17.27 -> 17.46, Field Medic: 39.5 -> 39.51, Melee Attack: 55.0 -> 55.05, Robotics: 24.3 -> 24.31, Sabres: 52.1 -> 52.16, Strength: 36.22 -> 36.24, Toughness: 50.57 -> 50.68
-  - Рука (`ps:-1715743744`): Athletics: 83.31 -> 83.34, Dexterity: 32.57 -> 32.59, Dodge: 17.25 -> 17.45, Field Medic: 29.73 -> 29.74, Hackers: 49.69 -> 49.7, Melee Attack: 53.24 -> 53.26, Strength: 46.2 -> 46.21, Toughness: 56.02 -> 56.11
-  - Седая тень (`ps:706176768`): Athletics: 51.13 -> 51.14, Science: 28.9 -> 29.91, Strength: 13.04 -> 13.05
-  - Сэто (`ps:-474044416`): Athletics: 47.07 -> 47.56, Dexterity: 23.07 -> 23.11, Dodge: 11.4 -> 11.5, Field Medic: 23.42 -> 23.43, Hackers: 30.34 -> 30.41, Melee Attack: 33.8 -> 33.88, Melee Defence: 40.49 -> 40.51, Strength: 26.43 -> 26.44, Toughness: 39.58 -> 39.71
-  - Флик (`ps:1106567424`): Athletics: 89.6 -> 89.62, Crossbows: 83.08 -> 83.13, Dexterity: 71.76 -> 71.81, Dodge: 21.5 -> 21.58, Field Medic: 26.55 -> 26.56, Perception: 80.93 -> 80.97, Precision Shooting: 85.41 -> 85.47, Toughness: 60.61 -> 60.63
-  - Хамут (`ps:1223510784`): Athletics: 83.66 -> 83.71, Dexterity: 46.2 -> 46.23, Dodge: 21.39 -> 21.52, Field Medic: 24.99 -> 25.0, Melee Attack: 52.13 -> 52.15, Polearms: 52.25 -> 52.28, Robotics: 9.15 -> 9.19, Strength: 32.78 -> 32.79, Toughness: 47.73 -> 47.83
-  - Хоббс (`ps:-1002242560`): Athletics: 86.14 -> 86.16, Dexterity: 42.02 -> 42.03, Dodge: 23.48 -> 23.58, Field Medic: 33.64 -> 33.66, Hackers: 49.55 -> 49.56, Melee Attack: 53.1 -> 53.11, Melee Defence: 53.55 -> 53.56, Strength: 45.59 -> 45.63, Toughness: 59.99 -> 60.02
-  - Хот Лон (`ps:827270528`): Athletics: 87.53 -> 87.55, Dexterity: 48.04 -> 48.05, Dodge: 19.03 -> 19.09, Field Medic: 33.54 -> 33.56, Melee Attack: 51.35 -> 51.37, Polearms: 32.53 -> 32.67, Robotics: 24.99 -> 25.13, Strength: 39.58 -> 39.59, Toughness: 53.23 -> 53.26
-  - Шрайк (`ps:-476241664`): Athletics: 81.29 -> 81.37, Strength: 23.94 -> 24.02
-- **Изменения здоровья:** у 30 участников
-- **Изменения отношений с фракциями (1):**
-  - `Верещащие бандиты`: отношение: -28.11 -> -29.27 (-1.16)
-- **События мира (World States):**
-  - Лидер `Молл`: код состояния 1 -> None
-- **Изменения складских запасов на базах:** 5 позиций
-  - `Складской сундук`: Вода -5
-  - `Переработка пеньки`: Гашиш +1
-  - `Переработка пеньки`: Вода +3
-  - `Переработка пеньки`: Пенька -3
-  - `Хранение: пенька`: Пенька -5
+- **Статус сравнения:** базовое сравнение отсутствует (`valid: false`).
+- **Причина:** game_time_regression.
+- **Ключевые изменения:** отсутствуют (первая публикация либо несравнимые снимки).
 
 ## Несравниваемые категории
 - position: географические координаты подключаются профильным артефактом в задаче 02
@@ -364,11 +291,10 @@
 - [observed] Изменены отношения с фракциями (1): Верещащие бандиты (день 135; ID: auto-5288e2f4040c8b72-02). Источники: diff: changes.md#snapshot-5288e2f4040c
 - [observed] Казна: 18623 -&gt; 20024 (+1401) (день 136; ID: auto-19b586638735e885-01). Источники: diff: changes.md#snapshot-19b586638735
 - [observed] Смена статуса: Кот unconscious=True (день 136; ID: auto-19b586638735e885-02). Источники: diff: changes.md#snapshot-19b586638735
-- [observed] Изменены отношения с фракциями (1): Верещащие бандиты (день 136; ID: auto-33154aa2ec30657c-01). Источники: diff: changes.json
-- [observed] Изменения World States: 1 (день 136; ID: auto-33154aa2ec30657c-02). Источники: diff: changes.json
 - [observed] Сменили отряд (2): Пиа, Хамут (день 136; ID: auto-9f47dae6fafa887c-01). Источники: diff: changes.md#snapshot-9f47dae6fafa
 - [observed] Казна: 20024 -&gt; 31651 (+11627) (день 136; ID: auto-9f47dae6fafa887c-02). Источники: diff: changes.md#snapshot-9f47dae6fafa
 - [observed] Смена статуса: Кот unconscious=False (день 136; ID: auto-9f47dae6fafa887c-03). Источники: diff: changes.md#snapshot-9f47dae6fafa
+- [observed] Перезагрузка: игровое время Day 136 20:21 -&gt; Day 136 20:14; снимки позже Day 136 20:14 исключены из цепочки (день 136; ID: auto-dd133320b82ddac1-reload). Источники: diff: changes.json
 
 ## Связанные артефакты
 - [Расширенный снимок (extended/current.json): читать только выборочно](extended/current.json)
