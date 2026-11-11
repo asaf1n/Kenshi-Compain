@@ -4,7 +4,7 @@
 - **previous_snapshot_id:** `sha256-dd133320b82ddac11581b266649f0d350754f3c32b7fa779b411899a6401469b`
 - **campaign_id:** `hot-lon`
 - **game_time:** `Day 136, 20:21`
-- **generated_at:** `2026-11-11T14:57:47Z`
+- **generated_at:** `2026-11-11T23:20:10Z`
 
 ## Игровой мир
 - **Время:** День 136, время 20:21
