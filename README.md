@@ -41,7 +41,7 @@
 
 ## Доставка данных
 
-Игра → конвертер `kenshi-campaign-tech` → `published/` в GitHub → чтение LLM из GitHub → `[итог]` коммитом в `main`.
+Игра → конвертер `kenshi-campaign-tech` → `published/` в GitHub → чтение LLM из GitHub → `[итог]` коммитом в `main`. Конвертер также ведёт на Google Диске резервную копию `main` и выгрузки ([`docs/gdrive-sync.md` конвертера](https://github.com/asaf1n/kenshi-campaign-tech/blob/main/docs/gdrive-sync.md)); там же хранится архив редакционных материалов летописи.
 
 Конвертер публикует технические данные без аналитики; значимость изменений, переходы и выводы определяет модель. Форматы и семантика машинных данных `published/` задаются строгим [контрактом `kenshi-campaign-tech`](https://github.com/asaf1n/kenshi-campaign-tech/blob/main/docs/data-contract.md) и связанными схемами. Наличие файлов сверяется с `manifest.json`; игровая методология в `docs/companion-guide.md` и `docs/session-protocol.md` регулирует **интерпретацию** данных и запись истории, не заменяя контракт.
 
