@@ -1,4 +1,4 @@
-# Состав отряда: День 136, 20:14
+# Состав отряда: День 136, 20:21
 
 ## Отряд `Безымянные_0`: Primaris
 Количество участников: 10 (гуманоидов: 9, животных: 1)
@@ -6,7 +6,7 @@
 ### Вьючный бык (`ps:35522460`) [Животное]
 - **Раса:** Бык
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 259.63, сытость 2.5422
+- **Состояние:** кровь 259.63, сытость 2.5387
 - **Боевые режимы:** chase
 - **Работы:** BODYGUARD [Хот Лон], TASK_289 [Хот Лон]
 - **Атрибуты:** Dexterity: 56.81, Perception: 2.0, Strength: 33.45, Toughness: 54.17
@@ -17,12 +17,12 @@
 ### Гигант Ранэ (`ps:1671874944`)
 - **Раса:** Шек
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 112.31, сытость 2.3539
+- **Состояние:** кровь 112.31, сытость 2.3637
 - **Боевые режимы:** chase, taunt
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Награда за голову:** 1 536 кат.
 - **Атрибуты:** Dexterity: 28.0, Perception: 2.78, Strength: 49.75, Toughness: 50.33
-- **Навыки:** Assassination: 1.0, Athletics: 74.68, Blunt: 19.58, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 11.1, Farming: 0.8, Field Medic: 19.37, Hackers: 35.07, Heavy Weapons: 40.12, Katanas: 18.71, Lockpicking: 3.16, Martial Arts: 1.85, Melee Attack: 50.43, Melee Defence: 50.04, Polearms: 0.02, Precision Shooting: 3.26, Robotics: 9.5, Sabres: 19.43, Swimming: 28.98, Thievery: 33.19, Turrets: 2.78, Weapon Smithing: 1.98
+- **Навыки:** Assassination: 1.0, Athletics: 74.68, Blunt: 19.58, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 11.1, Farming: 0.8, Field Medic: 19.38, Hackers: 35.07, Heavy Weapons: 40.12, Katanas: 18.71, Lockpicking: 3.16, Martial Arts: 1.85, Melee Attack: 50.43, Melee Defence: 50.04, Polearms: 0.02, Precision Shooting: 3.26, Robotics: 9.5, Sabres: 19.43, Swimming: 28.98, Thievery: 33.19, Turrets: 2.78, Weapon Smithing: 1.98
 - **Оружие:** weapon_back: Доска (Мк II 55), weapon_hip: Катана без цубы (Мк II 55)
 - **Броня:** body: Доспех наёмника (ур. 60), boots: Латные сапоги (ур. 60), head: Латный капюшон (ур. 80), legs: Ножные латы самурая (ур. 80), shirt: Ржавая кольчуга (ур. 60)
 - **Инвентарь:** Набор шин (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Хорошая аптечка (рюкзак) x1
@@ -30,11 +30,11 @@
 ### Гриффин (`ps:145629888`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 104.84, сытость 2.3968
+- **Состояние:** кровь 104.84, сытость 2.4035
 - **Боевые режимы:** chase, taunt
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 35.45, Perception: 1.0, Strength: 39.79, Toughness: 49.29
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 75.39, Blunt: 20.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 14.41, Farming: 1.2, Field Medic: 10.62, Hackers: 39.79, Heavy Weapons: 20.0, Katanas: 20.0, Lockpicking: 1.0, Martial Arts: 1.0, Melee Attack: 44.68, Melee Defence: 47.22, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 1.93, Sabres: 21.44, Stealth: 2.49, Swimming: 32.11, Thievery: 1.29, Turrets: 1.0, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 75.39, Blunt: 20.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 14.41, Farming: 1.2, Field Medic: 10.64, Hackers: 39.79, Heavy Weapons: 20.0, Katanas: 20.0, Lockpicking: 1.0, Martial Arts: 1.0, Melee Attack: 44.68, Melee Defence: 47.22, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 1.93, Sabres: 21.44, Stealth: 2.49, Swimming: 32.11, Thievery: 1.29, Turrets: 1.0, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Крест паладина (Мейто 100), weapon_hip: Меч (Мк I 50)
 - **Броня:** body: Святой нагрудник (ур. 95), boots: Боты самурая (ур. 80), head: Шлем с маской (ур. 60), legs: Ножные латы самурая (ур. 60), shirt: Воронёная кольчуга (ур. 60)
 - **Протезы:** left_arm: Рука промгрузчика (левая), left_leg: Нога скелета (левая)
@@ -43,11 +43,11 @@
 ### Кан (`ps:-1346969344`)
 - **Раса:** Шек
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 109.07, сытость 2.5273
+- **Состояние:** кровь 109.07, сытость 2.525
 - **Боевые режимы:** chase, taunt
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 51.43, Perception: -1.95, Strength: 45.42, Toughness: 58.36
-- **Навыки:** Assassination: 10.0, Athletics: 83.75, Blunt: 20.49, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 3.88, Dodge: 18.62, Engineering: 3.05, Farming: 0.8, Field Medic: 41.67, Hackers: 17.43, Heavy Weapons: 22.67, Katanas: 21.43, Labouring: 0.8, Lockpicking: 6.23, Melee Attack: 65.11, Melee Defence: 53.39, Polearms: 18.67, Precision Shooting: 21.34, Robotics: 16.85, Sabres: 55.6, Science: 0.8, Swimming: 47.59, Thievery: 2.93, Turrets: 21.85, Weapon Smithing: 1.39
+- **Навыки:** Assassination: 10.0, Athletics: 83.75, Blunt: 20.49, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 3.88, Dodge: 18.62, Engineering: 3.05, Farming: 0.8, Field Medic: 41.69, Hackers: 17.43, Heavy Weapons: 22.67, Katanas: 21.43, Labouring: 0.8, Lockpicking: 6.23, Melee Attack: 65.11, Melee Defence: 53.39, Polearms: 18.67, Precision Shooting: 21.34, Robotics: 16.85, Sabres: 55.6, Science: 0.8, Swimming: 47.59, Thievery: 2.93, Turrets: 21.85, Weapon Smithing: 1.39
 - **Оружие:** weapon_back: Иноземная сабля (Тип лезвия 3 80)
 - **Броня:** body: Доспех самурая (ур. 95), boots: Боты самурая (ур. 95), head: Шлем самурая (ур. 80), legs: Ножные латы самурая (ур. 95), shirt: Воронёная кольчуга (ур. 80)
 - **Инвентарь:** Инструменты x1, Ремкомплект скелета (рюкзак) x1, Хорошая аптечка (рюкзак) x2, Хороший набор шин (рюкзак) x1
@@ -59,7 +59,7 @@
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 45.14, Perception: -0.11, Strength: 38.51, Toughness: 54.46
-- **Навыки:** Armour Smithing: 1.59, Assassination: 1.0, Athletics: 85.06, Blunt: 11.42, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 32.66, Engineering: 2.18, Farming: 1.0, Field Medic: 26.72, Hackers: 3.99, Katanas: 2.73, Labouring: 1.0, Lockpicking: 16.12, Martial Arts: 5.76, Melee Attack: 56.04, Melee Defence: 56.64, Polearms: 53.56, Precision Shooting: 2.13, Robotics: 41.19, Sabres: 4.56, Science: 1.0, Stealth: 1.31, Swimming: 48.88, Thievery: 15.28, Turrets: 0.21, Weapon Smithing: 3.94
+- **Навыки:** Armour Smithing: 1.59, Assassination: 1.0, Athletics: 85.06, Blunt: 11.42, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 32.66, Engineering: 2.18, Farming: 1.0, Field Medic: 26.74, Hackers: 3.99, Katanas: 2.73, Labouring: 1.0, Lockpicking: 16.12, Martial Arts: 5.76, Melee Attack: 56.04, Melee Defence: 56.64, Polearms: 53.56, Precision Shooting: 2.13, Robotics: 41.19, Sabres: 4.56, Science: 1.0, Stealth: 1.31, Swimming: 48.88, Thievery: 15.28, Turrets: 0.21, Weapon Smithing: 3.94
 - **Оружие:** weapon_back: Бердыш (Мейто 100), weapon_hip: Железная палка (Мк II 55)
 - **Броня:** body: Куртка с латами (ур. 80), legs: Ножные латы самурая (ур. 80)
 - **Инвентарь:** Инструменты x1, Набор шин (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Стандартная аптечка (рюкзак) x1, Хорошая аптечка (рюкзак) x1
@@ -72,7 +72,7 @@
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Награда за голову:** 944 кат.
 - **Атрибуты:** Dexterity: 49.37, Perception: 12.69, Strength: 50.43, Toughness: 59.11
-- **Навыки:** Armour Smithing: 1.48, Assassination: 7.5, Athletics: 87.09, Blunt: 19.32, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 20.48, Engineering: 1.25, Farming: 1.0, Field Medic: 35.85, Hackers: 16.86, Heavy Weapons: 56.63, Katanas: 18.83, Labouring: 1.0, Lockpicking: 26.5, Martial Arts: 0.29, Melee Attack: 61.66, Melee Defence: 62.37, Polearms: 14.54, Precision Shooting: 13.64, Robotics: 54.48, Sabres: 14.13, Science: 1.0, Stealth: 1.88, Swimming: 55.84, Thievery: 32.49, Turrets: 24.79, Weapon Smithing: 2.54
+- **Навыки:** Armour Smithing: 1.48, Assassination: 7.5, Athletics: 87.09, Blunt: 19.32, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 20.48, Engineering: 1.25, Farming: 1.0, Field Medic: 35.86, Hackers: 16.86, Heavy Weapons: 56.63, Katanas: 18.83, Labouring: 1.0, Lockpicking: 26.5, Martial Arts: 0.29, Melee Attack: 61.66, Melee Defence: 62.37, Polearms: 14.54, Precision Shooting: 13.64, Robotics: 54.48, Sabres: 14.13, Science: 1.0, Stealth: 1.88, Swimming: 55.84, Thievery: 32.49, Turrets: 24.79, Weapon Smithing: 2.54
 - **Оружие:** weapon_back: Падающее солнце (Мк III 60), weapon_hip: Шипастая дубина (Мк II 55)
 - **Броня:** body: Доспех наёмника (ур. 80), legs: Ножные латы самурая (ур. 95)
 - **Инвентарь:** Инструменты x1, Ножовка (рюкзак) x1, Ремкомплект скелета x1, Ремкомплект скелета (рюкзак) x1, Хорошая аптечка (рюкзак) x1, Хороший набор шин (рюкзак) x1
@@ -80,11 +80,11 @@
 ### Ридли (`ps:1665649408`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 101.35, сытость 2.3706
+- **Состояние:** кровь 101.99, сытость 2.3688
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, FIND_AND_RESCUE_IF_THERES_BEDS, FIND_BED_AND_PUT_IN, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 50.98, Perception: 3.44, Strength: 36.24, Toughness: 50.68
-- **Навыки:** Armour Smithing: 4.77, Assassination: 8.15, Athletics: 87.54, Blunt: 8.6, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 2.02, Dodge: 17.46, Engineering: 4.52, Farming: 1.2, Field Medic: 39.5, Hackers: 22.55, Heavy Weapons: 9.61, Katanas: 21.26, Labouring: 1.0, Lockpicking: 5.07, Melee Attack: 55.05, Melee Defence: 51.44, Polearms: 8.94, Precision Shooting: 11.96, Robotics: 24.3, Sabres: 52.16, Science: 1.2, Swimming: 48.42, Thievery: 3.03, Turrets: 11.63
+- **Навыки:** Armour Smithing: 4.77, Assassination: 8.15, Athletics: 87.54, Blunt: 8.6, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 2.02, Dodge: 17.46, Engineering: 4.52, Farming: 1.2, Field Medic: 39.51, Hackers: 22.55, Heavy Weapons: 9.61, Katanas: 21.26, Labouring: 1.0, Lockpicking: 5.07, Melee Attack: 55.05, Melee Defence: 51.44, Polearms: 8.94, Precision Shooting: 11.96, Robotics: 24.31, Sabres: 52.16, Science: 1.2, Swimming: 48.42, Thievery: 3.03, Turrets: 11.63
 - **Оружие:** weapon_back: Пустынная сабля (Тип лезвия 2 75)
 - **Броня:** body: Куртка с латами (ур. 80), boots: Латные сапоги (ур. 60), head: Шлем с маской (ур. 60), legs: Штаны самурая (ур. 80), shirt: Кожаная водолазка (ур. 80)
 - **Инвентарь:** Ремкомплект скелета x1, Стандартная аптечка (рюкзак) x1, Хорошая аптечка (рюкзак) x2, Хороший набор шин (рюкзак) x1
@@ -92,11 +92,11 @@
 ### Рука (`ps:-1715743744`)
 - **Раса:** Шек
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 109.66, сытость 2.3394
+- **Состояние:** кровь 109.66, сытость 2.3371
 - **Боевые режимы:** chase, taunt
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 32.59, Perception: 10.97, Strength: 46.21, Toughness: 56.11
-- **Навыки:** Armour Smithing: 0.17, Assassination: 1.0, Athletics: 83.34, Blunt: 10.99, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 0.76, Dodge: 17.45, Farming: 0.8, Field Medic: 29.73, Hackers: 49.7, Heavy Weapons: 10.05, Katanas: 11.18, Lockpicking: 8.24, Martial Arts: 6.45, Melee Attack: 53.26, Melee Defence: 53.57, Polearms: 18.96, Precision Shooting: 0.77, Robotics: 13.8, Sabres: 11.55, Stealth: 0.57, Swimming: 37.44, Thievery: 0.8, Turrets: 1.83, Weapon Smithing: 1.67
+- **Навыки:** Armour Smithing: 0.17, Assassination: 1.0, Athletics: 83.34, Blunt: 10.99, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 0.76, Dodge: 17.45, Farming: 0.8, Field Medic: 29.74, Hackers: 49.7, Heavy Weapons: 10.05, Katanas: 11.18, Lockpicking: 8.24, Martial Arts: 6.45, Melee Attack: 53.26, Melee Defence: 53.57, Polearms: 18.96, Precision Shooting: 0.77, Robotics: 13.8, Sabres: 11.55, Stealth: 0.57, Swimming: 37.44, Thievery: 0.8, Turrets: 1.83, Weapon Smithing: 1.67
 - **Оружие:** weapon_back: Боевой тесак (Тип лезвия 3 80)
 - **Броня:** body: Доспех наёмника (ур. 80), boots: Латные сапоги (ур. 60), head: Шлем с маской (ур. 60), legs: Ножные латы самурая (ур. 80), shirt: Ржавая кольчужная рубаха (ур. 80)
 - **Инвентарь:** Набор шин (рюкзак) x1, Простая аптечка (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Стройматериалы x1, Хорошая аптечка (рюкзак) x1, Хороший набор шин (рюкзак) x1
@@ -104,12 +104,12 @@
 ### Хоббс (`ps:-1002242560`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 109.22, сытость 2.8856
+- **Состояние:** кровь 109.22, сытость 2.8929
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Награда за голову:** 457 кат.
 - **Атрибуты:** Dexterity: 42.03, Perception: 1.16, Strength: 45.63, Toughness: 60.02
-- **Навыки:** Assassination: 1.0, Athletics: 86.16, Blunt: 2.42, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.8, Dodge: 23.58, Engineering: 5.06, Farming: 1.2, Field Medic: 33.64, Hackers: 49.56, Heavy Weapons: 7.54, Katanas: 20.05, Labouring: 5.0, Lockpicking: 7.36, Martial Arts: 3.69, Melee Attack: 53.11, Melee Defence: 53.56, Polearms: 9.15, Robotics: 19.43, Sabres: 6.59, Science: 3.68, Stealth: 1.97, Swimming: 52.16, Thievery: 23.17, Turrets: 3.68, Weapon Smithing: 1.07
+- **Навыки:** Assassination: 1.0, Athletics: 86.16, Blunt: 2.42, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.8, Dodge: 23.58, Engineering: 5.06, Farming: 1.2, Field Medic: 33.66, Hackers: 49.56, Heavy Weapons: 7.54, Katanas: 20.05, Labouring: 5.0, Lockpicking: 7.36, Martial Arts: 3.69, Melee Attack: 53.11, Melee Defence: 53.56, Polearms: 9.15, Robotics: 19.43, Sabres: 6.59, Science: 3.68, Stealth: 1.97, Swimming: 52.16, Thievery: 23.17, Turrets: 3.68, Weapon Smithing: 1.07
 - **Оружие:** weapon_back: Лунный тесак (Тип лезвия 2 75)
 - **Броня:** body: Доспех наёмника (ур. 80), boots: Ботинки скитальца (ур. 60), head: Шлем самурая (ур. 80), legs: Ножные латы самурая (ур. 80), shirt: Ржавая кольчуга (ур. 80)
 - **Инвентарь:** Инструменты (рюкзак) x1, Простая аптечка (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Сухой паёк (рюкзак) x1, Тесак для мяса (рюкзак) x1, Хорошая аптечка (рюкзак) x2, Хороший набор шин (рюкзак) x1
@@ -117,11 +117,11 @@
 ### Хот Лон (`ps:827270528`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 104.69, сытость 2.9006
+- **Состояние:** кровь 104.69, сытость 2.8987
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Атрибуты:** Dexterity: 48.05, Perception: 2.51, Strength: 39.59, Toughness: 53.26
-- **Навыки:** Armour Smithing: 1.0, Assassination: 4.96, Athletics: 87.55, Blunt: 1.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 2.87, Dodge: 19.09, Engineering: 2.46, Farming: 1.2, Field Medic: 33.55, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 52.8, Labouring: 1.0, Lockpicking: 51.97, Martial Arts: 2.34, Melee Attack: 51.37, Melee Defence: 52.62, Polearms: 32.67, Precision Shooting: 1.0, Robotics: 25.13, Sabres: 23.77, Science: 1.2, Stealth: 4.8, Swimming: 41.65, Thievery: 48.35, Turrets: 1.9, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 4.96, Athletics: 87.55, Blunt: 1.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 2.87, Dodge: 19.09, Engineering: 2.46, Farming: 1.2, Field Medic: 33.56, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 52.8, Labouring: 1.0, Lockpicking: 51.97, Martial Arts: 2.34, Melee Attack: 51.37, Melee Defence: 52.62, Polearms: 32.67, Precision Shooting: 1.0, Robotics: 25.13, Sabres: 23.77, Science: 1.2, Stealth: 4.8, Swimming: 41.65, Thievery: 48.35, Turrets: 1.9, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Бердыш (Тип лезвия 3 80), weapon_hip: Катана без цубы (Тип лезвия 3 80)
 - **Броня:** body: Пыльник (ур. 95), boots: Латные сапоги (ур. 95), head: Латная маска (ур. 80), legs: Штаны самурая (ур. 95), shirt: Кожаная рубашка (ур. 95)
 - **Протезы:** left_arm: Рука серии КЛР (левая)
@@ -133,7 +133,7 @@
 ### Чад (`ps:2077026304`)
 - **Раса:** Жженоземец
 - **Местоположение:** Хаб (`in_location`, 370.4 м от центра)
-- **Состояние:** кровь 98.05, сытость 2.503
+- **Состояние:** кровь 98.05, сытость 2.5022
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Награда за голову:** 6 602 кат.
@@ -145,10 +145,10 @@
 ### Шрайк (`ps:-476241664`)
 - **Раса:** Жженоземец
 - **Местоположение:** регион Великая пустыня (`in_region`)
-- **Состояние:** кровь 93.01, сытость 2.7326
+- **Состояние:** кровь 93.01, сытость 2.7396
 - **Боевые режимы:** chase
 - **Награда за голову:** 1 670 кат.
-- **Атрибуты:** Dexterity: 36.84, Perception: -0.19, Strength: 24.01, Toughness: 40.56
+- **Атрибуты:** Dexterity: 36.84, Perception: -0.19, Strength: 24.02, Toughness: 40.56
 - **Навыки:** Armour Smithing: 3.38, Assassination: 1.0, Athletics: 81.37, Blunt: 7.33, Cooking: 0.8, Crossbow Smithing: 1.0, Dodge: 14.64, Engineering: 8.92, Farming: 0.8, Field Medic: 16.11, Hackers: 2.56, Heavy Weapons: 7.15, Katanas: 30.29, Labouring: 4.0, Lockpicking: 0.12, Martial Arts: 2.35, Melee Attack: 40.27, Melee Defence: 43.24, Polearms: 35.76, Robotics: 10.97, Sabres: 2.82, Stealth: 1.42, Swimming: 35.22, Thievery: 0.22, Turrets: 2.98
 - **Оружие:** weapon_back: Нагината (Мк III 60), weapon_back: Бердыш (Мк II 55), weapon_hip: Катана без цубы (Мк I 50)
 - **Броня:** body: Чёрная куртка с латами (ур. 60), boots: Ботинки скитальца (ур. 40), head: Латный капюшон (ур. 80), legs: Штаны самурая (ур. 60), shirt: Рубаха тёмной кожи (ур. 40)
@@ -163,7 +163,7 @@
 ### Кот (`ps:1006225600`)
 - **Раса:** Жженоземец
 - **Местоположение:** регион Пограничная зона (`in_region`)
-- **Состояние:** кровь 86.02, сытость 2.1592
+- **Состояние:** кровь 86.02, сытость 2.1646
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC
 - **Атрибуты:** Dexterity: 21.74, Perception: 6.98, Strength: 14.69, Toughness: 33.1
@@ -178,7 +178,7 @@
 ### fx (`ps:-843917568`) [Животное]
 - **Раса:** Костепёс
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 220.21, сытость 2.3741
+- **Состояние:** кровь 221.17, сытость 2.3859
 - **Боевые режимы:** chase
 - **Работы:** BODYGUARD [Зелёный], TASK_289 [Зелёный]
 - **Атрибуты:** Dexterity: 50.55, Perception: 4.11, Strength: 26.57, Toughness: 54.79
@@ -193,14 +193,14 @@
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный]
 - **Атрибуты:** Dexterity: 47.86, Perception: 1.2, Strength: 50.24, Toughness: 47.81
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.31, Athletics: 86.28, Blunt: 1.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 41.75, Engineering: 3.71, Farming: 1.0, Field Medic: 17.68, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 1.0, Labouring: 1.0, Lockpicking: 12.74, Martial Arts: 42.62, Melee Attack: 18.39, Melee Defence: 20.69, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 36.25, Sabres: 17.92, Science: 1.0, Stealth: 2.11, Swimming: 42.54, Thievery: 4.51, Turrets: 1.0, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.31, Athletics: 86.28, Blunt: 1.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 41.75, Engineering: 3.71, Farming: 1.0, Field Medic: 17.68, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 1.0, Labouring: 1.0, Lockpicking: 12.74, Martial Arts: 42.62, Melee Attack: 18.39, Melee Defence: 20.69, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 36.29, Sabres: 17.92, Science: 1.0, Stealth: 2.11, Swimming: 42.54, Thievery: 4.51, Turrets: 1.0, Weapon Smithing: 1.0
 - **Броня:** body: Обноски убийцы (ур. 60), legs: Латная рваная юбка (цветная) (ур. 80)
 - **Инвентарь:** Набор шин (рюкзак) x1, Ремкомплект скелета (рюкзак) x2, Стандартная аптечка (рюкзак) x1, Хорошая аптечка (рюкзак) x1
 
 ### Бип (`ps:-1572677376`)
 - **Раса:** Рабочий трутень
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 50.0, сытость 2.3807
+- **Состояние:** кровь 50.0, сытость 2.3798
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный]
 - **Атрибуты:** Dexterity: 51.86, Perception: 1.0, Strength: 31.01, Toughness: 51.32
@@ -213,12 +213,12 @@
 ### Вечный Суньвынь (`ps:398315424`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 96.64, сытость 2.842
+- **Состояние:** кровь 96.64, сытость 2.8401
 - **Боевые режимы:** chase
 - **Работы:** BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный], JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Награда за голову:** 2 321 кат.
 - **Атрибуты:** Dexterity: 43.85, Perception: 1.0, Strength: 28.85, Toughness: 41.39
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 76.75, Blunt: 1.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 12.27, Engineering: 1.0, Farming: 1.2, Field Medic: 15.88, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 1.0, Labouring: 1.0, Lockpicking: 5.1, Martial Arts: 1.0, Melee Attack: 49.71, Melee Defence: 41.84, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 5.51, Sabres: 43.55, Science: 1.2, Stealth: 1.29, Swimming: 25.94, Thievery: 1.0, Turrets: 1.0, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 76.75, Blunt: 1.0, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 12.27, Engineering: 1.0, Farming: 1.2, Field Medic: 15.89, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 1.0, Labouring: 1.0, Lockpicking: 5.1, Martial Arts: 1.0, Melee Attack: 49.71, Melee Defence: 41.84, Polearms: 1.0, Precision Shooting: 1.0, Robotics: 5.51, Sabres: 43.55, Science: 1.2, Stealth: 1.29, Swimming: 25.94, Thievery: 1.0, Turrets: 1.0, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Конеруб (Мейто 100)
 - **Броня:** body: Пальто (ур. 80), boots: Латные сапоги (ур. 60), head: Латный капюшон (ур. 60), legs: Ножные латы самурая (ур. 60), shirt: Ржавая кольчужная рубаха (ур. 80)
 - **Инвентарь:** Варёные овощи (рюкзак) x1, Вяленое мясо (рюкзак) x2, Гохан (рюкзак) x1, Набор шин (рюкзак) x1, Настоящий ремкомплект (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Сухой паёк (рюкзак) x1, Съедобный брикет (рюкзак) x1, Хорошая аптечка (рюкзак) x1
@@ -226,11 +226,11 @@
 ### Доктор Чон (`ps:175903328`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 97.42, сытость 2.6536
+- **Состояние:** кровь 98.06, сытость 2.6603
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный]
 - **Атрибуты:** Dexterity: 24.21, Perception: 0.96, Strength: 31.19, Toughness: 44.61
-- **Навыки:** Armour Smithing: 1.93, Assassination: 1.0, Athletics: 72.63, Blunt: 0.76, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.41, Dodge: 13.24, Engineering: 1.59, Farming: 1.2, Field Medic: 40.54, Hackers: 36.87, Heavy Weapons: 1.81, Katanas: 1.43, Labouring: 1.0, Lockpicking: 5.22, Martial Arts: 0.59, Melee Attack: 39.11, Melee Defence: 44.18, Polearms: 1.14, Precision Shooting: 1.77, Robotics: 2.14, Sabres: 0.07, Science: 18.0, Stealth: 2.3, Swimming: 28.07, Thievery: 0.93, Turrets: 10.85, Weapon Smithing: 0.55
+- **Навыки:** Armour Smithing: 1.93, Assassination: 1.0, Athletics: 72.63, Blunt: 0.76, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.41, Dodge: 13.24, Engineering: 1.59, Farming: 1.2, Field Medic: 40.54, Hackers: 36.87, Heavy Weapons: 1.81, Katanas: 1.43, Labouring: 1.0, Lockpicking: 5.22, Martial Arts: 0.59, Melee Attack: 39.11, Melee Defence: 44.18, Polearms: 1.14, Precision Shooting: 1.77, Robotics: 2.16, Sabres: 0.07, Science: 18.0, Stealth: 2.3, Swimming: 28.07, Thievery: 0.93, Turrets: 10.85, Weapon Smithing: 0.55
 - **Оружие:** weapon_back: Тесак для мяса (Мк III 60)
 - **Броня:** body: Доспех наёмника (ур. 60), boots: Латные сапоги (ур. 60), head: Маска Болотного Ниндзя (ур. 60), legs: Латные штаны скитальца (ур. 80), shirt: Ржавая кольчуга (ур. 60)
 - **Протезы:** left_leg: Нога скелета (левая)
@@ -239,11 +239,11 @@
 ### Зелёный (`ps:1758056704`)
 - **Раса:** Рабочий трутень
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 50.0, сытость 2.472
+- **Состояние:** кровь 50.0, сытость 2.4711
 - **Боевые режимы:** chase, non_combat, ranged
 - **Работы:** BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон], JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Атрибуты:** Dexterity: 62.68, Perception: 68.96, Strength: 25.12, Toughness: 47.61
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 83.65, Blunt: 1.0, Cooking: 0.8, Crossbow Smithing: 1.0, Crossbows: 83.18, Dodge: 9.73, Engineering: 3.8, Farming: 1.2, Field Medic: 17.66, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 38.57, Labouring: 1.2, Lockpicking: 17.46, Martial Arts: 1.0, Melee Attack: 34.91, Melee Defence: 44.11, Polearms: 1.0, Precision Shooting: 78.7, Robotics: 14.84, Sabres: 1.0, Science: 0.8, Stealth: 3.99, Swimming: 45.81, Thievery: 1.2, Turrets: 78.0, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 83.65, Blunt: 1.0, Cooking: 0.8, Crossbow Smithing: 1.0, Crossbows: 83.18, Dodge: 9.73, Engineering: 3.8, Farming: 1.2, Field Medic: 17.68, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 38.57, Labouring: 1.2, Lockpicking: 17.46, Martial Arts: 1.0, Melee Attack: 34.91, Melee Defence: 44.11, Polearms: 1.0, Precision Shooting: 78.7, Robotics: 14.84, Sabres: 1.0, Science: 0.8, Stealth: 3.99, Swimming: 45.81, Thievery: 1.2, Turrets: 78.0, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Диверсант (Мастерский 95), weapon_hip: Катана без цубы (Мк III 60)
 - **Броня:** body: Обноски ниндзя (ур. 40), head: Воронёный тагельмуст (ур. 60), legs: Штаны самурая (ур. 60), shirt: Кожаная майка улья (ур. 40)
 - **Протезы:** right_leg: Нога разведчика (правая)
@@ -252,12 +252,12 @@
 ### Крошка Джон (`ps:-383834368`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 101.4, сытость 2.2526
+- **Состояние:** кровь 101.4, сытость 2.2595
 - **Боевые режимы:** chase, taunt
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный]
 - **Награда за голову:** 1 600 кат.
 - **Атрибуты:** Dexterity: 47.03, Perception: 1.0, Strength: 35.2, Toughness: 48.57
-- **Навыки:** Armour Smithing: 1.0, Assassination: 5.0, Athletics: 76.2, Blunt: 11.8, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 10.95, Engineering: 1.31, Farming: 1.2, Field Medic: 23.5, Hackers: 10.0, Heavy Weapons: 10.2, Katanas: 10.0, Labouring: 1.0, Lockpicking: 8.85, Martial Arts: 1.0, Melee Attack: 51.97, Melee Defence: 43.94, Polearms: 10.0, Precision Shooting: 10.0, Robotics: 9.59, Sabres: 43.93, Science: 1.2, Stealth: 1.22, Swimming: 26.85, Thievery: 1.59, Turrets: 10.0, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 5.0, Athletics: 76.2, Blunt: 11.8, Cooking: 1.2, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 10.95, Engineering: 1.31, Farming: 1.2, Field Medic: 23.52, Hackers: 10.0, Heavy Weapons: 10.2, Katanas: 10.0, Labouring: 1.0, Lockpicking: 8.85, Martial Arts: 1.0, Melee Attack: 51.97, Melee Defence: 43.94, Polearms: 10.0, Precision Shooting: 10.0, Robotics: 9.6, Sabres: 43.93, Science: 1.2, Stealth: 1.22, Swimming: 26.85, Thievery: 1.59, Turrets: 10.0, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Сабля с отверстием (Мейто 100)
 - **Броня:** body: Доспех самурая (ур. 80), boots: Боты самурая (ур. 80), head: Шлем с забралом (ур. 60), legs: Ножные латы самурая (ур. 80), shirt: Кольчуга (ур. 60)
 - **Инвентарь:** Набор шин (рюкзак) x1, Ремкомплект скелета (рюкзак) x1, Хорошая аптечка (рюкзак) x1
@@ -265,7 +265,7 @@
 ### Пиа (`ps:-2041915648`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 92.3, сытость 2.7266
+- **Состояние:** кровь 92.94, сытость 2.7331
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Награда за голову:** 3 713 кат.
@@ -279,12 +279,12 @@
 ### Сэто (`ps:-474044416`)
 - **Раса:** Шек
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 94.83, сытость 2.3544
+- **Состояние:** кровь 94.83, сытость 2.3522
 - **Боевые режимы:** chase, ranged
 - **Работы:** BODYGUARD [Зелёный], STAY_CLOSE_TO_TARGET [Зелёный], JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Награда за голову:** 3 205 кат.
 - **Атрибуты:** Dexterity: 23.11, Perception: 17.52, Strength: 26.44, Toughness: 39.71
-- **Навыки:** Armour Smithing: 1.0, Assassination: 10.0, Athletics: 47.56, Blunt: 20.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 11.5, Engineering: 1.0, Farming: 0.8, Field Medic: 23.42, Hackers: 30.41, Heavy Weapons: 20.14, Katanas: 20.0, Labouring: 0.8, Lockpicking: 1.0, Martial Arts: 2.44, Melee Attack: 33.88, Melee Defence: 40.51, Polearms: 20.0, Precision Shooting: 21.91, Robotics: 15.48, Sabres: 20.0, Science: 0.8, Stealth: 0.87, Swimming: 33.25, Thievery: 0.8, Turrets: 29.29, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 10.0, Athletics: 47.56, Blunt: 20.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 11.5, Engineering: 1.0, Farming: 0.8, Field Medic: 23.43, Hackers: 30.41, Heavy Weapons: 20.14, Katanas: 20.0, Labouring: 0.8, Lockpicking: 1.0, Martial Arts: 2.44, Melee Attack: 33.88, Melee Defence: 40.51, Polearms: 20.0, Precision Shooting: 21.91, Robotics: 15.48, Sabres: 20.0, Science: 0.8, Stealth: 0.87, Swimming: 33.25, Thievery: 0.8, Turrets: 29.29, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Тесак для мяса (Мк II 55)
 - **Броня:** body: Белая куртка с латами (ур. 95), boots: Ботинки скитальца (ур. 60), head: Латный капюшон (ур. 80), legs: Латные штаны скитальца (ур. 80), shirt: Кольчужная рубаха (ур. 95)
 - **Инвентарь:** Белая куртка с латами x1, Ремкомплект скелета (рюкзак) x1, Хорошая аптечка (рюкзак) x2
@@ -292,11 +292,11 @@
 ### Флик (`ps:1106567424`)
 - **Раса:** Рабочий трутень
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 50.0, сытость 2.5454
+- **Состояние:** кровь 50.0, сытость 2.5445
 - **Боевые режимы:** chase, non_combat, ranged
 - **Работы:** JOB_REPAIR_ROBOT, JOB_MEDIC, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Атрибуты:** Dexterity: 71.81, Perception: 80.97, Strength: 34.4, Toughness: 60.63
-- **Навыки:** Armour Smithing: 0.02, Assassination: 1.0, Athletics: 89.62, Blunt: 1.3, Cooking: 0.8, Crossbow Smithing: 1.0, Crossbows: 83.13, Dodge: 21.58, Engineering: 60.83, Farming: 1.2, Field Medic: 26.55, Hackers: 1.72, Heavy Weapons: 1.33, Katanas: 45.28, Labouring: 36.01, Lockpicking: 15.45, Martial Arts: 1.73, Melee Attack: 44.57, Melee Defence: 50.69, Polearms: 0.54, Precision Shooting: 85.47, Robotics: 23.72, Sabres: 1.74, Science: 0.8, Stealth: 12.98, Swimming: 55.63, Thievery: 10.84, Turrets: 0.66, Weapon Smithing: 0.55
+- **Навыки:** Armour Smithing: 0.02, Assassination: 1.0, Athletics: 89.62, Blunt: 1.3, Cooking: 0.8, Crossbow Smithing: 1.0, Crossbows: 83.13, Dodge: 21.58, Engineering: 60.83, Farming: 1.2, Field Medic: 26.56, Hackers: 1.72, Heavy Weapons: 1.33, Katanas: 45.28, Labouring: 36.01, Lockpicking: 15.45, Martial Arts: 1.73, Melee Attack: 44.57, Melee Defence: 50.69, Polearms: 0.54, Precision Shooting: 85.47, Robotics: 23.72, Sabres: 1.74, Science: 0.8, Stealth: 12.98, Swimming: 55.63, Thievery: 10.84, Turrets: 0.66, Weapon Smithing: 0.55
 - **Оружие:** weapon_back: Старый балет MкII (None 80), weapon_hip: Клинок ниндзя (Мейто 100)
 - **Броня:** body: Обноски ниндзя (ур. 40), head: Воронёный тагельмуст (ур. 60), legs: Штаны самурая (ур. 60), shirt: Кожаная майка улья (ур. 40)
 - **Протезы:** left_arm: Твёрдая рука (левая), left_leg: Нога разведчика (левая), right_leg: Нога разведчика (правая)
@@ -305,12 +305,12 @@
 ### Хамут (`ps:1223510784`)
 - **Раса:** Зеленоземец
 - **Местоположение:** регион Равнины людоедов (`in_region`)
-- **Состояние:** кровь 99.59, сытость 2.9109
+- **Состояние:** кровь 99.59, сытость 2.9091
 - **Боевые режимы:** chase
 - **Работы:** JOB_MEDIC, JOB_REPAIR_ROBOT, BODYGUARD [Хот Лон], STAY_CLOSE_TO_TARGET [Хот Лон]
 - **Награда за голову:** 691 кат.
 - **Атрибуты:** Dexterity: 46.23, Perception: -0.09, Strength: 32.79, Toughness: 47.83
-- **Навыки:** Assassination: 6.5, Athletics: 83.71, Blunt: 14.77, Cooking: 1.2, Crossbow Smithing: 1.0, Dodge: 21.52, Engineering: 5.0, Farming: 1.21, Field Medic: 24.99, Hackers: 18.75, Heavy Weapons: 18.12, Katanas: 19.72, Labouring: 1.0, Lockpicking: 18.03, Martial Arts: 0.09, Melee Attack: 52.15, Melee Defence: 51.34, Polearms: 52.28, Precision Shooting: 17.81, Robotics: 9.18, Sabres: 17.64, Science: 1.2, Stealth: 10.96, Swimming: 45.49, Thievery: 17.38, Turrets: 17.54
+- **Навыки:** Assassination: 6.5, Athletics: 83.71, Blunt: 14.77, Cooking: 1.2, Crossbow Smithing: 1.0, Dodge: 21.52, Engineering: 5.0, Farming: 1.21, Field Medic: 25.0, Hackers: 18.75, Heavy Weapons: 18.12, Katanas: 19.72, Labouring: 1.0, Lockpicking: 18.03, Martial Arts: 0.09, Melee Attack: 52.15, Melee Defence: 51.34, Polearms: 52.28, Precision Shooting: 17.81, Robotics: 9.19, Sabres: 17.64, Science: 1.2, Stealth: 10.96, Swimming: 45.49, Thievery: 17.38, Turrets: 17.54
 - **Оружие:** weapon_back: Нагината катана (Тип лезвия 3 80), weapon_hip: Катана без цубы (Тип лезвия 1 70)
 - **Броня:** body: Пальто (ур. 80), boots: Ботинки скитальца (ур. 80), head: Железная шляпа (ур. 80), legs: Латные штаны скитальца (ур. 80), shirt: Кожаная рубашка (ур. 80)
 - **Инвентарь:** Варёные овощи x1, Гохан x1, Гохан (рюкзак) x1, Ремкомплект скелета x1, Ремкомплект скелета (рюкзак) x1, Стандартная аптечка (рюкзак) x2, Съедобный брикет (рюкзак) x1, Хорошая аптечка x1, Хороший набор шин (рюкзак) x1, Шаурма (рюкзак) x2
@@ -325,20 +325,20 @@
 - **Боевые режимы:** chase
 - **Работы:** BODYGUARD [Вьючный бык], STAY_CLOSE_TO_TARGET [Вьючный бык]
 - **Награда за голову:** 3 231 кат.
-- **Атрибуты:** Dexterity: 22.71, Perception: 19.11, Strength: 32.18, Toughness: 48.76
-- **Навыки:** Armour Smithing: 1.58, Assassination: 1.0, Athletics: 69.32, Blunt: 20.25, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 28.03, Engineering: 44.63, Farming: 6.72, Field Medic: 17.7, Hackers: 3.34, Heavy Weapons: 6.37, Katanas: 5.89, Labouring: 21.95, Lockpicking: 2.47, Martial Arts: 8.24, Melee Attack: 36.26, Melee Defence: 45.53, Polearms: 33.11, Precision Shooting: 12.62, Robotics: 45.12, Sabres: 5.67, Science: 10.52, Stealth: 1.52, Swimming: 19.31, Thievery: 1.82, Turrets: 17.95
+- **Атрибуты:** Dexterity: 22.71, Perception: 19.11, Strength: 32.19, Toughness: 48.76
+- **Навыки:** Armour Smithing: 1.58, Assassination: 1.0, Athletics: 69.33, Blunt: 20.25, Cooking: 1.0, Crossbow Smithing: 1.0, Dodge: 28.03, Engineering: 44.63, Farming: 6.72, Field Medic: 17.7, Hackers: 3.34, Heavy Weapons: 6.37, Katanas: 5.89, Labouring: 21.95, Lockpicking: 2.47, Martial Arts: 8.24, Melee Attack: 36.26, Melee Defence: 45.53, Polearms: 33.11, Precision Shooting: 12.62, Robotics: 45.12, Sabres: 5.67, Science: 10.52, Stealth: 1.52, Swimming: 19.31, Thievery: 1.82, Turrets: 17.95
 - **Оружие:** weapon_back: Глефа (Мк II 55), weapon_back: Тяжелый дзюттэ (Катун No.3 40)
 - **Броня:** body: Кожаный доспех наёмника (ур. 80), legs: Штаны самурая (ур. 40)
 - **Инвентарь:** Железные листы (рюкзак) x5, Кожаный доспех наёмника x1, Медь (рюкзак) x5, Ножовка x1, Пластины медного сплава (рюкзак) x3, Ремкомплект скелета x2, Слитки стали (рюкзак) x1, Сухой паёк x1, Хорошая аптечка x1, Хороший набор шин x1, Электродетали (рюкзак) x5
 
 ### Вынос мозга (`ps:1464721664`)
 - **Раса:** Шек
-- **Местоположение:** окрестности Деревня Серодёров (`near_location`, 280.8 м)
-- **Состояние:** кровь 70.62, сытость 2.8491
+- **Местоположение:** окрестности Деревня Серодёров (`near_location`, 227.2 м)
+- **Состояние:** кровь 71.13, сытость 2.8451
 - **Боевые режимы:** chase, non_combat, ranged
 - **Работы:** MAN_A_TURRET_PLAYER_JOB, JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Атрибуты:** Dexterity: 26.31, Perception: 49.32, Strength: 14.07, Toughness: 41.16
-- **Навыки:** Armour Smithing: 0.1, Assassination: 1.0, Athletics: 57.73, Blunt: 1.64, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 62.28, Dodge: 9.07, Engineering: 1.55, Farming: 0.8, Field Medic: 16.51, Hackers: 0.56, Heavy Weapons: 0.21, Katanas: 22.58, Labouring: 0.8, Lockpicking: 19.38, Martial Arts: 0.99, Melee Attack: 23.5, Melee Defence: 36.5, Polearms: 0.09, Precision Shooting: 40.53, Robotics: 1.13, Sabres: 0.85, Science: 0.8, Stealth: 1.16, Swimming: 18.99, Thievery: 0.23, Turrets: 57.63, Weapon Smithing: 0.87
+- **Навыки:** Armour Smithing: 0.1, Assassination: 1.0, Athletics: 57.75, Blunt: 1.64, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 62.28, Dodge: 9.07, Engineering: 1.55, Farming: 0.8, Field Medic: 16.51, Hackers: 0.56, Heavy Weapons: 0.21, Katanas: 22.58, Labouring: 0.8, Lockpicking: 19.38, Martial Arts: 0.99, Melee Attack: 23.5, Melee Defence: 36.5, Polearms: 0.09, Precision Shooting: 40.53, Robotics: 1.13, Sabres: 0.85, Science: 0.8, Stealth: 1.16, Swimming: 18.99, Thievery: 0.23, Turrets: 57.63, Weapon Smithing: 0.87
 - **Оружие:** weapon_back: Рессоробой (Мастерский 95), weapon_hip: Катана (Мк I 50)
 - **Броня:** body: Косуха скитальца (ур. 80), boots: Деревянные сандали (ур. 20), head: Шляпа из ротанга (ур. 80), legs: Капри [стёганые] (ур. 60), shirt: Кожаная рубашка (ур. 60)
 - **Инвентарь:** Болты [Тяжёлые] (рюкзак) x17, Набор шин (рюкзак) x1, Сухой паёк (рюкзак) x1, Хорошая аптечка (рюкзак) x2
@@ -346,18 +346,18 @@
 ### Вьючный бык (`ps:1856201216`) [Животное]
 - **Раса:** Бык
 - **Местоположение:** регион Горящий лес (граница) (`in_region`)
-- **Состояние:** кровь 259.63, сытость 2.5095
+- **Состояние:** кровь 259.63, сытость 2.5043
 - **Боевые режимы:** chase, non_combat
 - **Работы:** BODYGUARD [Седая тень], TASK_289 [Седая тень]
 - **Атрибуты:** Dexterity: 35.81, Perception: -1.41, Strength: 26.53, Toughness: 32.17
-- **Навыки:** Armour Smithing: 0.46, Assassination: 12.5, Athletics: 66.65, Blunt: 24.5, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 3.58, Dodge: 0.37, Engineering: 2.16, Farming: 1.0, Field Medic: 25.35, Hackers: 26.22, Heavy Weapons: 22.89, Katanas: 24.17, Labouring: 1.0, Lockpicking: 1.36, Martial Arts: 24.54, Melee Attack: 28.21, Melee Defence: 35.82, Polearms: 26.84, Precision Shooting: 24.17, Robotics: 0.89, Sabres: 27.46, Science: 1.0, Swimming: 22.75, Turrets: 23.1, Weapon Smithing: 1.65
+- **Навыки:** Armour Smithing: 0.46, Assassination: 12.5, Athletics: 66.67, Blunt: 24.5, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 3.58, Dodge: 0.37, Engineering: 2.16, Farming: 1.0, Field Medic: 25.35, Hackers: 26.22, Heavy Weapons: 22.89, Katanas: 24.17, Labouring: 1.0, Lockpicking: 1.36, Martial Arts: 24.54, Melee Attack: 28.21, Melee Defence: 35.82, Polearms: 26.84, Precision Shooting: 24.17, Robotics: 0.89, Sabres: 27.46, Science: 1.0, Swimming: 22.75, Turrets: 23.1, Weapon Smithing: 1.65
 - **Броня:** 
 - **Инвентарь:** Гашиш (рюкзак) x23, Инструменты (рюкзак) x4, Рог животного x2, Спальный мешок (рюкзак) x3, Сырое мясо x10, Хорошая аптечка (рюкзак) x3, Шаурма (рюкзак) x1, Шкура животного x4
 
 ### Зелёный палец (`ps:621948224`)
 - **Раса:** Жженоземец
 - **Местоположение:** окрестности Деревня Серодёров (`near_location`, 332.7 м)
-- **Состояние:** кровь 88.9, сытость 2.6478
+- **Состояние:** кровь 88.9, сытость 2.647
 - **Боевые режимы:** chase
 - **Работы:** OPERATE_STORAGE [Хранение: рис (Жилище)], OPERATE_STORAGE [Хранение: пенька (Жилище)], OPERATE_MACHINERY, OPERATE_MACHINERY, OPERATE_MACHINERY, OPERATE_MACHINERY
 - **Атрибуты:** Dexterity: 5.09, Perception: 1.0, Strength: 18.53, Toughness: 21.22
@@ -369,12 +369,12 @@
 
 ### Мью (`ps:2093017600`)
 - **Раса:** Зеленоземец
-- **Местоположение:** окрестности Деревня Серодёров (`near_location`, 144.4 м)
-- **Состояние:** кровь 84.13, сытость 2.5058
+- **Местоположение:** окрестности Деревня Серодёров (`near_location`, 81.1 м)
+- **Состояние:** кровь 84.13, сытость 2.5136
 - **Боевые режимы:** chase
 - **Работы:** OPERATE_STORAGE [Хранение: еда (Жилище)], OPERATE_MACHINERY [Кухонная плита (Жилище)], OPERATE_MACHINERY, OPERATE_MACHINERY, OPERATE_STORAGE [Хранение: рис (Жилище)], FIND_AND_RESCUE_IF_THERES_BEDS, FIND_BED_AND_PUT_IN, JOB_MEDIC, JOB_REPAIR_ROBOT
 - **Атрибуты:** Dexterity: 21.83, Perception: 3.41, Strength: 12.17, Toughness: 37.34
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 37.42, Blunt: 1.37, Cooking: 18.14, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 14.82, Engineering: 23.76, Farming: 69.81, Field Medic: 17.25, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 3.87, Labouring: 45.07, Lockpicking: 1.0, Martial Arts: 1.0, Melee Attack: 27.65, Melee Defence: 38.6, Polearms: 23.89, Precision Shooting: 1.0, Robotics: 9.21, Sabres: 1.0, Science: 1.2, Stealth: 8.0, Swimming: 4.01, Thievery: 1.0, Turrets: 2.14, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 37.42, Blunt: 1.37, Cooking: 18.14, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 14.82, Engineering: 23.76, Farming: 69.83, Field Medic: 17.25, Hackers: 1.0, Heavy Weapons: 1.0, Katanas: 3.87, Labouring: 45.07, Lockpicking: 1.0, Martial Arts: 1.0, Melee Attack: 27.65, Melee Defence: 38.6, Polearms: 23.89, Precision Shooting: 1.0, Robotics: 9.21, Sabres: 1.0, Science: 1.2, Stealth: 8.0, Swimming: 4.01, Thievery: 1.0, Turrets: 2.14, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Нагината (Тип лезвия 3 80), weapon_hip: Катана (Катун No.1 30)
 - **Броня:** body: Куртка с латами (ур. 60), boots: Деревянные сандали (ур. 20), head: Воронёный тагельмуст (ур. 60), legs: Капри [прочные] (ур. 80), shirt: Кожаная майка (ур. 60)
 - **Протезы:** left_arm: Рука промгрузчика (левая)
@@ -383,11 +383,11 @@
 ### Седая тень (`ps:706176768`)
 - **Раса:** Принц
 - **Местоположение:** Ровная лагуна (`in_location`, 841.4 м от центра)
-- **Состояние:** кровь 50.0, сытость 2.6566
+- **Состояние:** кровь 50.0, сытость 2.6553
 - **Боевые режимы:** chase
 - **Работы:** OPERATE_MACHINERY [Переработка пеньки (Сарайчик)], OPERATE_STORAGE [Хранение: гашиш (Сарайчик)]
 - **Атрибуты:** Dexterity: 14.6, Perception: 13.59, Strength: 13.05, Toughness: 11.09
-- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 51.14, Blunt: 10.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 2.89, Engineering: 3.67, Farming: 10.4, Field Medic: 6.3, Hackers: 10.0, Heavy Weapons: 10.0, Katanas: 10.87, Labouring: 0.07, Lockpicking: 1.2, Martial Arts: 1.52, Melee Attack: 11.06, Melee Defence: 15.35, Polearms: 1.18, Precision Shooting: 2.47, Robotics: 1.0, Science: 29.85, Stealth: 12.33, Swimming: 60.25, Thievery: 12.83, Turrets: 3.65, Weapon Smithing: 1.0
+- **Навыки:** Armour Smithing: 1.0, Assassination: 1.0, Athletics: 51.14, Blunt: 10.0, Cooking: 1.0, Crossbow Smithing: 1.0, Crossbows: 1.0, Dodge: 2.89, Engineering: 3.67, Farming: 10.4, Field Medic: 6.3, Hackers: 10.0, Heavy Weapons: 10.0, Katanas: 10.87, Labouring: 0.07, Lockpicking: 1.2, Martial Arts: 1.52, Melee Attack: 11.06, Melee Defence: 15.35, Polearms: 1.18, Precision Shooting: 2.47, Robotics: 1.0, Science: 29.91, Stealth: 12.33, Swimming: 60.25, Thievery: 12.83, Turrets: 3.65, Weapon Smithing: 1.0
 - **Оружие:** weapon_back: Нодати (Мк III 60), weapon_hip: Катана без цубы (Катун No.2 35)
 - **Броня:** body: Куртка с латами (ур. 60), head: Латный капюшон (ур. 60), legs: Штаны самурая (ур. 60), shirt: Кольчуга Роев (ур. 40)
 - **Инвентарь:** Стандартная аптечка x1, Хлеб x1, Хорошая аптечка x1, Хороший набор шин x1
