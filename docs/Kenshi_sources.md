@@ -43,6 +43,7 @@
 
 - [Statistics — характеристики, навыки и их влияние на персонажей](https://kenshi.fandom.com/wiki/Statistics)
 - [Guide to Training Statistics — развитие характеристик и боевых навыков](https://kenshi.fandom.com/wiki/Guide_to_Training_Statistics)
+- [Stronger Opponent Logic — множитель опыта от разницы уровней с противником](https://www.kenshi.wiki/w/Stronger_Opponent_Logic)
 - [Combat — каталог боевых механик](https://kenshi.fandom.com/wiki/Category:Combat)
 - [Weapons — классы оружия, урон, слоты и особенности](https://kenshi.fandom.com/wiki/Weapons)
 - [Equipment — броня, оружие, рюкзаки и другое снаряжение](https://kenshi.fandom.com/wiki/Equipment)
