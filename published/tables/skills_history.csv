@@ -1,0 +1,1326 @@
+day,character_id,character_name,skill,level
+131,ps:-1002242560,Хоббс,Armour Smithing,-1
+131,ps:-1002242560,Хоббс,Assassination,1
+131,ps:-1002242560,Хоббс,Athletics,85
+131,ps:-1002242560,Хоббс,Blunt,2
+131,ps:-1002242560,Хоббс,Cooking,1
+131,ps:-1002242560,Хоббс,Crossbow Smithing,1
+131,ps:-1002242560,Хоббс,Crossbows,1
+131,ps:-1002242560,Хоббс,Dexterity,41
+131,ps:-1002242560,Хоббс,Dodge,23
+131,ps:-1002242560,Хоббс,Engineering,5
+131,ps:-1002242560,Хоббс,Farming,1
+131,ps:-1002242560,Хоббс,Field Medic,33
+131,ps:-1002242560,Хоббс,Hackers,49
+131,ps:-1002242560,Хоббс,Heavy Weapons,7
+131,ps:-1002242560,Хоббс,Katanas,20
+131,ps:-1002242560,Хоббс,Labouring,5
+131,ps:-1002242560,Хоббс,Lockpicking,7
+131,ps:-1002242560,Хоббс,Martial Arts,3
+131,ps:-1002242560,Хоббс,Melee Attack,52
+131,ps:-1002242560,Хоббс,Melee Defence,53
+131,ps:-1002242560,Хоббс,Perception,1
+131,ps:-1002242560,Хоббс,Polearms,9
+131,ps:-1002242560,Хоббс,Precision Shooting,-1
+131,ps:-1002242560,Хоббс,Robotics,19
+131,ps:-1002242560,Хоббс,Sabres,6
+131,ps:-1002242560,Хоббс,Science,3
+131,ps:-1002242560,Хоббс,Stealth,1
+131,ps:-1002242560,Хоббс,Strength,44
+131,ps:-1002242560,Хоббс,Swimming,50
+131,ps:-1002242560,Хоббс,Thievery,23
+131,ps:-1002242560,Хоббс,Toughness,59
+131,ps:-1002242560,Хоббс,Turrets,3
+131,ps:-1002242560,Хоббс,Weapon Smithing,1
+131,ps:-1346969344,Кан,Armour Smithing,0
+131,ps:-1346969344,Кан,Assassination,10
+131,ps:-1346969344,Кан,Athletics,82
+131,ps:-1346969344,Кан,Blunt,20
+131,ps:-1346969344,Кан,Cooking,1
+131,ps:-1346969344,Кан,Crossbow Smithing,1
+131,ps:-1346969344,Кан,Crossbows,3
+131,ps:-1346969344,Кан,Dexterity,51
+131,ps:-1346969344,Кан,Dodge,18
+131,ps:-1346969344,Кан,Engineering,3
+131,ps:-1346969344,Кан,Farming,0
+131,ps:-1346969344,Кан,Field Medic,41
+131,ps:-1346969344,Кан,Hackers,17
+131,ps:-1346969344,Кан,Heavy Weapons,22
+131,ps:-1346969344,Кан,Katanas,21
+131,ps:-1346969344,Кан,Labouring,0
+131,ps:-1346969344,Кан,Lockpicking,6
+131,ps:-1346969344,Кан,Martial Arts,0
+131,ps:-1346969344,Кан,Melee Attack,64
+131,ps:-1346969344,Кан,Melee Defence,53
+131,ps:-1346969344,Кан,Perception,-1
+131,ps:-1346969344,Кан,Polearms,18
+131,ps:-1346969344,Кан,Precision Shooting,21
+131,ps:-1346969344,Кан,Robotics,16
+131,ps:-1346969344,Кан,Sabres,55
+131,ps:-1346969344,Кан,Science,0
+131,ps:-1346969344,Кан,Stealth,0
+131,ps:-1346969344,Кан,Strength,45
+131,ps:-1346969344,Кан,Swimming,44
+131,ps:-1346969344,Кан,Thievery,2
+131,ps:-1346969344,Кан,Toughness,58
+131,ps:-1346969344,Кан,Turrets,21
+131,ps:-1346969344,Кан,Weapon Smithing,1
+131,ps:-1572677376,Бип,Armour Smithing,1
+131,ps:-1572677376,Бип,Assassination,1
+131,ps:-1572677376,Бип,Athletics,70
+131,ps:-1572677376,Бип,Blunt,1
+131,ps:-1572677376,Бип,Cooking,0
+131,ps:-1572677376,Бип,Crossbow Smithing,1
+131,ps:-1572677376,Бип,Crossbows,1
+131,ps:-1572677376,Бип,Dexterity,51
+131,ps:-1572677376,Бип,Dodge,11
+131,ps:-1572677376,Бип,Engineering,5
+131,ps:-1572677376,Бип,Farming,1
+131,ps:-1572677376,Бип,Field Medic,16
+131,ps:-1572677376,Бип,Hackers,1
+131,ps:-1572677376,Бип,Heavy Weapons,1
+131,ps:-1572677376,Бип,Katanas,41
+131,ps:-1572677376,Бип,Labouring,1
+131,ps:-1572677376,Бип,Lockpicking,3
+131,ps:-1572677376,Бип,Martial Arts,1
+131,ps:-1572677376,Бип,Melee Attack,47
+131,ps:-1572677376,Бип,Melee Defence,46
+131,ps:-1572677376,Бип,Perception,1
+131,ps:-1572677376,Бип,Polearms,1
+131,ps:-1572677376,Бип,Precision Shooting,1
+131,ps:-1572677376,Бип,Robotics,9
+131,ps:-1572677376,Бип,Sabres,1
+131,ps:-1572677376,Бип,Science,0
+131,ps:-1572677376,Бип,Stealth,4
+131,ps:-1572677376,Бип,Strength,30
+131,ps:-1572677376,Бип,Swimming,29
+131,ps:-1572677376,Бип,Thievery,1
+131,ps:-1572677376,Бип,Toughness,51
+131,ps:-1572677376,Бип,Turrets,1
+131,ps:-1572677376,Бип,Weapon Smithing,1
+131,ps:-1715743744,Рука,Armour Smithing,0
+131,ps:-1715743744,Рука,Assassination,1
+131,ps:-1715743744,Рука,Athletics,82
+131,ps:-1715743744,Рука,Blunt,10
+131,ps:-1715743744,Рука,Cooking,1
+131,ps:-1715743744,Рука,Crossbow Smithing,1
+131,ps:-1715743744,Рука,Crossbows,0
+131,ps:-1715743744,Рука,Dexterity,32
+131,ps:-1715743744,Рука,Dodge,17
+131,ps:-1715743744,Рука,Engineering,0
+131,ps:-1715743744,Рука,Farming,0
+131,ps:-1715743744,Рука,Field Medic,29
+131,ps:-1715743744,Рука,Hackers,49
+131,ps:-1715743744,Рука,Heavy Weapons,10
+131,ps:-1715743744,Рука,Katanas,11
+131,ps:-1715743744,Рука,Labouring,0
+131,ps:-1715743744,Рука,Lockpicking,8
+131,ps:-1715743744,Рука,Martial Arts,6
+131,ps:-1715743744,Рука,Melee Attack,52
+131,ps:-1715743744,Рука,Melee Defence,53
+131,ps:-1715743744,Рука,Perception,10
+131,ps:-1715743744,Рука,Polearms,18
+131,ps:-1715743744,Рука,Precision Shooting,0
+131,ps:-1715743744,Рука,Robotics,13
+131,ps:-1715743744,Рука,Sabres,11
+131,ps:-1715743744,Рука,Science,0
+131,ps:-1715743744,Рука,Stealth,0
+131,ps:-1715743744,Рука,Strength,45
+131,ps:-1715743744,Рука,Swimming,32
+131,ps:-1715743744,Рука,Thievery,0
+131,ps:-1715743744,Рука,Toughness,55
+131,ps:-1715743744,Рука,Turrets,1
+131,ps:-1715743744,Рука,Weapon Smithing,1
+131,ps:-2041915648,Пиа,Armour Smithing,0
+131,ps:-2041915648,Пиа,Assassination,1
+131,ps:-2041915648,Пиа,Athletics,81
+131,ps:-2041915648,Пиа,Blunt,7
+131,ps:-2041915648,Пиа,Cooking,1
+131,ps:-2041915648,Пиа,Crossbow Smithing,1
+131,ps:-2041915648,Пиа,Crossbows,0
+131,ps:-2041915648,Пиа,Dexterity,50
+131,ps:-2041915648,Пиа,Dodge,11
+131,ps:-2041915648,Пиа,Engineering,2
+131,ps:-2041915648,Пиа,Farming,1
+131,ps:-2041915648,Пиа,Field Medic,16
+131,ps:-2041915648,Пиа,Hackers,3
+131,ps:-2041915648,Пиа,Heavy Weapons,2
+131,ps:-2041915648,Пиа,Katanas,44
+131,ps:-2041915648,Пиа,Labouring,0
+131,ps:-2041915648,Пиа,Lockpicking,3
+131,ps:-2041915648,Пиа,Martial Arts,-1
+131,ps:-2041915648,Пиа,Melee Attack,42
+131,ps:-2041915648,Пиа,Melee Defence,43
+131,ps:-2041915648,Пиа,Perception,7
+131,ps:-2041915648,Пиа,Polearms,0
+131,ps:-2041915648,Пиа,Precision Shooting,0
+131,ps:-2041915648,Пиа,Robotics,11
+131,ps:-2041915648,Пиа,Sabres,-1
+131,ps:-2041915648,Пиа,Science,0
+131,ps:-2041915648,Пиа,Stealth,9
+131,ps:-2041915648,Пиа,Strength,27
+131,ps:-2041915648,Пиа,Swimming,40
+131,ps:-2041915648,Пиа,Thievery,12
+131,ps:-2041915648,Пиа,Toughness,45
+131,ps:-2041915648,Пиа,Turrets,2
+131,ps:-2041915648,Пиа,Weapon Smithing,-1
+131,ps:-383834368,Крошка Джон,Armour Smithing,1
+131,ps:-383834368,Крошка Джон,Assassination,5
+131,ps:-383834368,Крошка Джон,Athletics,74
+131,ps:-383834368,Крошка Джон,Blunt,11
+131,ps:-383834368,Крошка Джон,Cooking,1
+131,ps:-383834368,Крошка Джон,Crossbow Smithing,1
+131,ps:-383834368,Крошка Джон,Crossbows,1
+131,ps:-383834368,Крошка Джон,Dexterity,46
+131,ps:-383834368,Крошка Джон,Dodge,10
+131,ps:-383834368,Крошка Джон,Engineering,1
+131,ps:-383834368,Крошка Джон,Farming,1
+131,ps:-383834368,Крошка Джон,Field Medic,23
+131,ps:-383834368,Крошка Джон,Hackers,10
+131,ps:-383834368,Крошка Джон,Heavy Weapons,10
+131,ps:-383834368,Крошка Джон,Katanas,10
+131,ps:-383834368,Крошка Джон,Labouring,1
+131,ps:-383834368,Крошка Джон,Lockpicking,8
+131,ps:-383834368,Крошка Джон,Martial Arts,1
+131,ps:-383834368,Крошка Джон,Melee Attack,51
+131,ps:-383834368,Крошка Джон,Melee Defence,42
+131,ps:-383834368,Крошка Джон,Perception,1
+131,ps:-383834368,Крошка Джон,Polearms,10
+131,ps:-383834368,Крошка Джон,Precision Shooting,10
+131,ps:-383834368,Крошка Джон,Robotics,9
+131,ps:-383834368,Крошка Джон,Sabres,43
+131,ps:-383834368,Крошка Джон,Science,1
+131,ps:-383834368,Крошка Джон,Stealth,1
+131,ps:-383834368,Крошка Джон,Strength,34
+131,ps:-383834368,Крошка Джон,Swimming,21
+131,ps:-383834368,Крошка Джон,Thievery,1
+131,ps:-383834368,Крошка Джон,Toughness,48
+131,ps:-383834368,Крошка Джон,Turrets,10
+131,ps:-383834368,Крошка Джон,Weapon Smithing,1
+131,ps:-456466432,Мрачный Нил,Armour Smithing,1
+131,ps:-456466432,Мрачный Нил,Assassination,1
+131,ps:-456466432,Мрачный Нил,Athletics,84
+131,ps:-456466432,Мрачный Нил,Blunt,11
+131,ps:-456466432,Мрачный Нил,Cooking,1
+131,ps:-456466432,Мрачный Нил,Crossbow Smithing,1
+131,ps:-456466432,Мрачный Нил,Crossbows,0
+131,ps:-456466432,Мрачный Нил,Dexterity,44
+131,ps:-456466432,Мрачный Нил,Dodge,32
+131,ps:-456466432,Мрачный Нил,Engineering,2
+131,ps:-456466432,Мрачный Нил,Farming,1
+131,ps:-456466432,Мрачный Нил,Field Medic,26
+131,ps:-456466432,Мрачный Нил,Hackers,3
+131,ps:-456466432,Мрачный Нил,Heavy Weapons,-2
+131,ps:-456466432,Мрачный Нил,Katanas,2
+131,ps:-456466432,Мрачный Нил,Labouring,1
+131,ps:-456466432,Мрачный Нил,Lockpicking,16
+131,ps:-456466432,Мрачный Нил,Martial Arts,5
+131,ps:-456466432,Мрачный Нил,Melee Attack,55
+131,ps:-456466432,Мрачный Нил,Melee Defence,56
+131,ps:-456466432,Мрачный Нил,Perception,0
+131,ps:-456466432,Мрачный Нил,Polearms,53
+131,ps:-456466432,Мрачный Нил,Precision Shooting,2
+131,ps:-456466432,Мрачный Нил,Robotics,40
+131,ps:-456466432,Мрачный Нил,Sabres,4
+131,ps:-456466432,Мрачный Нил,Science,1
+131,ps:-456466432,Мрачный Нил,Stealth,1
+131,ps:-456466432,Мрачный Нил,Strength,38
+131,ps:-456466432,Мрачный Нил,Swimming,45
+131,ps:-456466432,Мрачный Нил,Thievery,15
+131,ps:-456466432,Мрачный Нил,Toughness,54
+131,ps:-456466432,Мрачный Нил,Turrets,0
+131,ps:-456466432,Мрачный Нил,Weapon Smithing,3
+131,ps:-474044416,Сэто,Armour Smithing,1
+131,ps:-474044416,Сэто,Assassination,10
+131,ps:-474044416,Сэто,Athletics,33
+131,ps:-474044416,Сэто,Blunt,20
+131,ps:-474044416,Сэто,Cooking,1
+131,ps:-474044416,Сэто,Crossbow Smithing,1
+131,ps:-474044416,Сэто,Crossbows,1
+131,ps:-474044416,Сэто,Dexterity,22
+131,ps:-474044416,Сэто,Dodge,11
+131,ps:-474044416,Сэто,Engineering,1
+131,ps:-474044416,Сэто,Farming,0
+131,ps:-474044416,Сэто,Field Medic,23
+131,ps:-474044416,Сэто,Hackers,28
+131,ps:-474044416,Сэто,Heavy Weapons,20
+131,ps:-474044416,Сэто,Katanas,20
+131,ps:-474044416,Сэто,Labouring,0
+131,ps:-474044416,Сэто,Lockpicking,1
+131,ps:-474044416,Сэто,Martial Arts,2
+131,ps:-474044416,Сэто,Melee Attack,31
+131,ps:-474044416,Сэто,Melee Defence,39
+131,ps:-474044416,Сэто,Perception,17
+131,ps:-474044416,Сэто,Polearms,20
+131,ps:-474044416,Сэто,Precision Shooting,21
+131,ps:-474044416,Сэто,Robotics,15
+131,ps:-474044416,Сэто,Sabres,20
+131,ps:-474044416,Сэто,Science,0
+131,ps:-474044416,Сэто,Stealth,0
+131,ps:-474044416,Сэто,Strength,25
+131,ps:-474044416,Сэто,Swimming,28
+131,ps:-474044416,Сэто,Thievery,0
+131,ps:-474044416,Сэто,Toughness,39
+131,ps:-474044416,Сэто,Turrets,29
+131,ps:-474044416,Сэто,Weapon Smithing,1
+131,ps:-476241664,Шрайк,Armour Smithing,3
+131,ps:-476241664,Шрайк,Assassination,1
+131,ps:-476241664,Шрайк,Athletics,79
+131,ps:-476241664,Шрайк,Blunt,7
+131,ps:-476241664,Шрайк,Cooking,0
+131,ps:-476241664,Шрайк,Crossbow Smithing,1
+131,ps:-476241664,Шрайк,Crossbows,0
+131,ps:-476241664,Шрайк,Dexterity,36
+131,ps:-476241664,Шрайк,Dodge,12
+131,ps:-476241664,Шрайк,Engineering,8
+131,ps:-476241664,Шрайк,Farming,0
+131,ps:-476241664,Шрайк,Field Medic,15
+131,ps:-476241664,Шрайк,Hackers,2
+131,ps:-476241664,Шрайк,Heavy Weapons,7
+131,ps:-476241664,Шрайк,Katanas,30
+131,ps:-476241664,Шрайк,Labouring,4
+131,ps:-476241664,Шрайк,Lockpicking,0
+131,ps:-476241664,Шрайк,Martial Arts,2
+131,ps:-476241664,Шрайк,Melee Attack,39
+131,ps:-476241664,Шрайк,Melee Defence,41
+131,ps:-476241664,Шрайк,Perception,0
+131,ps:-476241664,Шрайк,Polearms,34
+131,ps:-476241664,Шрайк,Precision Shooting,0
+131,ps:-476241664,Шрайк,Robotics,10
+131,ps:-476241664,Шрайк,Sabres,2
+131,ps:-476241664,Шрайк,Science,0
+131,ps:-476241664,Шрайк,Stealth,1
+131,ps:-476241664,Шрайк,Strength,23
+131,ps:-476241664,Шрайк,Swimming,35
+131,ps:-476241664,Шрайк,Thievery,0
+131,ps:-476241664,Шрайк,Toughness,39
+131,ps:-476241664,Шрайк,Turrets,2
+131,ps:-476241664,Шрайк,Weapon Smithing,0
+131,ps:-843917568,fx,Armour Smithing,5
+131,ps:-843917568,fx,Assassination,10
+131,ps:-843917568,fx,Athletics,88
+131,ps:-843917568,fx,Blunt,22
+131,ps:-843917568,fx,Cooking,1
+131,ps:-843917568,fx,Crossbow Smithing,1
+131,ps:-843917568,fx,Crossbows,-1
+131,ps:-843917568,fx,Dexterity,50
+131,ps:-843917568,fx,Dodge,-2
+131,ps:-843917568,fx,Engineering,-2
+131,ps:-843917568,fx,Farming,1
+131,ps:-843917568,fx,Field Medic,16
+131,ps:-843917568,fx,Hackers,21
+131,ps:-843917568,fx,Heavy Weapons,20
+131,ps:-843917568,fx,Katanas,17
+131,ps:-843917568,fx,Labouring,1
+131,ps:-843917568,fx,Lockpicking,5
+131,ps:-843917568,fx,Martial Arts,50
+131,ps:-843917568,fx,Melee Attack,52
+131,ps:-843917568,fx,Melee Defence,52
+131,ps:-843917568,fx,Perception,4
+131,ps:-843917568,fx,Polearms,19
+131,ps:-843917568,fx,Precision Shooting,15
+131,ps:-843917568,fx,Robotics,0
+131,ps:-843917568,fx,Sabres,21
+131,ps:-843917568,fx,Science,1
+131,ps:-843917568,fx,Stealth,3
+131,ps:-843917568,fx,Strength,26
+131,ps:-843917568,fx,Swimming,42
+131,ps:-843917568,fx,Thievery,1
+131,ps:-843917568,fx,Toughness,54
+131,ps:-843917568,fx,Turrets,22
+131,ps:-843917568,fx,Weapon Smithing,-3
+131,ps:-941451776,Вик,Armour Smithing,1
+131,ps:-941451776,Вик,Assassination,1
+131,ps:-941451776,Вик,Athletics,67
+131,ps:-941451776,Вик,Blunt,20
+131,ps:-941451776,Вик,Cooking,1
+131,ps:-941451776,Вик,Crossbow Smithing,1
+131,ps:-941451776,Вик,Crossbows,0
+131,ps:-941451776,Вик,Dexterity,19
+131,ps:-941451776,Вик,Dodge,26
+131,ps:-941451776,Вик,Engineering,44
+131,ps:-941451776,Вик,Farming,4
+131,ps:-941451776,Вик,Field Medic,15
+131,ps:-941451776,Вик,Hackers,3
+131,ps:-941451776,Вик,Heavy Weapons,6
+131,ps:-941451776,Вик,Katanas,5
+131,ps:-941451776,Вик,Labouring,21
+131,ps:-941451776,Вик,Lockpicking,2
+131,ps:-941451776,Вик,Martial Arts,8
+131,ps:-941451776,Вик,Melee Attack,32
+131,ps:-941451776,Вик,Melee Defence,43
+131,ps:-941451776,Вик,Perception,18
+131,ps:-941451776,Вик,Polearms,27
+131,ps:-941451776,Вик,Precision Shooting,9
+131,ps:-941451776,Вик,Robotics,41
+131,ps:-941451776,Вик,Sabres,5
+131,ps:-941451776,Вик,Science,0
+131,ps:-941451776,Вик,Stealth,1
+131,ps:-941451776,Вик,Strength,31
+131,ps:-941451776,Вик,Swimming,17
+131,ps:-941451776,Вик,Thievery,1
+131,ps:-941451776,Вик,Toughness,45
+131,ps:-941451776,Вик,Turrets,17
+131,ps:-941451776,Вик,Weapon Smithing,0
+131,ps:1006225600,Кот,Armour Smithing,0
+131,ps:1006225600,Кот,Assassination,1
+131,ps:1006225600,Кот,Athletics,43
+131,ps:1006225600,Кот,Blunt,2
+131,ps:1006225600,Кот,Cooking,0
+131,ps:1006225600,Кот,Crossbow Smithing,1
+131,ps:1006225600,Кот,Crossbows,11
+131,ps:1006225600,Кот,Dexterity,20
+131,ps:1006225600,Кот,Dodge,5
+131,ps:1006225600,Кот,Engineering,39
+131,ps:1006225600,Кот,Farming,0
+131,ps:1006225600,Кот,Field Medic,40
+131,ps:1006225600,Кот,Hackers,0
+131,ps:1006225600,Кот,Heavy Weapons,2
+131,ps:1006225600,Кот,Katanas,7
+131,ps:1006225600,Кот,Labouring,0
+131,ps:1006225600,Кот,Lockpicking,16
+131,ps:1006225600,Кот,Martial Arts,3
+131,ps:1006225600,Кот,Melee Attack,23
+131,ps:1006225600,Кот,Melee Defence,17
+131,ps:1006225600,Кот,Perception,6
+131,ps:1006225600,Кот,Polearms,2
+131,ps:1006225600,Кот,Precision Shooting,8
+131,ps:1006225600,Кот,Robotics,15
+131,ps:1006225600,Кот,Sabres,14
+131,ps:1006225600,Кот,Science,66
+131,ps:1006225600,Кот,Stealth,3
+131,ps:1006225600,Кот,Strength,10
+131,ps:1006225600,Кот,Swimming,17
+131,ps:1006225600,Кот,Thievery,2
+131,ps:1006225600,Кот,Toughness,21
+131,ps:1006225600,Кот,Turrets,0
+131,ps:1006225600,Кот,Weapon Smithing,1
+131,ps:1106567424,Флик,Armour Smithing,0
+131,ps:1106567424,Флик,Assassination,1
+131,ps:1106567424,Флик,Athletics,88
+131,ps:1106567424,Флик,Blunt,1
+131,ps:1106567424,Флик,Cooking,0
+131,ps:1106567424,Флик,Crossbow Smithing,1
+131,ps:1106567424,Флик,Crossbows,82
+131,ps:1106567424,Флик,Dexterity,70
+131,ps:1106567424,Флик,Dodge,20
+131,ps:1106567424,Флик,Engineering,60
+131,ps:1106567424,Флик,Farming,1
+131,ps:1106567424,Флик,Field Medic,26
+131,ps:1106567424,Флик,Hackers,1
+131,ps:1106567424,Флик,Heavy Weapons,1
+131,ps:1106567424,Флик,Katanas,44
+131,ps:1106567424,Флик,Labouring,36
+131,ps:1106567424,Флик,Lockpicking,14
+131,ps:1106567424,Флик,Martial Arts,1
+131,ps:1106567424,Флик,Melee Attack,43
+131,ps:1106567424,Флик,Melee Defence,50
+131,ps:1106567424,Флик,Perception,80
+131,ps:1106567424,Флик,Polearms,0
+131,ps:1106567424,Флик,Precision Shooting,84
+131,ps:1106567424,Флик,Robotics,22
+131,ps:1106567424,Флик,Sabres,1
+131,ps:1106567424,Флик,Science,0
+131,ps:1106567424,Флик,Stealth,12
+131,ps:1106567424,Флик,Strength,33
+131,ps:1106567424,Флик,Swimming,55
+131,ps:1106567424,Флик,Thievery,10
+131,ps:1106567424,Флик,Toughness,59
+131,ps:1106567424,Флик,Turrets,0
+131,ps:1106567424,Флик,Weapon Smithing,0
+131,ps:1223510784,Хамут,Armour Smithing,-3
+131,ps:1223510784,Хамут,Assassination,6
+131,ps:1223510784,Хамут,Athletics,82
+131,ps:1223510784,Хамут,Blunt,14
+131,ps:1223510784,Хамут,Cooking,1
+131,ps:1223510784,Хамут,Crossbow Smithing,1
+131,ps:1223510784,Хамут,Crossbows,-4
+131,ps:1223510784,Хамут,Dexterity,45
+131,ps:1223510784,Хамут,Dodge,21
+131,ps:1223510784,Хамут,Engineering,5
+131,ps:1223510784,Хамут,Farming,1
+131,ps:1223510784,Хамут,Field Medic,24
+131,ps:1223510784,Хамут,Hackers,18
+131,ps:1223510784,Хамут,Heavy Weapons,18
+131,ps:1223510784,Хамут,Katanas,19
+131,ps:1223510784,Хамут,Labouring,1
+131,ps:1223510784,Хамут,Lockpicking,17
+131,ps:1223510784,Хамут,Martial Arts,0
+131,ps:1223510784,Хамут,Melee Attack,51
+131,ps:1223510784,Хамут,Melee Defence,50
+131,ps:1223510784,Хамут,Perception,0
+131,ps:1223510784,Хамут,Polearms,51
+131,ps:1223510784,Хамут,Precision Shooting,17
+131,ps:1223510784,Хамут,Robotics,8
+131,ps:1223510784,Хамут,Sabres,17
+131,ps:1223510784,Хамут,Science,1
+131,ps:1223510784,Хамут,Stealth,10
+131,ps:1223510784,Хамут,Strength,32
+131,ps:1223510784,Хамут,Swimming,42
+131,ps:1223510784,Хамут,Thievery,17
+131,ps:1223510784,Хамут,Toughness,47
+131,ps:1223510784,Хамут,Turrets,17
+131,ps:1223510784,Хамут,Weapon Smithing,-3
+131,ps:1359130880,Ану,Armour Smithing,1
+131,ps:1359130880,Ану,Assassination,1
+131,ps:1359130880,Ану,Athletics,85
+131,ps:1359130880,Ану,Blunt,1
+131,ps:1359130880,Ану,Cooking,1
+131,ps:1359130880,Ану,Crossbow Smithing,1
+131,ps:1359130880,Ану,Crossbows,1
+131,ps:1359130880,Ану,Dexterity,47
+131,ps:1359130880,Ану,Dodge,41
+131,ps:1359130880,Ану,Engineering,3
+131,ps:1359130880,Ану,Farming,1
+131,ps:1359130880,Ану,Field Medic,17
+131,ps:1359130880,Ану,Hackers,1
+131,ps:1359130880,Ану,Heavy Weapons,1
+131,ps:1359130880,Ану,Katanas,1
+131,ps:1359130880,Ану,Labouring,1
+131,ps:1359130880,Ану,Lockpicking,4
+131,ps:1359130880,Ану,Martial Arts,41
+131,ps:1359130880,Ану,Melee Attack,18
+131,ps:1359130880,Ану,Melee Defence,20
+131,ps:1359130880,Ану,Perception,1
+131,ps:1359130880,Ану,Polearms,1
+131,ps:1359130880,Ану,Precision Shooting,1
+131,ps:1359130880,Ану,Robotics,35
+131,ps:1359130880,Ану,Sabres,17
+131,ps:1359130880,Ану,Science,1
+131,ps:1359130880,Ану,Stealth,2
+131,ps:1359130880,Ану,Strength,50
+131,ps:1359130880,Ану,Swimming,38
+131,ps:1359130880,Ану,Thievery,0
+131,ps:1359130880,Ану,Toughness,47
+131,ps:1359130880,Ану,Turrets,1
+131,ps:1359130880,Ану,Weapon Smithing,1
+131,ps:1441040000,Ожог,Armour Smithing,1
+131,ps:1441040000,Ожог,Assassination,7
+131,ps:1441040000,Ожог,Athletics,86
+131,ps:1441040000,Ожог,Blunt,19
+131,ps:1441040000,Ожог,Cooking,1
+131,ps:1441040000,Ожог,Crossbow Smithing,1
+131,ps:1441040000,Ожог,Crossbows,0
+131,ps:1441040000,Ожог,Dexterity,49
+131,ps:1441040000,Ожог,Dodge,19
+131,ps:1441040000,Ожог,Engineering,1
+131,ps:1441040000,Ожог,Farming,1
+131,ps:1441040000,Ожог,Field Medic,35
+131,ps:1441040000,Ожог,Hackers,16
+131,ps:1441040000,Ожог,Heavy Weapons,56
+131,ps:1441040000,Ожог,Katanas,18
+131,ps:1441040000,Ожог,Labouring,1
+131,ps:1441040000,Ожог,Lockpicking,26
+131,ps:1441040000,Ожог,Martial Arts,0
+131,ps:1441040000,Ожог,Melee Attack,61
+131,ps:1441040000,Ожог,Melee Defence,62
+131,ps:1441040000,Ожог,Perception,12
+131,ps:1441040000,Ожог,Polearms,14
+131,ps:1441040000,Ожог,Precision Shooting,13
+131,ps:1441040000,Ожог,Robotics,54
+131,ps:1441040000,Ожог,Sabres,14
+131,ps:1441040000,Ожог,Science,1
+131,ps:1441040000,Ожог,Stealth,1
+131,ps:1441040000,Ожог,Strength,49
+131,ps:1441040000,Ожог,Swimming,53
+131,ps:1441040000,Ожог,Thievery,32
+131,ps:1441040000,Ожог,Toughness,58
+131,ps:1441040000,Ожог,Turrets,24
+131,ps:1441040000,Ожог,Weapon Smithing,2
+131,ps:145629888,Гриффин,Armour Smithing,1
+131,ps:145629888,Гриффин,Assassination,1
+131,ps:145629888,Гриффин,Athletics,73
+131,ps:145629888,Гриффин,Blunt,20
+131,ps:145629888,Гриффин,Cooking,1
+131,ps:145629888,Гриффин,Crossbow Smithing,1
+131,ps:145629888,Гриффин,Crossbows,1
+131,ps:145629888,Гриффин,Dexterity,35
+131,ps:145629888,Гриффин,Dodge,13
+131,ps:145629888,Гриффин,Engineering,0
+131,ps:145629888,Гриффин,Farming,1
+131,ps:145629888,Гриффин,Field Medic,9
+131,ps:145629888,Гриффин,Hackers,39
+131,ps:145629888,Гриффин,Heavy Weapons,20
+131,ps:145629888,Гриффин,Katanas,20
+131,ps:145629888,Гриффин,Labouring,0
+131,ps:145629888,Гриффин,Lockpicking,1
+131,ps:145629888,Гриффин,Martial Arts,1
+131,ps:145629888,Гриффин,Melee Attack,44
+131,ps:145629888,Гриффин,Melee Defence,46
+131,ps:145629888,Гриффин,Perception,1
+131,ps:145629888,Гриффин,Polearms,1
+131,ps:145629888,Гриффин,Precision Shooting,1
+131,ps:145629888,Гриффин,Robotics,1
+131,ps:145629888,Гриффин,Sabres,21
+131,ps:145629888,Гриффин,Science,0
+131,ps:145629888,Гриффин,Stealth,2
+131,ps:145629888,Гриффин,Strength,37
+131,ps:145629888,Гриффин,Swimming,26
+131,ps:145629888,Гриффин,Thievery,1
+131,ps:145629888,Гриффин,Toughness,49
+131,ps:145629888,Гриффин,Turrets,1
+131,ps:145629888,Гриффин,Weapon Smithing,1
+131,ps:1464721664,Вынос мозга,Armour Smithing,0
+131,ps:1464721664,Вынос мозга,Assassination,1
+131,ps:1464721664,Вынос мозга,Athletics,56
+131,ps:1464721664,Вынос мозга,Blunt,1
+131,ps:1464721664,Вынос мозга,Cooking,1
+131,ps:1464721664,Вынос мозга,Crossbow Smithing,1
+131,ps:1464721664,Вынос мозга,Crossbows,60
+131,ps:1464721664,Вынос мозга,Dexterity,20
+131,ps:1464721664,Вынос мозга,Dodge,6
+131,ps:1464721664,Вынос мозга,Engineering,1
+131,ps:1464721664,Вынос мозга,Farming,0
+131,ps:1464721664,Вынос мозга,Field Medic,13
+131,ps:1464721664,Вынос мозга,Hackers,0
+131,ps:1464721664,Вынос мозга,Heavy Weapons,0
+131,ps:1464721664,Вынос мозга,Katanas,19
+131,ps:1464721664,Вынос мозга,Labouring,0
+131,ps:1464721664,Вынос мозга,Lockpicking,19
+131,ps:1464721664,Вынос мозга,Martial Arts,0
+131,ps:1464721664,Вынос мозга,Melee Attack,19
+131,ps:1464721664,Вынос мозга,Melee Defence,35
+131,ps:1464721664,Вынос мозга,Perception,40
+131,ps:1464721664,Вынос мозга,Polearms,0
+131,ps:1464721664,Вынос мозга,Precision Shooting,37
+131,ps:1464721664,Вынос мозга,Robotics,1
+131,ps:1464721664,Вынос мозга,Sabres,0
+131,ps:1464721664,Вынос мозга,Science,0
+131,ps:1464721664,Вынос мозга,Stealth,1
+131,ps:1464721664,Вынос мозга,Strength,12
+131,ps:1464721664,Вынос мозга,Swimming,9
+131,ps:1464721664,Вынос мозга,Thievery,0
+131,ps:1464721664,Вынос мозга,Toughness,36
+131,ps:1464721664,Вынос мозга,Turrets,54
+131,ps:1464721664,Вынос мозга,Weapon Smithing,0
+131,ps:1665649408,Ридли,Armour Smithing,4
+131,ps:1665649408,Ридли,Assassination,8
+131,ps:1665649408,Ридли,Athletics,86
+131,ps:1665649408,Ридли,Blunt,8
+131,ps:1665649408,Ридли,Cooking,1
+131,ps:1665649408,Ридли,Crossbow Smithing,1
+131,ps:1665649408,Ридли,Crossbows,2
+131,ps:1665649408,Ридли,Dexterity,50
+131,ps:1665649408,Ридли,Dodge,17
+131,ps:1665649408,Ридли,Engineering,4
+131,ps:1665649408,Ридли,Farming,1
+131,ps:1665649408,Ридли,Field Medic,39
+131,ps:1665649408,Ридли,Hackers,22
+131,ps:1665649408,Ридли,Heavy Weapons,9
+131,ps:1665649408,Ридли,Katanas,21
+131,ps:1665649408,Ридли,Labouring,1
+131,ps:1665649408,Ридли,Lockpicking,2
+131,ps:1665649408,Ридли,Martial Arts,-2
+131,ps:1665649408,Ридли,Melee Attack,54
+131,ps:1665649408,Ридли,Melee Defence,50
+131,ps:1665649408,Ридли,Perception,3
+131,ps:1665649408,Ридли,Polearms,8
+131,ps:1665649408,Ридли,Precision Shooting,11
+131,ps:1665649408,Ридли,Robotics,24
+131,ps:1665649408,Ридли,Sabres,51
+131,ps:1665649408,Ридли,Science,1
+131,ps:1665649408,Ридли,Stealth,-1
+131,ps:1665649408,Ридли,Strength,35
+131,ps:1665649408,Ридли,Swimming,45
+131,ps:1665649408,Ридли,Thievery,3
+131,ps:1665649408,Ридли,Toughness,50
+131,ps:1665649408,Ридли,Turrets,11
+131,ps:1665649408,Ридли,Weapon Smithing,-2
+131,ps:1671874944,Гигант Ранэ,Armour Smithing,-1
+131,ps:1671874944,Гигант Ранэ,Assassination,1
+131,ps:1671874944,Гигант Ранэ,Athletics,72
+131,ps:1671874944,Гигант Ранэ,Blunt,19
+131,ps:1671874944,Гигант Ранэ,Cooking,1
+131,ps:1671874944,Гигант Ранэ,Crossbow Smithing,1
+131,ps:1671874944,Гигант Ранэ,Crossbows,-1
+131,ps:1671874944,Гигант Ранэ,Dexterity,27
+131,ps:1671874944,Гигант Ранэ,Dodge,10
+131,ps:1671874944,Гигант Ранэ,Engineering,-2
+131,ps:1671874944,Гигант Ранэ,Farming,0
+131,ps:1671874944,Гигант Ранэ,Field Medic,19
+131,ps:1671874944,Гигант Ранэ,Hackers,35
+131,ps:1671874944,Гигант Ранэ,Heavy Weapons,39
+131,ps:1671874944,Гигант Ранэ,Katanas,18
+131,ps:1671874944,Гигант Ранэ,Labouring,0
+131,ps:1671874944,Гигант Ранэ,Lockpicking,3
+131,ps:1671874944,Гигант Ранэ,Martial Arts,1
+131,ps:1671874944,Гигант Ранэ,Melee Attack,49
+131,ps:1671874944,Гигант Ранэ,Melee Defence,49
+131,ps:1671874944,Гигант Ранэ,Perception,2
+131,ps:1671874944,Гигант Ранэ,Polearms,0
+131,ps:1671874944,Гигант Ранэ,Precision Shooting,3
+131,ps:1671874944,Гигант Ранэ,Robotics,9
+131,ps:1671874944,Гигант Ранэ,Sabres,19
+131,ps:1671874944,Гигант Ранэ,Science,0
+131,ps:1671874944,Гигант Ранэ,Stealth,0
+131,ps:1671874944,Гигант Ранэ,Strength,48
+131,ps:1671874944,Гигант Ранэ,Swimming,27
+131,ps:1671874944,Гигант Ранэ,Thievery,33
+131,ps:1671874944,Гигант Ранэ,Toughness,49
+131,ps:1671874944,Гигант Ранэ,Turrets,2
+131,ps:1671874944,Гигант Ранэ,Weapon Smithing,1
+131,ps:1758056704,Зелёный,Armour Smithing,1
+131,ps:1758056704,Зелёный,Assassination,1
+131,ps:1758056704,Зелёный,Athletics,82
+131,ps:1758056704,Зелёный,Blunt,1
+131,ps:1758056704,Зелёный,Cooking,0
+131,ps:1758056704,Зелёный,Crossbow Smithing,1
+131,ps:1758056704,Зелёный,Crossbows,82
+131,ps:1758056704,Зелёный,Dexterity,61
+131,ps:1758056704,Зелёный,Dodge,9
+131,ps:1758056704,Зелёный,Engineering,3
+131,ps:1758056704,Зелёный,Farming,1
+131,ps:1758056704,Зелёный,Field Medic,17
+131,ps:1758056704,Зелёный,Hackers,1
+131,ps:1758056704,Зелёный,Heavy Weapons,1
+131,ps:1758056704,Зелёный,Katanas,38
+131,ps:1758056704,Зелёный,Labouring,1
+131,ps:1758056704,Зелёный,Lockpicking,13
+131,ps:1758056704,Зелёный,Martial Arts,1
+131,ps:1758056704,Зелёный,Melee Attack,34
+131,ps:1758056704,Зелёный,Melee Defence,43
+131,ps:1758056704,Зелёный,Perception,66
+131,ps:1758056704,Зелёный,Polearms,1
+131,ps:1758056704,Зелёный,Precision Shooting,76
+131,ps:1758056704,Зелёный,Robotics,14
+131,ps:1758056704,Зелёный,Sabres,1
+131,ps:1758056704,Зелёный,Science,0
+131,ps:1758056704,Зелёный,Stealth,3
+131,ps:1758056704,Зелёный,Strength,24
+131,ps:1758056704,Зелёный,Swimming,43
+131,ps:1758056704,Зелёный,Thievery,1
+131,ps:1758056704,Зелёный,Toughness,47
+131,ps:1758056704,Зелёный,Turrets,78
+131,ps:1758056704,Зелёный,Weapon Smithing,1
+131,ps:175903328,Доктор Чон,Armour Smithing,1
+131,ps:175903328,Доктор Чон,Assassination,1
+131,ps:175903328,Доктор Чон,Athletics,69
+131,ps:175903328,Доктор Чон,Blunt,0
+131,ps:175903328,Доктор Чон,Cooking,1
+131,ps:175903328,Доктор Чон,Crossbow Smithing,1
+131,ps:175903328,Доктор Чон,Crossbows,1
+131,ps:175903328,Доктор Чон,Dexterity,23
+131,ps:175903328,Доктор Чон,Dodge,12
+131,ps:175903328,Доктор Чон,Engineering,1
+131,ps:175903328,Доктор Чон,Farming,1
+131,ps:175903328,Доктор Чон,Field Medic,40
+131,ps:175903328,Доктор Чон,Hackers,36
+131,ps:175903328,Доктор Чон,Heavy Weapons,1
+131,ps:175903328,Доктор Чон,Katanas,1
+131,ps:175903328,Доктор Чон,Labouring,1
+131,ps:175903328,Доктор Чон,Lockpicking,5
+131,ps:175903328,Доктор Чон,Martial Arts,0
+131,ps:175903328,Доктор Чон,Melee Attack,38
+131,ps:175903328,Доктор Чон,Melee Defence,43
+131,ps:175903328,Доктор Чон,Perception,0
+131,ps:175903328,Доктор Чон,Polearms,1
+131,ps:175903328,Доктор Чон,Precision Shooting,1
+131,ps:175903328,Доктор Чон,Robotics,1
+131,ps:175903328,Доктор Чон,Sabres,0
+131,ps:175903328,Доктор Чон,Science,18
+131,ps:175903328,Доктор Чон,Stealth,2
+131,ps:175903328,Доктор Чон,Strength,30
+131,ps:175903328,Доктор Чон,Swimming,22
+131,ps:175903328,Доктор Чон,Thievery,0
+131,ps:175903328,Доктор Чон,Toughness,44
+131,ps:175903328,Доктор Чон,Turrets,1
+131,ps:175903328,Доктор Чон,Weapon Smithing,0
+131,ps:1856201216,Вьючный бык,Armour Smithing,0
+131,ps:1856201216,Вьючный бык,Assassination,12
+131,ps:1856201216,Вьючный бык,Athletics,59
+131,ps:1856201216,Вьючный бык,Blunt,24
+131,ps:1856201216,Вьючный бык,Cooking,1
+131,ps:1856201216,Вьючный бык,Crossbow Smithing,1
+131,ps:1856201216,Вьючный бык,Crossbows,3
+131,ps:1856201216,Вьючный бык,Dexterity,34
+131,ps:1856201216,Вьючный бык,Dodge,0
+131,ps:1856201216,Вьючный бык,Engineering,2
+131,ps:1856201216,Вьючный бык,Farming,1
+131,ps:1856201216,Вьючный бык,Field Medic,25
+131,ps:1856201216,Вьючный бык,Hackers,26
+131,ps:1856201216,Вьючный бык,Heavy Weapons,22
+131,ps:1856201216,Вьючный бык,Katanas,24
+131,ps:1856201216,Вьючный бык,Labouring,1
+131,ps:1856201216,Вьючный бык,Lockpicking,1
+131,ps:1856201216,Вьючный бык,Martial Arts,21
+131,ps:1856201216,Вьючный бык,Melee Attack,25
+131,ps:1856201216,Вьючный бык,Melee Defence,34
+131,ps:1856201216,Вьючный бык,Perception,-1
+131,ps:1856201216,Вьючный бык,Polearms,26
+131,ps:1856201216,Вьючный бык,Precision Shooting,24
+131,ps:1856201216,Вьючный бык,Robotics,0
+131,ps:1856201216,Вьючный бык,Sabres,27
+131,ps:1856201216,Вьючный бык,Science,1
+131,ps:1856201216,Вьючный бык,Stealth,0
+131,ps:1856201216,Вьючный бык,Strength,26
+131,ps:1856201216,Вьючный бык,Swimming,18
+131,ps:1856201216,Вьючный бык,Thievery,0
+131,ps:1856201216,Вьючный бык,Toughness,30
+131,ps:1856201216,Вьючный бык,Turrets,23
+131,ps:1856201216,Вьючный бык,Weapon Smithing,1
+131,ps:2077026304,Чад,Armour Smithing,1
+131,ps:2077026304,Чад,Assassination,24
+131,ps:2077026304,Чад,Athletics,88
+131,ps:2077026304,Чад,Blunt,15
+131,ps:2077026304,Чад,Cooking,0
+131,ps:2077026304,Чад,Crossbow Smithing,1
+131,ps:2077026304,Чад,Crossbows,1
+131,ps:2077026304,Чад,Dexterity,51
+131,ps:2077026304,Чад,Dodge,47
+131,ps:2077026304,Чад,Engineering,2
+131,ps:2077026304,Чад,Farming,0
+131,ps:2077026304,Чад,Field Medic,33
+131,ps:2077026304,Чад,Hackers,15
+131,ps:2077026304,Чад,Heavy Weapons,15
+131,ps:2077026304,Чад,Katanas,15
+131,ps:2077026304,Чад,Labouring,0
+131,ps:2077026304,Чад,Lockpicking,40
+131,ps:2077026304,Чад,Martial Arts,48
+131,ps:2077026304,Чад,Melee Attack,18
+131,ps:2077026304,Чад,Melee Defence,22
+131,ps:2077026304,Чад,Perception,1
+131,ps:2077026304,Чад,Polearms,18
+131,ps:2077026304,Чад,Precision Shooting,15
+131,ps:2077026304,Чад,Robotics,20
+131,ps:2077026304,Чад,Sabres,15
+131,ps:2077026304,Чад,Science,1
+131,ps:2077026304,Чад,Stealth,22
+131,ps:2077026304,Чад,Strength,30
+131,ps:2077026304,Чад,Swimming,65
+131,ps:2077026304,Чад,Thievery,27
+131,ps:2077026304,Чад,Toughness,57
+131,ps:2077026304,Чад,Turrets,15
+131,ps:2077026304,Чад,Weapon Smithing,1
+131,ps:2093017600,Мью,Armour Smithing,1
+131,ps:2093017600,Мью,Assassination,1
+131,ps:2093017600,Мью,Athletics,33
+131,ps:2093017600,Мью,Blunt,1
+131,ps:2093017600,Мью,Cooking,1
+131,ps:2093017600,Мью,Crossbow Smithing,1
+131,ps:2093017600,Мью,Crossbows,1
+131,ps:2093017600,Мью,Dexterity,20
+131,ps:2093017600,Мью,Dodge,14
+131,ps:2093017600,Мью,Engineering,23
+131,ps:2093017600,Мью,Farming,67
+131,ps:2093017600,Мью,Field Medic,14
+131,ps:2093017600,Мью,Hackers,1
+131,ps:2093017600,Мью,Heavy Weapons,1
+131,ps:2093017600,Мью,Katanas,3
+131,ps:2093017600,Мью,Labouring,41
+131,ps:2093017600,Мью,Lockpicking,1
+131,ps:2093017600,Мью,Martial Arts,1
+131,ps:2093017600,Мью,Melee Attack,25
+131,ps:2093017600,Мью,Melee Defence,37
+131,ps:2093017600,Мью,Perception,3
+131,ps:2093017600,Мью,Polearms,21
+131,ps:2093017600,Мью,Precision Shooting,1
+131,ps:2093017600,Мью,Robotics,4
+131,ps:2093017600,Мью,Sabres,1
+131,ps:2093017600,Мью,Science,1
+131,ps:2093017600,Мью,Stealth,8
+131,ps:2093017600,Мью,Strength,10
+131,ps:2093017600,Мью,Swimming,4
+131,ps:2093017600,Мью,Thievery,1
+131,ps:2093017600,Мью,Toughness,35
+131,ps:2093017600,Мью,Turrets,2
+131,ps:2093017600,Мью,Weapon Smithing,1
+131,ps:35522460,Вьючный бык,Armour Smithing,2
+131,ps:35522460,Вьючный бык,Assassination,12
+131,ps:35522460,Вьючный бык,Athletics,86
+131,ps:35522460,Вьючный бык,Blunt,25
+131,ps:35522460,Вьючный бык,Cooking,1
+131,ps:35522460,Вьючный бык,Crossbow Smithing,1
+131,ps:35522460,Вьючный бык,Crossbows,-1
+131,ps:35522460,Вьючный бык,Dexterity,56
+131,ps:35522460,Вьючный бык,Dodge,1
+131,ps:35522460,Вьючный бык,Engineering,-1
+131,ps:35522460,Вьючный бык,Farming,1
+131,ps:35522460,Вьючный бык,Field Medic,27
+131,ps:35522460,Вьючный бык,Hackers,22
+131,ps:35522460,Вьючный бык,Heavy Weapons,26
+131,ps:35522460,Вьючный бык,Katanas,26
+131,ps:35522460,Вьючный бык,Labouring,1
+131,ps:35522460,Вьючный бык,Lockpicking,0
+131,ps:35522460,Вьючный бык,Martial Arts,52
+131,ps:35522460,Вьючный бык,Melee Attack,55
+131,ps:35522460,Вьючный бык,Melee Defence,56
+131,ps:35522460,Вьючный бык,Perception,2
+131,ps:35522460,Вьючный бык,Polearms,24
+131,ps:35522460,Вьючный бык,Precision Shooting,24
+131,ps:35522460,Вьючный бык,Robotics,3
+131,ps:35522460,Вьючный бык,Sabres,23
+131,ps:35522460,Вьючный бык,Science,1
+131,ps:35522460,Вьючный бык,Stealth,0
+131,ps:35522460,Вьючный бык,Strength,33
+131,ps:35522460,Вьючный бык,Swimming,39
+131,ps:35522460,Вьючный бык,Thievery,3
+131,ps:35522460,Вьючный бык,Toughness,54
+131,ps:35522460,Вьючный бык,Turrets,23
+131,ps:35522460,Вьючный бык,Weapon Smithing,1
+131,ps:398315424,Вечный Суньвынь,Armour Smithing,1
+131,ps:398315424,Вечный Суньвынь,Assassination,1
+131,ps:398315424,Вечный Суньвынь,Athletics,74
+131,ps:398315424,Вечный Суньвынь,Blunt,1
+131,ps:398315424,Вечный Суньвынь,Cooking,1
+131,ps:398315424,Вечный Суньвынь,Crossbow Smithing,1
+131,ps:398315424,Вечный Суньвынь,Crossbows,1
+131,ps:398315424,Вечный Суньвынь,Dexterity,43
+131,ps:398315424,Вечный Суньвынь,Dodge,11
+131,ps:398315424,Вечный Суньвынь,Engineering,1
+131,ps:398315424,Вечный Суньвынь,Farming,1
+131,ps:398315424,Вечный Суньвынь,Field Medic,15
+131,ps:398315424,Вечный Суньвынь,Hackers,1
+131,ps:398315424,Вечный Суньвынь,Heavy Weapons,1
+131,ps:398315424,Вечный Суньвынь,Katanas,1
+131,ps:398315424,Вечный Суньвынь,Labouring,1
+131,ps:398315424,Вечный Суньвынь,Lockpicking,5
+131,ps:398315424,Вечный Суньвынь,Martial Arts,1
+131,ps:398315424,Вечный Суньвынь,Melee Attack,49
+131,ps:398315424,Вечный Суньвынь,Melee Defence,41
+131,ps:398315424,Вечный Суньвынь,Perception,1
+131,ps:398315424,Вечный Суньвынь,Polearms,1
+131,ps:398315424,Вечный Суньвынь,Precision Shooting,1
+131,ps:398315424,Вечный Суньвынь,Robotics,5
+131,ps:398315424,Вечный Суньвынь,Sabres,42
+131,ps:398315424,Вечный Суньвынь,Science,1
+131,ps:398315424,Вечный Суньвынь,Stealth,1
+131,ps:398315424,Вечный Суньвынь,Strength,28
+131,ps:398315424,Вечный Суньвынь,Swimming,20
+131,ps:398315424,Вечный Суньвынь,Thievery,1
+131,ps:398315424,Вечный Суньвынь,Toughness,41
+131,ps:398315424,Вечный Суньвынь,Turrets,1
+131,ps:398315424,Вечный Суньвынь,Weapon Smithing,1
+131,ps:621948224,Зелёный палец,Armour Smithing,1
+131,ps:621948224,Зелёный палец,Assassination,1
+131,ps:621948224,Зелёный палец,Athletics,29
+131,ps:621948224,Зелёный палец,Blunt,1
+131,ps:621948224,Зелёный палец,Cooking,0
+131,ps:621948224,Зелёный палец,Crossbow Smithing,1
+131,ps:621948224,Зелёный палец,Crossbows,1
+131,ps:621948224,Зелёный палец,Dexterity,2
+131,ps:621948224,Зелёный палец,Dodge,7
+131,ps:621948224,Зелёный палец,Engineering,26
+131,ps:621948224,Зелёный палец,Farming,41
+131,ps:621948224,Зелёный палец,Field Medic,5
+131,ps:621948224,Зелёный палец,Hackers,1
+131,ps:621948224,Зелёный палец,Heavy Weapons,1
+131,ps:621948224,Зелёный палец,Katanas,1
+131,ps:621948224,Зелёный палец,Labouring,41
+131,ps:621948224,Зелёный палец,Lockpicking,15
+131,ps:621948224,Зелёный палец,Martial Arts,1
+131,ps:621948224,Зелёный палец,Melee Attack,15
+131,ps:621948224,Зелёный палец,Melee Defence,6
+131,ps:621948224,Зелёный палец,Perception,1
+131,ps:621948224,Зелёный палец,Polearms,1
+131,ps:621948224,Зелёный палец,Precision Shooting,1
+131,ps:621948224,Зелёный палец,Robotics,1
+131,ps:621948224,Зелёный палец,Sabres,1
+131,ps:621948224,Зелёный палец,Science,1
+131,ps:621948224,Зелёный палец,Stealth,1
+131,ps:621948224,Зелёный палец,Strength,18
+131,ps:621948224,Зелёный палец,Swimming,16
+131,ps:621948224,Зелёный палец,Thievery,1
+131,ps:621948224,Зелёный палец,Toughness,10
+131,ps:621948224,Зелёный палец,Turrets,1
+131,ps:621948224,Зелёный палец,Weapon Smithing,1
+131,ps:706176768,Седая тень,Armour Smithing,1
+131,ps:706176768,Седая тень,Assassination,1
+131,ps:706176768,Седая тень,Athletics,48
+131,ps:706176768,Седая тень,Blunt,10
+131,ps:706176768,Седая тень,Cooking,1
+131,ps:706176768,Седая тень,Crossbow Smithing,1
+131,ps:706176768,Седая тень,Crossbows,1
+131,ps:706176768,Седая тень,Dexterity,12
+131,ps:706176768,Седая тень,Dodge,2
+131,ps:706176768,Седая тень,Engineering,3
+131,ps:706176768,Седая тень,Farming,9
+131,ps:706176768,Седая тень,Field Medic,4
+131,ps:706176768,Седая тень,Hackers,10
+131,ps:706176768,Седая тень,Heavy Weapons,10
+131,ps:706176768,Седая тень,Katanas,10
+131,ps:706176768,Седая тень,Labouring,0
+131,ps:706176768,Седая тень,Lockpicking,1
+131,ps:706176768,Седая тень,Martial Arts,1
+131,ps:706176768,Седая тень,Melee Attack,10
+131,ps:706176768,Седая тень,Melee Defence,13
+131,ps:706176768,Седая тень,Perception,12
+131,ps:706176768,Седая тень,Polearms,1
+131,ps:706176768,Седая тень,Precision Shooting,1
+131,ps:706176768,Седая тень,Robotics,1
+131,ps:706176768,Седая тень,Sabres,0
+131,ps:706176768,Седая тень,Science,9
+131,ps:706176768,Седая тень,Stealth,12
+131,ps:706176768,Седая тень,Strength,12
+131,ps:706176768,Седая тень,Swimming,59
+131,ps:706176768,Седая тень,Thievery,12
+131,ps:706176768,Седая тень,Toughness,9
+131,ps:706176768,Седая тень,Turrets,1
+131,ps:706176768,Седая тень,Weapon Smithing,1
+131,ps:827270528,Хот Лон,Armour Smithing,1
+131,ps:827270528,Хот Лон,Assassination,4
+131,ps:827270528,Хот Лон,Athletics,86
+131,ps:827270528,Хот Лон,Blunt,1
+131,ps:827270528,Хот Лон,Cooking,1
+131,ps:827270528,Хот Лон,Crossbow Smithing,1
+131,ps:827270528,Хот Лон,Crossbows,2
+131,ps:827270528,Хот Лон,Dexterity,47
+131,ps:827270528,Хот Лон,Dodge,19
+131,ps:827270528,Хот Лон,Engineering,2
+131,ps:827270528,Хот Лон,Farming,1
+131,ps:827270528,Хот Лон,Field Medic,33
+131,ps:827270528,Хот Лон,Hackers,1
+131,ps:827270528,Хот Лон,Heavy Weapons,1
+131,ps:827270528,Хот Лон,Katanas,52
+131,ps:827270528,Хот Лон,Labouring,1
+131,ps:827270528,Хот Лон,Lockpicking,51
+131,ps:827270528,Хот Лон,Martial Arts,2
+131,ps:827270528,Хот Лон,Melee Attack,50
+131,ps:827270528,Хот Лон,Melee Defence,52
+131,ps:827270528,Хот Лон,Perception,2
+131,ps:827270528,Хот Лон,Polearms,29
+131,ps:827270528,Хот Лон,Precision Shooting,1
+131,ps:827270528,Хот Лон,Robotics,24
+131,ps:827270528,Хот Лон,Sabres,23
+131,ps:827270528,Хот Лон,Science,1
+131,ps:827270528,Хот Лон,Stealth,4
+131,ps:827270528,Хот Лон,Strength,39
+131,ps:827270528,Хот Лон,Swimming,40
+131,ps:827270528,Хот Лон,Thievery,38
+131,ps:827270528,Хот Лон,Toughness,53
+131,ps:827270528,Хот Лон,Turrets,1
+131,ps:827270528,Хот Лон,Weapon Smithing,1
+132,ps:-941451776,Вик,Athletics,68
+132,ps:-941451776,Вик,Dexterity,21
+132,ps:-941451776,Вик,Dodge,27
+132,ps:-941451776,Вик,Farming,6
+132,ps:-941451776,Вик,Field Medic,17
+132,ps:-941451776,Вик,Melee Attack,35
+132,ps:-941451776,Вик,Melee Defence,44
+132,ps:-941451776,Вик,Perception,19
+132,ps:-941451776,Вик,Polearms,31
+132,ps:-941451776,Вик,Precision Shooting,12
+132,ps:-941451776,Вик,Robotics,44
+132,ps:-941451776,Вик,Strength,32
+132,ps:-941451776,Вик,Swimming,18
+132,ps:-941451776,Вик,Toughness,47
+132,ps:1106567424,Флик,Athletics,89
+132,ps:1359130880,Ану,Lockpicking,9
+132,ps:1464721664,Вынос мозга,Crossbows,61
+132,ps:1464721664,Вынос мозга,Dexterity,21
+132,ps:1464721664,Вынос мозга,Perception,41
+132,ps:1464721664,Вынос мозга,Strength,13
+132,ps:1758056704,Зелёный,Lockpicking,15
+132,ps:175903328,Доктор Чон,Turrets,8
+132,ps:1856201216,Вьючный бык,Athletics,61
+132,ps:2093017600,Мью,Athletics,34
+132,ps:2093017600,Мью,Cooking,8
+132,ps:2093017600,Мью,Labouring,43
+132,ps:2093017600,Мью,Melee Defence,38
+132,ps:2093017600,Мью,Toughness,36
+132,ps:621948224,Зелёный палец,Cooking,1
+132,ps:621948224,Зелёный палец,Farming,42
+132,ps:621948224,Зелёный палец,Field Medic,6
+132,ps:621948224,Зелёный палец,Melee Defence,7
+132,ps:621948224,Зелёный палец,Toughness,15
+132,ps:706176768,Седая тень,Dexterity,14
+132,ps:706176768,Седая тень,Farming,10
+132,ps:706176768,Седая тень,Melee Attack,11
+132,ps:706176768,Седая тень,Melee Defence,15
+132,ps:706176768,Седая тень,Perception,13
+132,ps:706176768,Седая тень,Precision Shooting,2
+132,ps:706176768,Седая тень,Toughness,11
+132,ps:706176768,Седая тень,Turrets,3
+133,ps:-474044416,Сэто,Athletics,34
+133,ps:-941451776,Вик,Science,3
+133,ps:1106567424,Флик,Dodge,21
+133,ps:1106567424,Флик,Katanas,45
+133,ps:1106567424,Флик,Melee Attack,44
+133,ps:1106567424,Флик,Robotics,23
+133,ps:1106567424,Флик,Strength,34
+133,ps:1106567424,Флик,Toughness,60
+133,ps:1359130880,Ану,Lockpicking,11
+133,ps:1671874944,Гигант Ранэ,Athletics,73
+133,ps:175903328,Доктор Чон,Athletics,70
+133,ps:175903328,Доктор Чон,Turrets,10
+133,ps:1856201216,Вьючный бык,Athletics,62
+133,ps:2093017600,Мью,Cooking,9
+133,ps:2093017600,Мью,Labouring,44
+133,ps:621948224,Зелёный палец,Farming,43
+133,ps:706176768,Седая тень,Athletics,49
+134,ps:-1346969344,Кан,Athletics,83
+134,ps:-1572677376,Бип,Athletics,71
+134,ps:-1715743744,Рука,Strength,46
+134,ps:-2041915648,Пиа,Field Medic,17
+134,ps:-2041915648,Пиа,Melee Attack,43
+134,ps:-2041915648,Пиа,Melee Defence,44
+134,ps:-2041915648,Пиа,Strength,28
+134,ps:-383834368,Крошка Джон,Athletics,75
+134,ps:-383834368,Крошка Джон,Melee Defence,43
+134,ps:-456466432,Мрачный Нил,Robotics,41
+134,ps:-474044416,Сэто,Athletics,41
+134,ps:-474044416,Сэто,Hackers,29
+134,ps:-474044416,Сэто,Melee Attack,32
+134,ps:-474044416,Сэто,Strength,26
+134,ps:-476241664,Шрайк,Athletics,80
+134,ps:-476241664,Шрайк,Melee Attack,40
+134,ps:-476241664,Шрайк,Melee Defence,42
+134,ps:-476241664,Шрайк,Polearms,35
+134,ps:-476241664,Шрайк,Toughness,40
+134,ps:-941451776,Вик,Science,10
+134,ps:1006225600,Кот,Athletics,44
+134,ps:1106567424,Флик,Dexterity,71
+134,ps:1223510784,Хамут,Athletics,83
+134,ps:1223510784,Хамут,Melee Defence,51
+134,ps:1223510784,Хамут,Robotics,9
+134,ps:1359130880,Ану,Lockpicking,12
+134,ps:1359130880,Ану,Martial Arts,42
+134,ps:1359130880,Ану,Robotics,36
+134,ps:1441040000,Ожог,Strength,50
+134,ps:1441040000,Ожог,Toughness,59
+134,ps:145629888,Гриффин,Athletics,74
+134,ps:145629888,Гриффин,Field Medic,10
+134,ps:145629888,Гриффин,Melee Defence,47
+134,ps:145629888,Гриффин,Strength,38
+134,ps:1464721664,Вынос мозга,Athletics,57
+134,ps:1464721664,Вынос мозга,Crossbows,62
+134,ps:1464721664,Вынос мозга,Dexterity,24
+134,ps:1464721664,Вынос мозга,Dodge,7
+134,ps:1464721664,Вынос мозга,Field Medic,15
+134,ps:1464721664,Вынос мозга,Katanas,21
+134,ps:1464721664,Вынос мозга,Melee Attack,22
+134,ps:1464721664,Вынос мозга,Perception,44
+134,ps:1464721664,Вынос мозга,Precision Shooting,38
+134,ps:1464721664,Вынос мозга,Swimming,18
+134,ps:1464721664,Вынос мозга,Toughness,39
+134,ps:1464721664,Вынос мозга,Turrets,55
+134,ps:1665649408,Ридли,Athletics,87
+134,ps:1665649408,Ридли,Strength,36
+134,ps:1671874944,Гигант Ранэ,Strength,49
+134,ps:1758056704,Зелёный,Athletics,83
+134,ps:1758056704,Зелёный,Melee Defence,44
+134,ps:1758056704,Зелёный,Perception,67
+134,ps:1758056704,Зелёный,Precision Shooting,78
+134,ps:175903328,Доктор Чон,Athletics,71
+134,ps:175903328,Доктор Чон,Dodge,13
+134,ps:175903328,Доктор Чон,Robotics,2
+134,ps:1856201216,Вьючный бык,Athletics,63
+134,ps:1856201216,Вьючный бык,Dexterity,35
+134,ps:1856201216,Вьючный бык,Martial Arts,23
+134,ps:1856201216,Вьючный бык,Melee Attack,26
+134,ps:1856201216,Вьючный бык,Melee Defence,35
+134,ps:1856201216,Вьючный бык,Swimming,21
+134,ps:1856201216,Вьючный бык,Toughness,31
+134,ps:2077026304,Чад,Dodge,48
+134,ps:2093017600,Мью,Cooking,12
+134,ps:2093017600,Мью,Farming,68
+134,ps:2093017600,Мью,Field Medic,16
+134,ps:2093017600,Мью,Labouring,45
+134,ps:2093017600,Мью,Melee Attack,26
+134,ps:2093017600,Мью,Polearms,22
+134,ps:2093017600,Мью,Robotics,6
+134,ps:2093017600,Мью,Strength,11
+134,ps:35522460,Вьючный бык,Athletics,87
+134,ps:398315424,Вечный Суньвынь,Athletics,75
+134,ps:398315424,Вечный Суньвынь,Sabres,43
+134,ps:621948224,Зелёный палец,Dexterity,4
+134,ps:621948224,Зелёный палец,Dodge,10
+134,ps:621948224,Зелёный палец,Farming,45
+134,ps:621948224,Зелёный палец,Katanas,3
+134,ps:621948224,Зелёный палец,Melee Attack,16
+134,ps:621948224,Зелёный палец,Melee Defence,11
+134,ps:621948224,Зелёный палец,Toughness,19
+134,ps:706176768,Седая тень,Athletics,51
+134,ps:706176768,Седая тень,Field Medic,6
+134,ps:706176768,Седая тень,Science,14
+134,ps:706176768,Седая тень,Strength,13
+134,ps:706176768,Седая тень,Swimming,60
+134,ps:827270528,Хот Лон,Athletics,87
+134,ps:827270528,Хот Лон,Melee Attack,51
+134,ps:827270528,Хот Лон,Polearms,31
+135,ps:-1002242560,Хоббс,Athletics,86
+135,ps:-1002242560,Хоббс,Melee Attack,53
+135,ps:-1002242560,Хоббс,Strength,45
+135,ps:-1346969344,Кан,Melee Attack,65
+135,ps:-1346969344,Кан,Swimming,45
+135,ps:-1572677376,Бип,Athletics,72
+135,ps:-1572677376,Бип,Field Medic,17
+135,ps:-1572677376,Бип,Katanas,42
+135,ps:-1572677376,Бип,Melee Attack,48
+135,ps:-1572677376,Бип,Swimming,30
+135,ps:-1715743744,Рука,Athletics,83
+135,ps:-1715743744,Рука,Melee Attack,53
+135,ps:-1715743744,Рука,Swimming,34
+135,ps:-1715743744,Рука,Toughness,56
+135,ps:-2041915648,Пиа,Athletics,82
+135,ps:-2041915648,Пиа,Dexterity,51
+135,ps:-2041915648,Пиа,Dodge,12
+135,ps:-2041915648,Пиа,Katanas,45
+135,ps:-2041915648,Пиа,Robotics,12
+135,ps:-2041915648,Пиа,Swimming,41
+135,ps:-2041915648,Пиа,Toughness,46
+135,ps:-383834368,Крошка Джон,Strength,35
+135,ps:-383834368,Крошка Джон,Swimming,23
+135,ps:-456466432,Мрачный Нил,Dexterity,45
+135,ps:-456466432,Мрачный Нил,Swimming,46
+135,ps:-474044416,Сэто,Athletics,45
+135,ps:-474044416,Сэто,Dexterity,23
+135,ps:-474044416,Сэто,Hackers,30
+135,ps:-474044416,Сэто,Melee Attack,33
+135,ps:-474044416,Сэто,Melee Defence,40
+135,ps:-474044416,Сэто,Swimming,30
+135,ps:-476241664,Шрайк,Dodge,14
+135,ps:-476241664,Шрайк,Field Medic,16
+135,ps:-476241664,Шрайк,Melee Defence,43
+135,ps:-843917568,fx,Melee Defence,53
+135,ps:-843917568,fx,Swimming,44
+135,ps:1006225600,Кот,Strength,11
+135,ps:1106567424,Флик,Crossbows,83
+135,ps:1106567424,Флик,Lockpicking,15
+135,ps:1106567424,Флик,Precision Shooting,85
+135,ps:1223510784,Хамут,Dexterity,46
+135,ps:1223510784,Хамут,Lockpicking,18
+135,ps:1223510784,Хамут,Melee Attack,52
+135,ps:1223510784,Хамут,Polearms,52
+135,ps:1223510784,Хамут,Swimming,43
+135,ps:1359130880,Ану,Athletics,86
+135,ps:1359130880,Ану,Swimming,40
+135,ps:1359130880,Ану,Thievery,4
+135,ps:1441040000,Ожог,Dodge,20
+135,ps:1441040000,Ожог,Swimming,54
+135,ps:145629888,Гриффин,Athletics,75
+135,ps:145629888,Гриффин,Strength,39
+135,ps:145629888,Гриффин,Swimming,28
+135,ps:1464721664,Вынос мозга,Dexterity,25
+135,ps:1464721664,Вынос мозга,Katanas,22
+135,ps:1464721664,Вынос мозга,Melee Attack,23
+135,ps:1464721664,Вынос мозга,Perception,46
+135,ps:1464721664,Вынос мозга,Precision Shooting,39
+135,ps:1464721664,Вынос мозга,Strength,14
+135,ps:1464721664,Вынос мозга,Turrets,56
+135,ps:1665649408,Ридли,Melee Attack,55
+135,ps:1665649408,Ридли,Melee Defence,51
+135,ps:1665649408,Ридли,Sabres,52
+135,ps:1665649408,Ридли,Swimming,46
+135,ps:1671874944,Гигант Ранэ,Athletics,74
+135,ps:1671874944,Гигант Ранэ,Melee Attack,50
+135,ps:1671874944,Гигант Ранэ,Swimming,28
+135,ps:1758056704,Зелёный,Crossbows,83
+135,ps:1758056704,Зелёный,Dexterity,62
+135,ps:1758056704,Зелёный,Lockpicking,17
+135,ps:1758056704,Зелёный,Perception,68
+135,ps:1758056704,Зелёный,Strength,25
+135,ps:1758056704,Зелёный,Swimming,44
+135,ps:175903328,Доктор Чон,Athletics,72
+135,ps:175903328,Доктор Чон,Dexterity,24
+135,ps:175903328,Доктор Чон,Melee Defence,44
+135,ps:175903328,Доктор Чон,Strength,31
+135,ps:175903328,Доктор Чон,Swimming,23
+135,ps:1856201216,Вьючный бык,Athletics,65
+135,ps:2077026304,Чад,Dexterity,52
+135,ps:2077026304,Чад,Lockpicking,41
+135,ps:2093017600,Мью,Athletics,35
+135,ps:2093017600,Мью,Cooking,16
+135,ps:2093017600,Мью,Farming,69
+135,ps:35522460,Вьючный бык,Martial Arts,53
+135,ps:35522460,Вьючный бык,Swimming,40
+135,ps:398315424,Вечный Суньвынь,Athletics,76
+135,ps:398315424,Вечный Суньвынь,Swimming,22
+135,ps:621948224,Зелёный палец,Engineering,27
+135,ps:621948224,Зелёный палец,Katanas,4
+135,ps:621948224,Зелёный палец,Labouring,42
+135,ps:706176768,Седая тень,Science,20
+135,ps:827270528,Хот Лон,Dexterity,48
+135,ps:827270528,Хот Лон,Polearms,32
+135,ps:827270528,Хот Лон,Thievery,47
+136,ps:-1002242560,Хоббс,Dexterity,42
+136,ps:-1002242560,Хоббс,Swimming,52
+136,ps:-1002242560,Хоббс,Toughness,60
+136,ps:-1346969344,Кан,Swimming,47
+136,ps:-1572677376,Бип,Athletics,73
+136,ps:-1572677376,Бип,Dodge,12
+136,ps:-1572677376,Бип,Strength,31
+136,ps:-1572677376,Бип,Swimming,33
+136,ps:-1715743744,Рука,Swimming,37
+136,ps:-2041915648,Пиа,Swimming,43
+136,ps:-383834368,Крошка Джон,Athletics,76
+136,ps:-383834368,Крошка Джон,Dexterity,47
+136,ps:-383834368,Крошка Джон,Swimming,26
+136,ps:-456466432,Мрачный Нил,Athletics,85
+136,ps:-456466432,Мрачный Нил,Melee Attack,56
+136,ps:-456466432,Мрачный Нил,Swimming,48
+136,ps:-474044416,Сэто,Athletics,47
+136,ps:-474044416,Сэто,Swimming,33
+136,ps:-476241664,Шрайк,Athletics,81
+136,ps:-476241664,Шрайк,Strength,24
+136,ps:-843917568,fx,Athletics,89
+136,ps:-843917568,fx,Swimming,45
+136,ps:-941451776,Вик,Athletics,69
+136,ps:-941451776,Вик,Dexterity,22
+136,ps:-941451776,Вик,Dodge,28
+136,ps:-941451776,Вик,Melee Attack,36
+136,ps:-941451776,Вик,Melee Defence,45
+136,ps:-941451776,Вик,Polearms,33
+136,ps:-941451776,Вик,Robotics,45
+136,ps:-941451776,Вик,Swimming,19
+136,ps:-941451776,Вик,Toughness,48
+136,ps:1006225600,Кот,Athletics,45
+136,ps:1006225600,Кот,Dexterity,21
+136,ps:1006225600,Кот,Dodge,6
+136,ps:1006225600,Кот,Melee Attack,25
+136,ps:1006225600,Кот,Melee Defence,19
+136,ps:1006225600,Кот,Sabres,16
+136,ps:1006225600,Кот,Strength,14
+136,ps:1006225600,Кот,Toughness,33
+136,ps:1223510784,Хамут,Field Medic,25
+136,ps:1223510784,Хамут,Swimming,45
+136,ps:1359130880,Ану,Swimming,42
+136,ps:1441040000,Ожог,Athletics,87
+136,ps:1441040000,Ожог,Swimming,55
+136,ps:145629888,Гриффин,Dodge,14
+136,ps:145629888,Гриффин,Swimming,32
+136,ps:1464721664,Вынос мозга,Dexterity,26
+136,ps:1464721664,Вынос мозга,Dodge,9
+136,ps:1464721664,Вынос мозга,Field Medic,16
+136,ps:1464721664,Вынос мозга,Melee Defence,36
+136,ps:1464721664,Вынос мозга,Perception,49
+136,ps:1464721664,Вынос мозга,Precision Shooting,40
+136,ps:1464721664,Вынос мозга,Toughness,41
+136,ps:1464721664,Вынос мозга,Turrets,57
+136,ps:1665649408,Ридли,Lockpicking,5
+136,ps:1665649408,Ридли,Swimming,48
+136,ps:1671874944,Гигант Ранэ,Dexterity,28
+136,ps:1671874944,Гигант Ранэ,Dodge,11
+136,ps:1671874944,Гигант Ранэ,Heavy Weapons,40
+136,ps:1671874944,Гигант Ранэ,Melee Defence,50
+136,ps:1671874944,Гигант Ранэ,Toughness,50
+136,ps:1758056704,Зелёный,Swimming,45
+136,ps:175903328,Доктор Чон,Melee Attack,39
+136,ps:175903328,Доктор Чон,Swimming,28
+136,ps:1856201216,Вьючный бык,Athletics,66
+136,ps:1856201216,Вьючный бык,Martial Arts,24
+136,ps:1856201216,Вьючный бык,Melee Attack,28
+136,ps:1856201216,Вьючный бык,Swimming,22
+136,ps:1856201216,Вьючный бык,Toughness,32
+136,ps:2077026304,Чад,Martial Arts,49
+136,ps:2093017600,Мью,Athletics,37
+136,ps:2093017600,Мью,Cooking,18
+136,ps:2093017600,Мью,Dexterity,21
+136,ps:2093017600,Мью,Field Medic,17
+136,ps:2093017600,Мью,Melee Attack,27
+136,ps:2093017600,Мью,Polearms,23
+136,ps:2093017600,Мью,Robotics,9
+136,ps:2093017600,Мью,Strength,12
+136,ps:2093017600,Мью,Toughness,37
+136,ps:398315424,Вечный Суньвынь,Dodge,12
+136,ps:398315424,Вечный Суньвынь,Swimming,25
+136,ps:621948224,Зелёный палец,Athletics,30
+136,ps:621948224,Зелёный палец,Dexterity,5
+136,ps:621948224,Зелёный палец,Farming,47
+136,ps:621948224,Зелёный палец,Melee Attack,17
+136,ps:621948224,Зелёный палец,Melee Defence,14
+136,ps:621948224,Зелёный палец,Robotics,2
+136,ps:621948224,Зелёный палец,Toughness,21
+136,ps:706176768,Седая тень,Science,29
+136,ps:827270528,Хот Лон,Robotics,25
+136,ps:827270528,Хот Лон,Swimming,41
+136,ps:827270528,Хот Лон,Thievery,48
