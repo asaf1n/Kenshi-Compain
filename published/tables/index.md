@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-d38ff6d838ea3703ef98653a65f6822d20f56cd8aea449b2f77d60fd5f09c6b6`
+- snapshot_id: `sha256-ac77d739243df020207d0527db3fe03e84022403c82134fc31cfe9e4d9fa2945`
 - Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8 без BOM, LF, RFC 4180, разделитель - запятая; первая строка - заголовок.
 - Пустая ячейка - значение отсутствует или не применимо; числа с точкой без разделителей разрядов, булевы `true`/`false`; списки в ячейке разделены `; `.
@@ -480,6 +480,7 @@
 | Колонка | Значение |
 |---|---|
 | `entity_kind` | Категория сущности: npc, boss, meitou |
+| `category` | Категория сущности: recruit, world_leader, boss, significant_npc, unique_npc, meitou |
 | `sid` | sid шаблона (npc_sid для персонажей и боссов, base_sid для оружия Мейто) |
 | `name_ru` | Имя/название на русском языке |
 | `name_en` | Имя/название на английском языке |
@@ -488,9 +489,13 @@
 | `character_id` | Идентификатор персонажа игрока, если принят в отряд |
 | `primary_location_instance_id` | Идентификатор основной локации (поселения/города) |
 | `location_resolution` | Точность привязки к локации: unique, ambiguous, unresolved |
-| `meitou_base_sid` | sid базовой модели оружия Мейто |
 | `carrier_or_storage` | Носитель или хранилище экземпляра (вид:имя) |
-| `provenance_status` | Статус происхождения: confirmed_trophy, unconfirmed, либо источник зачистки босса |
+| `observation_status` | Статус наблюдения в сохранении: observed или not_observed |
+| `provenance_status` | Статус происхождения: confirmed_trophy или unconfirmed |
+| `cleared` | Признак зачистки/победы для боссов: True или False |
+| `outcome` | Исход взаимодействия из ручного слоя или персонального свидетельства |
+| `evidence` | Текст подтверждения/свидетельства исхода |
+| `game_time` | Игровое время подтверждения события |
 
 ### town_overrides.csv
 
