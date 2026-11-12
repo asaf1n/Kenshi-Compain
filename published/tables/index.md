@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-480d79e5f636d1d49919d43efcd2009b10bf5e649ab86cd4c5b81ee59a52d571`
+- snapshot_id: `sha256-d38ff6d838ea3703ef98653a65f6822d20f56cd8aea449b2f77d60fd5f09c6b6`
 - Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8 без BOM, LF, RFC 4180, разделитель - запятая; первая строка - заголовок.
 - Пустая ячейка - значение отсутствует или не применимо; числа с точкой без разделителей разрядов, булевы `true`/`false`; списки в ячейке разделены `; `.
@@ -18,7 +18,7 @@
 | `buildings.csv` | 176 | location_key, zone, parent_instance_id, instance_id | Все постройки, интерьерные станки, турели, генераторы, контейнеры и разрабатываемые рудные жилы игрока |
 | `research.csv` | 181 | category, level, sid | Полное дерево технологий игры (RESEARCH) со статусом изучения в кампании, стоимостью, предпосылками и открываемыми объектами |
 | `build_catalog.csv` | 229 | building_category, sid | Каталог и смета всех строящихся объектов игры (BUILDING): статус открытия, стройматериалы, энергобаланс, входы/выходы и апгрейды |
-| `biome_resources.csv` | 74 | biome_sid | Ресурсный, климатический и ветровой профиль регионов (BIOME_GROUP + ENVIRONMENT_RESOURCES + SEASON/WEATHER) для оценки площадок под форпост |
+| `biome_resources.csv` | 74 | biome_sid | Ресурсный, климатический и ветровой профиль регионов (BIOME_GROUP + ENVIRONMENT_RESOURCES + SEASON/WEATHER) |
 | `item_prices.csv` | 594 | sid | Базовые цены записей игры без торговых коэффициентов |
 | `trade_modifiers.csv` | 1533 | group, record_sid, field, ref_sid | Сырые торговые записи игры без вычисленных цен продажи и покупки |
 | `unique_npcs.csv` | 78 | sid | Уникальные NPC мира и их состояние |
@@ -67,9 +67,12 @@
 | `squad_name` | Название отряда |
 | `zone` | Зона карты `x.y` из locations.json |
 | `resolution_status` | Способ определения места: in_location, near_location, in_region, unknown |
-| `region` | Регион карты |
-| `settlement` | Поселение, в границах которого находится персонаж |
-| `nearby_settlement` | Ближайшее поселение при near_location |
+| `region` | Регион мира (en) |
+| `region_ru` | Регион мира (ru) |
+| `settlement` | Поселение, в границах которого находится персонаж (en) |
+| `settlement_ru` | Поселение, в границах которого находится персонаж (ru) |
+| `nearby_settlement` | Ближайшее поселение при near_location (en) |
+| `nearby_settlement_ru` | Ближайшее поселение при near_location (ru) |
 | `status_active` | Активные статусы (coma, dead, incapacitated, unconscious), через `; ` |
 | `combat_modes_active` | Включённые боевые режимы, через `; ` |
 | `blood` | Кровь |
@@ -494,10 +497,11 @@
 | Колонка | Значение |
 |---|---|
 | `replacement_sid` | sid записи-замены города (override) |
-| `town` | Название города в сохранении |
-| `raw_name` | Исходное имя записи состояния города |
-| `replacement_name` | Название записи-замены (en), в нём вариант: destroyed, half destroyed... |
-| `replacement_name_ru` | Название записи-замены (ru) |
+| `town` | Русское название города из локализации |
+| `raw_name` | Исходное имя записи состояния города из сейва (Town state ...) |
+| `variant` | Исходный вариант состояния после (override) |
+| `replacement_name` | Название записи-замены в данных игры (en) |
+| `replacement_name_ru` | Название записи-замены из локализации игры (ru) |
 | `faction_sid` | sid фракции города после замены |
 | `faction_name` | Название фракции из данных игры |
 | `factions_here` | sid фракций, присутствующих в городе, через `; ` |

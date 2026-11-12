@@ -1,10 +1,10 @@
 # Краткая сводка: День 136, 20:21
 
-- **snapshot_id:** `sha256-480d79e5f636d1d49919d43efcd2009b10bf5e649ab86cd4c5b81ee59a52d571`
+- **snapshot_id:** `sha256-d38ff6d838ea3703ef98653a65f6822d20f56cd8aea449b2f77d60fd5f09c6b6`
 - **previous_snapshot_id:** `sha256-dd133320b82ddac11581b266649f0d350754f3c32b7fa779b411899a6401469b`
 - **campaign_id:** `hot-lon`
 - **game_time:** `Day 136, 20:21`
-- **generated_at:** `2026-11-11T23:20:10Z`
+- **generated_at:** `2026-11-12T04:26:46Z`
 
 ## Игровой мир
 - **Время:** День 136, время 20:21
@@ -311,7 +311,7 @@
 - **Изменения здоровья:** у 25 участников
 
 ## Несравниваемые категории
-- position: географические координаты подключаются профильным артефактом в задаче 02
+- position: географические координаты не сравниваются в kenshi-session-diff/5
 - property: здания и собственность не сравниваются в kenshi-session-diff/5
 - research: дерево исследований не сравнивается в kenshi-session-diff/5
 
@@ -341,7 +341,7 @@
 - [observed] Смена статуса: Кот unconscious=False (день 136; ID: auto-9f47dae6fafa887c-03). Источники: diff: changes.md#snapshot-9f47dae6fafa
 
 ## Связанные артефакты
-- [Расширенный снимок (extended/current.json): читать только выборочно](extended/current.json)
+- [Расширенный снимок (extended/current.json)](extended/current.json)
 - [Сводка изменений и промежуточных снимков (changes.md)](changes.md)
 - [Индекс скриншотов (screenshots/index.md)](screenshots/index.md)
 - [Детальные изменения (changes.json)](changes.json)

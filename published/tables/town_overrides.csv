@@ -1,10 +1,10 @@
-replacement_sid,town,raw_name,replacement_name,replacement_name_ru,faction_sid,faction_name,factions_here
-1532952-__world reactions.mod,Кулак Окрана,Town state Кулак Окрана,Okran's Fist (override) half destroyed,Okran's Fist (override) half destroyed,1083-gamedata.base,Святая Нация,1083-gamedata.base
-1532974-__world reactions.mod,Бугристый Холм,Town state Бугристый Холм,Blister Hill (override) destroyed,Blister Hill (override) destroyed,1083-gamedata.base,Святая Нация,51707-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 14491-rebirth.mod; 1088-gamedata.base
-1532979-__world reactions W.mod,Плохие Зубы,Town state Плохие Зубы,Bad Teeth (override) half destroyed,Bad Teeth (override) half destroyed,1083-gamedata.base,Святая Нация,51707-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 14491-rebirth.mod
-1533242-__world reactions W.mod,Святая военная база,Town state Святая военная база,Holy Military Base (override) Deadhive,Holy Military Base (override) Deadhive,18893-rebirth.mod,Туманники,1083-gamedata.base; 18893-rebirth.mod
-1533242-__world reactions W.mod,Святая военная база,Town state Святая военная база,Holy Military Base (override) Deadhive,Holy Military Base (override) Deadhive,18893-rebirth.mod,Туманники,1083-gamedata.base; 18893-rebirth.mod
-1533364-__world reactions Shek.mod,Новая Кралия,Town state Новая Кралия,New Kralia (override),New Kralia (override),51357-rebirth.mod,Избранный Крала,51357-rebirth.mod
-1533719-__world reactios swamp.mod,Акула,Town state Акула,Shark (override) all ded,Shark (override) all ded,41162-Dialogue.mod,Болотники,1534558-rebirth.mod; 51707-rebirth.mod; 48753-Dialogue.mod; 48814-Dialogue.mod; 48743-Dialogue.mod; 96156-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 41162-Dialogue.mod
-1533722-__world reactios swamp.mod,Деревня Серодёров,Town state Деревня Серодёров,Grayflayer Village (override),Grayflayer Village (override),41162-Dialogue.mod,Болотники,204-gamedata.base; 48791-Dialogue.mod; 41162-Dialogue.mod
-1533723-__world reactios swamp.mod,Гниль,Town state Гниль,Rot (override),Rot (override),51331-rebirth.mod,Пауки,48814-Dialogue.mod; 41162-Dialogue.mod
+replacement_sid,town,raw_name,variant,replacement_name,replacement_name_ru,faction_sid,faction_name,factions_here
+1532952-__world reactions.mod,Кулак Окрана,Town state Кулак Окрана,half destroyed,Okran's Fist (override) half destroyed,,1083-gamedata.base,Святая Нация,1083-gamedata.base
+1532974-__world reactions.mod,Бугристый Холм,Town state Бугристый Холм,destroyed,Blister Hill (override) destroyed,,1083-gamedata.base,Святая Нация,51707-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 14491-rebirth.mod; 1088-gamedata.base
+1532979-__world reactions W.mod,Плохие Зубы,Town state Плохие Зубы,half destroyed,Bad Teeth (override) half destroyed,,1083-gamedata.base,Святая Нация,51707-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 14491-rebirth.mod
+1533242-__world reactions W.mod,Святая военная база,Town state Святая военная база,Deadhive,Holy Military Base (override) Deadhive,,18893-rebirth.mod,Туманники,1083-gamedata.base; 18893-rebirth.mod
+1533242-__world reactions W.mod,Святая военная база,Town state Святая военная база,Deadhive,Holy Military Base (override) Deadhive,,18893-rebirth.mod,Туманники,1083-gamedata.base; 18893-rebirth.mod
+1533364-__world reactions Shek.mod,Новая Кралия,Town state Новая Кралия,,New Kralia (override),,51357-rebirth.mod,Избранный Крала,51357-rebirth.mod
+1533719-__world reactios swamp.mod,Акула,Town state Акула,all ded,Shark (override) all ded,,41162-Dialogue.mod,Болотники,1534558-rebirth.mod; 51707-rebirth.mod; 48753-Dialogue.mod; 48814-Dialogue.mod; 48743-Dialogue.mod; 96156-rebirth.mod; 1083-gamedata.base; 1214-gamedata.base; 41162-Dialogue.mod
+1533722-__world reactios swamp.mod,Деревня Серодёров,Town state Деревня Серодёров,,Grayflayer Village (override),,41162-Dialogue.mod,Болотники,204-gamedata.base; 48791-Dialogue.mod; 41162-Dialogue.mod
+1533723-__world reactios swamp.mod,Гниль,Town state Гниль,,Rot (override),,51331-rebirth.mod,Пауки,48814-Dialogue.mod; 41162-Dialogue.mod
