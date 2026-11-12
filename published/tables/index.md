@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-b92c26a454967746cfec43e3b7517ead207ea3865f162058ea070adeb839a55a`
+- snapshot_id: `sha256-f704cc8c42569a04106274e91e0f92f2d10506c9d81f5a0ea33c622640b719cc`
 - Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8, LF, RFC 4180. Булевы `true`/`false`.
 - Справочник игры: base, Newwworld, Dialogue, rebirth, Russian Dark UI simplistic, Martial Arts Fast Dodger, Better Map RUS and Zones
