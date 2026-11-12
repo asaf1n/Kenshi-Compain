@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-ac77d739243df020207d0527db3fe03e84022403c82134fc31cfe9e4d9fa2945`
+- snapshot_id: `sha256-889dbe00de2adcb2c4da1631c20594f0940f35476108cab63d0a07e1c19b47be`
 - Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8 без BOM, LF, RFC 4180, разделитель - запятая; первая строка - заголовок.
 - Пустая ячейка - значение отсутствует или не применимо; числа с точкой без разделителей разрядов, булевы `true`/`false`; списки в ячейке разделены `; `.
@@ -22,7 +22,7 @@
 | `item_prices.csv` | 594 | sid | Базовые цены записей игры без торговых коэффициентов |
 | `trade_modifiers.csv` | 1533 | group, record_sid, field, ref_sid | Сырые торговые записи игры без вычисленных цен продажи и покупки |
 | `unique_npcs.csv` | 78 | sid | Уникальные NPC мира и их состояние |
-| `unique_entities.csv` | 426 | sid | Реестр уникальных сущностей Kenshi (NPC, боссы, оружие Мейто) |
+| `unique_entities.csv` | 262 | sid | Реестр уникальных сущностей Kenshi (NPC, боссы, оружие Мейто) |
 | `town_overrides.csv` | 9 | replacement_sid, town | Города, заменённые записями override |
 | `diplomacy.csv` | 103 | faction_sid | Отношения фракций с игроком без классификации |
 | `world_reactions.csv` | 310 | town_sid, override_sid, world_state_sid, condition, subject_sid | Условия вариантов городов: одна строка на условие World State |
@@ -479,7 +479,7 @@
 
 | Колонка | Значение |
 |---|---|
-| `entity_kind` | Категория сущности: npc, boss, meitou |
+| `entity_kind` | Вид сущности: npc, meitou |
 | `category` | Категория сущности: recruit, world_leader, boss, significant_npc, unique_npc, meitou |
 | `sid` | sid шаблона (npc_sid для персонажей и боссов, base_sid для оружия Мейто) |
 | `name_ru` | Имя/название на русском языке |
@@ -492,7 +492,7 @@
 | `carrier_or_storage` | Носитель или хранилище экземпляра (вид:имя) |
 | `observation_status` | Статус наблюдения в сохранении: observed или not_observed |
 | `provenance_status` | Статус происхождения: confirmed_trophy или unconfirmed |
-| `cleared` | Признак зачистки/победы для боссов: True или False |
+| `location_cleared` | Место персонажа отмечено зачищенным: true, false |
 | `outcome` | Исход взаимодействия из ручного слоя или персонального свидетельства |
 | `evidence` | Текст подтверждения/свидетельства исхода |
 | `game_time` | Игровое время подтверждения события |

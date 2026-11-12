@@ -1,10 +1,10 @@
 # Краткая сводка: День 136, 20:21
 
-- **snapshot_id:** `sha256-ac77d739243df020207d0527db3fe03e84022403c82134fc31cfe9e4d9fa2945`
+- **snapshot_id:** `sha256-889dbe00de2adcb2c4da1631c20594f0940f35476108cab63d0a07e1c19b47be`
 - **previous_snapshot_id:** `sha256-dd133320b82ddac11581b266649f0d350754f3c32b7fa779b411899a6401469b`
 - **campaign_id:** `hot-lon`
 - **game_time:** `Day 136, 20:21`
-- **generated_at:** `2026-11-12T07:08:34Z`
+- **generated_at:** `2026-11-12T09:04:18Z`
 
 ## Игровой мир
 - **Время:** День 136, время 20:21
