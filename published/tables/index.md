@@ -1,8 +1,8 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-f704cc8c42569a04106274e91e0f92f2d10506c9d81f5a0ea33c622640b719cc`
+- snapshot_id: `sha256-dc07d93317c15883f8758f0eb001b51a209944161d8aa620adf52bb66ad43b8e`
 - Игровое время: День 136, 20:21
-- Формат: CSV, UTF-8, LF, RFC 4180. Булевы `true`/`false`.
+- Формат: CSV, UTF-8, RFC 4180.
 - Справочник игры: base, Newwworld, Dialogue, rebirth, Russian Dark UI simplistic, Martial Arts Fast Dodger, Better Map RUS and Zones
 
 ## Таблицы
@@ -33,13 +33,11 @@
 | `faction_relations.csv` | 317 | faction_sid, kind, other_sid | faction_sid, other_sid | [словарь](dict/faction_relations.md) | Отношения фракций |
 | `faction_hostility.csv` | 103 | faction_sid | faction_sid | [словарь](dict/faction_hostility.md) | Враждебность |
 | `races.csv` | 53 | sid | sid | [словарь](dict/races.md) | Расы, климат |
-| `region_encounters.csv` | 712 | region_name_en, source, squad_name, squad_sid | region_name_en, squad_sid, faction_sid | [словарь](dict/region_encounters.md) | Сводка встреч по регионам, статы отрядов и лидеров |
+| `region_encounters.csv` | 712 | region_name_en, source, squad_name, squad_sid | region_name_en, squad_sid, faction_sid | [словарь](dict/region_encounters.md) | Встречи по регионам |
 | `skills_history.csv` | 1325 | day, character_id, skill | character_id | [словарь](dict/skills_history.md) | Динамика навыков |
 | `campaign_history.csv` | 6 | day | day | [словарь](dict/campaign_history.md) | Казна и отряд |
 | `relations_history.csv` | 107 | day, faction_sid | faction_sid | [словарь](dict/relations_history.md) | Дипломатия по дням |
 
-## Правила и ограничения
+## Примечания
 
 - Словари колонок: `dict/<таблица>.md`. Связи — по `sid` и `id`.
-- Ссылки `world state`/`NPC is`: `v[1]`, `v[2]` без трактовки.
-- Шаблоны юнитов — как в модах.
