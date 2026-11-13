@@ -1,5 +1,4 @@
 day,character_id,character_name,skill,level
-131,ps:-1002242560,Хоббс,Armour Smithing,-1
 131,ps:-1002242560,Хоббс,Assassination,1
 131,ps:-1002242560,Хоббс,Athletics,85
 131,ps:-1002242560,Хоббс,Blunt,2
@@ -21,7 +20,6 @@ day,character_id,character_name,skill,level
 131,ps:-1002242560,Хоббс,Melee Defence,53
 131,ps:-1002242560,Хоббс,Perception,1
 131,ps:-1002242560,Хоббс,Polearms,9
-131,ps:-1002242560,Хоббс,Precision Shooting,-1
 131,ps:-1002242560,Хоббс,Robotics,19
 131,ps:-1002242560,Хоббс,Sabres,6
 131,ps:-1002242560,Хоббс,Science,3
@@ -52,7 +50,6 @@ day,character_id,character_name,skill,level
 131,ps:-1346969344,Кан,Martial Arts,0
 131,ps:-1346969344,Кан,Melee Attack,64
 131,ps:-1346969344,Кан,Melee Defence,53
-131,ps:-1346969344,Кан,Perception,-1
 131,ps:-1346969344,Кан,Polearms,18
 131,ps:-1346969344,Кан,Precision Shooting,21
 131,ps:-1346969344,Кан,Robotics,16
@@ -148,14 +145,12 @@ day,character_id,character_name,skill,level
 131,ps:-2041915648,Пиа,Katanas,44
 131,ps:-2041915648,Пиа,Labouring,0
 131,ps:-2041915648,Пиа,Lockpicking,3
-131,ps:-2041915648,Пиа,Martial Arts,-1
 131,ps:-2041915648,Пиа,Melee Attack,42
 131,ps:-2041915648,Пиа,Melee Defence,43
 131,ps:-2041915648,Пиа,Perception,7
 131,ps:-2041915648,Пиа,Polearms,0
 131,ps:-2041915648,Пиа,Precision Shooting,0
 131,ps:-2041915648,Пиа,Robotics,11
-131,ps:-2041915648,Пиа,Sabres,-1
 131,ps:-2041915648,Пиа,Science,0
 131,ps:-2041915648,Пиа,Stealth,9
 131,ps:-2041915648,Пиа,Strength,27
@@ -163,7 +158,6 @@ day,character_id,character_name,skill,level
 131,ps:-2041915648,Пиа,Thievery,12
 131,ps:-2041915648,Пиа,Toughness,45
 131,ps:-2041915648,Пиа,Turrets,2
-131,ps:-2041915648,Пиа,Weapon Smithing,-1
 131,ps:-383834368,Крошка Джон,Armour Smithing,1
 131,ps:-383834368,Крошка Джон,Assassination,5
 131,ps:-383834368,Крошка Джон,Athletics,74
@@ -210,7 +204,6 @@ day,character_id,character_name,skill,level
 131,ps:-456466432,Мрачный Нил,Farming,1
 131,ps:-456466432,Мрачный Нил,Field Medic,26
 131,ps:-456466432,Мрачный Нил,Hackers,3
-131,ps:-456466432,Мрачный Нил,Heavy Weapons,-2
 131,ps:-456466432,Мрачный Нил,Katanas,2
 131,ps:-456466432,Мрачный Нил,Labouring,1
 131,ps:-456466432,Мрачный Нил,Lockpicking,16
@@ -302,10 +295,7 @@ day,character_id,character_name,skill,level
 131,ps:-843917568,fx,Blunt,22
 131,ps:-843917568,fx,Cooking,1
 131,ps:-843917568,fx,Crossbow Smithing,1
-131,ps:-843917568,fx,Crossbows,-1
 131,ps:-843917568,fx,Dexterity,50
-131,ps:-843917568,fx,Dodge,-2
-131,ps:-843917568,fx,Engineering,-2
 131,ps:-843917568,fx,Farming,1
 131,ps:-843917568,fx,Field Medic,16
 131,ps:-843917568,fx,Hackers,21
@@ -328,7 +318,6 @@ day,character_id,character_name,skill,level
 131,ps:-843917568,fx,Thievery,1
 131,ps:-843917568,fx,Toughness,54
 131,ps:-843917568,fx,Turrets,22
-131,ps:-843917568,fx,Weapon Smithing,-3
 131,ps:-941451776,Вик,Armour Smithing,1
 131,ps:-941451776,Вик,Assassination,1
 131,ps:-941451776,Вик,Athletics,67
@@ -428,13 +417,11 @@ day,character_id,character_name,skill,level
 131,ps:1106567424,Флик,Toughness,59
 131,ps:1106567424,Флик,Turrets,0
 131,ps:1106567424,Флик,Weapon Smithing,0
-131,ps:1223510784,Хамут,Armour Smithing,-3
 131,ps:1223510784,Хамут,Assassination,6
 131,ps:1223510784,Хамут,Athletics,82
 131,ps:1223510784,Хамут,Blunt,14
 131,ps:1223510784,Хамут,Cooking,1
 131,ps:1223510784,Хамут,Crossbow Smithing,1
-131,ps:1223510784,Хамут,Crossbows,-4
 131,ps:1223510784,Хамут,Dexterity,45
 131,ps:1223510784,Хамут,Dodge,21
 131,ps:1223510784,Хамут,Engineering,5
@@ -460,7 +447,6 @@ day,character_id,character_name,skill,level
 131,ps:1223510784,Хамут,Thievery,17
 131,ps:1223510784,Хамут,Toughness,47
 131,ps:1223510784,Хамут,Turrets,17
-131,ps:1223510784,Хамут,Weapon Smithing,-3
 131,ps:1359130880,Ану,Armour Smithing,1
 131,ps:1359130880,Ану,Assassination,1
 131,ps:1359130880,Ану,Athletics,85
@@ -610,7 +596,6 @@ day,character_id,character_name,skill,level
 131,ps:1665649408,Ридли,Katanas,21
 131,ps:1665649408,Ридли,Labouring,1
 131,ps:1665649408,Ридли,Lockpicking,2
-131,ps:1665649408,Ридли,Martial Arts,-2
 131,ps:1665649408,Ридли,Melee Attack,54
 131,ps:1665649408,Ридли,Melee Defence,50
 131,ps:1665649408,Ридли,Perception,3
@@ -619,23 +604,18 @@ day,character_id,character_name,skill,level
 131,ps:1665649408,Ридли,Robotics,24
 131,ps:1665649408,Ридли,Sabres,51
 131,ps:1665649408,Ридли,Science,1
-131,ps:1665649408,Ридли,Stealth,-1
 131,ps:1665649408,Ридли,Strength,35
 131,ps:1665649408,Ридли,Swimming,45
 131,ps:1665649408,Ридли,Thievery,3
 131,ps:1665649408,Ридли,Toughness,50
 131,ps:1665649408,Ридли,Turrets,11
-131,ps:1665649408,Ридли,Weapon Smithing,-2
-131,ps:1671874944,Гигант Ранэ,Armour Smithing,-1
 131,ps:1671874944,Гигант Ранэ,Assassination,1
 131,ps:1671874944,Гигант Ранэ,Athletics,72
 131,ps:1671874944,Гигант Ранэ,Blunt,19
 131,ps:1671874944,Гигант Ранэ,Cooking,1
 131,ps:1671874944,Гигант Ранэ,Crossbow Smithing,1
-131,ps:1671874944,Гигант Ранэ,Crossbows,-1
 131,ps:1671874944,Гигант Ранэ,Dexterity,27
 131,ps:1671874944,Гигант Ранэ,Dodge,10
-131,ps:1671874944,Гигант Ранэ,Engineering,-2
 131,ps:1671874944,Гигант Ранэ,Farming,0
 131,ps:1671874944,Гигант Ранэ,Field Medic,19
 131,ps:1671874944,Гигант Ранэ,Hackers,35
@@ -745,7 +725,6 @@ day,character_id,character_name,skill,level
 131,ps:1856201216,Вьючный бык,Martial Arts,21
 131,ps:1856201216,Вьючный бык,Melee Attack,25
 131,ps:1856201216,Вьючный бык,Melee Defence,34
-131,ps:1856201216,Вьючный бык,Perception,-1
 131,ps:1856201216,Вьючный бык,Polearms,26
 131,ps:1856201216,Вьючный бык,Precision Shooting,24
 131,ps:1856201216,Вьючный бык,Robotics,0
@@ -830,10 +809,8 @@ day,character_id,character_name,skill,level
 131,ps:35522460,Вьючный бык,Blunt,25
 131,ps:35522460,Вьючный бык,Cooking,1
 131,ps:35522460,Вьючный бык,Crossbow Smithing,1
-131,ps:35522460,Вьючный бык,Crossbows,-1
 131,ps:35522460,Вьючный бык,Dexterity,56
 131,ps:35522460,Вьючный бык,Dodge,1
-131,ps:35522460,Вьючный бык,Engineering,-1
 131,ps:35522460,Вьючный бык,Farming,1
 131,ps:35522460,Вьючный бык,Field Medic,27
 131,ps:35522460,Вьючный бык,Hackers,22

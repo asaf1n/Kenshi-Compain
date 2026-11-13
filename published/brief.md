@@ -1,14 +1,12 @@
 # Краткая сводка: День 136, 20:21
 
-- **snapshot_id:** `sha256-dc07d93317c15883f8758f0eb001b51a209944161d8aa620adf52bb66ad43b8e`
+- **snapshot_id:** `sha256-07f0eb0567f4af38cdfac8e4e45d8f51c18fc0df5f8c881b4cf2f5a8eccb4b5c`
 - **previous_snapshot_id:** `sha256-dd133320b82ddac11581b266649f0d350754f3c32b7fa779b411899a6401469b`
 - **campaign_id:** `hot-lon`
 - **game_time:** `Day 136, 20:21`
-- **generated_at:** `2026-11-12T16:01:23Z`
+- **generated_at:** `2026-11-13T04:54:25Z`
 
-## Игровой мир
-- **Время:** День 136, время 20:21
-- **Баланс (казна):** 31 651 кат.
+- **Казна:** 31 651 кат.
 
 ## Состав и группы отряда
 - **Всего участников:** 30 (гуманоидов: 27, животных: 3)
@@ -39,44 +37,21 @@
 
 ## Ключевые изменения
 - **Изменения навыков:** у 23 участников
-  - Ану (`ps:1359130880`): Robotics: 36.25 -> 36.29
-  - Вечный Суньвынь (`ps:398315424`): Field Medic: 15.88 -> 15.89
-  - Вик (`ps:-941451776`): Athletics: 69.32 -> 69.33, Strength: 32.18 -> 32.19
-  - Вынос мозга (`ps:1464721664`): Athletics: 57.73 -> 57.75
-  - Вьючный бык (`ps:1856201216`): Athletics: 66.65 -> 66.67
-  - Гигант Ранэ (`ps:1671874944`): Field Medic: 19.37 -> 19.38
-  - Гриффин (`ps:145629888`): Field Medic: 10.62 -> 10.64
-  - Доктор Чон (`ps:175903328`): Robotics: 2.14 -> 2.16
-  - Зелёный (`ps:1758056704`): Field Medic: 17.66 -> 17.68
-  - Кан (`ps:-1346969344`): Field Medic: 41.67 -> 41.69
-  - Крошка Джон (`ps:-383834368`): Field Medic: 23.5 -> 23.52, Robotics: 9.59 -> 9.6
-  - Мрачный Нил (`ps:-456466432`): Field Medic: 26.72 -> 26.74
-  - Мью (`ps:2093017600`): Farming: 69.81 -> 69.83
-  - Ожог (`ps:1441040000`): Field Medic: 35.85 -> 35.86
-  - Ридли (`ps:1665649408`): Field Medic: 39.5 -> 39.51, Robotics: 24.3 -> 24.31
-  - Рука (`ps:-1715743744`): Field Medic: 29.73 -> 29.74
-  - Седая тень (`ps:706176768`): Science: 29.85 -> 29.91
-  - Сэто (`ps:-474044416`): Field Medic: 23.42 -> 23.43
-  - Флик (`ps:1106567424`): Field Medic: 26.55 -> 26.56
-  - Хамут (`ps:1223510784`): Field Medic: 24.99 -> 25.0, Robotics: 9.18 -> 9.19
-  - Хоббс (`ps:-1002242560`): Field Medic: 33.64 -> 33.66
-  - Хот Лон (`ps:827270528`): Field Medic: 33.55 -> 33.56
-  - Шрайк (`ps:-476241664`): Strength: 24.01 -> 24.02
 - **Изменения здоровья:** у 25 участников
 
-Детальный протокол изменений: [changes.md](changes.md)
+Построчные изменения: [changes.md](changes.md)
 
-## Карта витрин и табличные данные
-- [tables/index.md](tables/index.md) — реестр таблиц
-- [tables/squad.csv](tables/squad.csv) — полный состав отряда, характеристики и экипировка
-- [tables/unique_entities.csv](tables/unique_entities.csv) — уникальные сущности (NPC, боссы, оружие Мейто)
-- [tables/diplomacy.csv](tables/diplomacy.csv) — отношения со всеми фракциями мира
-- [tables/storage.csv](tables/storage.csv) — складские запасы баз и поселений
-- [tables/buildings.csv](tables/buildings.csv) — постройки, станки и добывающие узлы
-- [tables/research.csv](tables/research.csv) — технологическое дерево и очередь исследований
-- [tables/biome_resources.csv](tables/biome_resources.csv) — ресурсы биомов под форпосты
-- [tables/town_overrides.csv](tables/town_overrides.csv) — переопределения городов и состояния мира
-- [changes.md](changes.md) — хроника и детальные изменения между снимками
-- [screenshots/index.md](screenshots/index.md) — коллекция игровых скриншотов
-- [locations.json](locations.json) — пространственные координаты и группы
+## Таблицы
+- [tables/index.md](tables/index.md) — оглавление; словари колонок — `tables/dict/`
+- [tables/squad.csv](tables/squad.csv) — отряд: навыки, состояние, расположение
+- [tables/region_encounters.csv](tables/region_encounters.csv) — отряды по регионам
+- [tables/location_garrisons.csv](tables/location_garrisons.csv) — обитатели объектов
+- [tables/unique_entities.csv](tables/unique_entities.csv) — уникальные NPC и Мейто
+- [tables/skills_history.csv](tables/skills_history.csv), [campaign_history.csv](tables/campaign_history.csv), [relations_history.csv](tables/relations_history.csv) — история по дням
+- [tables/storage.csv](tables/storage.csv) — склады; снаряжение и инвентарь — `equipment.csv`, `inventory.csv`
+- [tables/diplomacy.csv](tables/diplomacy.csv) — отношения с фракциями
+- [tables/town_overrides.csv](tables/town_overrides.csv) — переопределения городов
+- [changes.md](changes.md) — изменения между снимками
+- [screenshots/index.md](screenshots/index.md) — скриншоты
+- [locations.json](locations.json) — координаты и группы
 - [timeline.jsonl](timeline.jsonl) — журнал событий

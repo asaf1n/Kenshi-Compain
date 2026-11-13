@@ -1,6 +1,6 @@
 # Табличные выгрузки
 
-- snapshot_id: `sha256-dc07d93317c15883f8758f0eb001b51a209944161d8aa620adf52bb66ad43b8e`
+- snapshot_id: `sha256-07f0eb0567f4af38cdfac8e4e45d8f51c18fc0df5f8c881b4cf2f5a8eccb4b5c`
 - Игровое время: День 136, 20:21
 - Формат: CSV, UTF-8, RFC 4180.
 - Справочник игры: base, Newwworld, Dialogue, rebirth, Russian Dark UI simplistic, Martial Arts Fast Dodger, Better Map RUS and Zones
@@ -34,7 +34,8 @@
 | `faction_hostility.csv` | 103 | faction_sid | faction_sid | [словарь](dict/faction_hostility.md) | Враждебность |
 | `races.csv` | 53 | sid | sid | [словарь](dict/races.md) | Расы, климат |
 | `region_encounters.csv` | 712 | region_name_en, source, squad_name, squad_sid | region_name_en, squad_sid, faction_sid | [словарь](dict/region_encounters.md) | Встречи по регионам |
-| `skills_history.csv` | 1325 | day, character_id, skill | character_id | [словарь](dict/skills_history.md) | Динамика навыков |
+| `location_garrisons.csv` | 677 | instance_id, squad_name, squad_sid | instance_id, template_sid, squad_sid, faction_sid | [словарь](dict/location_garrisons.md) | Гарнизоны объектов |
+| `skills_history.csv` | 1302 | day, character_id, skill | character_id | [словарь](dict/skills_history.md) | Динамика навыков |
 | `campaign_history.csv` | 6 | day | day | [словарь](dict/campaign_history.md) | Казна и отряд |
 | `relations_history.csv` | 107 | day, faction_sid | faction_sid | [словарь](dict/relations_history.md) | Дипломатия по дням |
 
