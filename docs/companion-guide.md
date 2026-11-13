@@ -44,15 +44,16 @@ GitHub `main` — каноническое хранилище. Состояни�
 | Вопрос | Основные источники |
 |---|---|
 | География, соседство, объекты | `location_registry.json`, `Campaign/Хроники Хот Лон/locations_progress.json` (свежие отметки зачистки), `locations.json`, `world_reference.json`; `docs/reference/regions-index.md`, `regions_atlas.md`, `regions_adjacency.json` и `regions_map.svg` |
-| Боссы, уникальные NPC, Meitou | `unique_entities_registry.json`, `tables/unique_entities.csv`, `unique_npcs.csv`; `docs/reference/npc.md`, `recruits.md`, Хронология и архив |
+| Боссы, уникальные NPC, Meitou | `tables/unique_entities.csv` (одна строка на персонажа или клинок), `unique_npcs.csv`, `Campaign/Хроники Хот Лон/entities_progress.json` (свежие подтверждения исходов); `docs/reference/npc.md`, `recruits.md`, Хронология и архив |
 | Фактическое совместное расположение | `locations.json:spatial_groups`, затем `squad.csv` по `character_id`; игровой отряд и совместно идущая колонна — разные группы |
-| Запасы и экипировка | `inventory.csv`, `equipment.csv`, `storage.csv`, `races.csv`, `squad.csv` |
-| Типичные встречи и шаблоны противников | `docs/reference/encounters.md`, `squad_spawns.csv`, `squad_templates.csv`, `squad_members.csv`, `unit_templates.csv`, `unit_template_gear.csv` |
+| Отряд, запасы и экипировка | `squad.csv` (состав, навыки, состояние), `inventory.csv`, `equipment.csv`, `storage.csv`, `races.csv` |
+| Динамика кампании | `skills_history.csv` (рост навыков по дням), `campaign_history.csv` (казна и численность), `relations_history.csv` (отношения с фракциями) |
+| Противники по регионам | `region_encounters.csv` (отряды региона: доля появления, размер, боевой навык рядовых и лидера, оружие, броня, условия World States), `docs/reference/encounters.md`; детали шаблонов — `squad_spawns.csv`, `squad_templates.csv`, `squad_members.csv`, `unit_templates.csv`, `unit_template_gear.csv` |
 | Фракции и состояние мира | `diplomacy.csv`, `faction_relations.csv`, `faction_hostility.csv`, `world_reactions.csv`, `world_reaction_links.csv`, `town_overrides.csv`; `docs/reference/world-states.md` |
 | Торговля и планирование хозяйства | `item_prices.csv`, `trade_modifiers.csv`, `buildings.csv`, `research.csv`, `build_catalog.csv`, `biome_resources.csv` |
 | Механики, лор и сюжетный контекст | `docs/reference/mechanics.md`, `lore.md`, `docs/Kenshi_sources.md`, закрытая Хронология и наблюдения текущей арки |
 
-Путь к табличным источникам в таблице — `published/tables/`, к JSON — `published/`, если явно не указан иной каталог. Открывай источники, нужные для вопроса.
+Путь к табличным источникам — `published/tables/`, к JSON — `published/`, если явно не указан иной каталог. Оглавление таблиц — `tables/index.md`, значения колонок — `tables/dict/<таблица>.md`. Регион в данных задаётся ключом на английском (`region`), русское название идёт рядом (`region_ru`). Открывай источники, нужные для вопроса.
 
 ## 3. Территория, объекты и маршрут
 
@@ -60,7 +61,7 @@ GitHub `main` — каноническое хранилище. Состояни�
 
 Если задача — исследование региона, рассматривай все известные доступные объекты, а не только самые ценные. Исключение или откладывание объекта требует содержательного основания. При сравнении маршрутов учитывай не только путь между конечными точками, но и возможности исследования по пути.
 
-Боссов, значимых NPC и оружие Meitou сверяй по `published/unique_entities_registry.json` и `tables/unique_entities.csv`. Категория `boss`/`world_leader` отличается от `significant_npc`, `recruit` и `unique_npc`. `location_link.cleared_evidence` означает зачистку места; исход для конкретного NPC подтверждает `personal_evidence` или история кампании. Для Meitou `static_holders` — возможные владельцы, `observation_status` — наличие экземпляра у игрока, `provenance_status` — подтверждённый трофей. При `location_resolution: ambiguous` место NPC считается неустановленным.
+Боссов, значимых NPC и оружие Meitou сверяй по `tables/unique_entities.csv`. `category` различает `boss`, `world_leader`, `significant_npc`, `recruit` и `unique_npc`. Три разных факта: `state_code` — состояние персонажа в сейве (0 мёртв, 1 жив и свободен, 2 в плену); `location_cleared` — его место отмечено зачищенным; `outcome` и `evidence` — подтверждённый игроком исход для самого персонажа. Для Meitou `observation_status` показывает наличие клинка у игрока, `provenance_status = confirmed_trophy` — подтверждённый трофей. При `location_resolution = ambiguous` место персонажа считается неустановленным. Подтверждения, внесённые после последней доставки, лежат в `Campaign/Хроники Хот Лон/entities_progress.json`.
 
 Для маршрута проверяй соседство регионов и фактическую проходимость переходов, порядок посещения объектов, природные опасности, фракции и характер противников, влияние World States и возможность снабжения. Соседство на карте не доказывает удобного перехода.
 
